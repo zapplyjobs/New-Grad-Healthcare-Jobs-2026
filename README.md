@@ -81,15 +81,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cleveland Clinic** | RN Hospital Pre/Post - Neuro Expansion | Cleveland Clinic ... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Pre-Post---Neuro-Expansion_325975) |
 | 🏢 **Cleveland Clinic** | RN Hospital Weekender Flex - Neuro Expansion | Cleveland Clinic ... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Weekender-Flex---Neuro-Expansion_326001) |
 | 🏢 **Cleveland Clinic** | RN Weekender Flex - Neuro Expansion | Cleveland Clinic ... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Weekender-Flex---Neuro-Expansion_326000) |
-| 🏢 **The George Washington University Hospital** | New Grad RN Residency Program All Specialties (July 2026 Cohort) | Suitland-Silver Hill | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/suitland-md/new-grad-rn-residency-program-all-specialties-july-2026-cohort-044625/) |
-| 🏢 **SSM Health** | RN-Resident (Post Licensure) | Eldorado | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobserve.com/us/en/extjob/RN-RESIDENT-in-Eldorado-Wisconsin-USA-49DA40EC5FD68342DA/) |
-| 🏢 **SSM Health** | Registered Nurse - Emergency - Nights - No Experience Required | St Ann | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/saint-ann-mo/registered-nurse-emergency-nights-063878/) |
-| 🏢 **SSM Health** | RN-Emergency Department - No Experience Required | Maple Bluff | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/maple-bluff-wi/rn-emergency-department-131033/) |
-| 🏢 **SSM Health** | RN-Emergency Department - No Experience Required | Dupo | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/dupo-il/rn-emergency-department-691283/) |
-| 🏢 **SSM Health** | RN-Resident (Post Licensure) - No Experience Required | Avalon | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/avalon-wi/rn-resident-post-licensure-078098/) |
-| 🏢 **Piedmont Healthcare** | RN - Nurse Residency Unit, Weekend Option - No Experience Required | North High Shoals | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/high-shoals-ga/rn-nurse-residency-unit-weekend-option-061936/) |
-| 🏢 **SSM Health** | RN-Resident (Post Licensure) - No Experience Required | Richmond | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/richmond-wi/rn-resident-post-licensure-931275/) |
-| 🏢 **Aveanna Healthcare** | Pediatric Registered Nurse (RN) - No Experience Required | Skyline View | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/skyline-view-pa/pediatric-registered-nurse-rn-542700/) |
+| 🏢 **The George Washington University Hospital** | New Grad RN Residency Program All Specialties (July 2026 Cohort) | Suitland-Silver Hill | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/suitland-md/new-grad-rn-residency-program-all-specialties-july-2026-cohort-044625/) |
+| 🏢 **SSM Health** | RN-Resident (Post Licensure) | Eldorado | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobserve.com/us/en/extjob/RN-RESIDENT-in-Eldorado-Wisconsin-USA-49DA40EC5FD68342DA/) |
+| 🏢 **SSM Health** | Registered Nurse - Emergency - Nights - No Experience Required | St Ann | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/saint-ann-mo/registered-nurse-emergency-nights-063878/) |
+| 🏢 **SSM Health** | RN-Emergency Department - No Experience Required | Maple Bluff | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/maple-bluff-wi/rn-emergency-department-131033/) |
+| 🏢 **SSM Health** | RN-Emergency Department - No Experience Required | Dupo | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/dupo-il/rn-emergency-department-691283/) |
+| 🏢 **SSM Health** | RN-Resident (Post Licensure) - No Experience Required | Avalon | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/avalon-wi/rn-resident-post-licensure-078098/) |
+| 🏢 **Piedmont Healthcare** | RN - Nurse Residency Unit, Weekend Option - No Experience Required | North High Shoals | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/high-shoals-ga/rn-nurse-residency-unit-weekend-option-061936/) |
+| 🏢 **SSM Health** | RN-Resident (Post Licensure) - No Experience Required | Richmond | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/richmond-wi/rn-resident-post-licensure-931275/) |
+| 🏢 **Aveanna Healthcare** | Pediatric Registered Nurse (RN) - No Experience Required | Skyline View | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/skyline-view-pa/pediatric-registered-nurse-rn-542700/) |
 | 🏢 **Vanderbilt University Medical Center** | Registered Nurse, ICU, Nights, Tullahoma | Tullahoma, TN | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Tullahoma-TN/RN-ICU--NIGHTS---20k-sign-on-bonus--Tullahoma-Harton-Hospital_R-27819) |
 | 🏢 **Vanderbilt University Medical Center** | Registered Nurse Discharge Planner, Peds Case Management, PRN | Nashville, TN | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Registered-Nurse-Discharge-Planner--Peds-Case-Management--PRN_R-52082-1) |
 | 🏢 **Vanderbilt University Medical Center** | Registered Nurse Transitional Care Unit FT Night Shift | Nashville, TN | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Registered-Nurse-Transitional-Care-Unit-FT-Night-Shift_R-51759-1) |
@@ -174,7 +174,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Mass General Brigham** | Medical Assistant I | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Brookline-MA/Medical-Assistant-I_RQ4051655) |
 | 🏢 **Mass General Brigham** | RN, Home Hospital Virtual Care- On-Site | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Somerville-MA/RN--Home-Hospital-Virtual-Care--On-Site_RQ4053654) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -244,7 +244,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Geisinger Health** | Physician Assistant Nurse Practitioner Orthopaedic Urgent Care | Port Matilda, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Port-Matilda-PA/Physician-Assistant-Nurse-Practitioner-Orthopaedic-Urgent-Care_R-91668) |
 | 🏢 **Geisinger Health** | Nurse Practitioner or Physician Assistant ConvenientCare Per Diem | 2 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Orwigsburg-PA/Nurse-Practitioner-or-Physician-Assistant-ConvenientCare-Per-Diem_R-91795) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -329,7 +329,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Dermatology | Barre, PA, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Wilkes-Barre-PA/LPN---Licensed-Practical-Nurse---Dermatology_R-92168) |
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Primary Care | Dallas, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Dallas-PA/LPN---Licensed-Practical-Nurse---Primary-Care_R-91827) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -429,7 +429,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Geisinger Health** | Patient Care Technician (Emergency Department) - No CNA Cert Required - Night Shift | Coal Township, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Coal-Township-PA/Patient-Care-Technician--Emergency-Department----No-CNA-Cert-Required---Night-Shift_R-92377) |
 | 🏢 **Geisinger Health** | Nursing Assistant (PACU, Pediatric PACU, or Same Day Surgery) - No CNA Cert Required - Day/Eve Shift | Danville, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/Nursing-Assistant--Same-Day-Surgery----No-CNA-Cert-Required---Day-Eve-Shift_R-80227) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -456,7 +456,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **BJC HealthCare** | New Graduate Nurse | Arnold | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://medicalhirings.talentrushhq.com/joblistingpage/2ebuc402nfee-c3d6652ff80-6e60eace8221ede6287d8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Mercy** | Graduate Nurse Resident | Springfield | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/ad94e17e203371c0465fe2315b54fc2f) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
