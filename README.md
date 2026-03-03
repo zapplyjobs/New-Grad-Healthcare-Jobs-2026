@@ -313,7 +313,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Ochsner Health** | LPN - Med/Surg - Ochsner Baptist - Nights | New Orleans Regio... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/LPN---Med-Surg---Ochsner-Baptist_REQ_00256506) |
 | 🏢 **Ochsner Health** | LPN - Med/Surg Post Op - Ochsner Baptist - Days | New Orleans Regio... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/LPN---Med-Surg-Post-Op---Ochsner-Baptist---Days_REQ_00256512) |
 | 🏢 **Ochsner Health** | LPN-OBGYN CLINIC | Northshore Region... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Slidell---Northshore-Region---Louisiana/LPN-OBGYN-CLINIC_REQ_00250832) |
-| 🏢 **Duke Health** | LPN - Blood Cancer Clinic Durham, NC | Durham | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.dukehealth.org/us/en/job/DUHDUHUS264807EXTERNALENUS/LPN-Blood-Cancer-Clinic-Durham-NC) |
+| 🏢 **Duke Health** | LPN - Blood Cancer Clinic Durham, NC | Durham | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.dukehealth.org/us/en/job/DUHDUHUS264807EXTERNALENUS/LPN-Blood-Cancer-Clinic-Durham-NC) |
 | 🏢 **Ochsner Health** | LPN- Primary Care Clinic-  Zachary | Baton Rouge Regio... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Zachary---Baton-Rouge-Region---Louisiana/LPN--Primary-Care-Clinic---Zachary_REQ_00248265) |
 | 🏢 **Ochsner Health** | LPN - Rheumatology Clinic- Baton Rouge | Baton Rouge Regio... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/LPN---Rheumatology-Clinic--Baton-Rouge_REQ_00254149) |
 | 🏢 **Ochsner Health** | LPN- Interventional Pain Management Clinic- Baton Rouge | Baton Rouge Regio... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/LPN--Interventional-Pain-Management-Clinic--Baton-Rouge_REQ_00246952) |
@@ -491,16 +491,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **SSM Health** | Graduate Nurse | Centralia | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ssmhealth.com/us/en/job/R177452/Graduate-Nurse) |
+| 🏢 **SSM Health** | Graduate Nurse | Centralia | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ssmhealth.com/us/en/job/R177452/Graduate-Nurse) |
 | 🏢 **Geisinger Health** | Patient Care Technician - Evening/Nights - Progressive Care Unit | Scranton, PA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Scranton-PA/Patient-Care-Technician---Evening-Nights---Progressive-Care-Unit_R-92773) |
-| 🏢 **HCA Healthcare Trident Hospital** | New Graduate Nurse Residency Program | Cross | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608475886341598907) |
-| 🏢 **SSM Health** | Graduate Nurse - Full-time | Janesville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1133184489?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Mercury Group Staffing And Placement Services** | Nurse Residency: Paid Training, $30k Sign-On, Relocation | Asheville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.sercanto.com/detail/a/nurse-residency-paid-training-30k-sign-on-relocation_asheville_3209962381) |
-| 🏢 **Bjc Healthcare** | New Grad Nurse — Residency Program & Growth Opportunities | Des Moines | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.sercanto.com/detail/a/new-grad-nurse-residency-program-growth-opportunities_des-moines_3209350604) |
+| 🏢 **HCA Healthcare Trident Hospital** | New Graduate Nurse Residency Program | Cross | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608475886341598907) |
+| 🏢 **SSM Health** | Graduate Nurse - Full-time | Janesville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1133184489?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Mercury Group Staffing And Placement Services** | Nurse Residency: Paid Training, $30k Sign-On, Relocation | Asheville | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.sercanto.com/detail/a/nurse-residency-paid-training-30k-sign-on-relocation_asheville_3209962381) |
+| 🏢 **Bjc Healthcare** | New Grad Nurse — Residency Program & Growth Opportunities | Des Moines | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.sercanto.com/detail/a/new-grad-nurse-residency-program-growth-opportunities_des-moines_3209350604) |
 | 🏢 **Geisinger Health** | Patient Care Technician- Cardiac Telemetry (Day/Eve shift) | Scranton, PA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Scranton-PA/Patient-Care-Technician--Cardiac-Telemetry--Full-time-Day-Eve-shift-_R-72050) |
-| 🏢 **HCA Healthcare Summerville Hospital** | Graduate Nurse - No Experience Required | Summerville | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/-7481958364111621165) |
-| 🏢 **Saint Francis Hospital - Memphis** | Graduate Nurse Residency Program Memphis | Memphis | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.tenethealth.com/job/memphis/graduate-nurse-residency-program-memphis/1127/91673999040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **HCA Healthcare** | New Graduate Nurse Residency | Sanibel | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://hcahealthcare.pronursesnearby.com/joblistingpage/e6cv85xssauy-256df5dd5cb47cce-16f754f8a-085641a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **HCA Healthcare Summerville Hospital** | Graduate Nurse - No Experience Required | Summerville | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/-7481958364111621165) |
+| 🏢 **Saint Francis Hospital - Memphis** | Graduate Nurse Residency Program Memphis | Memphis | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.tenethealth.com/job/memphis/graduate-nurse-residency-program-memphis/1127/91673999040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **HCA Healthcare** | New Graduate Nurse Residency | Sanibel | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://hcahealthcare.pronursesnearby.com/joblistingpage/e6cv85xssauy-256df5dd5cb47cce-16f754f8a-085641a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Ochsner Health** | Patient Care Technician (PCT) - Cardio / Med-Surg Unit- Full Time- Days | New Orleans Regio... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/Patient-Care-Technician--PCT----Cardio---Med-Surg-Unit--Full-Time--Days_REQ_00253865) |
 | 🏢 **SSM Health** | Graduate Nurse- FT Nights PCU - Full-time | Jefferson City | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1222469411?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **BJC HealthCare** | New Graduate Nurse | Centralia | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://medicalhirings.talentrushhq.com/joblistingpage/sxg4bnc6u03s-3d0d971d-fd7471ddd401df9b33515ad2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -579,6 +579,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: March 2, 2026
+**Last Updated**: March 3, 2026
 
 </div>
