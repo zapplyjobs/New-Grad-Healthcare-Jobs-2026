@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2561-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2560-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-166-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-2152-red?style=flat&logo=star)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-2151-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 166+ top companies and healthcare facilities. Updated every 15 minutes with 2561+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 166+ top companies and healthcare facilities. Updated every 15 minutes with 2560+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across top healthcare systems, hospital networks, and medical staffing agencies.</p>
 
@@ -357,7 +357,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Mass General Brigham** | Certified Nursing Assistant Float Pool  40 D/E PCA | MA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Jamaica-Plain-MA/Certified-Nursing-Assistant-Float-Pool--40-D-E-PCA_RQ4049316-1) |
+| 🏢 **Mass General Brigham** | Certified Nursing Assistant Float Pool  40 D/E PCA | MA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Jamaica-Plain-MA/Certified-Nursing-Assistant-Float-Pool--40-D-E-PCA_RQ4049316-1) |
 | 🏢 **Mass General Brigham** | Research Oncology Nurse, Cancer Center | MA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Research-Oncology-Nurse--Cancer-Center_RQ4052547-1) |
 | 🏢 **Ochsner Health** | CNA - OLGMC 7S Stroke - Part Time- Days 7a-7p | Acadiana Region -... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Lafayette---Acadiana-Region---Louisiana/CNA---Stroke---OLGMC-7South---Part-Time--Days--7A-7P-_REQ_00245734) |
 | 🏢 **Ochsner Health** | CNA Cardiac ICU - Jeff Hwy - Full Time Days | New Orleans Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/CNA-Cardiac-ICU---Jeff-Hwy---Full-Time-Days_REQ_00256930) |
@@ -481,7 +481,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2561 current opportunities from 166 companies**
+**🎯 2560 current opportunities from 166 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
