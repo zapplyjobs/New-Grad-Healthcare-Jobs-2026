@@ -9,7 +9,7 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2522-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2525-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-155-blue?style=flat&logo=building)
 ![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-2117-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -18,7 +18,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 155+ top companies and healthcare facilities. Updated every 15 minutes with 2522+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 155+ top companies and healthcare facilities. Updated every 15 minutes with 2525+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across top healthcare systems, hospital networks, and medical staffing agencies.</p>
 
@@ -98,12 +98,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Sharp Healthcare** | Ultrasound Technologist - SRS Downtown Fir St - Day Shift - Part Time (0.75) | San Diego, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Ultrasound-Technologist---SRS-Downtown-Fir-St---Day-Shift---Part-Time--075-_JR204924) |
 | 🏢 **Sharp Healthcare** | Pharmacy Technician I – Sharp Chula Vista Medical Center – Variable Shift – Per Diem | Chula Vista, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/Chula-Vista-CA/Pharmacy-Technician-I---Sharp-Chula-Vista-Medical-Center---Variable-Shift---Per-Diem_JR204100-1) |
 | 🏢 **Sharp Healthcare** | Radiologic Technologist-Fluoro Required - Sharp Chula Vista Medical Center - Variable Shift - Per Diem | Chula Vista, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/Chula-Vista-CA/Radiologic-Technologist-Fluoro-Required---Sharp-Chula-Vista-Medical-Center---Variable-Shift---Per-Diem_JR203490-1) |
-| 🏢 **Mass General Brigham** | Cardiac ICU Nurse BWH | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Cardiac-ICU-Nurse-BWH_RQ4054062) |
-| 🏢 **Mass General Brigham** | Practice Assistant | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Practice-Assistant---Department-of-Surgery_RQ4007514) |
-| 🏢 **Mass General Brigham** | Phlebotomist | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Newton-MA/Phlebotomist_RQ4052124) |
+| 🏢 **Mass General Brigham** | Burn Trauma ICU Nurse BWH | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Burn-Trauma-ICU-Nurse-BWH_RQ4054415) |
+| 🏢 **Mass General Brigham** | Hospital Pharmacist - NCH | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Nantucket-MA/Hospital-Pharmacist---20-hrs-week_RQ4050510) |
+| 🏢 **Mass General Brigham** | RN - ED Boarder - MGH | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/RN---ED-Boarder---MGH_RQ4040398) |
 | 🏢 **Intermountain Health** | Phlebotomist | Intermountain Hea... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Layton-Hospital/Phlebotomist_R163540-1) |
-| 🏢 **Cleveland Clinic** | RN - Medical Intensive Care Unit (MICU) | Martin Health North | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Martin-Health-North/RN---Medical-Intensive-Care-Unit--MICU-_295661-1) |
-| 🏢 **Cleveland Clinic** | RN Ambulatory -Wound Center and Hyperbaric Oxygen Therapy | Lutheran Hospital | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Lutheran-Hospital/RN-Ambulatory--Wound-Center-and-Hyperbaric-Oxygen-Therapy_329406-1) |
+| 🏢 **Cleveland Clinic** | Registered Dietitian | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Martin-Health-North/Registered-Dietitian_321410) |
+| 🏢 **Cleveland Clinic** | Registered Polysomnographic Technician | Indian River Hosp... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Indian-River-Hospital/Registered-Polysomnographic-Technician_312566) |
 | 🏢 **Piedmont Healthcare** | RN - Pre-Op - No Experience Required | Avondale Estates | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/avondale-estates-ga/rn-pre-op-452278/) |
 | 🏢 **Piedmont Healthcare** | RN- Labor & Delivery, Nights - No Experience Required | Stockbridge | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/stockbridge-ga/rn-labor-delivery-nights-628679/) |
 | 🏢 **Nationwide Children's** | Ambulatory RN-Neurology Clinic | Main Campus, OH | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Ambulatory-RN-Neurology-Clinic_R-22849-2) |
@@ -230,9 +230,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Mission Hospital** | New Grad RN/Registered Nurse - Float Pool | Hickory | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-nc-hickory-new-grad-rn-registered-nurse-float-pool-mission-hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **University Medical Center, Inc.** | RN, Jewish Hospital, CVOR, 6a-4:30p | Unknown | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://uoflhealth.wd1.myworkdayjobs.com/UofLHealthCareers/job/Louisville-Kentucky/RN--Jewish-Hospital--CVOR--6a-4-30p_JR2026-107788) |
 | 🏢 **Thompson Health** | RN Office Nurse - Pediatrics - Farmington & Canandaigua Locations | Canandaigua | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169316803-rn-office-nurse-pediatrics-farmington-canandaigua-locations) |
-| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (160th SOAR, Fort Campbell, KY) | Fort Campbell | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Campbell-Kentucky/Special-Operations-Licensed-Clinical-Social-Worker--160th-SOAR--Fort-Campbell--KY-_R2119393) |
-| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (Fort Bragg, NC) | Fayetteville | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Licensed-Clinical-Social-Worker--Fort-Bragg--NC-_R2119437) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (1st SFG, JBLM, WA) | McChord, Washington | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Joint-Base-Lewis-McChord-Washington/Special-Operations-Licensed-Clinical-Social-Worker--1st-SFG--JBLM--WA-_R2119440) |
+| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (National Capital Region) | Washington, DC | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC/Special-Operations-Licensed-Clinical-Social-Worker--National-Capital-Region-_R2119396) |
+| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (160th SOAR, Fort Campbell, KY) | Fort Campbell | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Campbell-Kentucky/Special-Operations-Licensed-Clinical-Social-Worker--160th-SOAR--Fort-Campbell--KY-_R2119393) |
 | 🏢 **Duke Health** | Registered Nurse (RN) General Medicine Stepdown, Weekend Days | Durham | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.dukehealth.org/us/en/job/DUHDUHUS263766EXTERNALENUS/Registered-Nurse-RN-General-Medicine-Stepdown-Weekend-Days) |
 | 🏢 **Sentara** | Operating Room (OR) Nurse (RN) | Virginia Beach | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.sentaracareers.com/job/23058071/operating-room-or-nurse-rn-virginia-beach-va/) |
 | 🏢 **Ascension** | New Grad Registered Nurse Residency Program | Woodway | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608090307256916372) |
@@ -289,9 +289,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Geisinger Health** | Physician Assistant Nurse Practitioner Pediatric Orthopaedics | Port Matilda, PA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Port-Matilda-PA/Physician-Assistant-Nurse-Practitioner-Pediatric-Orthopaedics_R-93194) |
 | 🏢 **Mass General Brigham** | NP/ PA - Neonatal ICU - WDH | NH | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Dover-NH/NP---Neonatal-ICU---WDH_RQ4033394-1) |
 | 🏢 **Intermountain Health** | Comprehensive Spine Nurse Practitioner or Physician Assistant | Wellington Spine ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Wellington-Spine-Center/Comprehensive-Spine-Nurse-Practitioner-or-Physician-Assistant_R163410) |
+| 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP, PA, CNS): Outpt. HemOnc Genitourinary I | Cleveland Clinic ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Nurse-Practitioner--Physician-Assistant--Clinical-Nurse-Specialist--Hematology-Oncology-Genitourinary-I-Outpt_304244) |
 | 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP, PA, CNS) - Outpt. Hematology Oncology I | Cleveland Clinic ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Advanced-Practice-Provider--NP--PA--CNS----Outpt-Hematology-Oncology-I_333745) |
 | 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP/PA) – Orthopaedic Trauma Surgery I (East Region) | Hillcrest Hospital | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/Advanced-Practice-Provider--NP-PA----Orthopaedic-Trauma-Surgery-I--East-Region-_333727) |
-| 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP, PA, CNS): Outpt. HemOnc Genitourinary I | Cleveland Clinic ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Nurse-Practitioner--Physician-Assistant--Clinical-Nurse-Specialist--Hematology-Oncology-Genitourinary-I-Outpt_304244) |
 | 🏢 **Ochsner Health** | Nurse Practitioner or Physician Assistant  - OB/GYN & Surgical First Assist - FT | New Orleans Regio... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Gretna---New-Orleans-Region---Louisiana/Nurse-Practitioner-or-Physician-Assistant----OB-GYN---Surgical-First-Assist---FT_REQ_00257429) |
 | 🏢 **Geisinger Health** | Nurse Practitioner or Physician Assistant Family Medicine increased compensation | Elysburg, PA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Elysburg-PA/Nurse-Practitioner-or-Physician-Assistant-Family-Medicine--10k-incentive_R-59752-1) |
 | 🏢 **Geisinger Health** | Nurse Practitioner or Physician Assistant Family Medicine increased compensation | Sunbury, PA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Sunbury-PA/Nurse-Practitioner-or-Physician-Assistant-Family-Medicine-newly-increased-compensation_R-80535) |
@@ -324,8 +324,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Primary Care | Kingston, PA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Kingston-PA/LPN---Licensed-Practical-Nurse---Primary-Care_R-91983) |
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Gastroenterology | Barre, PA, PA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Wilkes-Barre-PA/LPN---Licensed-Practical-Nurse---Gastroenterology_R-90043-1) |
 | 🏢 **Sharp Healthcare** | SRS - Medical Specialty Mgmt.- LVN -Full Time – Day Shift | Chula Vista, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/Chula-Vista-CA/SRS---Medical-Specialty-Mgmt--LVN--Full-Time---Day-Shift_JR204889) |
-| 🏢 **Mass General Brigham** | LPN, Home Care | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Chelsea-MA/LPN--Home-Care_RQ4054537) |
 | 🏢 **Mass General Brigham** | Licensed Practical Nurse BWH | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Brookline-MA/Licensed-Practical-Nurse-BWH_RQ4050824) |
+| 🏢 **Mass General Brigham** | LPN, Home Care | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Chelsea-MA/LPN--Home-Care_RQ4054537) |
 | 🏢 **Intermountain Health** | Licensed Practical Nurse Medical Oncology | Intermountain Hea... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Licensed-Practical-Nurse-Medical-Oncology_R164886-1) |
 | 🏢 **Intermountain Health** | LPN Care Coordinator | Peaks Regional Of... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Peaks-Regional-Office/LPN-Care-Coordinator_R164681) |
 | 🏢 **Cleveland Clinic** | LPN - Medical Diabetes | Indian River Hosp... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Indian-River-Hospital/RN-BU---Medical-Diabetes_314635) |
@@ -479,7 +479,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2522 current opportunities from 155 companies**
+**🎯 2525 current opportunities from 155 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
