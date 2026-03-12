@@ -3,11 +3,11 @@
 /**
  * Main entry point for the job fetcher system - New-Grad-Nursing-Jobs-2026
  *
- * Fetches nursing jobs from centralized aggregator and generates README.
+ * Fetches healthcare jobs from centralized aggregator and generates README.
  * Replaced JSearch direct fetch with aggregator consumer (2026-02-18).
  *
  * Pipeline:
- * 1. Fetch nursing jobs from aggregator (jobs-data-2026/all_jobs.json)
+ * 1. Fetch healthcare jobs from aggregator (jobs-data-2026/all_jobs.json)
  * 2. Process and filter jobs
  * 3. Generate updated README
  * 4. Save new_jobs.json for write-current-jobs.js
@@ -25,20 +25,20 @@ async function main() {
     console.log('🚀 Starting Nursing jobs fetching system...');
     console.log('═'.repeat(50));
 
-    // Fetch nursing jobs from aggregator
+    // Fetch healthcare jobs from aggregator
     const consumer = createAggregatorConsumer({
-      filters: { domains: ['nursing'], employment: 'entry_level', locations: ['us'] },
+      filters: { domains: ['healthcare'], employment: 'entry_level', locations: ['us'] },
       verbose: true
     });
 
     const { jobs, diagnostics } = await consumer.fetchJobsWithDiagnostics();
 
     if (jobs.length === 0) {
-      console.log('⚠️  No nursing jobs fetched from aggregator');
+      console.log('⚠️  No healthcare jobs fetched from aggregator');
       console.log('   Check that all_jobs.json exists in jobs-data-2026');
     }
 
-    console.log(`\n✅ Fetched ${jobs.length} nursing jobs from aggregator`);
+    console.log(`\n✅ Fetched ${jobs.length} healthcare jobs from aggregator`);
 
     // Normalize field name: aggregator uses job_posted_at_datetime_utc,
     // readme-generator expects job_posted_at

@@ -58,7 +58,7 @@ jobs:
       env:
         DISCORD_TEAM_TOKEN: ${{ secrets.DISCORD_TEAM_TOKEN }}
         DISCORD_ALERT_CHANNEL_ID: "1477002891234512916"
-        REPO_NAME: New-Grad-Nursing-Jobs-2026
+        REPO_NAME: New-Grad-Healthcare-Jobs-2026
       run: |
         mkdir -p .github/data
         export CURR_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
@@ -133,7 +133,7 @@ jobs:
 
             JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
 
-            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC') | Found $JOB_COUNT nursing positions"
+            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC') | Found $JOB_COUNT healthcare positions"
 
             if ! git commit -m "$COMMIT_MSG"; then
               echo "Commit failed, may already be committed"
@@ -164,10 +164,10 @@ jobs:
         if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
           JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
 
-          echo "Successfully updated nursing job board" >> $GITHUB_STEP_SUMMARY
+          echo "Successfully updated healthcare job board" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "### Today's Update:" >> $GITHUB_STEP_SUMMARY
-          echo "- **$JOB_COUNT total nursing positions** from centralized aggregator" >> $GITHUB_STEP_SUMMARY
+          echo "- **$JOB_COUNT total healthcare positions** from centralized aggregator" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Next update**: In ~15 minutes" >> $GITHUB_STEP_SUMMARY
         else
