@@ -1,8 +1,8 @@
 /**
- * New-Grad-Nursing-Jobs-2026 Configuration
+ * New-Grad-Healthcare-Jobs-2026 Configuration
  *
  * Purpose: Per-repo customization for shared job board library
- * Version: 1.0 (2026-02-12)
+ * Version: 1.1 (2026-03-12 — HEALTHCARE-CONFIG-FIX: nursing→healthcare branding)
  *
  * Template Variables:
  * - {totalCompanies} - Replaced with unique company count
@@ -13,24 +13,24 @@ module.exports = {
   // Schema version
   version: 1,
 
-  // Image configuration
+  // Image configuration (repoPrefix drives image filenames — nsj images already committed, do not change)
   repoPrefix: 'nsj',
-  headingImageAlt: 'Nursing Jobs 2026 - Illustration of healthcare professionals.',
+  headingImageAlt: 'Healthcare Jobs 2026 - Illustration of healthcare professionals.',
 
   // Branding text
-  title: 'Nursing Jobs 2026',
+  title: 'Healthcare Jobs 2026',
   tagline: '',  // No tagline for SEO repos
 
   // Description paragraphs (with template variables)
-  descriptionLine1: '🚀 Real-time nursing, healthcare, and medical jobs from {totalCompanies}+ top companies and healthcare facilities. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.',
-  descriptionLine2: '🎯 Includes roles across top healthcare systems, hospital networks, and medical staffing agencies.',
+  descriptionLine1: '🚀 Real-time healthcare, nursing, and medical jobs from {totalCompanies}+ top companies and healthcare facilities. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new graduates, nursing students, and entry-level healthcare professionals.',
+  descriptionLine2: '🎯 Includes roles across top healthcare systems, hospital networks, medical staffing agencies, and clinical settings.',
 
   // Note box
   noteType: 'TIP',
   noteText: '🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).',
 
   // Section headers
-  jobsSectionHeader: 'Fresh Nursing Jobs 2026',
+  jobsSectionHeader: 'Fresh Healthcare Jobs 2026',
 
   // Feature flags
   features: {
@@ -38,6 +38,6 @@ module.exports = {
     moreResources: true
   },
 
-  // Job categorization
-  defaultCategory: 'registered_nurse'
+  // Job categorization — fallback for jobs not matching any keyword in job_categories.json
+  defaultCategory: 'general_healthcare'
 };
