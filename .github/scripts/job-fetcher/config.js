@@ -22,8 +22,8 @@ module.exports = {
   tagline: '',  // No tagline for SEO repos
 
   // Description paragraphs (with template variables)
-  descriptionLine1: '🚀 Real-time healthcare, nursing, and medical jobs from {totalCompanies}+ top companies and healthcare facilities. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new graduates, nursing students, and entry-level healthcare professionals.',
-  descriptionLine2: '🎯 Includes roles across top healthcare systems, hospital networks, medical staffing agencies, and clinical settings.',
+  descriptionLine1: '🚀 Healthcare and nursing jobs for new graduates, updated in real time.',
+  descriptionLine2: '',
 
   // Note box
   noteType: 'TIP',
