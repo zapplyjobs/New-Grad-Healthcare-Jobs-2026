@@ -13,8 +13,8 @@ module.exports = {
   // Schema version
   version: 1,
 
-  // Image configuration (repoPrefix drives image filenames — nsj images already committed, do not change)
-  repoPrefix: 'nsj',
+  // Image configuration (repoPrefix drives image filenames)
+  repoPrefix: 'hcj',
   headingImageAlt: 'Healthcare Jobs 2026 - Illustration of healthcare professionals.',
 
   // Branding text
