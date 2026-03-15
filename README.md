@@ -9,18 +9,20 @@
 
 # Healthcare Jobs 2026
 
+
+
+</div>
+
+<p align="center">🚀 Healthcare and nursing jobs for new graduates, updated in real time.</p>
+
+<div align="center">
+
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-2057-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-16-blue?style=flat&logo=building)
 ![Healthcare & Cl](https://img.shields.io/badge/Healthcare_&_Clinica-895-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-
-
 </div>
-
-<p align="center">🚀 Real-time healthcare, nursing, and medical jobs from 16+ top companies and healthcare facilities. Updated every 15 minutes with 2057+ fresh opportunities for new graduates, nursing students, and entry-level healthcare professionals.</p>
-
-<p align="center">🎯 Includes roles across top healthcare systems, hospital networks, medical staffing agencies, and clinical settings.</p>
 
 > [!TIP]
 > 🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).
@@ -174,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) – Oncology & Women’s Health | Fairview Hospital | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Oncology---Women-s-Health_328838) |
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Progressive Coronary Care Unit | Fairview Hospital | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Progressive-Coronary-Care-Unit_331870) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) – Oncology & Women’s Health | Fairview Hospital | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Oncology---Women-s-Health_328838) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Progressive Coronary Care Unit | Fairview Hospital | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Progressive-Coronary-Care-Unit_331870) |
 | 🏢 **Ochsner Health** | CNA - Post Op Surgical Services/Ortho - Nights - | New Orleans Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/CNA---Post-Op-Surgical-Services-Ortho---Nights--_REQ_00256108) |
 | 🏢 **Ochsner Health** | CNA/Patient Care Assistant - Cardiology - Nights | Northshore Region... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Slidell---Northshore-Region---Louisiana/CNA-Patient-Care-Assistant---Cardiology---Nights_REQ_00257243-1) |
 | 🏢 **Intermountain Health** | Patient Care Tech (CNA) - Labor/Delivery | Intermountain Hea... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Orem-Community-Hospital/Patient-Care-Tech--CNA----Labor-Delivery_R165550) |
