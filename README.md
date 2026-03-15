@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="images/nsj-heading.png" alt="Healthcare Jobs 2026 - Illustration of healthcare professionals.">
+<img src="images/hcj-heading.png" alt="Healthcare Jobs 2026 - Illustration of healthcare professionals.">
 
 # Healthcare Jobs 2026
 
@@ -66,7 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 ## Fresh Healthcare Jobs 2026
 
-<img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+<img src="images/hcj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
 <summary><h3>🏥 <strong>Registered Nurse</strong></h3></summary>
@@ -183,8 +183,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) – Oncology & Women’s Health | Fairview Hospital | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Oncology---Women-s-Health_328838) |
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Progressive Coronary Care Unit | Fairview Hospital | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Progressive-Coronary-Care-Unit_331870) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) – Oncology & Women’s Health | Fairview Hospital | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Oncology---Women-s-Health_328838) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Progressive Coronary Care Unit | Fairview Hospital | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Progressive-Coronary-Care-Unit_331870) |
 | 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Med/Surg | Medina Hospital | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Medina-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg_331623) |
 | 🏢 **Ochsner Health** | CNA - Post Op Surgical Services/Ortho - Nights - | New Orleans Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/CNA---Post-Op-Surgical-Services-Ortho---Nights--_REQ_00256108) |
 | 🏢 **Ochsner Health** | CNA/Patient Care Assistant - Cardiology - Nights | Northshore Region... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Slidell---Northshore-Region---Louisiana/CNA-Patient-Care-Assistant---Cardiology---Nights_REQ_00257243-1) |
@@ -290,16 +290,13 @@ Check out our other repos for jobs and free resources:
 
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs 2026" height="40"></a>
-</p>
-<p align="center">
+  &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Healthcare-Jobs-2026"><img src="images/repo-nsj.png" alt="Healthcare Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
   &nbsp;&nbsp;
