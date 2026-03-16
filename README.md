@@ -58,8 +58,8 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Paramedic – No Overnight Shifts | IA - Dubuque | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Paramedic---No-Overnight-Shifts_R0176259-1) |
-| 🏢 **Takeda** | Paramedic – No Overnight Shifts | IA - Davenport | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/Paramedic---No-Overnight-Shifts_R0176256-1) |
+| 🏢 **Takeda** | Paramedic – No Overnight Shifts | IA - Dubuque | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Paramedic---No-Overnight-Shifts_R0176259-1) |
+| 🏢 **Takeda** | Paramedic – No Overnight Shifts | IA - Davenport | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/Paramedic---No-Overnight-Shifts_R0176256-1) |
 | 🏢 **Intermountain Health** | Registered Nurse NICU PRN | Saint Joseph Hosp... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Saint-Joseph-Hospital/Registered-Nurse-NICU-PRN_R158412) |
 | 🏢 **Takeda** | RN – Day One Benefits | KS - Lenexa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/RN---Day-One-Benefits_R0176232-1) |
 | 🏢 **Labcorp** | Phlebotomist-PRN | Orlando FL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/Orlando-FL/Phlebotomist-PRN_266125) |
@@ -145,7 +145,7 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Licensed Practical Nurse - Immediate Benefits - Bilingual | CO - Thornton | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Licensed-Practical-Nurse---Immediate-Benefits---Bilingual_R0176252-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse - Immediate Benefits - Bilingual | CO - Thornton | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Licensed-Practical-Nurse---Immediate-Benefits---Bilingual_R0176252-1) |
 | 🏢 **Takeda** | LPN – Day One Benefits | KS - Lenexa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/LPN---Day-One-Benefits_R0176231-1) |
 | 🏢 **Takeda** | Licensed Practical Nurse (LPN) | VA - Harrisonburg | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Medical-Support-Specialist-Licensed-Practical-Nurse--LPN-_R0175893) |
 | 🏢 **Ochsner Health** | LPN - Weekend Program - Med/Surg 2 - Days | Baton Rouge Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/LPN---Weekend-Program---Med-Surg-2---Days_REQ_00254937) |
@@ -183,8 +183,8 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) – Oncology & Women’s Health | Fairview Hospital | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Oncology---Women-s-Health_328838) |
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Progressive Coronary Care Unit | Fairview Hospital | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Progressive-Coronary-Care-Unit_331870) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) – Oncology & Women’s Health | Fairview Hospital | 35m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Oncology---Women-s-Health_328838) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Progressive Coronary Care Unit | Fairview Hospital | 35m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Progressive-Coronary-Care-Unit_331870) |
 | 🏢 **Ochsner Health** | CNA/Patient Care Assistant - Cardiology - Nights | Northshore Region... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Slidell---Northshore-Region---Louisiana/CNA-Patient-Care-Assistant---Cardiology---Nights_REQ_00257243-1) |
 | 🏢 **Ochsner Health** | CNA - Post Op Surgical Services/Ortho - Nights - | New Orleans Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/CNA---Post-Op-Surgical-Services-Ortho---Nights--_REQ_00256108) |
 | 🏢 **Geisinger Health** | Patient Care Technician (Advanced Acute Care Medical Unit) - No CNA Cert Required - Night Shift | Danville, PA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/Patient-Care-Technician--Advanced-Acute-Care-Medical-Unit----No-CNA-Cert-Required---Night-Shift_R-89623) |
@@ -345,6 +345,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: March 15, 2026
+**Last Updated**: March 16, 2026
 
 </div>
