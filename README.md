@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2520-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2521-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-23-blue?style=flat&logo=building)
-![Healthcare & Cl](https://img.shields.io/badge/Healthcare_&_Clinica-1202-red?style=flat&logo=star)
+![Healthcare & Cl](https://img.shields.io/badge/Healthcare_&_Clinica-1204-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -58,8 +58,8 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Paramedic – No Overnight Shifts | IA - Dubuque | 35m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Paramedic---No-Overnight-Shifts_R0176259-1) |
-| 🏢 **Takeda** | Paramedic – No Overnight Shifts | IA - Davenport | 35m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/Paramedic---No-Overnight-Shifts_R0176256-1) |
+| 🏢 **Takeda** | Paramedic – No Overnight Shifts | IA - Dubuque | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Paramedic---No-Overnight-Shifts_R0176259-1) |
+| 🏢 **Takeda** | Paramedic – No Overnight Shifts | IA - Davenport | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/Paramedic---No-Overnight-Shifts_R0176256-1) |
 | 🏢 **Intermountain Health** | Registered Nurse NICU PRN | Saint Joseph Hosp... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Saint-Joseph-Hospital/Registered-Nurse-NICU-PRN_R158412) |
 | 🏢 **Takeda** | RN – Day One Benefits | KS - Lenexa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/RN---Day-One-Benefits_R0176232-1) |
 | 🏢 **Labcorp** | Phlebotomist-PRN | Orlando FL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/Orlando-FL/Phlebotomist-PRN_266125) |
@@ -83,12 +83,12 @@
 | 🏢 **Mass General Brigham** | Per Diem RN - Interventional Radiology - MGH | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Per-Diem-RN---Interventional-Radiology---MGH_RQ4055579) |
 | 🏢 **Intermountain Health** | Certified Nursing Assistant PRN 1 Med Surg | St James Hospital | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-James-Hospital/Certified-Nursing-Assistant-PRN-1-Med-Surg_R160604) |
 | 🏢 **Intermountain Health** | Certified Nursing Assistant Med Surg | St James Hospital | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-James-Hospital/Certified-Nursing-Assistant-Med-Surg_R162809) |
-| 🏢 **Cleveland Clinic** | RN Ambulatory - Moll Center Infusion | Fairview Hospital | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/RN-Ambulatory---Moll-Center-Infusion_332820) |
-| 🏢 **Cleveland Clinic** | Hospice RN - Inpatient Care Center (PRN) | Justin Rogers Hos... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Justin-Rogers-Hosp-Care-Center/RN-Hospice-Care-Center---PRN_320148-1) |
 | 🏢 **Cleveland Clinic** | Hospice RN - Inpatient Care Center (Nights) | Justin Rogers Hos... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Justin-Rogers-Hosp-Care-Center/RN-Hospice-NE---Hospice-Inpatient-Care-Center_325566) |
+| 🏢 **Cleveland Clinic** | Hospice RN - Inpatient Care Center (PRN) | Justin Rogers Hos... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Justin-Rogers-Hosp-Care-Center/RN-Hospice-Care-Center---PRN_327539) |
+| 🏢 **Cleveland Clinic** | RN – Emergency Department (ED) | Euclid Hospital | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Euclid-Hospital/RN---Emergency-Department--ED-_326881-1) |
 | 🏢 **Labcorp** | Phlebotomist Float PRN/Per Diem | San Antonio TX | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/San-Antonio-TX/Phlebotomist-PRN-Per-Diem_263758) |
-| 🏢 **WVU Medicine** | Cardiac Sonographer PRN | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Berkeley-Medical-Center-BMC/Cardiac-Sonographer-PRN_JR26-27708) |
 | 🏢 **WVU Medicine** | RN- Fulltime- Nightshift- 3 West | Princeton Communi... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/RN--Fulltime--Nightshift--3-West_JR26-30700) |
+| 🏢 **WVU Medicine** | Cardiac Sonographer PRN | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Berkeley-Medical-Center-BMC/Cardiac-Sonographer-PRN_JR26-27708) |
 | 🏢 **Geisinger Health** | RN - Registered Nurse - ED | Scranton, PA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Scranton-PA/RN---Registered-Nurse---ED_R-92945) |
 | 🏢 **EVERSANA** | Home Infusion RN- Per Diem | Miami, FL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000114457372) |
 | 🏢 **Johnson & Johnson** | Associate Ultrasound Clinical Account Specialist-Cardiac Sonographer (Western & Central New York) - Johnson and Johnson MedTech, Electrophysiology | 3 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Rochester-New-York-United-States/Associate-Ultrasound-Clinical-Account-Specialist-Cardiac-Sonographer--Western---Central-New-York----Johnson-and-Johnson-MedTech--Electrophysiology_R-062917) |
@@ -112,9 +112,9 @@
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP/PA) Obstetrics and Gynecology I | Willoughby Hills ... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Willoughby-Hills-Family-Health-Center/Advanced-Practice-Provider--NP-PA--Obstetrics-and-Gynecology-I_331582) |
+| 🏢 **CVS Health** | In-Home Nurse Practitioner or Physician Assistant Part Time - Annapolis | Annapolis | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MD---Annapolis/In-Home-Nurse-Practitioner-or-Physician-Assistant-Part-Time---Annapolis_R0827661-1) |
 | 🏢 **CVS Health** | Nurse Practitioner | Philadelphia | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Nurse-Practitioner_R0857559) |
 | 🏢 **CVS Health** | Nurse Practitioner, Advanced Practice Provider | Topeka | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/KS---Topeka/Nurse-Practitioner--Advanced-Practice-Provider_R0860708) |
-| 🏢 **CVS Health** | In-Home Health - Nurse Practitioner or Physician Assistant (Part Time) - Queens, NY | Queens Village | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Queens-Village/In-Home-Health---Nurse-Practitioner-or-Physician-Assistant--Part-Time----Queens--NY_R0856128) |
 | 🏢 **Ochsner Health** | LPN Hospital/ Inpatient-Nights-Pos Op Surgical | New Orleans Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/LPN-Hospital--Inpatient-Nights-Pos-Op-Surgical_REQ_00256584) |
 | 🏢 **Geisinger Health** | Nurse Practitioner Behavioral Health | Danville, PA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/Nurse-Practitioner-Behavioral-Health-1_R-57565) |
 | 🏢 **Geisinger Health** | Nurse Practitioner PASNAP | Scranton, PA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Scranton-PA/Nurse-Practitioner-PASNAP_R-82869) |
@@ -128,7 +128,7 @@
 | 🏢 **Nationwide Children's** | Nurse Practitioner - Specialty Primary Care | Main Campus, OH | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Nurse-Practitioner---Specialty-Primary-Care_R-23821) |
 | 🏢 **Ochsner Health** | CNA Inpatient Oncology - Jeff Hwy - Full Time Day | New Orleans Regio... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/CNA-Inpatient-Oncology---Jeff-Hwy---Full-Time-Day_REQ_00257039) |
 | 🏢 **Ochsner Health** | LPN Inpatient- IMTA MedSurg/Tele Part-Time Nights | New Orleans Regio... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/LPN-Inpatient--IMTA-MedSurg-Tele-Part-Time-Nights_REQ_00257341-1) |
-| 🏢 **Mass General Brigham** | MGBCI Ambulatory Solid Tumor Oncology NP | MA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/MGBCI-Ambulatory-Solid-Tumor-Oncology-NP_RQ4055470) |
+| 🏢 **Mass General Brigham** | Occupational Therapist- Per Diem- Inpatient BWH | MA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Occupational-Therapist--Per-Diem--Inpatient-BWH_RQ4055662) |
 | 🏢 **Geisinger Health** | Nurse Practitioner Anesthesia - $5k Recruitment Incentive! | Lewistown, PA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Lewistown-PA/Nurse-Practitioner-Anesthesia_R-70019-1) |
 | 🏢 **Intermountain Health** | Nurse Practitioner-Medical APP | Intermountain Hea... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Alta-View-Hospital/Nurse-Practitioner-Medical-APP-Psychiatric_R139344) |
 | 🏢 **Intermountain Health** | Pharmacy Technician Inpatient | St James Hospital | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-James-Hospital/Pharmacy-Technician-Inpatient_R159661) |
@@ -145,7 +145,7 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Licensed Practical Nurse - Immediate Benefits - Bilingual | CO - Thornton | 35m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Licensed-Practical-Nurse---Immediate-Benefits---Bilingual_R0176252-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse - Immediate Benefits - Bilingual | CO - Thornton | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Licensed-Practical-Nurse---Immediate-Benefits---Bilingual_R0176252-1) |
 | 🏢 **Takeda** | LPN – Day One Benefits | KS - Lenexa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/LPN---Day-One-Benefits_R0176231-1) |
 | 🏢 **Takeda** | Licensed Practical Nurse (LPN) | VA - Harrisonburg | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Medical-Support-Specialist-Licensed-Practical-Nurse--LPN-_R0175893) |
 | 🏢 **Ochsner Health** | LPN - Weekend Program - Med/Surg 2 - Days | Baton Rouge Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/LPN---Weekend-Program---Med-Surg-2---Days_REQ_00254937) |
@@ -183,8 +183,8 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) – Oncology & Women’s Health | Fairview Hospital | 43m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Oncology---Women-s-Health_328838) |
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Progressive Coronary Care Unit | Fairview Hospital | 43m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Progressive-Coronary-Care-Unit_331870) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) – Oncology & Women’s Health | Fairview Hospital | 32m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Oncology---Women-s-Health_328838) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Progressive Coronary Care Unit | Fairview Hospital | 32m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Progressive-Coronary-Care-Unit_331870) |
 | 🏢 **Ochsner Health** | CNA - Post Op Surgical Services/Ortho - Nights - | New Orleans Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/CNA---Post-Op-Surgical-Services-Ortho---Nights--_REQ_00256108) |
 | 🏢 **Ochsner Health** | CNA/Patient Care Assistant - Cardiology - Nights | Northshore Region... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Slidell---Northshore-Region---Louisiana/CNA-Patient-Care-Assistant---Cardiology---Nights_REQ_00257243-1) |
 | 🏢 **Geisinger Health** | Patient Care Technician (Advanced Acute Care Medical Unit) - No CNA Cert Required - Night Shift | Danville, PA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/Patient-Care-Technician--Advanced-Acute-Care-Medical-Unit----No-CNA-Cert-Required---Night-Shift_R-89623) |
@@ -200,8 +200,8 @@
 | 🏢 **Banner Health** | Certified Patient Assistant CNA LNA Observation Unit | BUMC Tucson | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-1625-N-Campbell-Ave/Certified-Patient-Assistant-CNA-LNA-Observation-Unit_R4436217) |
 | 🏢 **Banner Health** | Certified Patient Care Assistant CNA Patient Companion Days | Wyoming Medical C... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Wyoming-Medical-Center-Central-1233-E-Second-St/Certified-Patient-Care-Assistant-CNA-Patient-Companion-Days_R4435055-1) |
 | 🏢 **Banner Health** | Certified Patient Care Assistant CNA Patient Companion Nights | Wyoming Medical C... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Wyoming-Medical-Center-Central-1233-E-Second-St/Certified-Patient-Care-Assistant-CNA-Patient-Companion-Nights_R4432925) |
-| 🏢 **Saint Luke's Health System** | Certified Nursing Assistant | Garnett, KS | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Anderson-County-Hospital------421-S-Maple-St------Garnett------KS/Certified-Nursing-Assistant_JobReq0056388) |
 | 🏢 **Saint Luke's Health System** | Nurse Aide - Home Health CNA | KS | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Home-Visits-KS/Nurse-Aide---Home-Health-CNA_JobReq0055445) |
+| 🏢 **Saint Luke's Health System** | Certified Nursing Assistant | Garnett, KS | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Anderson-County-Hospital------421-S-Maple-St------Garnett------KS/Certified-Nursing-Assistant_JobReq0056388) |
 | 🏢 **Nationwide Children's** | Medical Social Worker - NICU (PFK) | 525 E. Mound St, OH | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/525-E-Mound-St-Columbus-OH/Medical-Social-Worker--BSW---NICU_R-23388-1) |
 
 <p align="center">Apply for more jobs at</p>
@@ -231,7 +231,7 @@
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Nationwide Children's** | Clinical Pharmacist - Evening Clinical | Main Campus, OH | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Clinical-Pharmacist---Evening-Clinical_R-23874-1) |
+| 🏢 **Nationwide Children's** | Clinical Pharmacist - Evening Clinical | Main Campus, OH | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Clinical-Pharmacist---Evening-Clinical_R-23874-1) |
 | 🏢 **Centene** | Clinical Review Nurse- Prior Authorization | 7 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Clinical-Review-Nurse--Prior-Authorization_1634327) |
 | 🏢 **Takeda** | Phlebotomist | MN - Moorhead | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0176250-1) |
 | 🏢 **Takeda** | Plasma Center Paramedic - EMT-P | VA - Harrisonburg | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Medical-Support-Specialist-EMT-P_R0175894) |
@@ -239,9 +239,9 @@
 | 🏢 **Labcorp** | Phlebotomist | Fort Wayne IN | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/Fort-Wayne-IN/Phlebotomist_268976) |
 | 🏢 **Labcorp** | Phlebotomist Float - Full Time | Denver CO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/Denver-CO/Phlebotomist-Float---Full-Time_263250) |
 | 🏢 **Labcorp** | Phlebotomist | San Antonio TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/San-Antonio-TX/Phlebotomist_2538102) |
-| 🏢 **CVS Health** | Pharmacy Technician | Reno | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NV---Reno/Pharmacy-Technician_R0860335-1) |
-| 🏢 **CVS Health** | Pharmacy Technician | Connecticut CVS P... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/00343---Connecticut-CVS-Pharmacy-LLC/Pharmacy-Technician_R0859998) |
-| 🏢 **CVS Health** | Pharmacy Technician | Belmont | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Belmont/Pharmacy-Technician_R0860071) |
+| 🏢 **CVS Health** | Pharmacy Technician | Lafayette | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/LA---Lafayette/Pharmacy-Technician_R0860167) |
+| 🏢 **CVS Health** | Pharmacy Technician | Bakersfield | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Bakersfield/Pharmacy-Technician_R0860197) |
+| 🏢 **CVS Health** | Pharmacy Technician | Leonia | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Leonia/Pharmacy-Technician_R0860057) |
 | 🏢 **WVU Medicine** | Radiology Technologist | Princeton Communi... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/Radiology-Technologist_JR26-30745) |
 | 🏢 **WVU Medicine** | Nurse Navigator-Clinic | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Remote/Nurse-Navigator-Clinic_JR26-30822) |
 | 🏢 **Banner Health** | Home Delivery Processing Pharmacy Technician | Banner Health Cor... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Health-Corp-Chandler-7300-W-Detroit-St/Home-Delivery-Processing-Pharmacy-Technician_R4434607) |
@@ -266,12 +266,12 @@
 | 🏢 **Intermountain Health** | Medical Assistant Orthopedics | Southridge Clinic... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Southridge-Clinic-at-Riverton/Medical-Assistant-Orthopedics_R163988) |
 | 🏢 **Intermountain Health** | Transplant Social Worker | Intermountain Hea... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Transplant-Social-Worker_R165378) |
 | 🏢 **Intermountain Health** | Medical Assistant Family Medicine | North Ogden Clinic | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/North-Ogden-Clinic/Medical-Assistant-Family-Medicine_R162980) |
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant – Med/Surg & Observation | South Pointe Hosp... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/South-Pointe-Hospital/Patient-Care-Nurse-Assistant---Med-Surg---Observation_330124) |
-| 🏢 **Cleveland Clinic** | Medical Technologist/MLT/Lab Technician | Mercy Hospital | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Mercy-Hospital/Medical-Technologist-MLT-Lab-Technician_333579-1) |
 | 🏢 **Cleveland Clinic** | Nursing Professional Development Specialist | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/West-Park-Center/Nursing-Professional-Development-Specialist_332460) |
+| 🏢 **Cleveland Clinic** | Patient Care Nursing Assistant – Med/Surg & Observation Unit | Marymount Hospital | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Marymount-Hospital/Patient-Care-Nursing-Assistant---Med-Surg---Observation-Unit_315498-1) |
+| 🏢 **Cleveland Clinic** | Home Health Admissions Nurse - Cuyahoga and Summit County | Business Operatio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Business-Operations-Center/Nursing-Admission-Specialist---Home-Care-East-2-Team_301543) |
 | 🏢 **WVU Medicine** | Cardiac Sonographer | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Berkeley-Medical-Center-BMC/Cardiac-Sonographer_JR24-31300) |
-| 🏢 **Nationwide Children's** | Ambulatory Patient Access Representative - Hilliard CTH | 4363 All Seasons ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/4363-All-Seasons-Dr-Hilliard-OH/Ambulatory-Patient-Access-Representative---Hilliard-CTH_R-23828-1) |
-| 🏢 **Nationwide Children's** | Crisis Support Specialist- Behavioral Health | Main Campus, OH | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Crisis-Support-Specialist--Behavioral-Health_R-20772-1) |
+| 🏢 **Nationwide Children's** | Clinical Dietitian - Nutrition Support Dietitian | Main Campus, OH | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Clinical-Dietitian---Nutrition-Support-Dietitian_R-23824-1) |
+| 🏢 **Nationwide Children's** | Clinical Dietitian Clinical Nutrition | Main Campus, OH | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Clinical-Dietitian-Clinical-Nutrition_R-23654-1) |
 | 🏢 **Sharp Healthcare** | Dietitian - Sharp Mesa Vista - Day Shift - Per Diem | San Diego, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Dietitian---Sharp-Mesa-Vista---Day-Shift---Per-Diem_JR204197) |
 | 🏢 **KBR** | Special Operations Performance Dietitian JFKSWCS Ft. Bragg, NC | Fort Liberty | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Performance-Dietitian-JFKSWCS-Ft-Bragg--NC_R2120241) |
 | 🏢 **Exact Sciences** | Histotechnologist I | AZ - Phoenix | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histotechnologist-I_R26-12760) |
@@ -337,7 +337,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2520 current opportunities from 23 companies**
+**🎯 2521 current opportunities from 23 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
