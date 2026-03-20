@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3487-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3485-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-28-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1748-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1747-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -93,7 +93,7 @@
 | 🏢 **Banner Health** | Registered Nurse RN Labor and Delivery | Banner Gateway Me... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Gateway-Med-Ctr-1900-N-Higley-Rd/Registered-Nurse-RN-Labor-and-Delivery_R4437117) |
 | 🏢 **Montefiore Medical Center** | REGISTERED NURSE PER DIEM | 111 East 210th St... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://montefiore.wd12.myworkdayjobs.com/MMC/job/111-East-210th-Street/REGISTERED-NURSE-PER-DIEM_JR226723-1) |
 | 🏢 **The Cigna Group** | Care Coordinator -  EAP, Behavioral Operations - Evernorth Behavioral Health - Remote | United States Wor... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Care-Coordinator----EAP--Behavioral-Operations---Evernorth-Behavioral-Health---Remote_26002998) |
-| 🏢 **CVS Health** | Registered Nurse RN-Home Infusion-Full Time | New Jersey | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-New-Jersey/Registered-Nurse-RN-Home-Infusion-Full-Time_R0848047) |
+| 🏢 **CVS Health** | Registered Nurse RN-Home Infusion-Full Time | New Jersey | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-New-Jersey/Registered-Nurse-RN-Home-Infusion-Full-Time_R0848047) |
 | 🏢 **Takeda** | Biolife Plasma Nurse - RN Benefits Day 1 | WI - Sheboygan | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Sheboygan/Biolife-Plasma-Nurse---RN-Benefits-Day-1_R0176455-1) |
 | 🏢 **Saint Luke's Health System** | Registered Nurse- Emergency Department | Lees Summit, MO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Registered-Nurse--Emergency-Department_JobReq0054406) |
 | 🏢 **Philips** | Critical Care Nurse - Clinical Solution Specialist (Travel: Northern California) | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Jose-California-United-States/Critical-Care-Nurse---Clinical-Solution-Specialist--Travel--Northern-California-_578439) |
@@ -378,7 +378,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3487 current opportunities from 28 companies**
+**🎯 3485 current opportunities from 28 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
