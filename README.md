@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3454-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-29-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1713-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3453-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-28-blue?style=flat&logo=building)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1712-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -323,7 +323,6 @@
 | 🏢 **Exact Sciences** | Histotechnologist I | AZ - Phoenix | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histotechnologist-I_R26-12760) |
 | 🏢 **Exact Sciences** | Histotechnologist I | CA - Redwood City | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Histotechnologist-I_R26-12540) |
 | 🏢 **Walmart** | Pharmacy Tech Certified Sam's (Part Time) | (USA) CO AURORA 0... | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-CO-AURORA-04816-SAMS-CLUB/Pharmacy-Tech-Certified-Sam-s--Part-Time-_R-2439997) |
-| 🏢 **Stryker** | Associate Sales Representative -  Los Angeles/Orange County - Surgical Technologies | 2 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Los-Angeles-California/Associate-Sales-Representative----Los-Angeles-Orange-County---Surgical-Technologies_R561588) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -379,7 +378,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3454 current opportunities from 29 companies**
+**🎯 3453 current opportunities from 28 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
