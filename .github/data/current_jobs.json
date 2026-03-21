@@ -58412,7 +58412,7 @@
   },
   {
     "job_id": "workday-takeda-R0175982",
-    "job_title": "Plasma Center Nurse �� RN",
+    "job_title": "Plasma Center Nurse – RN",
     "employer_name": "Takeda",
     "job_city": "MI - Flint",
     "job_state": "",
@@ -96953,61 +96953,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-07T06:55:07.627Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R164588",
-    "job_title": "PRN Patient Service Representative",
-    "employer_name": "Intermountain Health",
-    "job_city": "Intermountain Health St George Regional Hospital",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/PRN-Patient-Service-Representative_R164588",
-    "job_posted_at_datetime_utc": "2026-03-07T05:44:19.145Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ebe100c31423fcfab8279a55b4e8318f3462ceb4cf184f506365c4c1d729d4b0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T05:44:19.145Z"
-  },
-  {
-    "job_id": "workday-intermountain-health-R163793",
-    "job_title": "Sterile Processing Technician",
-    "employer_name": "Intermountain Health",
-    "job_city": "Intermountain Health Primary Childrens Hospital",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/Sterile-Processing-Technician_R163793-1",
-    "job_posted_at_datetime_utc": "2026-03-07T05:44:19.145Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "467d6b898634589e900c7f5972f6beb4fc11281cf804afa15b1c8636407da86a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T05:44:19.145Z"
   }
 ]
