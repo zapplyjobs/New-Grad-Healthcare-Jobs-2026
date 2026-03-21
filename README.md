@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3491-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3485-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1772-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1769-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -182,7 +182,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | Licensed Practical Nurse - Day One Benefits | OK - Broken Arrow | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Broken-Arrow/Licensed-Practical-Nurse---Day-One-Benefits_R0176527-1) |
 | 🏢 **CVS Health** | Licensed Vocational Nurse (LVN) | San Antonio | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---San-Antonio/Licensed-Vocational-Nurse--LVN-_R0857610) |
 | 🏢 **CVS Health** | Licensed Vocational Nurse (LVN) | Castle Hills | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Castle-Hills/Licensed-Vocational-Nurse--LVN-_R0804114) |
-| 🏢 **Takeda** | Spanish Speaking Nurse - LPN | TX - Houston - North | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Spanish-Speaking-Nurse---LPN_R0176434-1) |
+| 🏢 **Takeda** | Licensed Pracitical Nurse LPN | MN - Mankato | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Licensed-Pracitical-Nurse-LPN_R0176449-1) |
 | 🏢 **WVU Medicine** | LPN Clinic | Medpointe | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Medpointe/LPN-Clinic_JR26-31164) |
 | 🏢 **WVU Medicine** | Podiatry LPN | Camden Clark Sout... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Camden-Clark-Southgate-Medical-Complex/Podiatry-LPN_JR26-30885) |
 | 🏢 **WVU Medicine** | LPN Hospice | Clarksburg Hospice | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/WVHUS-Home-Care---Clarksburg-Hospice/LPN-Hospice_JR26-26502) |
@@ -318,9 +318,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (1st SFG, JBLM, WA) | McChord, Washington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Joint-Base-Lewis-McChord-Washington/Special-Operations-Licensed-Clinical-Social-Worker--1st-SFG--JBLM--WA-_R2120671) |
 | 🏢 **IDEXX** | Field Sales Veterinary Diagnostic Denver South | Denver, CO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Denver-CO/Field-Sales-Veterinary-Diagnostic--Denver-South_J-052168) |
 | 🏢 **Disney** | Veterinary Technician (Seasonal/Casual Temporary) | Lake Buena Vista, FL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Veterinary-Technician--Seasonal-Casual-Temporary-_10143208) |
+| 🏢 **Abbott** | Clinical Specialist, CRM - Knoxville, TN | Illinois - Abbott... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Clinical-Specialist--CRM---Knoxville--TN_31145314-1) |
 | 🏢 **Abbott** | Associate Clinical Specialist, CRM - Atlanta, GA | Georgia - Atlanta | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Specialist--CRM---Atlanta--GA_31143371-1) |
 | 🏢 **Abbott** | Clinical Specialist I, CPT - Austin, TX | Texas - Austin | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Austin/Clinical-Specialist-I--CPT---Austin--TX_31144760-1) |
-| 🏢 **Abbott** | Medical Scientific Liaison (ID Nurse) | Illinois - Lake F... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Medical-Scientific-Liaison_31138714-1) |
 | 🏢 **Labcorp** | Phlebotomist | Washington DC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/Washington-DC/Phlebotomist_263761-1) |
 | 🏢 **Banner Health** | ***FILLED Surgical Technologist OR Operating Room | Banner Ironwood M... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Ironwood-Med-Ctr-37000-N-Gantzel-Rd/Surgical-Technologist-OR-Operating-Room_R4432642) |
 | 🏢 **Labcorp** | Phlebotomist- Part Time w/ Benefits | Brooklyn NY | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/Brooklyn-NY/Phlebotomist--Part-Time-w--Benefits_2533055) |
@@ -409,7 +409,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3491 current opportunities from 34 companies**
+**🎯 3485 current opportunities from 34 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
