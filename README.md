@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3483-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3485-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1767-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1769-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -101,9 +101,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Banner Health** | Certified Patient Care Assistant CNA LNA Med Surg Ortho | Banner Del Webb M... | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Del-Webb-Med-Ctr-14502-W-Meeker-Blvd/Certified-Patient-Care-Assistant-CNA-LNA-Med-Surg-Ortho_R4436331) |
 | 🏢 **Banner Health** | Registered Nurse RN Labor and Delivery | Banner Gateway Me... | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Gateway-Med-Ctr-1900-N-Higley-Rd/Registered-Nurse-RN-Labor-and-Delivery_R4437117) |
 | 🏢 **Montefiore Medical Center** | REGISTERED NURSE PER DIEM | 111 East 210th St... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://montefiore.wd12.myworkdayjobs.com/MMC/job/111-East-210th-Street/REGISTERED-NURSE-PER-DIEM_JR226723-1) |
+| 🏢 **Takeda** | Registered Nurse, RN | AZ - Phoenix | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Registered-Nurse--RN_R0176547-1) |
 | 🏢 **Takeda** | RN/Medical Support Specialist | CA - Fresno | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Fresno/RN-Medical-Support-Specialist_R0176536-1) |
 | 🏢 **Takeda** | Paramedic - No Overnight Shifts | OK - Broken Arrow | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Broken-Arrow/Paramedic---No-Overnight-Shifts_R0176521) |
-| 🏢 **Takeda** | Part Time Registered Nurse, RN | NV - Las Vegas - ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas---Sahara/Part-Time-Registered-Nurse--RN_R0176528-1) |
 | 🏢 **General Motors** | Occupational Health Registered Nurse (2nd Shift) | Romulus | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Romulus-Michigan-United-States-of-America/Occupational-Health-Registered-Nurse--2nd-Shift-_JR-202606101) |
 | 🏢 **The Cigna Group** | Care Coordinator -  EAP, Behavioral Operations - Evernorth Behavioral Health - Remote | United States Wor... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Care-Coordinator----EAP--Behavioral-Operations---Evernorth-Behavioral-Health---Remote_26002998) |
 | 🏢 **CVS Health** | Registered Nurse RN-Home Infusion-Full Time | New Jersey | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-New-Jersey/Registered-Nurse-RN-Home-Infusion-Full-Time_R0848047) |
@@ -194,7 +194,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse Career Enhancement Program - CEP | Barre, PA, PA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Wilkes-Barre-PA/LPN---Licensed-Practical-Nurse-CEP_R-86903-1) |
 | 🏢 **Cleveland Clinic** | LPN Clinic – Family Medicine | Martin Health at ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Martin-Health-at-Tiffany/LPN-Clinic---Family-Medicine-_326975) |
 | 🏢 **Cleveland Clinic** | LPN Clinic - Cardiology | Florida Weston Ho... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Florida-Weston-Hospital/LPN-Clinic---Cardiovascular-Medicine_327918) |
-| 🏢 **Takeda** | Spanish Speaking Nurse - LPN | TX - Houston - North | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Spanish-Speaking-Nurse---LPN_R0176434-1) |
+| 🏢 **Takeda** | Licensed Pracitical Nurse LPN | MN - Mankato | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Licensed-Pracitical-Nurse-LPN_R0176449-1) |
 | 🏢 **Sharp Healthcare** | SRS - Adult Primary Care- LVN-Full Time -Day Shift | La Mesa, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/SRS---Adult-Primary-Care--LVN-Full-Time--Day-Shift_JR205098) |
 | 🏢 **Banner Health** | Licensed Practical Nurse LPN | BHS Physician Ser... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BHS-Physician-Services-625-Albany-Ave/Licensed-Practical-Nurse-LPN_R4430676) |
 | 🏢 **Nationwide Children's** | LPN, H7B - NICU | Main Campus, OH | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/LPN--H7B---NICU_R-22973-1) |
@@ -313,8 +313,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | Paramedic, EMT-P – Full Time | AZ - Phoenix | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Paramedic--EMT-P---Full-Time_R0176539) |
 | 🏢 **Takeda** | Entry Level Phlebotomist/Medical Screener | MO - Independence | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Independence/Entry-Level-Phlebotomist-Medical-Screener_R0176498) |
 | 🏢 **Takeda** | Medical Screener - Weekends/PM | GA - Kennesaw | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Kennesaw/Medical-Screener---Weekends-PM_R0176486-1) |
-| 🏢 **Thermo Fisher Scientific** | Per Diem Paramedic | Austin | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Per-Diem-Paramedic_R-01345530) |
 | 🏢 **Thermo Fisher Scientific** | Pharmacist | Rockville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/Pharmacist_R-01345857) |
+| 🏢 **Thermo Fisher Scientific** | Per Diem Paramedic | Austin | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Per-Diem-Paramedic_R-01345530) |
 | 🏢 **Medtronic** | Executive Clinical Sales Rep- Robotic Surgical Technologies (Texas) | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Robotic-Program-Manager---Robotic-Surgical-Technologies--Texas-_R59398-2) |
 | 🏢 **Medtronic** | Clinical Specialist CRM - Searcy, AR | Little Rock | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Clinical-Specialist-CRM_R57361-1) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (1st SFG, JBLM, WA) | McChord, Washington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Joint-Base-Lewis-McChord-Washington/Special-Operations-Licensed-Clinical-Social-Worker--1st-SFG--JBLM--WA-_R2120671) |
@@ -409,7 +409,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3483 current opportunities from 34 companies**
+**🎯 3485 current opportunities from 34 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
