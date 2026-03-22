@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3485-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3487-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1769-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1771-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -105,8 +105,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | Paramedic - No Overnight Shifts | OK - Broken Arrow | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Broken-Arrow/Paramedic---No-Overnight-Shifts_R0176521) |
 | 🏢 **General Motors** | Occupational Health Registered Nurse (2nd Shift) | Romulus | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Romulus-Michigan-United-States-of-America/Occupational-Health-Registered-Nurse--2nd-Shift-_JR-202606101) |
 | 🏢 **Montefiore Medical Center** | REGISTERED NURSE PER DIEM | 111 East 210th St... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://montefiore.wd12.myworkdayjobs.com/MMC/job/111-East-210th-Street/REGISTERED-NURSE-PER-DIEM_JR226723-1) |
-| 🏢 **The Cigna Group** | Care Coordinator -  EAP, Behavioral Operations - Evernorth Behavioral Health - Remote | United States Wor... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Care-Coordinator----EAP--Behavioral-Operations---Evernorth-Behavioral-Health---Remote_26002998) |
 | 🏢 **Philips** | Critical Care Nurse - Clinical Solution Specialist (Travel: Northern California) | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Jose-California-United-States/Critical-Care-Nurse---Clinical-Solution-Specialist--Travel--Northern-California-_578439) |
+| 🏢 **The Cigna Group** | Care Coordinator -  EAP, Behavioral Operations - Evernorth Behavioral Health - Remote | United States Wor... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Care-Coordinator----EAP--Behavioral-Operations---Evernorth-Behavioral-Health---Remote_26002998) |
 | 🏢 **CVS Health** | Registered Nurse RN-Home Infusion-Full Time | New Jersey | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-New-Jersey/Registered-Nurse-RN-Home-Infusion-Full-Time_R0848047) |
 | 🏢 **Saint Luke's Health System** | Registered Nurse- Emergency Department | Lees Summit, MO | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Registered-Nurse--Emergency-Department_JobReq0054406) |
 | 🏢 **Nationwide Children's** | Ambulatory RN - School Based Health | Main Campus, OH | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Ambulatory-RN---School-Based-Health_R-23768-1) |
@@ -409,7 +409,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3485 current opportunities from 34 companies**
+**🎯 3487 current opportunities from 34 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
