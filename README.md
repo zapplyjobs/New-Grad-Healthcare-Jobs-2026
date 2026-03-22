@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3528-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3532-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1804-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1805-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -323,9 +323,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (1st SFG, JBLM, WA) | McChord, Washington | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Joint-Base-Lewis-McChord-Washington/Special-Operations-Licensed-Clinical-Social-Worker--1st-SFG--JBLM--WA-_R2120671) |
 | 🏢 **IDEXX** | Field Sales Veterinary Diagnostic Denver South | Denver, CO | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Denver-CO/Field-Sales-Veterinary-Diagnostic--Denver-South_J-052168) |
 | 🏢 **Disney** | Veterinary Technician (Seasonal/Casual Temporary) | Lake Buena Vista, FL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Veterinary-Technician--Seasonal-Casual-Temporary-_10143208) |
+| 🏢 **Abbott** | Clinical Specialist, CRM - Knoxville, TN | Illinois - Abbott... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Clinical-Specialist--CRM---Knoxville--TN_31145314-1) |
 | 🏢 **Abbott** | Associate Clinical Specialist, CRM - Atlanta, GA | Georgia - Atlanta | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Specialist--CRM---Atlanta--GA_31143371-1) |
 | 🏢 **Abbott** | Clinical Specialist I, CPT - Austin, TX | Texas - Austin | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Austin/Clinical-Specialist-I--CPT---Austin--TX_31144760-1) |
-| 🏢 **Abbott** | Medical Scientific Liaison (ID Nurse) | Illinois - Lake F... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Medical-Scientific-Liaison_31138714-1) |
 | 🏢 **Walmart** | (USA) Full-Time Pharmacy Tech Certified Sam's | (USA) CA PALM DES... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-CA-PALM-DESERT-06609-SAMS-CLUB/XMLNAME--USA--Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2450502) |
 | 🏢 **Walmart** | Pharmacy Tech Certified Sam's | (USA) OH SHEFFIEL... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OH-SHEFFIELD-VILLAGE-06314-SAMS-CLUB/Pharmacy-Tech-Certified-Sam-s_R-2450493) |
 | 🏢 **Sharp Healthcare** | Nursing Assistant - Telemetry 5E - Sharp Grossmont Hospital - Night Shift - Full Time | La Mesa, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/Nursing-Assistant---Telemetry-5E---Sharp-Grossmont-Hospital---Night-Shift---Full-Time_JR204833-1) |
@@ -337,8 +337,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Montefiore Medical Center** | Reg Dietitian/Rd Elig U | 2058 Jerome Avenue | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://montefiore.wd12.myworkdayjobs.com/MMC/job/2058-Jerome-Avenue/Reg-Dietitian-Rd-Elig-U_JR228613-1) |
 | 🏢 **Montefiore Medical Center** | Emergency Dept Technician-Wakefield | 600 East 233rd St... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://montefiore.wd12.myworkdayjobs.com/MMC/job/600-East-233rd-Street/Emergency-Dept-Technician-Wakefield_JR228206-2) |
 | 🏢 **Centene** | Pharmacy Technician Care Advocate (MTM & Adherence) | 47 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Pharmacy-Technician-Care-Advocate--MTM---Adherence-_1631990) |
-| 🏢 **Johnson & Johnson** | Ultrasound Clinical Account Specialist (Central NJ) – Cardiac Sonographer - Johnson and Johnson MedTech - Electrophysiology | 2 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Morristown-New-Jersey-United-States/Ultrasound-Clinical-Account-Specialist--Central-NJ----Cardiac-Sonographer---Johnson-and-Johnson-MedTech---Electrophysiology_R-064364) |
 | 🏢 **Johnson & Johnson** | Field Clinical Specialist - Shockwave - Los Angeles | Los Angeles | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Field-Clinical-Specialist---Shockwave---Los-Angeles_R-064728-1) |
+| 🏢 **Johnson & Johnson** | Ultrasound Clinical Account Specialist (Central NJ) – Cardiac Sonographer - Johnson and Johnson MedTech - Electrophysiology | 2 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Morristown-New-Jersey-United-States/Ultrasound-Clinical-Account-Specialist--Central-NJ----Cardiac-Sonographer---Johnson-and-Johnson-MedTech---Electrophysiology_R-064364) |
 | 🏢 **IDEXX** | Quality Engineer, Subscription Management Platform, Veterinary Software | 5 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Quality-Engineer--Veterinary-Software_J-051983) |
 | 🏢 **Boeing** | Occupational Health Physician | Everett, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Occupational-Health-Physician_JR2026494181) |
 | 🏢 **The Cigna Group** | Encore Infusion Nurse I | Ohio Work at Home | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Ohio-Work-at-Home/Encore-Infusion-Nurse-I_26002099) |
@@ -410,7 +410,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3528 current opportunities from 34 companies**
+**🎯 3532 current opportunities from 34 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
