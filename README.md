@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3392-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3391-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1743-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1742-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,12 +69,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Nurse – LPN (Immediate Benefits!) | OH - Columbus - B... | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Columbus---Bethel-Rd/Plasma-Center-Nurse---LPN--Immediate-Benefits--_R0176708-1) |
-| 🏢 **Takeda** | Plasma Center Nurse – RN (Immediate Benefits!) | OH - Columbus - B... | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Columbus---Bethel-Rd/Plasma-Center-Nurse---RN--Immediate-Benefits--_R0176705-1) |
-| 🏢 **Takeda** | Paramedic - No Overnight Shifts | OK - Tulsa | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Paramedic---No-Overnight-Shifts_R0176703-1) |
+| 🏢 **Takeda** | Plasma Center Nurse – LPN (Immediate Benefits!) | OH - Columbus - B... | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Columbus---Bethel-Rd/Plasma-Center-Nurse---LPN--Immediate-Benefits--_R0176708-1) |
+| 🏢 **Takeda** | Plasma Center Nurse – RN (Immediate Benefits!) | OH - Columbus - B... | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Columbus---Bethel-Rd/Plasma-Center-Nurse---RN--Immediate-Benefits--_R0176705-1) |
+| 🏢 **Takeda** | Paramedic - No Overnight Shifts | OK - Tulsa | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Paramedic---No-Overnight-Shifts_R0176703-1) |
 | 🏢 **Medtronic** | Prin. Clinical Specialist - Superficial Venous Interventions (SVI) - New York City, Long Island, Northern New Jersey | 3 Locations | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-York-New-York-United-States-of-America/Prin-Clinical-Specialist---Superficial-Venous-Interventions--SVI----New-York-City--Long-Island--Northern-New-Jersey_R60976-1) |
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Inverness, FL | Florida - Ocala | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Ocala/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Inverness--FL_31145492) |
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Mequon, WI | Wisconsin - Madison | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Mequon--WI_31145490) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Mequon, WI | Wisconsin - Madison | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Mequon--WI_31145490) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Inverness, FL | Florida - Ocala | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Ocala/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Inverness--FL_31145492) |
 | 🏢 **Thermo Fisher Scientific** | Medical Information Specialist - RN | Morrisville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Medical-Information-Specialist---RN_R-01345482) |
 | 🏢 **WVU Medicine** | Registered Nurse (Rotating) - CVICU | Ruby Memorial Hos... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Ruby-Memorial-Hospital-WVUH/Registered-Nurse--Rotating----CVICU_JR26-25883) |
 | 🏢 **WVU Medicine** | Dayshift PRN LPN | Center for Hope a... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Center-for-Hope-and-Healing/Dayshift-PRN-LPN_JR26-30834) |
@@ -177,9 +177,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Licensed Practical Nurse – LPN | IN - Fort Wayne -... | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Getz-Rd/Licensed-Practical-Nurse---LPN_R0176702-1) |
-| 🏢 **Takeda** | Licensed Practical Nurse - Day One Medical Benefits | OK - Tulsa | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Licensed-Practical-Nurse---Day-One-Medical-Benefits_R0176701) |
-| 🏢 **Takeda** | Licensed Practical Nurse (LPN) | WI - Oshkosh | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Oshkosh/Licensed-Practical-Nurse--LPN-_R0176696-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse – LPN | IN - Fort Wayne -... | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Getz-Rd/Licensed-Practical-Nurse---LPN_R0176702-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse - Day One Medical Benefits | OK - Tulsa | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Licensed-Practical-Nurse---Day-One-Medical-Benefits_R0176701) |
+| 🏢 **Takeda** | Licensed Practical Nurse (LPN) | WI - Oshkosh | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Oshkosh/Licensed-Practical-Nurse--LPN-_R0176696-1) |
 | 🏢 **Ochsner Health** | Licensed Practical Nurse (LPN) - Medsurg 5- Days | Baton Rouge Regio... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/Licensed-Practical-Nurse--LPN----Medsurg-5--Days_REQ_00250516) |
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Interventional Radiology | Scranton, PA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Scranton-PA/LPN---Licensed-Practical-Nurse---Interventional-Radiology_R-93969) |
 | 🏢 **Cleveland Clinic** | LPN Ambulatory -- Pediatrics | Cleveland Clinic ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/LPN-Ambulatory----Pediatrics_303274) |
@@ -273,18 +273,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Paramedic – EMT-P | IN - Fort Wayne -... | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Getz-Rd/Plasma-Center-Paramedic---EMT-P_R0176704-1) |
-| 🏢 **Takeda** | EMT (EMT-P, AEMT, EMTI) | WI - Oshkosh | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Oshkosh/EMT--EMT-P--AEMT--EMTI-_R0176697-1) |
-| 🏢 **Takeda** | Medical Support Specialist – EMT (Immediate Benefits!)   Fond du Lac | WI - Fond du Lac | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---EMT--Immediate-Benefits-----Fond-du-Lac_R0176695-1) |
-| 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA | 2 Locations | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1) |
+| 🏢 **Takeda** | Medical Screener | MA - Methuen | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Methuen/Medical-Screener_R0175679-1) |
+| 🏢 **Takeda** | Experienced Phlebotomist | FL - Jacksonville | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville/Experienced-Phlebotomist_R0173694-1) |
+| 🏢 **Takeda** | Entry Level Phlebotomist/Medical Screener - Paid Training | AL - Mobile | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AL---Mobile/Entry-Level-Phlebotomist-Medical-Screener---Paid-Training_R0173657-1) |
 | 🏢 **Medtronic** | Clinical Specialist CRM - Sarasota | Sarasota | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Sarasota-Florida-United-States-of-America/Clinical-Specialist-CRM---Sarasota_R62522-1) |
-| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (National Capital Region) | Washington, DC | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC/Special-Operations-Licensed-Clinical-Social-Worker--National-Capital-Region-_R2119396) |
-| 🏢 **Exact Sciences** | Histotechnologist I | CA - Redwood City | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Histotechnologist-I_R26-12540) |
-| 🏢 **Exact Sciences** | Histotechnologist I | AZ - Phoenix | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histotechnologist-I_R26-12760) |
+| 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA | 2 Locations | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1) |
+| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (National Capital Region) | Washington, DC | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC/Special-Operations-Licensed-Clinical-Social-Worker--National-Capital-Region-_R2119396) |
+| 🏢 **Exact Sciences** | Histotechnologist I | AZ - Phoenix | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histotechnologist-I_R26-12760) |
+| 🏢 **Exact Sciences** | Histotechnologist I | CA - Redwood City | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Histotechnologist-I_R26-12540) |
 | 🏢 **Caterpillar** | Nurse | Sanford | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Sanford-North-Carolina/Nurse_R0000357765) |
-| 🏢 **Abbott** | Clinical Associate | Washington - Spokane | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington---Spokane/Clinical-Associate_31131419-1) |
-| 🏢 **Abbott** | Clinical Associate | Oklahoma - Oklaho... | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Oklahoma---Oklahoma-City/Clinical-Associate_31145285-1) |
-| 🏢 **Abbott** | Clinical Associate | Colorado - Denver | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Denver/Clinical-Specialist-II_31145118-1) |
+| 🏢 **Abbott** | Clinical Associate | Washington - Spokane | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington---Spokane/Clinical-Associate_31131419-1) |
+| 🏢 **Abbott** | Clinical Associate | Oklahoma - Oklaho... | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Oklahoma---Oklahoma-City/Clinical-Associate_31145285-1) |
+| 🏢 **Abbott** | Clinical Associate | Colorado - Denver | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Denver/Clinical-Specialist-II_31145118-1) |
 | 🏢 **Medtronic** | Associate Clinical Specialist CRM - Oakland | Oakland | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oakland-California-United-States-of-America/Associate-Clinical-Specialist-CRM---Oakland_R62411-1) |
 | 🏢 **WVU Medicine** | Physical Therapist I | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Berkeley-Medical-Center-BMC/Physical-Therapist-I_JR26-30815) |
 | 🏢 **WVU Medicine** | Medical Assistant | Berkeley Medical ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Berkeley-Medical-Center-BMC/Medical-Assistant_JR26-31353) |
@@ -409,7 +409,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3392 current opportunities from 34 companies**
+**🎯 3391 current opportunities from 34 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
