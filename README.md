@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3522-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3523-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1802-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1803-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -153,7 +153,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Mass General Brigham** | Nurse Practitioner, Oncology Infusion, 30 Hours BWH | MA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Nurse-Practitioner--Oncology-Infusion--30-Hours-BWH_RQ4055935) |
 | 🏢 **Intermountain Health** | NP PA Advanced Practice Provider - Pediatric Radiology | Intermountain Hea... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/NP-PA-Advanced-Practice-Provider---Pediatric-Radiology_R160372) |
 | 🏢 **Highmark Health** | Physician Assistant or Nurse Practitioner - Outpatient Primary Care | Pittsburgh PA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-1307-Federal-St/Physician-Assistant-or-Nurse-Practitioner---Outpatient-Primary-Care_J276559) |
-| 🏢 **Intermountain Health** | Pediatric Behavioral Health Specialist - Inpatient | Primary Childrens... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Primary-Childrens-at-Taylorsville/Pediatric-Behavioral-Health-Specialist---Inpatient_R154066) |
+| 🏢 **Intermountain Health** | Pediatric Behavioral Health Specialist - Inpatient | Primary Childrens... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Primary-Childrens-at-Taylorsville/Pediatric-Behavioral-Health-Specialist---Inpatient_R154066) |
 | 🏢 **WVU Medicine** | Advanced Practice Professional (APP) HVI   Cardiothoracic Surgery   Thomas Memorial Hospital   Nurse Practitioner (85002), Physician Assistant (85102) | Thomas Memorial H... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Thomas-Memorial-Hospital-TMH/Advanced-Practice-Professional--APP--HVI---Cardiothoracic-Surgery---Thomas-Memorial-Hospital---Nurse-Practitioner--85002---Physician-Assistant--85102-_JR25-17498-2) |
 | 🏢 **WVU Medicine** | ADVANCED PRACTICE PROFESSIONALS   PART TIME (24 hours per week)   Heart and Vascular Institute (HVI)   Critical Care Medicine   Ruby Memorial Hospital   (NP 83001 or PA 83101) | Ruby Memorial Hos... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Ruby-Memorial-Hospital-WVUH/ADVANCED-PRACTICE-PROFESSIONALS---PART-TIME--24-hours-per-week----Heart-and-Vascular-Institute--HVI----Critical-Care-Medicine---Ruby-Memorial-Hospital----NP-83001-or-PA-83101-_JR25-19409-2) |
 | 🏢 **WVU Medicine** | Advanced Practice Professional (APP)   HVI   Thoracic Surgery   Nurse Practitioner or Physician Assistant | Ruby Memorial Hos... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Ruby-Memorial-Hospital-WVUH/Advanced-Practice-Professional--APP----HVI---Thoracic-Surgery---Nurse-Practitioner-or-Physician-Assistant_JR26-26491-2) |
@@ -228,7 +228,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Emergency Department | Florida Weston Ho... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Florida-Weston-Hospital/Patient-Care-Nurse-Assistant--PCNA----Emergency-Department_334480) |
 | 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) – Med/Surg | Marymount Hospital | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Marymount-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg_325147) |
 | 🏢 **Banner Health** | Certified Patient Care Assistant CNA LNA ICU CCU | Banner Del Webb M... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Del-Webb-Med-Ctr-14502-W-Meeker-Blvd/Certified-Patient-Care-Assistant-CNA-LNA-ICU-CCU_R4435435-1) |
-| 🏢 **Intermountain Health** | Patient Care Tech CNA Surg Transplant | Intermountain Hea... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Patient-Care-Tech-CNA-Surg-Transplant_R159690-1) |
+| 🏢 **Intermountain Health** | Patient Care Tech CNA Surg Transplant | Intermountain Hea... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Patient-Care-Tech-CNA-Surg-Transplant_R159690-1) |
 | 🏢 **Banner Health** | Certified Patient Care Assistant CNA LNA CCO Resource Float | Banner Boswell Me... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Boswell-Med-Ctr-10401-W-Thunderbird-Blvd/Certified-Patient-Care-Assistant-CNA-LNA-CCO-Resource-Float_R4434172-1) |
 | 🏢 **Mass General Brigham** | Patient Care Assistant (CNA)   Neurosciences   MGH | 45 Fruit Street B... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/45-Fruit-Street-Boston-Lunder-Building/Patient-Care-Assistant--CNA----Neurosciences---MGH_RQ4055923) |
 | 🏢 **Saint Luke's Health System** | Certified Nursing Assistant | Garnett, KS | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Anderson-County-Hospital------421-S-Maple-St------Garnett------KS/Certified-Nursing-Assistant_JobReq0055425) |
@@ -409,7 +409,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3522 current opportunities from 34 companies**
+**🎯 3523 current opportunities from 34 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
