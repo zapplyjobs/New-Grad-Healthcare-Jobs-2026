@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3522-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3523-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
 ![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1802-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -69,9 +69,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Nurse- RN | MT - Billings | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Plasma-Center-Nurse--RN_R0176579-1) |
 | 🏢 **Takeda** | Registered Nurse (RN) | WI - Madison | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Madison/Registered-Nurse--RN-_R0176636-1) |
 | 🏢 **Takeda** | Plasma Center Nurse - (RN) | VA - Harrisonburg | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Plasma-Center-Nurse----RN-_R0176573-1) |
+| 🏢 **Takeda** | Plasma Center Nurse- RN | MT - Billings | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Plasma-Center-Nurse--RN_R0176579-1) |
 | 🏢 **Thermo Fisher Scientific** | Medical Information Specialist - RN | Morrisville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Medical-Information-Specialist---RN_R-01345482) |
 | 🏢 **WVU Medicine** | Registered Nurse (Rotating) - CVICU | Ruby Memorial Hos... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Ruby-Memorial-Hospital-WVUH/Registered-Nurse--Rotating----CVICU_JR26-25883) |
 | 🏢 **WVU Medicine** | Dayshift PRN LPN | Center for Hope a... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Center-for-Hope-and-Healing/Dayshift-PRN-LPN_JR26-30834) |
@@ -273,9 +273,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Paramedic/EMT-P | MT - Billings | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Paramedic-EMT-P_R0176580) |
 | 🏢 **Takeda** | Medical Screener | WI - Greenfield | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Medical-Screener_R0176642-1) |
 | 🏢 **Takeda** | EMT-P | WI - Madison | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Madison/EMT-P_R0176639-1) |
+| 🏢 **Takeda** | Entry Level Phlebotomist | MO - Kansas City ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/Entry-Level-Phlebotomist_R0176638-1) |
 | 🏢 **Medtronic** | Associate Clinical Specialist CRM - Oakland | Oakland | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oakland-California-United-States-of-America/Associate-Clinical-Specialist-CRM---Oakland_R62411-1) |
 | 🏢 **Medtronic** | Clinical Specialist, CRM - Manhattan NYC | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-York-New-York-United-States-of-America/Clinical-Specialist--CRM---New-York-City_R59640-2) |
 | 🏢 **Medtronic** | Clinical Specialist, CAS- Erie, PA | State of Pennsylv... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Pennsylvania-United-States-of-America/Clinical-Specialist--CAS--Erie--PA_R59517-1) |
@@ -326,8 +326,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Labcorp** | Phlebotomist | Washington DC | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/Washington-DC/Phlebotomist_263761-1) |
 | 🏢 **Banner Health** | ***FILLED Surgical Technologist OR Operating Room | Banner Ironwood M... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Ironwood-Med-Ctr-37000-N-Gantzel-Rd/Surgical-Technologist-OR-Operating-Room_R4432642) |
 | 🏢 **Labcorp** | Phlebotomist- Part Time w/ Benefits | Brooklyn NY | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/Brooklyn-NY/Phlebotomist--Part-Time-w--Benefits_2533055) |
-| 🏢 **Walmart** | (USA) Full-Time Pharmacy Tech Certified Sam's | (USA) CA PALM DES... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-CA-PALM-DESERT-06609-SAMS-CLUB/XMLNAME--USA--Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2450502) |
-| 🏢 **Walmart** | Pharmacy Tech Certified Sam's | (USA) OH SHEFFIEL... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OH-SHEFFIELD-VILLAGE-06314-SAMS-CLUB/Pharmacy-Tech-Certified-Sam-s_R-2450493) |
+| 🏢 **Walmart** | (USA) Full-Time Pharmacy Tech Certified Sam's | (USA) CA PALM DES... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-CA-PALM-DESERT-06609-SAMS-CLUB/XMLNAME--USA--Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2450502) |
+| 🏢 **Walmart** | Pharmacy Tech Certified Sam's | (USA) OH SHEFFIEL... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OH-SHEFFIELD-VILLAGE-06314-SAMS-CLUB/Pharmacy-Tech-Certified-Sam-s_R-2450493) |
 | 🏢 **Polaris** | Occupational Health Nurse (2nd Shift) | Huntsville, AL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Huntsville-AL-USA/Occupational-Health-Nurse--2nd-Shift-_R29127) |
 | 🏢 **Guidehouse** | Cardiothoracic Surgery Coder-Physician Charges | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Cardiothoracic-Surgery-Coder-Physician-Charges_37453) |
 | 🏢 **IDEXX** | Veterinary Software Trainer | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Frisco-TX/Veterinary-Software-Trainer_J-051674) |
@@ -341,7 +341,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Montefiore Medical Center** | Reg Dietitian/Rd Elig U | 2058 Jerome Avenue | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://montefiore.wd12.myworkdayjobs.com/MMC/job/2058-Jerome-Avenue/Reg-Dietitian-Rd-Elig-U_JR228613-1) |
 | 🏢 **Montefiore Medical Center** | Emergency Dept Technician-Wakefield | 600 East 233rd St... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://montefiore.wd12.myworkdayjobs.com/MMC/job/600-East-233rd-Street/Emergency-Dept-Technician-Wakefield_JR228206-2) |
 | 🏢 **Centene** | Pharmacy Technician Care Advocate (MTM & Adherence) | 47 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Pharmacy-Technician-Care-Advocate--MTM---Adherence-_1631990) |
-| 🏢 **The Cigna Group** | Encore Infusion Nurse I | Ohio Work at Home | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Ohio-Work-at-Home/Encore-Infusion-Nurse-I_26002099) |
+| 🏢 **The Cigna Group** | Encore Infusion Nurse I | Ohio Work at Home | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Ohio-Work-at-Home/Encore-Infusion-Nurse-I_26002099) |
 | 🏢 **Merck & Co.** | Physician Editor | Pennsylvania - No... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Physician-Editor_R388888) |
 | 🏢 **Thermo Fisher Scientific** | Med Info Spec-I Pharmacist-- hybrid in Titusville, NJ! | Remote | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-New-Jersey-USA/Med-Info-Spec-I-Pharmacist---hybrid-in-Titusville--NJ-_R-01345439-1) |
 | 🏢 **The Cigna Group** | Encore Patient Consult Pharmacist | 4 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Florida-Work-at-Home/Encore-Patient-Consult-Pharmacist_26003073) |
@@ -409,7 +409,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3522 current opportunities from 34 companies**
+**🎯 3523 current opportunities from 34 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
