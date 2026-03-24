@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3229-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3221-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-31-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1648-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1645-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -312,9 +312,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Banner Health** | Medical Assistant OBGYN | 3 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMG-1441-N-12th-St/Medical-Assistant-OBGYN_R4434618) |
 | 🏢 **Takeda** | Medical Screener | WI - Greenfield | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Medical-Screener_R0176642-1) |
 | 🏢 **Takeda** | EMT-P | WI - Madison | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Madison/EMT-P_R0176639-1) |
-| 🏢 **Medtronic** | Clinical Specialist, CAS- Erie, PA | State of Pennsylv... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Pennsylvania-United-States-of-America/Clinical-Specialist--CAS--Erie--PA_R59517-1) |
 | 🏢 **Medtronic** | Associate Clinical Specialist CRM - Oakland | Oakland | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oakland-California-United-States-of-America/Associate-Clinical-Specialist-CRM---Oakland_R62411-1) |
 | 🏢 **Medtronic** | Clinical Specialist, CRM - Manhattan NYC | 4 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-York-New-York-United-States-of-America/Clinical-Specialist--CRM---New-York-City_R59640-2) |
+| 🏢 **Medtronic** | Clinical Specialist, CAS- Erie, PA | State of Pennsylv... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Pennsylvania-United-States-of-America/Clinical-Specialist--CAS--Erie--PA_R59517-1) |
 | 🏢 **Abbott** | Clinical Associate | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maryland---Annapolis/Clinical-Specialist-II_31137743) |
 | 🏢 **Labcorp** | Phlebotomist | Washington DC | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/Washington-DC/Phlebotomist_263761-1) |
 | 🏢 **Banner Health** | ***FILLED Surgical Technologist OR Operating Room | Banner Ironwood M... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Ironwood-Med-Ctr-37000-N-Gantzel-Rd/Surgical-Technologist-OR-Operating-Room_R4432642) |
@@ -343,8 +343,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Thermo Fisher Scientific** | Med Info Spec-I Pharmacist-- hybrid in Titusville, NJ! | Remote | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-New-Jersey-USA/Med-Info-Spec-I-Pharmacist---hybrid-in-Titusville--NJ-_R-01345439-1) |
 | 🏢 **The Cigna Group** | Encore Patient Consult Pharmacist | 4 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Florida-Work-at-Home/Encore-Patient-Consult-Pharmacist_26003073) |
 | 🏢 **Centene** | Pharmacy Technician Care Advocate | 7 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-KY/Pharmacy-Technician-Care-Advocate_1633519) |
-| 🏢 **Johnson & Johnson** | Ultrasound Area Technology Specialist  (AZ, UT, CO, WA) – Cardiac Sonographer - Johnson & Johnson MedTech, Electrophysiology | 4 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Ultrasound-Area-Technology-Specialist---AZ--UT--CO--WA----Cardiac-Sonographer---Johnson---Johnson-MedTech--Electrophysiology_R-043329) |
 | 🏢 **Merck & Co.** | Physician Editor | Pennsylvania - No... | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Physician-Editor_R388888) |
+| 🏢 **Johnson & Johnson** | Ultrasound Area Technology Specialist  (AZ, UT, CO, WA) – Cardiac Sonographer - Johnson & Johnson MedTech, Electrophysiology | 4 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Ultrasound-Area-Technology-Specialist---AZ--UT--CO--WA----Cardiac-Sonographer---Johnson---Johnson-MedTech--Electrophysiology_R-043329) |
 | 🏢 **Guidehouse** | Plastic Surgery Coder - Physician Coder | Remote | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Plastic-Surgery-Coder---Physician-Coder_37294) |
 | 🏢 **Guidehouse** | Biostatistician - Advanced Modeling & Public Health Analytics | 2 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---GA-Atlanta/Biostatistician---Advanced-Modeling---Public-Health-Analytics_37241-1) |
 
@@ -402,7 +402,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3229 current opportunities from 31 companies**
+**🎯 3221 current opportunities from 31 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
