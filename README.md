@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3242-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3240-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-31-blue?style=flat&logo=building)
 ![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1649-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -323,15 +323,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Thermo Fisher Scientific** | Per Diem Paramedic | Austin | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Per-Diem-Paramedic_R-01345530) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (1st SFG, JBLM, WA) | McChord, Washington | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Joint-Base-Lewis-McChord-Washington/Special-Operations-Licensed-Clinical-Social-Worker--1st-SFG--JBLM--WA-_R2120671) |
 | 🏢 **IDEXX** | Field Sales Veterinary Diagnostic Denver South | Denver, CO | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Denver-CO/Field-Sales-Veterinary-Diagnostic--Denver-South_J-052168) |
-| 🏢 **Abbott** | Medical Scientific Liaison (ID Nurse) | Illinois - Lake F... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Medical-Scientific-Liaison_31138714-1) |
+| 🏢 **Abbott** | Clinical Specialist, CRM - Knoxville, TN | Illinois - Abbott... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Clinical-Specialist--CRM---Knoxville--TN_31145314-1) |
 | 🏢 **Walmart** | (USA) Full-Time Pharmacy Tech Certified Sam's | (USA) CA PALM DES... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-CA-PALM-DESERT-06609-SAMS-CLUB/XMLNAME--USA--Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2450502) |
 | 🏢 **Walmart** | Pharmacy Tech Certified Sam's | (USA) OH SHEFFIEL... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OH-SHEFFIELD-VILLAGE-06314-SAMS-CLUB/Pharmacy-Tech-Certified-Sam-s_R-2450493) |
 | 🏢 **Sharp Healthcare** | Nursing Assistant - Telemetry 5E - Sharp Grossmont Hospital - Night Shift - Full Time | La Mesa, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/Nursing-Assistant---Telemetry-5E---Sharp-Grossmont-Hospital---Night-Shift---Full-Time_JR204833-1) |
 | 🏢 **Banner Health** | Acute Ultrasound Technologist I | Banner Staffing S... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Staffing-Svcs-Mesa-525-W-Brown-Rd/Acute-Ultrasound-Technologist-I_R4435280) |
-| 🏢 **Centene** | Quality Performance Clinical Pharmacist | 9 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-TX/Quality-Performance-Clinical-Pharmacist_1629917) |
 | 🏢 **Polaris** | Occupational Health Nurse (2nd Shift) | Huntsville, AL | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Huntsville-AL-USA/Occupational-Health-Nurse--2nd-Shift-_R29127) |
 | 🏢 **Guidehouse** | Cardiothoracic Surgery Coder-Physician Charges | Remote | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Cardiothoracic-Surgery-Coder-Physician-Charges_37453) |
 | 🏢 **IDEXX** | Veterinary Software Trainer | 2 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Frisco-TX/Veterinary-Software-Trainer_J-051674) |
+| 🏢 **Centene** | Quality Performance Clinical Pharmacist | 9 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-TX/Quality-Performance-Clinical-Pharmacist_1629917) |
 | 🏢 **Boeing** | Occupational Health Physician | Everett, WA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Occupational-Health-Physician_JR2026494181) |
 | 🏢 **Johnson & Johnson** | Ultrasound Clinical Account Specialist (Central NJ) – Cardiac Sonographer - Johnson and Johnson MedTech - Electrophysiology | 2 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Morristown-New-Jersey-United-States/Ultrasound-Clinical-Account-Specialist--Central-NJ----Cardiac-Sonographer---Johnson-and-Johnson-MedTech---Electrophysiology_R-064364) |
 | 🏢 **Johnson & Johnson** | Field Clinical Specialist - Shockwave - Los Angeles | Los Angeles | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Field-Clinical-Specialist---Shockwave---Los-Angeles_R-064728-1) |
@@ -402,7 +402,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3242 current opportunities from 31 companies**
+**🎯 3240 current opportunities from 31 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
