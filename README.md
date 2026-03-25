@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2964-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2963-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-31-blue?style=flat&logo=building)
 ![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1541-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -273,16 +273,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | Medical Screener/Phlebotomist | UT - Layton | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---UT---Layton/Medical-Screener-Phlebotomist_R0176828-1) |
 | 🏢 **Takeda** | Plasma Center Phlebotomist - Day 1 Benefits | WI - Sheboygan | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Sheboygan/Plasma-Center-Phlebotomist---Day-1-Benefits_R0175587-1) |
 | 🏢 **Takeda** | Entry-Level Plasma Center Technician / Phlebotomist – Paid Training & Benefits Day 1 (Nights & Weekends) | OH - Mentor | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Mentor/Entry-Level-Plasma-Center-Technician---Phlebotomist---Paid-Training---Benefits-Day-1--Nights---Weekends-_R0176035-1) |
+| 🏢 **Medtronic** | Clinical Specialist - CAS Greater Southwest (Albuquerque, NM) | 2 Locations | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Albuquerque-New-Mexico-United-States-of-America/Clinical-Specialist---CAS-Greater-Southwest--Albuquerque--NM-_R62682-1) |
 | 🏢 **Medtronic** | Clinical Specialist Pelvic Health- Greenville, SC | Greenville | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Greenville-South-Carolina-United-States-of-America/Clinical-Specialist-Pelvic-Health--Greenville--SC_R56701) |
 | 🏢 **Medtronic** | CRM Clinical Specialist - Hartford, CT | Hartford | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1) |
+| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (Fort Bragg, NC) | 2 Locations | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Licensed-Clinical-Social-Worker--Fort-Bragg--NC-_R2120860) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (Fort Bragg, NC) | Fayetteville | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Licensed-Clinical-Social-Worker--Fort-Bragg--NC-_R2120867) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (National Capital Region) | Washington, DC | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC/Special-Operations-Licensed-Clinical-Social-Worker--National-Capital-Region-_R2120866) |
-| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (Fort Bragg, NC) | 2 Locations | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Licensed-Clinical-Social-Worker--Fort-Bragg--NC-_R2120860) |
 | 🏢 **Johnson & Johnson** | Field Clinical Specialist - Shockwave - Chicago, IL - Remote | Chicago | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Chicago-Illinois-United-States/Field-Clinical-Specialist---Shockwave---Chicago--IL---Remote_R-065934-1) |
-| 🏢 **Abbott** | Associate Clinical Specialist, CRM (San Antonio, TX) | Texas - San Antonio | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---San-Antonio/Associate-Clinical-Specialist--CRM--San-Antonio--TX-_31145608-1) |
-| 🏢 **Abbott** | Occupational Health Nurse | Missouri - Kansas... | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Occupational-Health-Nurse_31145628-1) |
-| 🏢 **Abbott** | Technical Call Center Medical Technologist | Texas - Irving | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Technical-Call-Center-Medical-Technologist_31142676-1) |
-| 🏢 **Medtronic** | Clinical Specialist, CRM - Manhattan NYC | 4 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-York-New-York-United-States-of-America/Clinical-Specialist--CRM---New-York-City_R59640-2) |
+| 🏢 **Abbott** | Associate Clinical Specialist, CRM (San Antonio, TX) | Texas - San Antonio | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---San-Antonio/Associate-Clinical-Specialist--CRM--San-Antonio--TX-_31145608-1) |
+| 🏢 **Abbott** | Occupational Health Nurse | Missouri - Kansas... | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Occupational-Health-Nurse_31145628-1) |
+| 🏢 **Abbott** | Technical Call Center Medical Technologist | Texas - Irving | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Technical-Call-Center-Medical-Technologist_31142676-1) |
 | 🏢 **WVU Medicine** | Physical Therapist I | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Berkeley-Medical-Center-BMC/Physical-Therapist-I_JR26-30815) |
 | 🏢 **WVU Medicine** | Medical Assistant | Berkeley Medical ... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Berkeley-Medical-Center-BMC/Medical-Assistant_JR26-31353) |
 | 🏢 **WVU Medicine** | Pharmacist- Evenings | Thomas Memorial H... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Thomas-Memorial-Hospital-TMH/Pharmacist--Evenings_JR26-31237) |
@@ -402,7 +402,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2964 current opportunities from 31 companies**
+**🎯 2963 current opportunities from 31 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -410,6 +410,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: March 24, 2026
+**Last Updated**: March 25, 2026
 
 </div>
