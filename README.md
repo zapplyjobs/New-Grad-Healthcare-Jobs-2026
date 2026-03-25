@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2864-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2883-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1488-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1501-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -179,7 +179,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Takeda** | Licensed Practical Nurse – LPN | IN - Fort Wayne -... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Getz-Rd/Licensed-Practical-Nurse---LPN_R0176702-1) |
 | 🏢 **Takeda** | Licensed Practical Nurse - Day One Medical Benefits | OK - Tulsa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Licensed-Practical-Nurse---Day-One-Medical-Benefits_R0176701) |
-| 🏢 **Takeda** | Licensed Practical Nurse (LPN) | WI - Oshkosh | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Oshkosh/Licensed-Practical-Nurse--LPN-_R0176696-1) |
+| 🏢 **Takeda** | Medical Support Specialist -  LPN | IN - Greenwood | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Greenwood/Medical-Support-Specialist----LPN_R0176686-1) |
 | 🏢 **Ochsner Health** | Licensed Practical Nurse (LPN) - Medsurg 5- Days | Baton Rouge Regio... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/Licensed-Practical-Nurse--LPN----Medsurg-5--Days_REQ_00250516) |
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Interventional Radiology | Scranton, PA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Scranton-PA/LPN---Licensed-Practical-Nurse---Interventional-Radiology_R-93969) |
 | 🏢 **Cleveland Clinic** | LPN Ambulatory -- Pediatrics | Cleveland Clinic ... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/LPN-Ambulatory----Pediatrics_303274) |
@@ -270,11 +270,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Medtronic** | Clinical Specialist Pelvic Health-  Mobile, AL | Mobile | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mobile-Alabama-United-States-of-America/Clinical-Specialist-Pelvic-Health---Mobile--AL_R61438-1) |
-| 🏢 **Caterpillar** | Occupational Health Nurse | West Fargo | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/West-Fargo-North-Dakota/Occupational-Health-Nurse_R0000358583) |
+| 🏢 **Caterpillar** | Occupational Health Nurse | West Fargo | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/West-Fargo-North-Dakota/Occupational-Health-Nurse_R0000358583) |
 | 🏢 **Abbott** | Clinical Associate | Washington - Spokane | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington---Spokane/Clinical-Associate_31131419-1) |
-| 🏢 **Takeda** | Medical Screener | FL - Gainesville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Gainesville/Medical-Screener_R0175568-1) |
-| 🏢 **Takeda** | Entry Level Phlebotomist - Paid Training | GA - Columbus | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Columbus/Plasma-Center-Technician_R0174204-1) |
-| 🏢 **Takeda** | Entry Level Phlebotomist | PA - Camp Hill | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Camp-Hill/Entry-Level-Phlebotomist_R0173655-1) |
+| 🏢 **Takeda** | Medical Screener | WI - Janesville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Medical-Screener_R0176331-1) |
+| 🏢 **Takeda** | Medical Historian/Phlebotomist | IL - Bolingbrook | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Bolingbrook/Medical-Historian-Phlebotomist_R0176309-1) |
+| 🏢 **Takeda** | Medical Screener | IL - Villa Park | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Villa-Park/Medical-Screener_R0176258) |
 | 🏢 **Medtronic** | Clinical Specialist - CAS, New Orleans, LA, Baton Rouge, LA /Jackson, MS, Hattiesburg, MS | 7 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-Orleans-Louisiana-United-States-of-America/Clinical-Specialist---CAS--New-Orleans--LA--Baton-Rouge--LA--Jackson--MS--Hattiesburg--MS_R56138-1) |
 | 🏢 **Medtronic** | Clinical Specialist Pelvic Health- Daytona, FL | Daytona | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Daytona-Florida-United-States-of-America/Clinical-Specialist-Pelvic-Health--Daytona--FL_R62537) |
 | 🏢 **IDEXX** | Data Billing Associate - Veterinary Software | Westbrook, ME | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273) |
@@ -324,9 +324,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Banner Health** | ***FILLED Surgical Technologist OR Operating Room | Banner Ironwood M... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Ironwood-Med-Ctr-37000-N-Gantzel-Rd/Surgical-Technologist-OR-Operating-Room_R4432642) |
 | 🏢 **Thermo Fisher Scientific** | Pharmacist | Rockville | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/Pharmacist_R-01345857) |
 | 🏢 **Thermo Fisher Scientific** | Per Diem Paramedic | Austin | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Per-Diem-Paramedic_R-01345530) |
-| 🏢 **Labcorp** | Phlebotomist- Part Time w/ Benefits | Brooklyn NY | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/Brooklyn-NY/Phlebotomist--Part-Time-w--Benefits_2533055) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (1st SFG, JBLM, WA) | McChord, Washington | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Joint-Base-Lewis-McChord-Washington/Special-Operations-Licensed-Clinical-Social-Worker--1st-SFG--JBLM--WA-_R2120671) |
 | 🏢 **IDEXX** | Field Sales Veterinary Diagnostic Denver South | Denver, CO | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Denver-CO/Field-Sales-Veterinary-Diagnostic--Denver-South_J-052168) |
+| 🏢 **Labcorp** | Phlebotomist- Part Time w/ Benefits | Brooklyn NY | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/External/job/Brooklyn-NY/Phlebotomist--Part-Time-w--Benefits_2533055) |
 | 🏢 **Walmart** | (USA) Full-Time Pharmacy Tech Certified Sam's | (USA) CA PALM DES... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-CA-PALM-DESERT-06609-SAMS-CLUB/XMLNAME--USA--Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2450502) |
 | 🏢 **Walmart** | Pharmacy Tech Certified Sam's | (USA) OH SHEFFIEL... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OH-SHEFFIELD-VILLAGE-06314-SAMS-CLUB/Pharmacy-Tech-Certified-Sam-s_R-2450493) |
 | 🏢 **Sharp Healthcare** | Nursing Assistant - Telemetry 5E - Sharp Grossmont Hospital - Night Shift - Full Time | La Mesa, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/Nursing-Assistant---Telemetry-5E---Sharp-Grossmont-Hospital---Night-Shift---Full-Time_JR204833-1) |
@@ -403,7 +403,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2864 current opportunities from 34 companies**
+**🎯 2883 current opportunities from 34 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
