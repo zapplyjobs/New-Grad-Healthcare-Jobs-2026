@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2622-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2619-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1390-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1387-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -109,8 +109,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Banner Health** | Registered Nurse RN Family Medicine Clinic | BUMC Phoenix Fami... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-Family-Medicine-1300-N-12th-St-Suite-605/Registered-Nurse-RN-Family-Medicine-Clinic_R4437129) |
 | 🏢 **Banner Health** | Certified Patient Care Assistant CNA LNA Med Surg Ortho | Banner Del Webb M... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Del-Webb-Med-Ctr-14502-W-Meeker-Blvd/Certified-Patient-Care-Assistant-CNA-LNA-Med-Surg-Ortho_R4436331) |
 | 🏢 **Banner Health** | Registered Nurse RN Labor and Delivery | Banner Gateway Me... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Gateway-Med-Ctr-1900-N-Higley-Rd/Registered-Nurse-RN-Labor-and-Delivery_R4437117) |
-| 🏢 **Montefiore Medical Center** | REGISTERED NURSE PER DIEM | 111 East 210th St... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://montefiore.wd12.myworkdayjobs.com/MMC/job/111-East-210th-Street/REGISTERED-NURSE-PER-DIEM_JR226723-1) |
 | 🏢 **General Motors** | Occupational Health Registered Nurse (2nd Shift) | Romulus | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Romulus-Michigan-United-States-of-America/Occupational-Health-Registered-Nurse--2nd-Shift-_JR-202606101) |
+| 🏢 **Montefiore Medical Center** | REGISTERED NURSE PER DIEM | 111 East 210th St... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://montefiore.wd12.myworkdayjobs.com/MMC/job/111-East-210th-Street/REGISTERED-NURSE-PER-DIEM_JR226723-1) |
 | 🏢 **The Cigna Group** | Care Coordinator -  EAP, Behavioral Operations - Evernorth Behavioral Health - Remote | United States Wor... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Care-Coordinator----EAP--Behavioral-Operations---Evernorth-Behavioral-Health---Remote_26002998) |
 | 🏢 **CVS Health** | Registered Nurse RN-Home Infusion-Full Time | New Jersey | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-New-Jersey/Registered-Nurse-RN-Home-Infusion-Full-Time_R0848047) |
 | 🏢 **Philips** | Critical Care Nurse - Clinical Solution Specialist (Travel: Northern California) | 2 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Jose-California-United-States/Critical-Care-Nurse---Clinical-Solution-Specialist--Travel--Northern-California-_578439) |
@@ -276,7 +276,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Medtronic** | Clinical Specialist Pelvic Health-  Mobile, AL | Mobile | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mobile-Alabama-United-States-of-America/Clinical-Specialist-Pelvic-Health---Mobile--AL_R61438-1) |
 | 🏢 **IDEXX** | Veterinary Software Trainer | 2 Locations | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Frisco-TX/Veterinary-Software-Trainer_J-051674) |
 | 🏢 **Caterpillar** | Occupational Health Nurse | West Fargo | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/West-Fargo-North-Dakota/Occupational-Health-Nurse_R0000358583) |
-| 🏢 **Abbott** | Clinical Specialist I, CPT - Tampa, FL | Florida - Tampa | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist-I--CPT---Tampa--FL_31145614-1) |
+| 🏢 **Abbott** | Clinical Specialist I, CPT - Tampa, FL | Florida - Tampa | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist-I--CPT---Tampa--FL_31145614-1) |
 | 🏢 **Abbott** | Clinical Associate | Washington - Spokane | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington---Spokane/Clinical-Associate_31131419-1) |
 | 🏢 **Medtronic** | Clinical Specialist - CAS, New Orleans, LA, Baton Rouge, LA /Jackson, MS, Hattiesburg, MS | 7 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-Orleans-Louisiana-United-States-of-America/Clinical-Specialist---CAS--New-Orleans--LA--Baton-Rouge--LA--Jackson--MS--Hattiesburg--MS_R56138-1) |
 | 🏢 **IDEXX** | Data Billing Associate - Veterinary Software | Westbrook, ME | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273) |
@@ -403,7 +403,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2622 current opportunities from 34 companies**
+**🎯 2619 current opportunities from 34 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
