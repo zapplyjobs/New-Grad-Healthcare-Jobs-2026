@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2889-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2900-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1499-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1504-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -270,12 +270,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Abbott** | Clinical Associate | Washington - Spokane | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington---Spokane/Clinical-Associate_31131419-1) |
-| 🏢 **Takeda** | Medical Screener | WI - Janesville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Medical-Screener_R0176331-1) |
-| 🏢 **Takeda** | Medical Screener | TN - Chattanooga | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Chattanooga/Medical-Screener_R0176307-1) |
-| 🏢 **Takeda** | Medical Screener | WI - Mount Pleasa... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Mount-Pleasant---Dura/Medical-Screener_R0176338-1) |
+| 🏢 **Takeda** | Medical Screener | MA - Methuen | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Methuen/Medical-Screener_R0175679-1) |
+| 🏢 **Takeda** | Experienced Phlebotomist | FL - Jacksonville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville/Experienced-Phlebotomist_R0173694-1) |
+| 🏢 **Takeda** | Entry Level Phlebotomist/Medical Screener - Paid Training | AL - Mobile | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AL---Mobile/Entry-Level-Phlebotomist-Medical-Screener---Paid-Training_R0173657-1) |
+| 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1) |
 | 🏢 **Medtronic** | Clinical Specialist - CAS, New Orleans, LA, Baton Rouge, LA /Jackson, MS, Hattiesburg, MS | 7 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-Orleans-Louisiana-United-States-of-America/Clinical-Specialist---CAS--New-Orleans--LA--Baton-Rouge--LA--Jackson--MS--Hattiesburg--MS_R56138-1) |
 | 🏢 **Medtronic** | Clinical Specialist Pelvic Health- Daytona, FL | Daytona | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Daytona-Florida-United-States-of-America/Clinical-Specialist-Pelvic-Health--Daytona--FL_R62537) |
-| 🏢 **Medtronic** | Clinical Specialist CRM - Sarasota | Sarasota | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Sarasota-Florida-United-States-of-America/Clinical-Specialist-CRM---Sarasota_R62522-1) |
 | 🏢 **IDEXX** | Data Billing Associate - Veterinary Software | Westbrook, ME | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273) |
 | 🏢 **Exact Sciences** | Histotechnologist I | CA - Redwood City | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Histotechnologist-I_R26-12540) |
 | 🏢 **Exact Sciences** | Histotechnologist I | AZ - Phoenix | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histotechnologist-I_R26-12760) |
@@ -402,7 +402,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2889 current opportunities from 34 companies**
+**🎯 2900 current opportunities from 34 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
