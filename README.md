@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2071-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2062-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-35-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1136-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1132-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -263,14 +263,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Abbott** | Clinical Associate | Kansas - Wichita | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kansas---Wichita/Clinical-Associate_31131494-1) |
 | 🏢 **RTX** | Firefighter/EMT 24/48 Shift (onsite) | CT-EAST HARTFORD-... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Firefighter-EMT-24-48-Shift--onsite-_01832663) |
 | 🏢 **AbbVie** | ACPRU Investigational Pharmacist | North Chicago, IL | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012335007) |
-| 🏢 **Medtronic** | Clinical Specialist Pelvic Health- Knoxville, TN | Knoxville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Knoxville-Tennessee-United-States-of-America/Clinical-Specialist-Pelvic-Health--Knoxville--TN_R59083-1) |
-| 🏢 **Medtronic** | Clinical Specialist- Pelvic Health - Macon, GA | Macon | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Macon-Georgia-United-States-of-America/Clinical-Specialist--Pelvic-Health---Macon--GA_R62049-1) |
+| 🏢 **Medtronic** | Clinical Specialist CRM - Oklahoma City | Oklahoma City | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oklahoma-City-Oklahoma-United-States-of-America/Clinical-Specialist-CRM---Oklahoma-City_R62641-1) |
+| 🏢 **Medtronic** | Clinical Specialist Pelvic Health-  Mobile, AL | Mobile | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mobile-Alabama-United-States-of-America/Clinical-Specialist-Pelvic-Health---Mobile--AL_R61438-1) |
 | 🏢 **IDEXX** | Veterinary Laboratory Technician | Boardman, OH | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Boardman-OH/Veterinary-Laboratory-Technician_J-052169) |
 | 🏢 **IDEXX** | Veterinary Software Trainer | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Frisco-TX/Veterinary-Software-Trainer_J-051674) |
 | 🏢 **Caterpillar** | Occupational Health Nurse | West Fargo | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/West-Fargo-North-Dakota/Occupational-Health-Nurse_R0000358583) |
+| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (Fort Bragg, NC) | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Licensed-Clinical-Social-Worker--Fort-Bragg--NC-_R2120860) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (Fort Bragg, NC) | Fayetteville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Licensed-Clinical-Social-Worker--Fort-Bragg--NC-_R2120867) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (National Capital Region) | Washington, DC | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC/Special-Operations-Licensed-Clinical-Social-Worker--National-Capital-Region-_R2120866) |
-| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (Fort Bragg, NC) | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Licensed-Clinical-Social-Worker--Fort-Bragg--NC-_R2120860) |
 | 🏢 **Johnson & Johnson** | Field Clinical Specialist - Shockwave - Chicago, IL - Remote | Chicago | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Chicago-Illinois-United-States/Field-Clinical-Specialist---Shockwave---Chicago--IL---Remote_R-065934-1) |
 | 🏢 **IDEXX** | Data Billing Associate - Veterinary Software | Westbrook, ME | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273) |
 | 🏢 **Exact Sciences** | Histotechnologist I | CA - Redwood City | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Histotechnologist-I_R26-12540) |
@@ -391,7 +391,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2071 current opportunities from 35 companies**
+**🎯 2062 current opportunities from 35 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
