@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2241-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2203-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1254-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1229-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -203,7 +203,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **AbbVie** | Oncology Nurse Educator - Philadelphia, PA | Philadelphia, PA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012333801) |
+| 🏢 **AbbVie** | Oncology Nurse Educator - Philadelphia, PA | Philadelphia, PA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012333801) |
 | 🏢 **Geisinger Health** | Nursing Assistant - Evenings/Nights - Advanced Acute Care Orthopedic Trauma Unit - No CNA Required | Barre, PA, PA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Wilkes-Barre-PA/Nursing-Assistant---Evenings-Nights---Advanced-Acute-Care-Orthopedic-Trauma-Unit---No-CNA-Required_R-93889) |
 | 🏢 **Geisinger Health** | Nursing Assistant - Per Diem - Intensive Care Unit - No CNA Required | Scranton, PA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Scranton-PA/Nursing-Assistant---Per-Diem---Intensive-Care-Unit---No-CNA-Required_R-93907-1) |
 | 🏢 **Geisinger Health** | Nursing Assistant - Days/Evenings -  Advanced Acute Care Orthopedic Telemetry Unit - No CNA Required | Barre, PA, PA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Wilkes-Barre-PA/Nursing-Assistant---Days-Evenings----Advanced-Acute-Care-Orthopedic-Telemetry-Unit---No-CNA-Required_R-93854) |
@@ -254,9 +254,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Experienced Phlebotomist – Immediate Benefits | NE - Omaha | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Experienced-Phlebotomist---Immediate-Benefits_R0176588-1) |
-| 🏢 **Takeda** | Entry Level Medical Screener | IL - DeKalb | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---DeKalb/Entry-Level-Medical-Screener_R0176262-1) |
-| 🏢 **Takeda** | Entry-Level Phlebotomist - Paid Training | MO - Saint Ann | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Ann/Entry-Level-Phlebotomist---Paid-Training_R0176334-1) |
+| 🏢 **Takeda** | Plasma Center Technician - Phlebotomist | OK - Oklahoma City | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/Plasma-Center-Technician---Phlebotomist_R0176303-1) |
+| 🏢 **Takeda** | Entry Level Medical Screener | IL - DeKalb | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---DeKalb/Entry-Level-Medical-Screener_R0176262-1) |
+| 🏢 **Takeda** | Entry-Level Phlebotomist - Paid Training | MO - Saint Ann | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Ann/Entry-Level-Phlebotomist---Paid-Training_R0176334-1) |
 | 🏢 **AbbVie** | ACPRU Investigational Pharmacist | North Chicago, IL | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012335007) |
 | 🏢 **Medtronic** | Clinical Specialist Pelvic Health- Knoxville, TN | Knoxville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Knoxville-Tennessee-United-States-of-America/Clinical-Specialist-Pelvic-Health--Knoxville--TN_R59083-1) |
 | 🏢 **Medtronic** | Clinical Specialist- Pelvic Health - Macon, GA | Macon | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Macon-Georgia-United-States-of-America/Clinical-Specialist--Pelvic-Health---Macon--GA_R62049-1) |
@@ -390,7 +390,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2241 current opportunities from 34 companies**
+**🎯 2203 current opportunities from 34 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
