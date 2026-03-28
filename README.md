@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1819-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1818-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-35-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1033-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1032-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -252,9 +252,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Medical Screener | FL - Tallahassee | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tallahassee/Medical-Screener_R0177262-1) |
-| 🏢 **Takeda** | Entry Level Phlebotomist/Medical Screener - Immediate Benefits | MI - Ypsilanti | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Ypsilanti/Entry-Level-Phlebotomist-Medical-Screener---Immediate-Benefits_R0177312-1) |
-| 🏢 **Takeda** | Medical Screener | IL - Rockford | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Medical-Screener_R0177336) |
+| 🏢 **Takeda** | Entry Level Phlebotomist - Paid Training | MI - Livonia | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Livonia/Entry-Level-Phlebotomist---Paid-Training_R0177307-1) |
+| 🏢 **Takeda** | Medical Screener | TN - Chattanooga | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Chattanooga/Medical-Screener_R0176307-1) |
+| 🏢 **Takeda** | Medical Screener, Phlebotomist | AZ - Phoenix | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Medical-Screener--Phlebotomist_R0176371-1) |
 | 🏢 **Thermo Fisher Scientific** | Research Technician (Phlebotomist) | Las Vegas | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Research-Technician--Phlebotomist-_R-01344612) |
 | 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Los Angeles, CA | Los Angeles | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Clinical-Specialist--Pain-Interventions---Los-Angeles--CA_R62892) |
 | 🏢 **Medtronic** | Prin. Clinical Specialist - Superficial Venous Interventions (SVI) - Ft. Lauderdale, FL | Fort Lauderdale | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fort-Lauderdale-Florida-United-States-of-America/Prin-Clinical-Specialist---Superficial-Venous-Interventions--SVI----Ft-Lauderdale--FL_R62820-2) |
@@ -274,8 +274,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Johnson & Johnson** | Field Clinical Specialist - Shockwave - Chicago, IL - Remote | Chicago | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Chicago-Illinois-United-States/Field-Clinical-Specialist---Shockwave---Chicago--IL---Remote_R-065934-1) |
 | 🏢 **Exact Sciences** | Histotechnologist I | CA - Redwood City | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Histotechnologist-I_R26-12540) |
 | 🏢 **Exact Sciences** | Histotechnologist I | AZ - Phoenix | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histotechnologist-I_R26-12760) |
-| 🏢 **Disney** | Veterinary Technician (Seasonal/Casual Temporary) | Lake Buena Vista, FL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Veterinary-Technician--Seasonal-Casual-Temporary-_10143208) |
 | 🏢 **Caterpillar** | Nurse | Sanford | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Sanford-North-Carolina/Nurse_R0000357765) |
+| 🏢 **Disney** | Veterinary Technician (Seasonal/Casual Temporary) | Lake Buena Vista, FL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Veterinary-Technician--Seasonal-Casual-Temporary-_10143208) |
 | 🏢 **IDEXX** | Data Billing Associate - Veterinary Software | Westbrook, ME | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273) |
 | 🏢 **WVU Medicine** | Physical Therapist I | 2 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Berkeley-Medical-Center-BMC/Physical-Therapist-I_JR26-30815) |
 | 🏢 **WVU Medicine** | Medical Assistant | Berkeley Medical ... | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Berkeley-Medical-Center-BMC/Medical-Assistant_JR26-31353) |
@@ -390,7 +390,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1819 current opportunities from 35 companies**
+**🎯 1818 current opportunities from 35 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
