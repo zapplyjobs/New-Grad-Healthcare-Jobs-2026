@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1830-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1826-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-35-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1037-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1036-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,9 +69,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND | North Dakota - Fargo | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064) |
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockland, MI | Michigan - Traver... | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Traverse-City/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockland--MI_31146063) |
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Olympia, WA | Washington - Olympia | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington---Olympia/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Olympia--WA_31146062) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND | North Dakota - Fargo | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockland, MI | Michigan - Traver... | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Traverse-City/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockland--MI_31146063) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Olympia, WA | Washington - Olympia | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington---Olympia/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Olympia--WA_31146062) |
 | 🏢 **Takeda** | Registered Nurse (RN) – Weekend Availability Needed Appleton Eisen | WI - Appleton - E... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Registered-Nurse--RN----Weekend-Availability-Needed-Appleton-Eisen_R0177098-1) |
 | 🏢 **Takeda** | Medical Support Specialist (RN Nurse) - Plasma Center | CO - Colorado Spr... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Colorado-Springs/Medical-Support-Specialist--RN-Nurse----Plasma-Center_R0176879-1) |
 | 🏢 **Takeda** | Plasma Center Registered Nurse (RN) – Immediate Benefits! | IN - Kokomo | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0176870-1) |
@@ -252,17 +252,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 🏢 **Takeda** | Medical Screener | FL - Tallahassee | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tallahassee/Medical-Screener_R0177262-1) |
 | 🏢 **Takeda** | Medical Screener | IL - Rockford | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Medical-Screener_R0177336) |
 | 🏢 **Takeda** | Medical Screener – Day One Benefits | LA - Lafayette | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Medical-Screener---Day-One-Benefits_R0177335-1) |
-| 🏢 **Takeda** | Entry Level Phlebotomist | IL - Villa Park | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Villa-Park/Entry-Level-Phlebotomist_R0177333-1) |
 | 🏢 **Thermo Fisher Scientific** | Research Technician (Phlebotomist) | Las Vegas | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Research-Technician--Phlebotomist-_R-01344612) |
 | 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Los Angeles, CA | Los Angeles | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Clinical-Specialist--Pain-Interventions---Los-Angeles--CA_R62892) |
 | 🏢 **Medtronic** | Prin. Clinical Specialist - Superficial Venous Interventions (SVI) - Ft. Lauderdale, FL | Fort Lauderdale | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fort-Lauderdale-Florida-United-States-of-America/Prin-Clinical-Specialist---Superficial-Venous-Interventions--SVI----Ft-Lauderdale--FL_R62820-2) |
 | 🏢 **Medtronic** | Clinical Specialist CRM - Dallas/Fort Worth | Dallas | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Clinical-Specialist-CRM---Dallas-Fort-Worth_R62542-1) |
-| 🏢 **Guidehouse** | Biostatistician - Advanced Modeling & Public Health Analytics | GA, Atlanta | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---GA-Atlanta/Biostatistician---Advanced-Modeling---Public-Health-Analytics_34587) |
-| 🏢 **Abbott** | Clinical Specialist - South Tampa, FL | Florida - Tampa | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist-II---South-Tampa--FL_31144903-1) |
-| 🏢 **Abbott** | Clinical Associate | Tennessee - Memphis | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Memphis/Clinical-Associate_31145518-1) |
-| 🏢 **Abbott** | Clinical Associate | Kansas - Wichita | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kansas---Wichita/Clinical-Associate_31131494-1) |
+| 🏢 **Guidehouse** | Biostatistician - Advanced Modeling & Public Health Analytics | GA, Atlanta | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---GA-Atlanta/Biostatistician---Advanced-Modeling---Public-Health-Analytics_34587) |
+| 🏢 **Abbott** | Clinical Specialist - South Tampa, FL | Florida - Tampa | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist-II---South-Tampa--FL_31144903-1) |
+| 🏢 **Abbott** | Clinical Associate | Tennessee - Memphis | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Memphis/Clinical-Associate_31145518-1) |
+| 🏢 **Abbott** | Clinical Associate | Kansas - Wichita | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kansas---Wichita/Clinical-Associate_31131494-1) |
 | 🏢 **RTX** | Firefighter/EMT 24/48 Shift (onsite) | CT-EAST HARTFORD-... | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Firefighter-EMT-24-48-Shift--onsite-_01832663) |
 | 🏢 **AbbVie** | ACPRU Investigational Pharmacist | North Chicago, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012335007) |
 | 🏢 **IDEXX** | Veterinary Laboratory Technician | Boardman, OH | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Boardman-OH/Veterinary-Laboratory-Technician_J-052169) |
@@ -272,8 +272,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (National Capital Region) | Washington, DC | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC/Special-Operations-Licensed-Clinical-Social-Worker--National-Capital-Region-_R2120866) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (Fort Bragg, NC) | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Licensed-Clinical-Social-Worker--Fort-Bragg--NC-_R2120860) |
 | 🏢 **Johnson & Johnson** | Field Clinical Specialist - Shockwave - Chicago, IL - Remote | Chicago | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Chicago-Illinois-United-States/Field-Clinical-Specialist---Shockwave---Chicago--IL---Remote_R-065934-1) |
-| 🏢 **Exact Sciences** | Histotechnologist I | AZ - Phoenix | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histotechnologist-I_R26-12760) |
 | 🏢 **Exact Sciences** | Histotechnologist I | CA - Redwood City | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Histotechnologist-I_R26-12540) |
+| 🏢 **Exact Sciences** | Histotechnologist I | AZ - Phoenix | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histotechnologist-I_R26-12760) |
 | 🏢 **Caterpillar** | Nurse | Sanford | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Sanford-North-Carolina/Nurse_R0000357765) |
 | 🏢 **Disney** | Veterinary Technician (Seasonal/Casual Temporary) | Lake Buena Vista, FL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Veterinary-Technician--Seasonal-Casual-Temporary-_10143208) |
 | 🏢 **IDEXX** | Data Billing Associate - Veterinary Software | Westbrook, ME | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273) |
@@ -390,7 +390,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1830 current opportunities from 35 companies**
+**🎯 1826 current opportunities from 35 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
