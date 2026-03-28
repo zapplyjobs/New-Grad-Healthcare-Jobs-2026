@@ -254,7 +254,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Entry Level Phlebotomist/Medical Screener - Immediate Benefits | MI - Ypsilanti | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Ypsilanti/Entry-Level-Phlebotomist-Medical-Screener---Immediate-Benefits_R0177312-1) |
+| 🏢 **Takeda** | Entry Level Phlebotomist/Medical Screener - Immediate Benefits | MI - Ypsilanti | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Ypsilanti/Entry-Level-Phlebotomist-Medical-Screener---Immediate-Benefits_R0177312-1) |
 | 🏢 **Medtronic** | Clinical Specialist CRM - Visalia / Hanford | Fresno | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fresno-California-United-States-of-America/Clinical-Specialist-CRM---Visalia---Hanford_R60955-1) |
 | 🏢 **RTX** | Firefighter/EMT 24/48 Shift (onsite) | CT-EAST HARTFORD-... | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Firefighter-EMT-24-48-Shift--onsite-_01832663) |
 | 🏢 **AbbVie** | ACPRU Investigational Pharmacist | North Chicago, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012335007) |
