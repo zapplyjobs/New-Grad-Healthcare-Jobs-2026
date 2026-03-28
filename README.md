@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2011-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2013-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-47-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1195-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-1197-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -259,7 +259,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Takeda** | Medical Screener | IL - Rockford | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Medical-Screener_R0177336) |
-| 🏢 **Takeda** | Medical Screener �� Day One Benefits | LA - Lafayette | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Medical-Screener---Day-One-Benefits_R0177335-1) |
+| 🏢 **Takeda** | Medical Screener – Day One Benefits | LA - Lafayette | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Medical-Screener---Day-One-Benefits_R0177335-1) |
 | 🏢 **Takeda** | Entry Level Phlebotomist | IL - Villa Park | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Villa-Park/Entry-Level-Phlebotomist_R0177333-1) |
 | 🏢 **Thermo Fisher Scientific** | Research Technician (Phlebotomist) | Las Vegas | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Research-Technician--Phlebotomist-_R-01344612) |
 | 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Los Angeles, CA | Los Angeles | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Clinical-Specialist--Pain-Interventions---Los-Angeles--CA_R62892) |
@@ -270,11 +270,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **IDEXX** | Medical Laboratory Technician 3rd Shift | Dallas, TX | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician-3rd-Shift_J-051225) |
 | 🏢 **Johnson & Johnson** | Oncology Sales Specialist - Ann Arbor, MI - Johnson & Johnson Innovative Medicine | Ann Arbor | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Ann-Arbor-Michigan-United-States/Oncology-Sales-Specialist---Ann-Arbor--MI---Johnson---Johnson-Innovative-Medicine_R-052327-1) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Chicago, IL) | Illinois | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Illinois/Spine-Specialist--Chicago--IL-_JR104464) |
-| 🏢 **Abbott** | Clinical Specialist - South Tampa, FL | Florida - Tampa | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist-II---South-Tampa--FL_31144903-1) |
 | 🏢 **Abbott** | Clinical Associate | Tennessee - Memphis | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Memphis/Clinical-Associate_31145518-1) |
 | 🏢 **Abbott** | Clinical Associate | Kansas - Wichita | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kansas---Wichita/Clinical-Associate_31131494-1) |
-| 🏢 **Dandy** | Customer Experience - Dental Lab Technician (Anterior Crown and Bridge) | USA - Remote | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/da84a173-6133-419b-8074-dcb09f203f56/application) |
-| 🏢 **Dandy** | Customer Experience - Dental Lab Technician, Anteriors (French Speaking) | USA - Remote | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/7bec6200-8d2a-41af-93f1-c25c075dfd27/application) |
+| 🏢 **Abbott** | Clinical Specialist - South Tampa, FL | Florida - Tampa | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist-II---South-Tampa--FL_31144903-1) |
+| 🏢 **Dandy** | Customer Experience - Dental Lab Technician (Anterior Crown and Bridge) | USA - Remote | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/da84a173-6133-419b-8074-dcb09f203f56/application) |
+| 🏢 **Dandy** | Customer Experience - Dental Lab Technician, Anteriors (French Speaking) | USA - Remote | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/7bec6200-8d2a-41af-93f1-c25c075dfd27/application) |
 | 🏢 **SpaceX** | Chemical Lab Technician (Starlink PCB) | Bastrop, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8213424002?gh_jid=8213424002) |
 | 🏢 **RTX** | Firefighter/EMT 24/48 Shift (onsite) | CT-EAST HARTFORD-... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Firefighter-EMT-24-48-Shift--onsite-_01832663) |
 | 🏢 **Wellmark, Inc.** | Health Services Clinical Configuration Analyst | Des Moines, IA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000117293065) |
@@ -287,6 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Merck & Co.** | Oncology Sales Representative - South Orange County, CA | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---Orange-County/Oncology-Sales-Representative---South-Orange-County_R377241-1) |
 | 🏢 **Thermo Fisher Scientific** | Clinical Research Nurse Full Time Day | Las Vegas | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse-Full-Time-Day_R-01346626) |
 | 🏢 **KBR** | Special Operations Performance Dietitian (Fort Bragg, NC) | Fayetteville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Performance-Dietitian--Fort-Bragg--NC-_R2121017) |
+| 🏢 **KBR** | Special Operations Certified Athletic Trainer (3rd SFG(A), Ft. Bragg, NC) | Fort Liberty | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Certified-Athletic-Trainer--3rd-SFG-A---Ft-Bragg--NC-_R2120969) |
 | 🏢 **Guidehouse** | Patient Account Representative - Medicare, Medicaid, Commercial Claims | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Patient-Account-Representative---Medicare--Medicaid--Commercial-Claims_35726) |
 | 🏢 **Johnson & Johnson** | Study Responsible Physician- Neuroscience Late Development | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience-Late-Development_R-066453-1) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Lewiston, ID) | Idaho | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Idaho/Associate-Spine-Specialist--Lewiston--ID-_JR106283) |
@@ -303,7 +304,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **AbbVie** | Oncology Specialist - Milwaukee, WI | Madison, WI | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012298374) |
 | 🏢 **Merck & Co.** | Oncology Sales Representative - Brooklyn-Queens, NYC | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-York---Brooklyn/Oncology-Sales-Representative---Brooklyn-Queens--NYC_R386605-2) |
 | 🏢 **KBR** | Special Operations Clinical Psychologist (Fort Bragg, NC) | Fayetteville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Clinical-Psychologist--Fort-Bragg--NC-_R2119438) |
-| 🏢 **KBR** | Special Operations Clinical Psychologist (Fort Bragg, NC) | Fort Liberty | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Clinical-Psychologist--Fort-Bragg--NC-_R2120885) |
 | 🏢 **Exact Sciences** | Regional Oncology Specialist - Pennsylvania | 4 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---PA---Allentown/Regional-Oncology-Specialist_R26-12789) |
 | 🏢 **Exact Sciences** | Histotechnologist I | CA - Redwood City | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Histotechnologist-I_R26-12540) |
 | 🏢 **Exact Sciences** | Histotechnologist I | AZ - Phoenix | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histotechnologist-I_R26-12760) |
@@ -423,7 +423,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2011 current opportunities from 47 companies**
+**🎯 2013 current opportunities from 47 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
