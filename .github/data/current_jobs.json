@@ -781,17 +781,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "kaizen",
-        "value stream"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-28T12:09:08.270Z"
   },
   {
@@ -960,14 +949,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-28T12:09:08.270Z"
   },
   {
@@ -1503,34 +1484,6 @@
     "job_posted_at": "2026-03-28T12:08:55.397Z"
   },
   {
-    "job_id": "workday-medtronic-R62892",
-    "job_title": "Clinical Specialist, Pain Interventions - Los Angeles, CA",
-    "employer_name": "Medtronic",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Clinical-Specialist--Pain-Interventions---Los-Angeles--CA_R62892",
-    "job_posted_at_datetime_utc": "2026-03-28T12:07:41.091Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "895146b8f06cef956bb7052398d4785303c96910cd757ae6b1c79c49a785ec04",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:07:41.091Z"
-  },
-  {
     "job_id": "workday-medtronic-R62820",
     "job_title": "Prin. Clinical Specialist - Superficial Venous Interventions (SVI) - Ft. Lauderdale, FL",
     "employer_name": "Medtronic",
@@ -1627,6 +1580,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "04faf6121894f52aa83a718c4b8d2992820149a78aafc4b01a773dcafca1f9c0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:07:41.091Z"
+  },
+  {
+    "job_id": "workday-medtronic-R62892",
+    "job_title": "Clinical Specialist, Pain Interventions - Los Angeles, CA",
+    "employer_name": "Medtronic",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Clinical-Specialist--Pain-Interventions---Los-Angeles--CA_R62892",
+    "job_posted_at_datetime_utc": "2026-03-28T12:07:41.091Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "895146b8f06cef956bb7052398d4785303c96910cd757ae6b1c79c49a785ec04",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2092,14 +2073,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "High school diploma or equivalency certification   1+ years hands-on chemical testing or Associate's degree",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-27T11:37:18-04:00"
   },
   {
@@ -2390,6 +2363,118 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-26T11:50:34.837Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177219",
+    "job_title": "Licensed Practical Nurse - Part-Time",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Licensed-Practical-Nurse---Part-Time_R0177219-1",
+    "job_posted_at_datetime_utc": "2026-03-26T11:50:03.070Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c021de0def14f75bad620a45fa1def9f884a412b0cc61490ce3ea82c561d7ba3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:50:03.070Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177217",
+    "job_title": "On Site Paramedic",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/On-Site-Paramedic_R0177217-1",
+    "job_posted_at_datetime_utc": "2026-03-26T11:50:03.070Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "041c622ae5047aeb4e0791d49e4c6bc4c9bc69ab0b566e0739feab7e5e4655fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:50:03.070Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177216",
+    "job_title": "Plasma Center Nurse - RN",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Plasma-Center-Nurse---RN_R0177216-1",
+    "job_posted_at_datetime_utc": "2026-03-26T11:50:03.070Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e61aa2e767b61a9cafe8aaa089b657d9ed4e3359e52e56f04d5950b2ba9f65fc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:50:03.070Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177215",
+    "job_title": "Plasma Center Nurse - LPN",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Plasma-Center-Nurse---LPN_R0177215-1",
+    "job_posted_at_datetime_utc": "2026-03-26T11:50:03.070Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ff8fa804dc9e82a69da1d8f4a2f3501bc215467b9792714ab7b5e638ded3923c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:50:03.070Z"
   },
   {
     "job_id": "workday-takeda-R0177090",
@@ -3372,130 +3457,18 @@
     "job_posted_at": "2026-03-26T11:50:03.070Z"
   },
   {
-    "job_id": "workday-takeda-R0177219",
-    "job_title": "Licensed Practical Nurse - Part-Time",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Licensed-Practical-Nurse---Part-Time_R0177219-1",
-    "job_posted_at_datetime_utc": "2026-03-26T11:50:03.070Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c021de0def14f75bad620a45fa1def9f884a412b0cc61490ce3ea82c561d7ba3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:50:03.070Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177217",
-    "job_title": "On Site Paramedic",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/On-Site-Paramedic_R0177217-1",
-    "job_posted_at_datetime_utc": "2026-03-26T11:50:03.070Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "041c622ae5047aeb4e0791d49e4c6bc4c9bc69ab0b566e0739feab7e5e4655fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:50:03.070Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177216",
-    "job_title": "Plasma Center Nurse - RN",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Plasma-Center-Nurse---RN_R0177216-1",
-    "job_posted_at_datetime_utc": "2026-03-26T11:50:03.070Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e61aa2e767b61a9cafe8aaa089b657d9ed4e3359e52e56f04d5950b2ba9f65fc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:50:03.070Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177215",
-    "job_title": "Plasma Center Nurse - LPN",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Plasma-Center-Nurse---LPN_R0177215-1",
-    "job_posted_at_datetime_utc": "2026-03-26T11:50:03.070Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ff8fa804dc9e82a69da1d8f4a2f3501bc215467b9792714ab7b5e638ded3923c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:50:03.070Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01346987",
-    "job_title": "APP (NP/PA) Sub Investigator",
+    "job_id": "workday-thermo-fisher-scientific-R-01346626",
+    "job_title": "Clinical Research Nurse Full Time Day",
     "employer_name": "Thermo Fisher Scientific",
-    "job_city": "San Antonio",
+    "job_city": "Las Vegas",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Antonio-Texas-USA/APP--NP-PA--Sub-Investigator_R-01346987",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse-Full-Time-Day_R-01346626",
     "job_posted_at_datetime_utc": "2026-03-26T11:49:49.151Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "884b0a26ff1a783366da87263209b12ede4e2d872609f45c1389db17c5960acd",
+    "fingerprint": "e0fd55ca797d7071ba66cdc8653aa1f21e7dd2ab0b35099b54a1eb8d0499fd7f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3512,18 +3485,18 @@
     "job_posted_at": "2026-03-26T11:49:49.151Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01346626",
-    "job_title": "Clinical Research Nurse Full Time Day",
+    "job_id": "workday-thermo-fisher-scientific-R-01346987",
+    "job_title": "APP (NP/PA) Sub Investigator",
     "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Las Vegas",
+    "job_city": "San Antonio",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse-Full-Time-Day_R-01346626",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Antonio-Texas-USA/APP--NP-PA--Sub-Investigator_R-01346987",
     "job_posted_at_datetime_utc": "2026-03-26T11:49:49.151Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e0fd55ca797d7071ba66cdc8653aa1f21e7dd2ab0b35099b54a1eb8d0499fd7f",
+    "fingerprint": "884b0a26ff1a783366da87263209b12ede4e2d872609f45c1389db17c5960acd",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3961,230 +3934,6 @@
     "job_posted_at": "2026-03-26T11:46:37.594Z"
   },
   {
-    "job_id": "workday-abbott-31136218",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Butte, MT",
-    "employer_name": "Abbott",
-    "job_city": "Montana - Missoula",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Montana---Missoula/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Butte--MT_31136218",
-    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2f8268adf8113c288a9442b44256deff956f3213c9fd89cc492f9884c0583d0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:46:37.593Z"
-  },
-  {
-    "job_id": "workday-abbott-31134926",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Conway, NH",
-    "employer_name": "Abbott",
-    "job_city": "New Hampshire - Portsmouth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Hampshire---Portsmouth/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Conway--NH_31134926",
-    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d9e38b1388fd0545a78221fcfe22d61c58e66b2fd64d4922e7b11a90cd1536f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:46:37.593Z"
-  },
-  {
-    "job_id": "workday-abbott-31131392",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Petersburg, WV; Williamson, WV",
-    "employer_name": "Abbott",
-    "job_city": "West Virginia - Grafton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---West-Virginia---Grafton/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Petersburg--WV_31131392",
-    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "06a39e455396dbc794c5e373306e3cafb5a6319c6934dacab43259c2de3a43d3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:46:37.593Z"
-  },
-  {
-    "job_id": "workday-abbott-31130715",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockville, IA; Ottumwa, IA",
-    "employer_name": "Abbott",
-    "job_city": "Iowa - Dubuque",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Iowa---Dubuque/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockville--IA_31130715",
-    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4528646877eb4736f1baa275aa9ce786890fa9d59181fb6b5df26c22275aac59",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:46:37.593Z"
-  },
-  {
-    "job_id": "workday-abbott-31128000",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Juneau, AK",
-    "employer_name": "Abbott",
-    "job_city": "Alaska - Juneau",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Alaska---Juneau/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairbanks--AK_31128000",
-    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "42162ed4df37c72f222a7bf44ae7a666f1432eae83ae9669b0099ce9d77abb65",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:46:37.593Z"
-  },
-  {
-    "job_id": "workday-abbott-31128002",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Ukiah, CA",
-    "employer_name": "Abbott",
-    "job_city": "California - Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Los-Angeles/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---San-Francisco--CA--Temecula--CA_31128002",
-    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f2be8f980f9d8393d07bc74bf3fd3211d32f56039fd2175c8e1e4ed68457020b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:46:37.593Z"
-  },
-  {
-    "job_id": "workday-abbott-31113914",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
-    "employer_name": "Abbott",
-    "job_city": "Colorado - Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
-    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:46:37.593Z"
-  },
-  {
-    "job_id": "workday-abbott-31137792",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Peekskill, NY; Albany, NY",
-    "employer_name": "Abbott",
-    "job_city": "New York - Poughkeepsie",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Poughkeepsie/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-York--NY_31137792",
-    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf0455f573274a0e4fdae6c3561805b33fb19ddba3b6f7332562429759e17cdb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:46:37.593Z"
-  },
-  {
     "job_id": "workday-abbott-31145778",
     "job_title": "Clinical Specialist - Charlotte, NC",
     "employer_name": "Abbott",
@@ -4253,6 +4002,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4911998a54355dd94268e3a397af75078aac46681e8c5032a2548ce8f3104eeb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:46:37.593Z"
+  },
+  {
+    "job_id": "workday-abbott-31145813",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Morristown, TN",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Knoxville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Morristown--TN_31145813",
+    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "56460d177b58b5c998d834d01bcdff351087b0872aff265315349953e246d55d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4465,18 +4242,214 @@
     "job_posted_at": "2026-03-26T11:46:37.593Z"
   },
   {
-    "job_id": "workday-abbott-31145813",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Morristown, TN",
+    "job_id": "workday-abbott-31136218",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Butte, MT",
     "employer_name": "Abbott",
-    "job_city": "Tennessee - Knoxville",
+    "job_city": "Montana - Missoula",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Morristown--TN_31145813",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Montana---Missoula/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Butte--MT_31136218",
     "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "56460d177b58b5c998d834d01bcdff351087b0872aff265315349953e246d55d",
+    "fingerprint": "c2f8268adf8113c288a9442b44256deff956f3213c9fd89cc492f9884c0583d0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:46:37.593Z"
+  },
+  {
+    "job_id": "workday-abbott-31134926",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Conway, NH",
+    "employer_name": "Abbott",
+    "job_city": "New Hampshire - Portsmouth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Hampshire---Portsmouth/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Conway--NH_31134926",
+    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d9e38b1388fd0545a78221fcfe22d61c58e66b2fd64d4922e7b11a90cd1536f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:46:37.593Z"
+  },
+  {
+    "job_id": "workday-abbott-31131392",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Petersburg, WV; Williamson, WV",
+    "employer_name": "Abbott",
+    "job_city": "West Virginia - Grafton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---West-Virginia---Grafton/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Petersburg--WV_31131392",
+    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "06a39e455396dbc794c5e373306e3cafb5a6319c6934dacab43259c2de3a43d3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:46:37.593Z"
+  },
+  {
+    "job_id": "workday-abbott-31130715",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockville, IA; Ottumwa, IA",
+    "employer_name": "Abbott",
+    "job_city": "Iowa - Dubuque",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Iowa---Dubuque/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockville--IA_31130715",
+    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4528646877eb4736f1baa275aa9ce786890fa9d59181fb6b5df26c22275aac59",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:46:37.593Z"
+  },
+  {
+    "job_id": "workday-abbott-31128000",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Juneau, AK",
+    "employer_name": "Abbott",
+    "job_city": "Alaska - Juneau",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Alaska---Juneau/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairbanks--AK_31128000",
+    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "42162ed4df37c72f222a7bf44ae7a666f1432eae83ae9669b0099ce9d77abb65",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:46:37.593Z"
+  },
+  {
+    "job_id": "workday-abbott-31128002",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Ukiah, CA",
+    "employer_name": "Abbott",
+    "job_city": "California - Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Los-Angeles/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---San-Francisco--CA--Temecula--CA_31128002",
+    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f2be8f980f9d8393d07bc74bf3fd3211d32f56039fd2175c8e1e4ed68457020b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:46:37.593Z"
+  },
+  {
+    "job_id": "workday-abbott-31113914",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
+    "employer_name": "Abbott",
+    "job_city": "Colorado - Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
+    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:46:37.593Z"
+  },
+  {
+    "job_id": "workday-abbott-31137792",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Peekskill, NY; Albany, NY",
+    "employer_name": "Abbott",
+    "job_city": "New York - Poughkeepsie",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Poughkeepsie/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-York--NY_31137792",
+    "job_posted_at_datetime_utc": "2026-03-26T11:46:37.593Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf0455f573274a0e4fdae6c3561805b33fb19ddba3b6f7332562429759e17cdb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5915,6 +5888,62 @@
     "job_posted_at": "2026-03-24T11:50:34.838Z"
   },
   {
+    "job_id": "workday-takeda-R0175912",
+    "job_title": "Part Time Entry Level Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "CO - Thornton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Part-Time-Entry-Level-Phlebotomist_R0175912-1",
+    "job_posted_at_datetime_utc": "2026-03-24T11:50:03.071Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a7f7e4cb58afa5029e8a05a7c9da19ec4b34b7e378daa98c66f5e67b796e015f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-24T11:50:03.071Z"
+  },
+  {
+    "job_id": "workday-takeda-R0173977",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "CO - Colorado Springs - Sou",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Colorado-Springs---Sou/Plasma-Center-Technician_R0173977-1",
+    "job_posted_at_datetime_utc": "2026-03-24T11:50:03.071Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9da5e7c4ebf095e7deb0617250dd28a1c0afc38ef147e7176cc287ccbc60cfce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-24T11:50:03.071Z"
+  },
+  {
     "job_id": "workday-takeda-R0175738",
     "job_title": "Medical Screener/Phlebotomist - Paid Training!",
     "employer_name": "Takeda",
@@ -7088,16 +7117,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-24T11:50:03.071Z"
   },
   {
@@ -7409,62 +7428,6 @@
     "job_posted_at": "2026-03-24T11:50:03.071Z"
   },
   {
-    "job_id": "workday-takeda-R0175912",
-    "job_title": "Part Time Entry Level Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "CO - Thornton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Part-Time-Entry-Level-Phlebotomist_R0175912-1",
-    "job_posted_at_datetime_utc": "2026-03-24T11:50:03.071Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a7f7e4cb58afa5029e8a05a7c9da19ec4b34b7e378daa98c66f5e67b796e015f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-24T11:50:03.071Z"
-  },
-  {
-    "job_id": "workday-takeda-R0173977",
-    "job_title": "Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "CO - Colorado Springs - Sou",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Colorado-Springs---Sou/Plasma-Center-Technician_R0173977-1",
-    "job_posted_at_datetime_utc": "2026-03-24T11:50:03.071Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9da5e7c4ebf095e7deb0617250dd28a1c0afc38ef147e7176cc287ccbc60cfce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-24T11:50:03.071Z"
-  },
-  {
     "job_id": "workday-medtronic-R62682",
     "job_title": "Clinical Specialist - CAS Greater Southwest (Albuquerque, NM)",
     "employer_name": "Medtronic",
@@ -7746,6 +7709,34 @@
     "job_posted_at": "2026-03-24T11:47:54.822Z"
   },
   {
+    "job_id": "workday-abbott-31145521",
+    "job_title": "Clinical Associate",
+    "employer_name": "Abbott",
+    "job_city": "Washington - Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington---Seattle/Clinical-Associate_31145521-1",
+    "job_posted_at_datetime_utc": "2026-03-24T11:46:37.595Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e16159e6cb0f20033284ae02f9104ded3ad3dc7e4719245decab8614fbe256ee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-24T11:46:37.595Z"
+  },
+  {
     "job_id": "workday-abbott-31145608",
     "job_title": "Associate Clinical Specialist, CRM (San Antonio, TX)",
     "employer_name": "Abbott",
@@ -7814,34 +7805,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "cab495cc491032141f9f975659891b0239a09066ebdcea0331f14479259c086e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-24T11:46:37.595Z"
-  },
-  {
-    "job_id": "workday-abbott-31145521",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "Washington - Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington---Seattle/Clinical-Associate_31145521-1",
-    "job_posted_at_datetime_utc": "2026-03-24T11:46:37.595Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e16159e6cb0f20033284ae02f9104ded3ad3dc7e4719245decab8614fbe256ee",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8954,14 +8917,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-23T11:50:03.071Z"
   },
   {
@@ -9018,16 +8973,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-23T11:50:03.071Z"
   },
   {
@@ -9056,16 +9001,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-23T11:50:03.071Z"
   },
   {
@@ -9094,16 +9029,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-23T11:50:03.071Z"
   },
   {
@@ -14643,16 +14568,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "https"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T17:49:52.335Z"
   },
   {
@@ -18378,14 +18293,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T11:50:03.072Z"
   },
   {
@@ -18414,14 +18321,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T11:50:03.072Z"
   },
   {
@@ -18478,14 +18377,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T11:50:03.072Z"
   },
   {
@@ -18626,16 +18517,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T11:50:03.072Z"
   },
   {
@@ -18664,16 +18545,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T11:50:03.072Z"
   },
   {
@@ -18730,31 +18601,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T11:50:03.072Z"
   },
   {
-    "job_id": "workday-medtronic-R62266",
-    "job_title": "Medical Science Liaison Advisor",
+    "job_id": "workday-medtronic-R59517",
+    "job_title": "Clinical Specialist, CAS- Erie, PA",
     "employer_name": "Medtronic",
-    "job_city": "Mounds View",
+    "job_city": "State of Pennsylvania",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Medical-Science-Liaison-Advisor_R62266-1",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Pennsylvania-United-States-of-America/Clinical-Specialist--CAS--Erie--PA_R59517-1",
     "job_posted_at_datetime_utc": "2026-03-20T11:48:38.449Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d94c164cfe153930fbdb2da905d9510f451a8b58953b44b6d70f036ee6db8629",
+    "fingerprint": "78ec783a47eb8ac4de0d61c00901f45f1ff207f0a0f7a6a7f1a4422ba330ffa5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -18771,18 +18632,18 @@
     "job_posted_at": "2026-03-20T11:48:38.449Z"
   },
   {
-    "job_id": "workday-medtronic-R59517",
-    "job_title": "Clinical Specialist, CAS- Erie, PA",
+    "job_id": "workday-medtronic-R62266",
+    "job_title": "Medical Science Liaison Advisor",
     "employer_name": "Medtronic",
-    "job_city": "State of Pennsylvania",
+    "job_city": "Mounds View",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Pennsylvania-United-States-of-America/Clinical-Specialist--CAS--Erie--PA_R59517-1",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Medical-Science-Liaison-Advisor_R62266-1",
     "job_posted_at_datetime_utc": "2026-03-20T11:48:38.449Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "78ec783a47eb8ac4de0d61c00901f45f1ff207f0a0f7a6a7f1a4422ba330ffa5",
+    "fingerprint": "d94c164cfe153930fbdb2da905d9510f451a8b58953b44b6d70f036ee6db8629",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -19077,16 +18938,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T05:06:13.174Z"
   },
   {
@@ -19479,16 +19330,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T01:50:46.418Z"
   },
   {
@@ -19601,16 +19442,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T01:50:46.418Z"
   },
   {
@@ -19639,16 +19470,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T01:50:46.418Z"
   },
   {
@@ -19677,16 +19498,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T01:50:46.418Z"
   },
   {
@@ -19715,16 +19526,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T01:50:46.418Z"
   },
   {
@@ -19753,16 +19554,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-20T01:50:46.418Z"
   },
   {
@@ -20827,16 +20618,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T17:06:36.471Z"
   },
   {
@@ -20865,16 +20646,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T17:06:36.471Z"
   },
   {
@@ -20903,16 +20674,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T17:06:36.471Z"
   },
   {
@@ -20941,14 +20702,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "MINIMUM QUALIFICATIONS  High school diploma/GED and current basic life support certification.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T16:50:56.182Z"
   },
   {
@@ -21509,16 +21262,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T06:06:14.757Z"
   },
   {
@@ -21547,16 +21290,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T06:06:14.757Z"
   },
   {
@@ -21585,16 +21318,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T05:20:52.112Z"
   },
   {
@@ -21651,16 +21374,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T04:50:30.067Z"
   },
   {
@@ -21801,16 +21514,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T04:50:30.067Z"
   },
   {
@@ -22041,16 +21744,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T01:50:46.418Z"
   },
   {
@@ -22079,16 +21772,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T01:50:46.418Z"
   },
   {
@@ -22117,16 +21800,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T01:50:46.418Z"
   },
   {
@@ -22155,16 +21828,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T01:50:46.418Z"
   },
   {
@@ -22193,16 +21856,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T01:50:46.418Z"
   },
   {
@@ -22231,16 +21884,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-19T01:50:46.418Z"
   },
   {
@@ -32349,14 +31992,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "MINIMUM QUALIFICATIONS Must possess a current, valid RN license in state of practice, temporary/interim RN license in state of practice, or compact RN licensure for current state of practice.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-18T17:49:05.158Z"
   },
   {
@@ -32385,14 +32020,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "MINIMUM QUALIFICATIONS Must possess a current, valid RN license in state of practice, temporary/interim RN license in state of practice, or compact RN licensure for current state of practice.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-18T17:49:05.158Z"
   },
   {
@@ -32702,16 +32329,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "https"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-18T17:48:41.532Z"
   },
   {
@@ -33497,16 +33114,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-18T08:20:27.717Z"
   },
   {
@@ -33535,16 +33142,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-18T06:50:32.541Z"
   },
   {
@@ -33713,16 +33310,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-18T06:50:32.541Z"
   },
   {
@@ -43861,16 +43448,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "https"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-17T17:18:44.813Z"
   },
   {
@@ -43900,16 +43477,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "https"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-17T16:50:40.350Z"
   },
   {
@@ -43939,16 +43506,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "https"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-17T16:50:40.350Z"
   },
   {
@@ -44006,16 +43563,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "https"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-17T16:50:40.350Z"
   },
   {
@@ -44045,16 +43592,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "https"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-17T16:50:40.350Z"
   },
   {
@@ -44842,26 +44379,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "cypress",
-        "distributed systems",
-        "end-to-end testing",
-        "event-driven",
-        "integration testing",
-        "playwright",
-        "rest",
-        "salesforce",
-        "sap",
-        "selenium"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "The right veterinary software is critical to operations, clinical outcomes, client relationships, and more.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-17T11:47:54.143Z"
   },
   {
@@ -56683,16 +56200,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-15T03:15:39.573Z"
   },
   {
@@ -56749,44 +56256,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-03-15T03:15:39.573Z"
-  },
-  {
-    "job_id": "workday-cvs-health-R0826176",
-    "job_title": "Medical Assistant/Phlebotomist",
-    "employer_name": "CVS Health",
-    "job_city": "Cedar Rapids",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IA---Cedar-Rapids/Medical-Assistant-Phlebotomist_R0826176",
-    "job_posted_at_datetime_utc": "2026-03-14T18:12:14.844Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e5ce26ebd4db23f1c59c703df13065b4199e0f3680e34f1e5861457f764c5963",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T18:12:14.844Z"
   }
 ]
