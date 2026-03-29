@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-500-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-501-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-33-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-428-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-429-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -106,7 +106,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Takeda** | Licensed Practical Nurse | WI - Milwaukee | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Milwaukee/Licensed-Practical-Nurse_R0177327-1) |
 | 🏢 **Takeda** | Licensed Practical Nurse - Part-Time | IN - Indianapolis | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Licensed-Practical-Nurse---Part-Time_R0177219-1) |
-| 🏢 **Takeda** | Medical Support Specialist (LPN Nurse) - Plasma Center | CO - Colorado Spr... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Colorado-Springs/Medical-Support-Specialist--LPN-Nurse----Plasma-Center_R0176878) |
+| 🏢 **Takeda** | Licensed Practical Nurse (LPN) – Weekend Availability Needed - Appleton Eisen | WI - Appleton - E... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Licensed-Practical-Nurse--LPN----Weekend-Availability-Needed---Appleton-Eisen_R0177095-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -130,12 +130,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Ro** | Compounding Pharmacist - Boynton Beach, FL | Boynton Beach, FL | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/aa910c54-81d8-454d-a6f9-19c2b538659c/apply) |
-| 🏢 **Ro** | Compounding Pharmacy Technician -  Romeoville, IL | Romeoville, IL | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply) |
-| 🏢 **Ro** | Fulfillment Pharmacist - Boynton Beach, FL | Boynton Beach, FL | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/966f81e6-c82e-4060-8721-3ba58a9cebc6/apply) |
-| 🏢 **Included Health** | Mental Health Therapist | California | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/239dac86-47d7-4829-83d8-887b433ee4da/apply) |
-| 🏢 **Included Health** | Mental Health Therapist | Illinois | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/257945ac-1faf-496a-a7be-9712e8b75115/apply) |
-| 🏢 **Included Health** | Mental Health Therapist | Tennessee | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/29af260c-cc9b-4fe9-b358-6135fd5909be/apply) |
+| 🏢 **Ro** | Fulfillment Pharmacy Technician - Romeoville, IL | Romeoville, IL | 46m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/56cf6679-2618-4be9-acc4-f53afdee3b5b/apply) |
+| 🏢 **Ro** | Full-Time, Virtual Physician | New York, NY | 46m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/61b4e90e-0340-439d-ae46-9e72ebbfed4a/apply) |
+| 🏢 **Ro** | Part-Time, Virtual Physician | New York, NY | 46m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply) |
+| 🏢 **Included Health** | Mental Health Therapist | Oregon | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/773dfdcc-f68a-4b79-afd6-ace918a45d76/apply) |
+| 🏢 **Included Health** | Mental Health Therapist | Texas | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/b7c71562-c4d7-434f-80dc-82a2e94e28fd/apply) |
+| 🏢 **Included Health** | Mental Health Therapist | Washington | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/cda7ea26-c4ad-4c72-8b63-aa73d9c16783/apply) |
 | 🏢 **Thermo Fisher Scientific** | Supervisor - Cell and Gene Therapy | Middleton | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Supervisor---Cell-and-Gene-Therapy_R-01345874) |
 | 🏢 **IDEXX** | Histology Technician (Days) | Elmhurst, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Elmhurst-IL/Histology-Technician--Days-_J-052353) |
 | 🏢 **Medtronic** | Sales Rep I - Superficial Venous Interventions (SVI) - Charleston, SC | Charleston | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charleston-South-Carolina-United-States-of-America/Sales-Rep-I---Superficial-Venous-Interventions--SVI----Charleston--NC_R57470-1) |
@@ -149,17 +149,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Guidepoint** | Client Success - Healthcare Corporate Specialist (NYC) | New York | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8342632002) |
 | 🏢 **Wellmark, Inc.** | Health Services Clinical Configuration Analyst | Des Moines, IA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000117293065) |
 | 🏢 **Intuitive** | Clinical Territory Associate | Fort Wayne, IN | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000117293387) |
-| 🏢 **Takeda** | Phlebotomist | TN - Mount Juliet | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Mount-Juliet/Phlebotomist_R0174836-1) |
-| 🏢 **Takeda** | Medical Screener | WI - Janesville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Medical-Screener_R0176331-1) |
+| 🏢 **Takeda** | Medical Screener, Phlebotomist | AZ - Phoenix | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Medical-Screener--Phlebotomist_R0176371-1) |
+| 🏢 **Takeda** | Part Time Medical Screener | FL - Jacksonville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville/Phlebotomist_R0173713) |
 | 🏢 **Thermo Fisher Scientific** | EHS & Facilities Supervisor | Richardson | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Richardson-Texas-USA/EHS---Facilities-Supervisor_R-01345240-1) |
 | 🏢 **Thermo Fisher Scientific** | Research Technician (Phlebotomist) | Las Vegas | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Research-Technician--Phlebotomist-_R-01344612) |
-| 🏢 **Medtronic** | Clinical Specialist - CAS, Northeast | 10 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Clinical-Specialist---CAS--Northeast_R56260-1) |
+| 🏢 **Medtronic** | Associate Clinical Specialist - Cardiac Rhythm Management (Searcy, AR) | Little Rock | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Associate-Clinical-Specialist---Cardiac-Rhythm-Management--Searcy--AR-_R62871-1) |
 | 🏢 **Marvell** | Lab Technician Expert Specialist | Santa Clara, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Lab-Technician-Expert-Specialist_2600864) |
 | 🏢 **Leidos** | Computer Imaging Technician | Springfield, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Computer-Imaging-Technician_R-00179516) |
 | 🏢 **Guidehouse** | Biostatistician - Advanced Modeling & Public Health Analytics | GA, Atlanta | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---GA-Atlanta/Biostatistician---Advanced-Modeling---Public-Health-Analytics_34587) |
+| 🏢 **Johnson & Johnson** | Associate Area Manager or Area Manager - Orlando, FL - Johnson & Johnson MedTech, Heart Recovery | Orlando | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Area-Associate-Area-Manager---Orlando--FL---Johnson---Johnson-MedTech--Heart-Recovery_R-038819-1) |
 | 🏢 **Johnson & Johnson** | Advanced Surgical Consultant - Raleigh, NC - Johnson & Johnson MedTech - Heart Recovery | Raleigh | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raleigh-North-Carolina-United-States/Advanced-Surgical-Consultant---Raleigh--NC---Johnson---Johnson-MedTech---Heart-Recovery_R-066665-1) |
 | 🏢 **Johnson & Johnson** | Clinical Account Specialist - Central Ohio - Johnson and Johnson MedTech - Electrophysiology | Columbus | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Columbus-Ohio-United-States/Clinical-Account-Specialist---Central-Ohio---Johnson-and-Johnson-MedTech---Electrophysiology_R-066205-1) |
-| 🏢 **Johnson & Johnson** | Advanced Surgical Consultant - Charleston / Columbia, SC - Johnson & Johnson MedTech - Heart Recovery | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Charleston-South-Carolina-United-States/Advanced-Surgical-Consultant---Charleston---Columbia--SC---Johnson---Johnson-MedTech---Heart-Recovery_R-066642-1) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Chicago, IL) | Illinois | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Illinois/Spine-Specialist--Chicago--IL-_JR104464) |
 | 🏢 **Globus Medical** | Production Raw Material Coordinator | Audubon, PA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Production-Raw-Material-Coordinator_JR106153) |
 | 🏢 **Globus Medical** | Buyer | Limerick, PA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Limerick-PA/Buyer_JR106188-1) |
@@ -176,11 +176,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KBR** | Special Operations Certified Athletic Trainer (3rd SFG(A), Ft. Bragg, NC) | Fort Liberty | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Certified-Athletic-Trainer--3rd-SFG-A---Ft-Bragg--NC-_R2120969) |
 | 🏢 **Guidehouse** | Patient Account Representative - Medicare, Medicaid, Commercial Claims | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Patient-Account-Representative---Medicare--Medicaid--Commercial-Claims_35726) |
 | 🏢 **Caterpillar** | Nurse | Denver | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Denver-Colorado/Nurse_R0000359751) |
-| 🏢 **Guidepoint** | Client Service Healthcare Associate | New York | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8453033002) |
+| 🏢 **Guidepoint** | Client Service Healthcare Associate | New York | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8453033002) |
 | 🏢 **Guidepoint** | Client Service Healthcare Associate (Class of 2026) | New York | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8114376002) |
 | 🏢 **EVERSANA** | Oncology Sales Representative - Detroit/Grand Rapids | Detroit, MI | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000116685277) |
-| 🏢 **Merck & Co.** | Data Management Associate | Pennsylvania - We... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Data-Management-Associate_R388790-1) |
 | 🏢 **Merck & Co.** | Associate Scientist, Developmental and Reproductive Toxicology | Pennsylvania - We... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Associate-Scientist--Developmental-and-Reproductive-Toxicology_R390059-1) |
+| 🏢 **Merck & Co.** | Data Management Associate | Pennsylvania - We... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Data-Management-Associate_R388790-1) |
 | 🏢 **Marvell** | Advanced Laboratory Technician, Optics | Santa Clara, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Laboratory-Technician--Optics_2601021) |
 | 🏢 **Guidehouse** | Charge Corrections Medical Coder | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Charge-Corrections-Medical-Coder_37578) |
 | 🏢 **IDEXX** | Veterinary Laboratory Technician | Boardman, OH | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Boardman-OH/Veterinary-Laboratory-Technician_J-052169) |
@@ -258,7 +258,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 500 current opportunities from 33 companies**
+**🎯 501 current opportunities from 33 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
