@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-451-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-450-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-31-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-394-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-393-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -128,8 +128,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Johnson & Johnson** | Ultrasound Area Technology Specialist  (AZ, UT, CO, WA) – Cardiac Sonographer - Johnson & Johnson MedTech, Electrophysiology | 4 Locations | 51m | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Ultrasound-Area-Technology-Specialist---AZ--UT--CO--WA----Cardiac-Sonographer---Johnson---Johnson-MedTech--Electrophysiology_R-043329) |
-| 🏢 **Johnson & Johnson** | Medical Science Liaison | Danvers | 51m | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Medical-Science-Liaison_R-066776-2) |
+| 🏢 **Johnson & Johnson** | Ultrasound Area Technology Specialist  (AZ, UT, CO, WA) – Cardiac Sonographer - Johnson & Johnson MedTech, Electrophysiology | 4 Locations | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Ultrasound-Area-Technology-Specialist---AZ--UT--CO--WA----Cardiac-Sonographer---Johnson---Johnson-MedTech--Electrophysiology_R-043329) |
+| 🏢 **Johnson & Johnson** | Medical Science Liaison | Danvers | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Medical-Science-Liaison_R-066776-2) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (1st SFG, JBLM, WA) | McChord, Washington | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Joint-Base-Lewis-McChord-Washington/Special-Operations-Licensed-Clinical-Social-Worker--1st-SFG--JBLM--WA-_R2120671) |
 | 🏢 **Globus Medical** | Calibration Technician | Memphis, TN | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Memphis-TN/Associate-Calibration-Technician_JR104475-1) |
 | 🏢 **Abbott** | Automation Support Professional - Wichita, KS | Kansas - Wichita | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kansas---Wichita/Automation-Support-Professional---Wichita--KS_31142984-1) |
@@ -139,8 +139,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Abbott** | Clinical Specialist, Vessel Closure - Memphis, TN | Tennessee - Memphis | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Memphis/Clinical-Specialist--Vessel-Closure---Memphis--TN_31146043-1) |
 | 🏢 **Takeda** | Plasma Center Paramedic - EMT-P | VA - Harrisonburg | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Plasma-Center-Paramedic---EMT-P_R0177404-1) |
 | 🏢 **Takeda** | Executive Coordinator, Global Oncology Commercial | MA - Cambridge | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge/Executive-Coordinator--Global-Oncology-Commercial_R0177230) |
-| 🏢 **AbbVie** | Clinical Research Associate I | Orlando, FL | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012377476) |
-| 🏢 **Philips** | Field Medical Affairs Specialist, East Zone | Remote Based, Uni... | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Field-Medical-Affairs-Specialist--East-Zone_578247-1) |
+| 🏢 **AbbVie** | Clinical Research Associate I | Orlando, FL | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012377476) |
+| 🏢 **Philips** | Field Medical Affairs Specialist, East Zone | Remote Based, Uni... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Field-Medical-Affairs-Specialist--East-Zone_578247-1) |
 | 🏢 **Merck & Co.** | Patent Counsel | New Jersey - Rahway | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Patent-Counsel_R362296-1) |
 | 🏢 **Merck & Co.** | Vaccine Customer Representative - Bangor, Maine | Maine - Maine | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Maine---Maine/Vaccine-Customer-Representative---Bangor--Maine_R388705-1) |
 | 🏢 **Johnson & Johnson** | Executive Oncology Sales Specialist, CAR-T - Sacramento and Portland - Johnson & Johnson Innovative Medicine | 2 Locations | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Sacramento-California-United-States-of-America/Executive-Oncology-Sales-Specialist--CAR-T---Sacramento-and-Portland---Johnson---Johnson-Innovative-Medicine_R-067052-1) |
@@ -174,7 +174,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Globus Medical** | Associate Spine Specialist (Chicago, IL) | Illinois | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Illinois/Spine-Specialist--Chicago--IL-_JR104464) |
 | 🏢 **Globus Medical** | Production Raw Material Coordinator | Audubon, PA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Production-Raw-Material-Coordinator_JR106153) |
 | 🏢 **IDEXX** | Medical Laboratory Technician 3rd Shift | Dallas, TX | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician-3rd-Shift_J-051225) |
-| 🏢 **Intuitive** | Endoluminal Sales Representative - Future Opportunity | Nashville, TN | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000117057996) |
+| 🏢 **Intuitive** | Endoluminal Sales Representative - Future Opportunity | Nashville, TN | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000117057996) |
 | 🏢 **Bosch Group** | Paste Lab Technician | Anderson, SC | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000117050947) |
 | 🏢 **Intuitive** | Clinical Territory Associate | El Paso, TX | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000117000804) |
 | 🏢 **KBR** | Special Operations Performance Dietitian (Fort Bragg, NC) | Fayetteville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Performance-Dietitian--Fort-Bragg--NC-_R2121017) |
@@ -250,7 +250,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 451 current opportunities from 31 companies**
+**🎯 450 current opportunities from 31 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
