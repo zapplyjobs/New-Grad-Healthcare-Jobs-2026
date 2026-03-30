@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-437-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-440-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-31-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-380-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-383-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Nurse - (RN) | VA - Harrisonburg | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Plasma-Center-Nurse----RN-_R0177402) |
+| 🏢 **Takeda** | Plasma Center Nurse - (RN) | VA - Harrisonburg | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Plasma-Center-Nurse----RN-_R0177402) |
 | 🏢 **Takeda** | Paramedic - No Overnight Shifts | LA - Lafayette | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Paramedic---No-Overnight-Shifts_R0177376-1) |
 | 🏢 **Medtronic** | Vascular Therapy Development Rep. - Southern CA | Los Angeles | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Vascular-Therapy-Development-Rep---Southern-CA_R62931-1) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND | North Dakota - Fargo | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064) |
@@ -102,7 +102,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Licensed Practical Nurse (LPN) | VA - Harrisonburg | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Licensed-Practical-Nurse--LPN-_R0177400-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse (LPN) | VA - Harrisonburg | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Licensed-Practical-Nurse--LPN-_R0177400-1) |
 | 🏢 **Takeda** | Licensed Practical Nurse - Day One Benefits | LA - Lafayette | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Licensed-Practical-Nurse---Day-One-Benefits_R0177375-1) |
 | 🏢 **Takeda** | Licensed Practical Nurse | WI - Milwaukee | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Milwaukee/Licensed-Practical-Nurse_R0177327-1) |
 
@@ -128,9 +128,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Paramedic - EMT-P | VA - Harrisonburg | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Plasma-Center-Paramedic---EMT-P_R0177404-1) |
-| 🏢 **Takeda** | Executive Coordinator, Global Oncology Commercial | MA - Cambridge | 39m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge/Executive-Coordinator--Global-Oncology-Commercial_R0177230) |
-| 🏢 **AbbVie** | Clinical Research Associate I | Orlando, FL | 51m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012377476) |
+| 🏢 **Takeda** | Plasma Center Paramedic - EMT-P | VA - Harrisonburg | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Plasma-Center-Paramedic---EMT-P_R0177404-1) |
+| 🏢 **Takeda** | Executive Coordinator, Global Oncology Commercial | MA - Cambridge | 54m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge/Executive-Coordinator--Global-Oncology-Commercial_R0177230) |
+| 🏢 **AbbVie** | Clinical Research Associate I | Orlando, FL | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012377476) |
+| 🏢 **Philips** | Field Medical Affairs Specialist, East Zone | Remote Based, Uni... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Field-Medical-Affairs-Specialist--East-Zone_578247-1) |
+| 🏢 **Merck & Co.** | Patent Counsel | New Jersey - Rahway | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Patent-Counsel_R362296-1) |
+| 🏢 **Merck & Co.** | Vaccine Customer Representative - Bangor, Maine | Maine - Maine | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Maine---Maine/Vaccine-Customer-Representative---Bangor--Maine_R388705-1) |
 | 🏢 **Johnson & Johnson** | Executive Oncology Sales Specialist, CAR-T - Sacramento and Portland - Johnson & Johnson Innovative Medicine | 2 Locations | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Sacramento-California-United-States-of-America/Executive-Oncology-Sales-Specialist--CAR-T---Sacramento-and-Portland---Johnson---Johnson-Innovative-Medicine_R-067052-1) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Account Specialist (Kansas City, MO) - Johnson and Johnson MedTech, Electrophysiology | Kansas City | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Kansas-City-Missouri-United-States/Associate-Clinical-Account-Specialist--Kansas-City--MO----Johnson-and-Johnson-MedTech--Electrophysiology_R-066200) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Account Specialist (Orlando, FL) - Johnson and Johnson MedTech, Electrophysiology | Orlando | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Associate-Clinical-Account-Specialist--Orlando--FL----Johnson-and-Johnson-MedTech--Electrophysiology_R-065964) |
@@ -172,21 +175,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Bosch Group** | Paste Lab Technician | Anderson, SC | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000117050947) |
 | 🏢 **AbbVie** | ACPRU Investigational Pharmacist | North Chicago, IL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012335007) |
 | 🏢 **Intuitive** | Clinical Territory Associate | El Paso, TX | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000117000804) |
-| 🏢 **KBR** | Special Operations Performance Dietitian (Fort Bragg, NC) | Fayetteville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Performance-Dietitian--Fort-Bragg--NC-_R2121017) |
 | 🏢 **KBR** | Special Operations Certified Athletic Trainer (3rd SFG(A), Ft. Bragg, NC) | Fort Liberty | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Certified-Athletic-Trainer--3rd-SFG-A---Ft-Bragg--NC-_R2120969) |
+| 🏢 **KBR** | Special Operations Performance Dietitian (Fort Bragg, NC) | Fayetteville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Performance-Dietitian--Fort-Bragg--NC-_R2121017) |
 | 🏢 **Guidehouse** | Patient Account Representative - Medicare, Medicaid, Commercial Claims | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Patient-Account-Representative---Medicare--Medicaid--Commercial-Claims_35726) |
 | 🏢 **Caterpillar** | Nurse | Denver | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Denver-Colorado/Nurse_R0000359751) |
 | 🏢 **Merck & Co.** | Oncology Sales Representative - South Orange County, CA | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---Orange-County/Oncology-Sales-Representative---South-Orange-County_R377241-1) |
 | 🏢 **Guidepoint** | Client Service Healthcare Associate | New York | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8453033002) |
 | 🏢 **Guidepoint** | Client Service Healthcare Associate (Class of 2026) | New York | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8114376002) |
 | 🏢 **EVERSANA** | Oncology Sales Representative - Detroit/Grand Rapids | Detroit, MI | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000116685277) |
-| 🏢 **Merck & Co.** | Associate Scientist, Developmental and Reproductive Toxicology | Pennsylvania - We... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Associate-Scientist--Developmental-and-Reproductive-Toxicology_R390059-1) |
 | 🏢 **Marvell** | Advanced Laboratory Technician, Optics | Santa Clara, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Laboratory-Technician--Optics_2601021) |
 | 🏢 **Guidehouse** | Charge Corrections Medical Coder | Remote | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Charge-Corrections-Medical-Coder_37578) |
 | 🏢 **IDEXX** | Veterinary Laboratory Technician | Boardman, OH | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Boardman-OH/Veterinary-Laboratory-Technician_J-052169) |
 | 🏢 **Caterpillar** | Occupational Health Nurse | West Fargo | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/West-Fargo-North-Dakota/Occupational-Health-Nurse_R0000358583) |
 | 🏢 **Biogen** | Global Diagnostics and Disease Area Strategist, Alzheimer’s | Remote | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Global-Diagnostics-and-Disease-Area-Strategist--Alzheimer-s_REQ22804) |
-| 🏢 **Merck & Co.** | Data Management Associate | Pennsylvania - We... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Data-Management-Associate_R388790-1) |
 | 🏢 **Hinge Health** | Health Economist | San Francisco-HQ | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/2c5c58a9-5176-4ca7-b6bc-a832a375ea2f/application) |
 | 🏢 **Truveta** | Solutions Analyst | Seattle, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5755514004) |
 | 🏢 **KBR** | Special Operations Clinical Psychologist (Fort Bragg, NC) | Fort Liberty | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Clinical-Psychologist--Fort-Bragg--NC-_R2120885) |
@@ -249,7 +250,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 437 current opportunities from 31 companies**
+**🎯 440 current opportunities from 31 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
