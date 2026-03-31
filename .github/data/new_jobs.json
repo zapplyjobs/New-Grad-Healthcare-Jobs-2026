@@ -8,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Paramedic---No-Overnight-Shifts_R0177376-1",
-    "job_posted_at_datetime_utc": "2026-03-31T16:13:16.155Z",
+    "job_posted_at_datetime_utc": "2026-03-31T16:25:13.464Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1854543f441053b9dba90ce83b62bcb9d849d11c215ed8de1d01919b91e8247e",
@@ -25,7 +25,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-31T16:13:16.155Z"
+    "job_posted_at": "2026-03-31T16:25:13.464Z"
   },
   {
     "job_id": "workday-leidos-R-00179649",
@@ -36,7 +36,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Everett-WA/Military-and-Family-Life-Counselor---NAS-Everett_R-00179649",
-    "job_posted_at_datetime_utc": "2026-03-31T16:11:32.249Z",
+    "job_posted_at_datetime_utc": "2026-03-31T16:23:37.286Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2d5f614f66161062c071d35525612b180c75593a887a2960aaf822544141626e",
@@ -53,7 +53,66 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-31T16:11:32.249Z"
+    "job_posted_at": "2026-03-31T16:23:37.286Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-062801",
+    "job_title": "Oncology Sales Specialist - Los Angeles, CA - Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Oncology-Sales-Specialist---Los-Angeles--CA---Johnson---Johnson-Innovative-Medicine_R-062801",
+    "job_posted_at_datetime_utc": "2026-03-31T16:22:53.582Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d5ec305643902fbd36491c90279e059c55410253af206d6af2bde621a90e1b6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T16:22:53.582Z"
+  },
+  {
+    "job_id": "workday-biogen-REQ22947",
+    "job_title": "Site Contracts Analyst - Clinical Trial Site Contracts",
+    "employer_name": "Biogen",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Site-Contracts-Analyst---Clinical-Trial-Site-Contracts_REQ22947",
+    "job_posted_at_datetime_utc": "2026-03-31T16:21:29.481Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e60eeacadc846a5509f749f7d31c327839082942d4216f321ad1a8b82fb28c94",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "legal"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T16:21:29.481Z"
   },
   {
     "job_id": "workday-guidehouse-37889",
@@ -2895,18 +2954,18 @@
     "job_posted_at": "2026-03-28T11:46:21.281Z"
   },
   {
-    "job_id": "ashby-dandy-da84a173-6133-419b-8074-dcb09f203f56",
-    "job_title": "Customer Experience - Dental Lab Technician (Anterior Crown and Bridge)",
+    "job_id": "ashby-dandy-7bec6200-8d2a-41af-93f1-c25c075dfd27",
+    "job_title": "Customer Experience - Dental Lab Technician, Anteriors (French Speaking)",
     "employer_name": "Dandy",
     "job_city": "USA - Remote",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/dandy/da84a173-6133-419b-8074-dcb09f203f56/application",
+    "job_apply_link": "https://jobs.ashbyhq.com/dandy/7bec6200-8d2a-41af-93f1-c25c075dfd27/application",
     "job_posted_at_datetime_utc": "2026-03-28T11:46:19.852Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "4bf9c4e7278d5145b6ee1cd4e18f1b7a0fc19daefa93be834ff87734902543a4",
+    "fingerprint": "663dea0604ac54fb0c15231887c37d5ece68024ec7de82ddf8a5f761f210f122",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2925,18 +2984,18 @@
     "job_posted_at": "2026-03-28T11:46:19.852Z"
   },
   {
-    "job_id": "ashby-dandy-7bec6200-8d2a-41af-93f1-c25c075dfd27",
-    "job_title": "Customer Experience - Dental Lab Technician, Anteriors (French Speaking)",
+    "job_id": "ashby-dandy-da84a173-6133-419b-8074-dcb09f203f56",
+    "job_title": "Customer Experience - Dental Lab Technician (Anterior Crown and Bridge)",
     "employer_name": "Dandy",
     "job_city": "USA - Remote",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/dandy/7bec6200-8d2a-41af-93f1-c25c075dfd27/application",
+    "job_apply_link": "https://jobs.ashbyhq.com/dandy/da84a173-6133-419b-8074-dcb09f203f56/application",
     "job_posted_at_datetime_utc": "2026-03-28T11:46:19.852Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "663dea0604ac54fb0c15231887c37d5ece68024ec7de82ddf8a5f761f210f122",
+    "fingerprint": "4bf9c4e7278d5145b6ee1cd4e18f1b7a0fc19daefa93be834ff87734902543a4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3167,7 +3226,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Medical-Screener_R0176375",
-    "job_posted_at_datetime_utc": "2026-03-27T16:13:16.155Z",
+    "job_posted_at_datetime_utc": "2026-03-27T16:25:13.464Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "db56a4361a2bb394845bd4de749ab2b84069acdd2e6a02c5361d0a0e7fbe7e81",
@@ -3184,7 +3243,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-27T16:13:16.155Z"
+    "job_posted_at": "2026-03-27T16:25:13.464Z"
   },
   {
     "job_id": "greenhouse-spacex-8328509002",
@@ -3702,34 +3761,6 @@
     "job_posted_at": "2026-03-27T07:11:51.533Z"
   },
   {
-    "job_id": "workday-medtronic-R62820",
-    "job_title": "Prin. Clinical Specialist - Superficial Venous Interventions (SVI) - Ft. Lauderdale, FL",
-    "employer_name": "Medtronic",
-    "job_city": "Fort Lauderdale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fort-Lauderdale-Florida-United-States-of-America/Prin-Clinical-Specialist---Superficial-Venous-Interventions--SVI----Ft-Lauderdale--FL_R62820-2",
-    "job_posted_at_datetime_utc": "2026-03-27T07:05:26.107Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4435801948dde23bf2933dd196ef88c924004fc991adc0c4906c7657fcb6156",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:05:26.107Z"
-  },
-  {
     "job_id": "workday-medtronic-R62542",
     "job_title": "Clinical Specialist CRM - Dallas/Fort Worth",
     "employer_name": "Medtronic",
@@ -3770,6 +3801,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "57d83b6289efe68f9119b97c0a7c93cc880a1b34bf53ff6313b91a8bdf7bf02d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:05:26.107Z"
+  },
+  {
+    "job_id": "workday-medtronic-R62820",
+    "job_title": "Prin. Clinical Specialist - Superficial Venous Interventions (SVI) - Ft. Lauderdale, FL",
+    "employer_name": "Medtronic",
+    "job_city": "Fort Lauderdale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fort-Lauderdale-Florida-United-States-of-America/Prin-Clinical-Specialist---Superficial-Venous-Interventions--SVI----Ft-Lauderdale--FL_R62820-2",
+    "job_posted_at_datetime_utc": "2026-03-27T07:05:26.107Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e4435801948dde23bf2933dd196ef88c924004fc991adc0c4906c7657fcb6156",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4010,118 +4069,6 @@
     "job_posted_at": "2026-03-27T07:04:43.429Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-039693",
-    "job_title": "Scientist, Laboratory Automation",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Malvern",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Malvern-Pennsylvania-United-States-of-America/Scientist--Laboratory-Automation_R-039693-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:04:40.703Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5b62a1633ca2971ad8990d31efee389745c1a5423bdb20d2cabf38184d13b6f6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:04:40.703Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-038819",
-    "job_title": "Associate Area Manager or Area Manager - Orlando, FL - Johnson & Johnson MedTech, Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Orlando",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Area-Associate-Area-Manager---Orlando--FL---Johnson---Johnson-MedTech--Heart-Recovery_R-038819-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:04:40.703Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ac7eeec13d22f8c6d1e4298c489c8da711a876a675abae1218fe6011c87fcab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:04:40.703Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066222",
-    "job_title": "Transcend: Deploy CE Experienced Analyst",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Titusville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-066222-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:04:40.703Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f48fdb24767fa5ea6dde88369c8f93f7138b18cdcbc660713a2e05e564b67ee2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:04:40.703Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066205",
-    "job_title": "Clinical Account Specialist - Central Ohio - Johnson and Johnson MedTech - Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Columbus-Ohio-United-States/Clinical-Account-Specialist---Central-Ohio---Johnson-and-Johnson-MedTech---Electrophysiology_R-066205-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:04:40.703Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6499011d2fbf1c29b75a3bb013f331eab49afef7d45ab6b2d83e0bf5da3636d9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:04:40.703Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-066642",
     "job_title": "Advanced Surgical Consultant - Charleston / Columbia, SC - Johnson & Johnson MedTech - Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -4291,6 +4238,118 @@
     "job_posted_at": "2026-03-27T07:04:40.703Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-039693",
+    "job_title": "Scientist, Laboratory Automation",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Malvern",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Malvern-Pennsylvania-United-States-of-America/Scientist--Laboratory-Automation_R-039693-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:04:40.703Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5b62a1633ca2971ad8990d31efee389745c1a5423bdb20d2cabf38184d13b6f6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:04:40.703Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-038819",
+    "job_title": "Associate Area Manager or Area Manager - Orlando, FL - Johnson & Johnson MedTech, Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Orlando",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Area-Associate-Area-Manager---Orlando--FL---Johnson---Johnson-MedTech--Heart-Recovery_R-038819-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:04:40.703Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7ac7eeec13d22f8c6d1e4298c489c8da711a876a675abae1218fe6011c87fcab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:04:40.703Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-066222",
+    "job_title": "Transcend: Deploy CE Experienced Analyst",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Titusville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-066222-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:04:40.703Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f48fdb24767fa5ea6dde88369c8f93f7138b18cdcbc660713a2e05e564b67ee2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:04:40.703Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-066205",
+    "job_title": "Clinical Account Specialist - Central Ohio - Johnson and Johnson MedTech - Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Columbus-Ohio-United-States/Clinical-Account-Specialist---Central-Ohio---Johnson-and-Johnson-MedTech---Electrophysiology_R-066205-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:04:40.703Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6499011d2fbf1c29b75a3bb013f331eab49afef7d45ab6b2d83e0bf5da3636d9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:04:40.703Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-066665",
     "job_title": "Advanced Surgical Consultant - Raleigh, NC - Johnson & Johnson MedTech - Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -4345,6 +4404,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-27T07:04:40.702Z"
+  },
+  {
+    "job_id": "workday-globus-medical-JR104464",
+    "job_title": "Associate Spine Specialist (Chicago, IL)",
+    "employer_name": "Globus Medical",
+    "job_city": "Illinois",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Illinois/Spine-Specialist--Chicago--IL-_JR104464",
+    "job_posted_at_datetime_utc": "2026-03-27T07:04:39.833Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "06379cc8c4a7e4b8e5dcfdc3cd676d56ac9f4fee52453213d8e8f95a01634094",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:04:39.833Z"
   },
   {
     "job_id": "workday-globus-medical-JR106153",
@@ -4583,34 +4670,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6697fb2854804cb752ae33082047d37d844d662878c6582a40e7789a7fe0faf7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:04:39.833Z"
-  },
-  {
-    "job_id": "workday-globus-medical-JR104464",
-    "job_title": "Associate Spine Specialist (Chicago, IL)",
-    "employer_name": "Globus Medical",
-    "job_city": "Illinois",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Illinois/Spine-Specialist--Chicago--IL-_JR104464",
-    "job_posted_at_datetime_utc": "2026-03-27T07:04:39.833Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "06379cc8c4a7e4b8e5dcfdc3cd676d56ac9f4fee52453213d8e8f95a01634094",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4991,62 +5050,6 @@
     "job_posted_at": "2026-03-27T07:01:48.813Z"
   },
   {
-    "job_id": "workday-takeda-R0176331",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "WI - Janesville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Medical-Screener_R0176331-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0aa49f841ff9c2232b1f21ea10e6ac2e4d91a3c26e6b68bd64c86194184c6324",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176338",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "WI - Mount Pleasant - Dura",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Mount-Pleasant---Dura/Medical-Screener_R0176338-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d51214705acd414f4d7efd2897190927194fa1daf8d71e329764446c88ed788a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
     "job_id": "workday-takeda-R0174838",
     "job_title": "Plasma Collection Support Specialist",
     "employer_name": "Takeda",
@@ -5115,34 +5118,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7eb6f7d36352e2210ebb134a41bbe1eb90bf1353f330708b9eab990de7c12a9f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0174813",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "TN - Mount Juliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Mount-Juliet/Medical-Screener_R0174813-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1118e4a8e80f1fb617faff218c97dbf28b949dc4732dc6fd33e0d76346db9519",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6560,6 +6535,90 @@
     "job_posted_at": "2026-03-27T07:01:48.813Z"
   },
   {
+    "job_id": "workday-takeda-R0176331",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "WI - Janesville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Medical-Screener_R0176331-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0aa49f841ff9c2232b1f21ea10e6ac2e4d91a3c26e6b68bd64c86194184c6324",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176338",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "WI - Mount Pleasant - Dura",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Mount-Pleasant---Dura/Medical-Screener_R0176338-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d51214705acd414f4d7efd2897190927194fa1daf8d71e329764446c88ed788a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0174813",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "TN - Mount Juliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Mount-Juliet/Medical-Screener_R0174813-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1118e4a8e80f1fb617faff218c97dbf28b949dc4732dc6fd33e0d76346db9519",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01347127",
     "job_title": "Production Scientist I, Organic Synthesis Chemist",
     "employer_name": "Thermo Fisher Scientific",
@@ -6903,6 +6962,34 @@
     "job_posted_at": "2026-03-26T13:24:16-04:00"
   },
   {
+    "job_id": "workday-medtronic-R62550",
+    "job_title": "Clinical Research Specialist",
+    "employer_name": "Medtronic",
+    "job_city": "Mounds View",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Clinical-Research-Specialist_R62550-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:05:26.108Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "799d2f77f8e8a799cd2bc836919821eedb0e16b0b1968def593202f7b2063637",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:05:26.108Z"
+  },
+  {
     "job_id": "workday-medtronic-R62436",
     "job_title": "Clinical Specialist - Cardiac Rhythm Management (Madison, WI)",
     "employer_name": "Medtronic",
@@ -6943,34 +7030,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4615470a7c9a8316f42a5a9306885d17c4a2f2e3933c5bf3ed5d4aa258eb5774",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:05:26.108Z"
-  },
-  {
-    "job_id": "workday-medtronic-R62550",
-    "job_title": "Clinical Research Specialist",
-    "employer_name": "Medtronic",
-    "job_city": "Mounds View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Clinical-Research-Specialist_R62550-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:05:26.108Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "799d2f77f8e8a799cd2bc836919821eedb0e16b0b1968def593202f7b2063637",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7521,6 +7580,34 @@
     "job_posted_at": "2026-03-26T07:03:58.585Z"
   },
   {
+    "job_id": "workday-abbott-31126405",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Martha's Vineyard, MA",
+    "employer_name": "Abbott",
+    "job_city": "Massachusetts - Oxford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Oxford/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Holyoke--MA_31126405",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2f8555f796103f394e3db063ddb40f4de735eaae48bd3f5c82d2de3a82a7c9c4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
+  },
+  {
     "job_id": "workday-abbott-31145786",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Baltimore, MD",
     "employer_name": "Abbott",
@@ -7997,34 +8084,6 @@
     "job_posted_at": "2026-03-26T07:03:19.251Z"
   },
   {
-    "job_id": "workday-abbott-31145190",
-    "job_title": "Clinical Specialist, Vessel Closure - Southern California",
-    "employer_name": "Abbott",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Costa-Mesa/Clinical-Specialist--Vessel-Closure---Southern-California_31145190-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d5bd665e016184960ea8c4fe168c9ee7d5430d8a660261652f1187de66c9e26e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
     "job_id": "workday-abbott-31145512",
     "job_title": "Clinical Specialist, CRM - Charleston,  WV",
     "employer_name": "Abbott",
@@ -8081,18 +8140,18 @@
     "job_posted_at": "2026-03-26T07:03:19.251Z"
   },
   {
-    "job_id": "workday-abbott-31126405",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Martha's Vineyard, MA",
+    "job_id": "workday-abbott-31145190",
+    "job_title": "Clinical Specialist, Vessel Closure - Southern California",
     "employer_name": "Abbott",
-    "job_city": "Massachusetts - Oxford",
+    "job_city": "3 Locations",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Oxford/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Holyoke--MA_31126405",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Costa-Mesa/Clinical-Specialist--Vessel-Closure---Southern-California_31145190-1",
     "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2f8555f796103f394e3db063ddb40f4de735eaae48bd3f5c82d2de3a82a7c9c4",
+    "fingerprint": "d5bd665e016184960ea8c4fe168c9ee7d5430d8a660261652f1187de66c9e26e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8101,7 +8160,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -11313,6 +11372,35 @@
     "job_posted_at": "2026-03-25T07:01:48.814Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01344269",
+    "job_title": "Experienced CRA  can be located anywhere in the southeast; requisitions need to be filled by March 16th 2026",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Florida-USA/Experienced-CRA--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344269",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:36.283Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dc14492a824145336c692fe4622e772f672e95a4e0569880bed04900f80272f0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:36.283Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01346650",
     "job_title": "Scientist: HPLC",
     "employer_name": "Thermo Fisher Scientific",
@@ -11418,35 +11506,6 @@
         "us"
       ],
       "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:36.283Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01344269",
-    "job_title": "Experienced CRA  can be located anywhere in the southeast; requisitions need to be filled by March 16th 2026",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Florida-USA/Experienced-CRA--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344269",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:36.283Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dc14492a824145336c692fe4622e772f672e95a4e0569880bed04900f80272f0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
