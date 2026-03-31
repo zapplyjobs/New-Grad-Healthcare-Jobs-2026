@@ -1578,120 +1578,6 @@
     "job_posted_at": "2026-03-30T04:06:49.750Z"
   },
   {
-    "job_id": "lever-ro-56cf6679-2618-4be9-acc4-f53afdee3b5b",
-    "job_title": "Fulfillment Pharmacy Technician - Romeoville, IL",
-    "employer_name": "Ro",
-    "job_city": "Romeoville",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/ro/56cf6679-2618-4be9-acc4-f53afdee3b5b/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef7b31dc530921bb9def5947338426b9eb4321c29f7227177ce89c65afc69bfe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:58:51.134Z"
-  },
-  {
-    "job_id": "lever-ro-61b4e90e-0340-439d-ae46-9e72ebbfed4a",
-    "job_title": "Full-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/ro/61b4e90e-0340-439d-ae46-9e72ebbfed4a/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f5b195d38935cb0974acd06d48e6a9674dd5ffc43d2bc2c117ba581f0155938f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:58:51.134Z"
-  },
-  {
-    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
-    "job_title": "Part-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:58:51.134Z"
-  },
-  {
-    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
-    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:58:51.134Z"
-  },
-  {
     "job_id": "lever-ro-aa910c54-81d8-454d-a6f9-19c2b538659c",
     "job_title": "Compounding Pharmacist - Boynton Beach, FL",
     "employer_name": "Ro",
@@ -1858,6 +1744,381 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-03-29T18:58:51.134Z"
+  },
+  {
+    "job_id": "lever-ro-56cf6679-2618-4be9-acc4-f53afdee3b5b",
+    "job_title": "Fulfillment Pharmacy Technician - Romeoville, IL",
+    "employer_name": "Ro",
+    "job_city": "Romeoville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/ro/56cf6679-2618-4be9-acc4-f53afdee3b5b/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ef7b31dc530921bb9def5947338426b9eb4321c29f7227177ce89c65afc69bfe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:58:51.134Z"
+  },
+  {
+    "job_id": "lever-ro-61b4e90e-0340-439d-ae46-9e72ebbfed4a",
+    "job_title": "Full-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/ro/61b4e90e-0340-439d-ae46-9e72ebbfed4a/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f5b195d38935cb0974acd06d48e6a9674dd5ffc43d2bc2c117ba581f0155938f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:58:51.134Z"
+  },
+  {
+    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
+    "job_title": "Part-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:58:51.134Z"
+  },
+  {
+    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
+    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:58:51.134Z"
+  },
+  {
+    "job_id": "lever-includedhealth-16abe98f-67e4-4d5c-a6cf-5b32adbe887a",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/16abe98f-67e4-4d5c-a6cf-5b32adbe887a/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "30a5c9e978db285b39794782c157c03636031a479e33180f52bbea3aa2d29191",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-223892df-993c-4d1a-a889-b4f9da0c50fa",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/223892df-993c-4d1a-a889-b4f9da0c50fa/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2cebb5beef9925467eb28f500f0977d6573801e538408a0557c9f67558a985fe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-36ea353c-02f1-48c0-8943-1ca53399d6ec",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Texas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/36ea353c-02f1-48c0-8943-1ca53399d6ec/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b98b1530980da1b43617752423881285e3c0a919f41926b3510ed5f3ff2f6d18",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-52d9dd20-2356-4906-a8b9-b4e33b803af2",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/52d9dd20-2356-4906-a8b9-b4e33b803af2/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2cebb5beef9925467eb28f500f0977d6573801e538408a0557c9f67558a985fe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-58c2b580-1200-465e-868d-4908c531e84d",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/58c2b580-1200-465e-868d-4908c531e84d/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a78a9de9e218c6b2acd9e41b4ed2177505f5496e9e25d71e80e66da17293cad5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-936f62ea-184f-4c2e-a94b-76508cb675ab",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Georgia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/936f62ea-184f-4c2e-a94b-76508cb675ab/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d69d7904aa8ec472e89b4cf1eb8b9c880a347f1a253381a1b949ab6ee1f5dcf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-a3aafbd5-113e-4063-aab2-0fd8a4659f0b",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Virginia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/a3aafbd5-113e-4063-aab2-0fd8a4659f0b/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "41a1c6d8814d3e40d203dd7427954e2cf2d7a3882770ed57583a55ca8fd09a3c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-fd1cbe81-aab4-41d6-9387-8e3294407d38",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Tennessee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/fd1cbe81-aab4-41d6-9387-8e3294407d38/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a671aa2782cea1128030d9dbff20d64bb3af2669820b504db3710368c1b7489",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
   },
   {
     "job_id": "lever-includedhealth-239dac86-47d7-4829-83d8-887b433ee4da",
@@ -2143,267 +2404,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-16abe98f-67e4-4d5c-a6cf-5b32adbe887a",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/16abe98f-67e4-4d5c-a6cf-5b32adbe887a/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "30a5c9e978db285b39794782c157c03636031a479e33180f52bbea3aa2d29191",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-223892df-993c-4d1a-a889-b4f9da0c50fa",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/223892df-993c-4d1a-a889-b4f9da0c50fa/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2cebb5beef9925467eb28f500f0977d6573801e538408a0557c9f67558a985fe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-36ea353c-02f1-48c0-8943-1ca53399d6ec",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Texas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/36ea353c-02f1-48c0-8943-1ca53399d6ec/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b98b1530980da1b43617752423881285e3c0a919f41926b3510ed5f3ff2f6d18",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-52d9dd20-2356-4906-a8b9-b4e33b803af2",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/52d9dd20-2356-4906-a8b9-b4e33b803af2/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2cebb5beef9925467eb28f500f0977d6573801e538408a0557c9f67558a985fe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-58c2b580-1200-465e-868d-4908c531e84d",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/58c2b580-1200-465e-868d-4908c531e84d/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a78a9de9e218c6b2acd9e41b4ed2177505f5496e9e25d71e80e66da17293cad5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-936f62ea-184f-4c2e-a94b-76508cb675ab",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Georgia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/936f62ea-184f-4c2e-a94b-76508cb675ab/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d69d7904aa8ec472e89b4cf1eb8b9c880a347f1a253381a1b949ab6ee1f5dcf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-a3aafbd5-113e-4063-aab2-0fd8a4659f0b",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Virginia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/a3aafbd5-113e-4063-aab2-0fd8a4659f0b/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "41a1c6d8814d3e40d203dd7427954e2cf2d7a3882770ed57583a55ca8fd09a3c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-fd1cbe81-aab4-41d6-9387-8e3294407d38",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Tennessee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/fd1cbe81-aab4-41d6-9387-8e3294407d38/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a671aa2782cea1128030d9dbff20d64bb3af2669820b504db3710368c1b7489",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -3641,62 +3641,6 @@
     "job_posted_at": "2026-03-27T07:04:43.429Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-038819",
-    "job_title": "Associate Area Manager or Area Manager - Orlando, FL - Johnson & Johnson MedTech, Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Orlando",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Area-Associate-Area-Manager---Orlando--FL---Johnson---Johnson-MedTech--Heart-Recovery_R-038819-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:04:40.703Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ac7eeec13d22f8c6d1e4298c489c8da711a876a675abae1218fe6011c87fcab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:04:40.703Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066222",
-    "job_title": "Transcend: Deploy CE Experienced Analyst",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Titusville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-066222-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:04:40.703Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f48fdb24767fa5ea6dde88369c8f93f7138b18cdcbc660713a2e05e564b67ee2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:04:40.703Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-066665",
     "job_title": "Advanced Surgical Consultant - Raleigh, NC - Johnson & Johnson MedTech - Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -3943,6 +3887,62 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:04:40.703Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-038819",
+    "job_title": "Associate Area Manager or Area Manager - Orlando, FL - Johnson & Johnson MedTech, Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Orlando",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Area-Associate-Area-Manager---Orlando--FL---Johnson---Johnson-MedTech--Heart-Recovery_R-038819-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:04:40.703Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7ac7eeec13d22f8c6d1e4298c489c8da711a876a675abae1218fe6011c87fcab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:04:40.703Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-066222",
+    "job_title": "Transcend: Deploy CE Experienced Analyst",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Titusville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-066222-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:04:40.703Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f48fdb24767fa5ea6dde88369c8f93f7138b18cdcbc660713a2e05e564b67ee2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -4342,6 +4342,62 @@
     "job_posted_at": "2026-03-27T07:03:52.787Z"
   },
   {
+    "job_id": "workday-abbott-31144903",
+    "job_title": "Clinical Specialist - South Tampa, FL",
+    "employer_name": "Abbott",
+    "job_city": "Florida - Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist-II---South-Tampa--FL_31144903-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:19.250Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3a1278280c7ef68b776f680b95bedd380424c8f4ad8aa21b0c31419349e70952",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:19.250Z"
+  },
+  {
+    "job_id": "workday-abbott-31145518",
+    "job_title": "Clinical Associate",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Memphis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Memphis/Clinical-Associate_31145518-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:19.250Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ca55326dc7edb9f42dd1f1d5ab97a7bd98c3aa22d12bd6c7fcad2736ba9a4603",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:19.250Z"
+  },
+  {
     "job_id": "workday-abbott-31145803",
     "job_title": "QC Technologist- (Monday to Friday 8:00 AM - 5:00 PM)",
     "employer_name": "Abbott",
@@ -4466,62 +4522,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ada58c37fcfc2f79d0b9f1e2bc4806a44ad37732e68be2b67956df12749af180",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:19.250Z"
-  },
-  {
-    "job_id": "workday-abbott-31144903",
-    "job_title": "Clinical Specialist - South Tampa, FL",
-    "employer_name": "Abbott",
-    "job_city": "Florida - Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist-II---South-Tampa--FL_31144903-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:19.250Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3a1278280c7ef68b776f680b95bedd380424c8f4ad8aa21b0c31419349e70952",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:19.250Z"
-  },
-  {
-    "job_id": "workday-abbott-31145518",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Memphis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Memphis/Clinical-Associate_31145518-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:19.250Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ca55326dc7edb9f42dd1f1d5ab97a7bd98c3aa22d12bd6c7fcad2736ba9a4603",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4803,6 +4803,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "808738f8ef39f01f8e5ff3d2098a3fd7af29479331fcd8b2568c8b61376ced98",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177325",
+    "job_title": "Paramedic – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "WI - Milwaukee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Milwaukee/Paramedic---No-Overnight-Shifts_R0177325-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0492bac225443a15dfbe505a28b1c98389ec3a73cc17476d450dbdd438f7fa62",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6163,34 +6191,6 @@
     "job_posted_at": "2026-03-27T07:01:48.813Z"
   },
   {
-    "job_id": "workday-takeda-R0177325",
-    "job_title": "Paramedic – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "WI - Milwaukee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Milwaukee/Paramedic---No-Overnight-Shifts_R0177325-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0492bac225443a15dfbe505a28b1c98389ec3a73cc17476d450dbdd438f7fa62",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01347127",
     "job_title": "Production Scientist I, Organic Synthesis Chemist",
     "employer_name": "Thermo Fisher Scientific",
@@ -6845,34 +6845,6 @@
     "job_posted_at": "2026-03-26T07:04:43.429Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-065656",
-    "job_title": "Associate Scientist Biologics AD",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Malvern",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Malvern-Pennsylvania-United-States-of-America/Associate-Scientist-Biologics-AD_R-065656-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:04:40.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50b0eaef3c229df98cdb662e7024c4dddaed3a0ef6005d066bec209465f36cec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:04:40.704Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-066531",
     "job_title": "Associate Clinical Consultant/Clinical Consultant (Great Lakes Region) - Johnson & Johnson MedTech – Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -6969,6 +6941,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "acee4e9ca51c05b6e429a8ddbc4c05ecf8338735daa1bc2f51e76af17024a81f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:04:40.704Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-065656",
+    "job_title": "Associate Scientist Biologics AD",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Malvern",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Malvern-Pennsylvania-United-States-of-America/Associate-Scientist-Biologics-AD_R-065656-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:04:40.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50b0eaef3c229df98cdb662e7024c4dddaed3a0ef6005d066bec209465f36cec",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7179,6 +7179,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-26T07:03:58.585Z"
+  },
+  {
+    "job_id": "workday-abbott-31145778",
+    "job_title": "Clinical Specialist - Charlotte, NC",
+    "employer_name": "Abbott",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Clinical-Specialist---Charlotte--NC_31145778-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "18fc1e5691dc0f71c2166223e7c95f176acf4648da3861f937d79ae4ca14a4d2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
   },
   {
     "job_id": "workday-abbott-31126405",
@@ -7461,62 +7489,6 @@
     "job_posted_at": "2026-03-26T07:03:19.251Z"
   },
   {
-    "job_id": "workday-abbott-31145512",
-    "job_title": "Clinical Specialist, CRM - Charleston,  WV",
-    "employer_name": "Abbott",
-    "job_city": "West Virginia - Charleston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---West-Virginia---Charleston/Clinical-Specialist--CRM---Charleston---WV_31145512-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5667f25043ed568e638a18e9b07ac6a27254f92b0da253e8477df6785e960840",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
-    "job_id": "workday-abbott-31145778",
-    "job_title": "Clinical Specialist - Charlotte, NC",
-    "employer_name": "Abbott",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Clinical-Specialist---Charlotte--NC_31145778-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "18fc1e5691dc0f71c2166223e7c95f176acf4648da3861f937d79ae4ca14a4d2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
     "job_id": "workday-abbott-31136218",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Butte, MT",
     "employer_name": "Abbott",
@@ -7769,6 +7741,34 @@
     "job_posted_at": "2026-03-26T07:03:19.251Z"
   },
   {
+    "job_id": "workday-abbott-31145512",
+    "job_title": "Clinical Specialist, CRM - Charleston,  WV",
+    "employer_name": "Abbott",
+    "job_city": "West Virginia - Charleston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---West-Virginia---Charleston/Clinical-Specialist--CRM---Charleston---WV_31145512-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5667f25043ed568e638a18e9b07ac6a27254f92b0da253e8477df6785e960840",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
+  },
+  {
     "job_id": "workday-merck-&-co.-R371068",
     "job_title": "Associate Scientist, Postdoctoral Fellow- Computational Peptide Modeling",
     "employer_name": "Merck & Co.",
@@ -7908,174 +7908,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-26T07:01:48.814Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177224",
-    "job_title": "Plasma Center Nurse – RN - Benefits Day 1!",
-    "employer_name": "Takeda",
-    "job_city": "IN - Bloomington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Bloomington/Plasma-Center-Nurse---RN---Benefits-Day-1-_R0177224-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc379b39fc03467cd1c7993b908faf826e0efb907f1b61911e4379df5f7bbb6a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177223",
-    "job_title": "Plasma Center Nurse – LPN - Benefits Day 1!",
-    "employer_name": "Takeda",
-    "job_city": "IN - Bloomington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Bloomington/Plasma-Center-Nurse---LPN---Benefits-Day-1-_R0177223-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef4199a0aa5c56c7324f8ea0c7390187279355e956c6c4e92177cb3394ffce30",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177222",
-    "job_title": "Plasma Center Paramedic – EMT-P - Benefits Day 1!",
-    "employer_name": "Takeda",
-    "job_city": "IN - Bloomington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Bloomington/Plasma-Center-Paramedic---EMT-P---Benefits-Day-1-_R0177222-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "31511cf4cb084266154597ae3f6965b345daa21a90945d5b8afffa723aada566",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177219",
-    "job_title": "Licensed Practical Nurse - Part-Time",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Licensed-Practical-Nurse---Part-Time_R0177219-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c021de0def14f75bad620a45fa1def9f884a412b0cc61490ce3ea82c561d7ba3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177216",
-    "job_title": "Plasma Center Nurse - RN",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Plasma-Center-Nurse---RN_R0177216-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e61aa2e767b61a9cafe8aaa089b657d9ed4e3359e52e56f04d5950b2ba9f65fc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177215",
-    "job_title": "Plasma Center Nurse - LPN",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Plasma-Center-Nurse---LPN_R0177215-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ff8fa804dc9e82a69da1d8f4a2f3501bc215467b9792714ab7b5e638ded3923c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:01:48.813Z"
   },
   {
     "job_id": "workday-takeda-R0175679",
@@ -9002,6 +8834,118 @@
     "job_posted_at": "2026-03-26T07:01:48.813Z"
   },
   {
+    "job_id": "workday-takeda-R0177224",
+    "job_title": "Plasma Center Nurse – RN - Benefits Day 1!",
+    "employer_name": "Takeda",
+    "job_city": "IN - Bloomington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Bloomington/Plasma-Center-Nurse---RN---Benefits-Day-1-_R0177224-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc379b39fc03467cd1c7993b908faf826e0efb907f1b61911e4379df5f7bbb6a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177223",
+    "job_title": "Plasma Center Nurse – LPN - Benefits Day 1!",
+    "employer_name": "Takeda",
+    "job_city": "IN - Bloomington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Bloomington/Plasma-Center-Nurse---LPN---Benefits-Day-1-_R0177223-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ef4199a0aa5c56c7324f8ea0c7390187279355e956c6c4e92177cb3394ffce30",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177222",
+    "job_title": "Plasma Center Paramedic – EMT-P - Benefits Day 1!",
+    "employer_name": "Takeda",
+    "job_city": "IN - Bloomington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Bloomington/Plasma-Center-Paramedic---EMT-P---Benefits-Day-1-_R0177222-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "31511cf4cb084266154597ae3f6965b345daa21a90945d5b8afffa723aada566",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177219",
+    "job_title": "Licensed Practical Nurse - Part-Time",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Licensed-Practical-Nurse---Part-Time_R0177219-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c021de0def14f75bad620a45fa1def9f884a412b0cc61490ce3ea82c561d7ba3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:01:48.813Z"
+  },
+  {
     "job_id": "workday-takeda-R0177217",
     "job_title": "On Site Paramedic",
     "employer_name": "Takeda",
@@ -9014,6 +8958,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "041c622ae5047aeb4e0791d49e4c6bc4c9bc69ab0b566e0739feab7e5e4655fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177216",
+    "job_title": "Plasma Center Nurse - RN",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Plasma-Center-Nurse---RN_R0177216-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e61aa2e767b61a9cafe8aaa089b657d9ed4e3359e52e56f04d5950b2ba9f65fc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177215",
+    "job_title": "Plasma Center Nurse - LPN",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Plasma-Center-Nurse---LPN_R0177215-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ff8fa804dc9e82a69da1d8f4a2f3501bc215467b9792714ab7b5e638ded3923c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9058,6 +9058,34 @@
     "job_posted_at": "2026-03-26T07:01:36.283Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01346987",
+    "job_title": "APP (NP/PA) Sub Investigator",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Antonio-Texas-USA/APP--NP-PA--Sub-Investigator_R-01346987",
+    "job_posted_at_datetime_utc": "2026-03-26T07:01:36.282Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "884b0a26ff1a783366da87263209b12ede4e2d872609f45c1389db17c5960acd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:01:36.282Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01347423",
     "job_title": "Investigator Services Assistant",
     "employer_name": "Thermo Fisher Scientific",
@@ -9098,34 +9126,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6f4e0507218470c70982e7d00ff1a8739ec58ab4dea1ad4d379efb068ee2807e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:01:36.282Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01346987",
-    "job_title": "APP (NP/PA) Sub Investigator",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Antonio-Texas-USA/APP--NP-PA--Sub-Investigator_R-01346987",
-    "job_posted_at_datetime_utc": "2026-03-26T07:01:36.282Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "884b0a26ff1a783366da87263209b12ede4e2d872609f45c1389db17c5960acd",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9542,34 +9542,6 @@
     "job_posted_at": "2026-03-25T07:07:22.406Z"
   },
   {
-    "job_id": "workday-medtronic-R61438",
-    "job_title": "Clinical Specialist Pelvic Health-  Mobile, AL",
-    "employer_name": "Medtronic",
-    "job_city": "Mobile",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mobile-Alabama-United-States-of-America/Clinical-Specialist-Pelvic-Health---Mobile--AL_R61438-1",
-    "job_posted_at_datetime_utc": "2026-03-25T07:05:26.108Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eb3f2298795de86e913d3a3056f4455b105e50db91640d7a4903e19809bc9ee8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:05:26.108Z"
-  },
-  {
     "job_id": "workday-medtronic-R59083",
     "job_title": "Clinical Specialist Pelvic Health- Knoxville, TN",
     "employer_name": "Medtronic",
@@ -9654,6 +9626,34 @@
     "job_posted_at": "2026-03-25T07:05:26.108Z"
   },
   {
+    "job_id": "workday-medtronic-R61438",
+    "job_title": "Clinical Specialist Pelvic Health-  Mobile, AL",
+    "employer_name": "Medtronic",
+    "job_city": "Mobile",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mobile-Alabama-United-States-of-America/Clinical-Specialist-Pelvic-Health---Mobile--AL_R61438-1",
+    "job_posted_at_datetime_utc": "2026-03-25T07:05:26.108Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eb3f2298795de86e913d3a3056f4455b105e50db91640d7a4903e19809bc9ee8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:05:26.108Z"
+  },
+  {
     "job_id": "workday-marvell-2601021",
     "job_title": "Advanced Laboratory Technician, Optics",
     "employer_name": "Marvell",
@@ -9710,63 +9710,6 @@
     "job_posted_at": "2026-03-25T07:05:05.880Z"
   },
   {
-    "job_id": "workday-guidehouse-37578",
-    "job_title": "Charge Corrections Medical Coder",
-    "employer_name": "Guidehouse",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Charge-Corrections-Medical-Coder_37578",
-    "job_posted_at_datetime_utc": "2026-03-25T07:04:43.429Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "110b65a02fb7028737f15dfbe4c56f2f52e1d6e7f2afff33bd11e601917660a4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:04:43.429Z"
-  },
-  {
-    "job_id": "workday-guidehouse-36383",
-    "job_title": "Patient Account Representative - Clinical Trials",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Representative---Clinical-Trials_36383",
-    "job_posted_at_datetime_utc": "2026-03-25T07:04:43.429Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c37d315f0b8b243de84dcd4e882f8e991f08a6a50361f72edb1d682d0d8ee79e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:04:43.429Z"
-  },
-  {
     "job_id": "workday-guidehouse-35416",
     "job_title": "Admissions Coordinator   Full Time, Days, 100% Onsite",
     "employer_name": "Guidehouse",
@@ -9815,6 +9758,63 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:04:43.429Z"
+  },
+  {
+    "job_id": "workday-guidehouse-37578",
+    "job_title": "Charge Corrections Medical Coder",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Charge-Corrections-Medical-Coder_37578",
+    "job_posted_at_datetime_utc": "2026-03-25T07:04:43.429Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "110b65a02fb7028737f15dfbe4c56f2f52e1d6e7f2afff33bd11e601917660a4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:04:43.429Z"
+  },
+  {
+    "job_id": "workday-guidehouse-36383",
+    "job_title": "Patient Account Representative - Clinical Trials",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Birmingham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Representative---Clinical-Trials_36383",
+    "job_posted_at_datetime_utc": "2026-03-25T07:04:43.429Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c37d315f0b8b243de84dcd4e882f8e991f08a6a50361f72edb1d682d0d8ee79e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "mid_level",
       "special": []
@@ -10441,6 +10441,34 @@
     "job_posted_at": "2026-03-25T07:01:48.814Z"
   },
   {
+    "job_id": "workday-takeda-R0177098",
+    "job_title": "Registered Nurse (RN) – Weekend Availability Needed Appleton Eisen",
+    "employer_name": "Takeda",
+    "job_city": "WI - Appleton - Eisenhower Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Registered-Nurse--RN----Weekend-Availability-Needed-Appleton-Eisen_R0177098-1",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "faa51dda5effd20a5926530c9aaee462010d9d2739ecbdcd7bff28b871ee0c93",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:48.814Z"
+  },
+  {
     "job_id": "workday-takeda-R0177095",
     "job_title": "Licensed Practical Nurse (LPN) – Weekend Availability Needed - Appleton Eisen",
     "employer_name": "Takeda",
@@ -10945,91 +10973,6 @@
     "job_posted_at": "2026-03-25T07:01:48.814Z"
   },
   {
-    "job_id": "workday-takeda-R0177098",
-    "job_title": "Registered Nurse (RN) – Weekend Availability Needed Appleton Eisen",
-    "employer_name": "Takeda",
-    "job_city": "WI - Appleton - Eisenhower Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Registered-Nurse--RN----Weekend-Availability-Needed-Appleton-Eisen_R0177098-1",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "faa51dda5effd20a5926530c9aaee462010d9d2739ecbdcd7bff28b871ee0c93",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:48.814Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01344269",
-    "job_title": "Experienced CRA  can be located anywhere in the southeast; requisitions need to be filled by March 16th 2026",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Florida-USA/Experienced-CRA--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344269",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:36.283Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dc14492a824145336c692fe4622e772f672e95a4e0569880bed04900f80272f0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:36.283Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01346650",
-    "job_title": "Scientist: HPLC",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Rockville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Scientist--HPLC_R-01346650",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:36.283Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "40f570580f3a31aac69cb0c82d3fec0f9525c1035532e8130fa9cd0b626010af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:36.283Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01347139",
     "job_title": "FSP Associate Scientist - Small Molecule Analytical Chemistry",
     "employer_name": "Thermo Fisher Scientific",
@@ -11107,6 +11050,63 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:36.283Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01344269",
+    "job_title": "Experienced CRA  can be located anywhere in the southeast; requisitions need to be filled by March 16th 2026",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Florida-USA/Experienced-CRA--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344269",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:36.283Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dc14492a824145336c692fe4622e772f672e95a4e0569880bed04900f80272f0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:36.283Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01346650",
+    "job_title": "Scientist: HPLC",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Rockville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Scientist--HPLC_R-01346650",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:36.283Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "40f570580f3a31aac69cb0c82d3fec0f9525c1035532e8130fa9cd0b626010af",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -11458,6 +11458,34 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-24T20:13:31.210Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-064826",
+    "job_title": "Executive Area Business Specialist, Immunology (Baltimore, MD) - Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Baltimore-Maryland-United-States/Executive-Area-Business-Specialist--Immunology--Baltimore--MD----Johnson---Johnson-Innovative-Medicine_R-064826-1",
+    "job_posted_at_datetime_utc": "2026-03-24T18:48:14.169Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e685d04e6d6e56f61c5ed11b5f2f7f50ccddea5653e53512ae75e716aef7c80e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-24T18:48:14.169Z"
   },
   {
     "job_id": "sr-Intuitive-744000116448297",
