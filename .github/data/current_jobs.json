@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-takeda-R0177458",
+    "job_title": "Medical Support Specialist LPN",
+    "employer_name": "Takeda",
+    "job_city": "CO - Colorado Springs - Sou",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Colorado-Springs---Sou/Medical-Support-Specialist-LPN_R0177458-1",
+    "job_posted_at_datetime_utc": "2026-03-31T14:28:40.807Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "21864fb0caa6e46dc6de04f1ff672de3b0ca8059a097f690882141ab928250b9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T14:28:40.807Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-063663",
     "job_title": "Field Clinical Specialist - Shockwave Medical (Virginia Tidewater)",
     "employer_name": "Johnson & Johnson",
@@ -1436,34 +1464,6 @@
     "job_posted_at": "2026-03-30T14:13:07.917Z"
   },
   {
-    "job_id": "workday-takeda-R0177376",
-    "job_title": "Paramedic - No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "LA - Lafayette",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Paramedic---No-Overnight-Shifts_R0177376-1",
-    "job_posted_at_datetime_utc": "2026-03-30T14:12:28.606Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1854543f441053b9dba90ce83b62bcb9d849d11c215ed8de1d01919b91e8247e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T14:12:28.606Z"
-  },
-  {
     "job_id": "workday-takeda-R0177375",
     "job_title": "Licensed Practical Nurse - Day One Benefits",
     "employer_name": "Takeda",
@@ -1692,63 +1692,6 @@
     "job_posted_at": "2026-03-30T04:06:49.750Z"
   },
   {
-    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
-    "job_title": "Part-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:58:51.134Z"
-  },
-  {
-    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
-    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:58:51.134Z"
-  },
-  {
     "job_id": "lever-ro-aa910c54-81d8-454d-a6f9-19c2b538659c",
     "job_title": "Compounding Pharmacist - Boynton Beach, FL",
     "employer_name": "Ro",
@@ -1967,6 +1910,63 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:58:51.134Z"
+  },
+  {
+    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
+    "job_title": "Part-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:58:51.134Z"
+  },
+  {
+    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
+    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -3363,34 +3363,6 @@
     "job_posted_at": "2026-03-27T12:22:13.727Z"
   },
   {
-    "job_id": "workday-takeda-R0176375",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "NJ - Deptford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Medical-Screener_R0176375",
-    "job_posted_at_datetime_utc": "2026-03-27T07:22:36.344Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "db56a4361a2bb394845bd4de749ab2b84069acdd2e6a02c5361d0a0e7fbe7e81",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:22:36.344Z"
-  },
-  {
     "job_id": "workday-takeda-R0177324",
     "job_title": "Part Time Plasma Center Technician",
     "employer_name": "Takeda",
@@ -4708,34 +4680,6 @@
     "job_posted_at": "2026-03-27T07:02:26.751Z"
   },
   {
-    "job_id": "workday-takeda-R0172780",
-    "job_title": "Manufacturing Associate I - Night Shift",
-    "employer_name": "Takeda",
-    "job_city": "Brooklyn Park",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Brooklyn-Park-MN/Manufacturing-Associate-I---Night-Shift_R0172780-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d3811c1ca050003bfaff82baf921b16c03dd109a3e2ee7ce502c01188a461ca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
     "job_id": "workday-takeda-R0177336",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
@@ -5141,342 +5085,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7db3fcba9729ce2e55a535d5aaa25d4daee40a669487117d369ae0f83a9d49ff",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0173713",
-    "job_title": "Part Time Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Jacksonville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville/Phlebotomist_R0173713",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8d22a270db898f38f9bf8eaae7e9af4765109a9912f9241661c449a27bcd6b03",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0173694",
-    "job_title": "Experienced Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "FL - Jacksonville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville/Experienced-Phlebotomist_R0173694-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a2c1a20895a366373486c5cf8e18870bc9aba087bd2ffbbcb0005030c29b29a5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176600",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "GA - Douglasville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Douglasville/Phlebotomist_R0176600-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ad6722b6f40618cc5543dbc0c27cba47177380a97d055628eed082e897d08eb5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175511",
-    "job_title": "Entry Level Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "MA - West Springfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---West-Springfield/Entry-Level-Plasma-Center-Technician_R0175511-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5bd44587bd284732a4c96f3b2fa757542bbd792da5addb7f64f972f539af83ff",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175470",
-    "job_title": "Part Time Medical Screener - Immediate Benefits - Open Availability Required",
-    "employer_name": "Takeda",
-    "job_city": "NC - Greensboro",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Greensboro/Part-Time-Medical-Screener---Immediate-Benefits---Open-Availability-Required_R0175470-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc84dc72bc360aab7828a1ddc856e2e1d089b4d90463337ba40fa078c057e5b4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0173657",
-    "job_title": "Entry Level Phlebotomist/Medical Screener - Paid Training",
-    "employer_name": "Takeda",
-    "job_city": "AL - Mobile",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AL---Mobile/Entry-Level-Phlebotomist-Medical-Screener---Paid-Training_R0173657-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4a34d7700dcc3798fe463baabb056443dda0e63cb124d9411d34d0e34feb513e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0173686",
-    "job_title": "Part Time Entry Level Phlebotomist - Rochester-Spencerport  NY",
-    "employer_name": "Takeda",
-    "job_city": "NY - Rochester",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Rochester/Part-Time-Entry-Level-Phlebotomist---Rochester-Spencerport--NY_R0173686-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "430018a70f1b1eb70017d88ea5ad1d9e0d404f21d991aa30d436fb141096c41a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0174745",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "GA - Duluth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Duluth/Medical-Screener_R0174745-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9fa0d6b3851bfad1dc93c528e86d96c3bef6d681fbb9c7c94cd9b45c18a400a5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175254",
-    "job_title": "Plasma Center Technician - Daytona Beach - Part Time",
-    "employer_name": "Takeda",
-    "job_city": "FL - Daytona Beach",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Daytona-Beach/Plasma-Center-Technician---Daytona-Beach---Part-Time_R0175254-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1cb4a488b6af8cdedfd94779ae0a1e1c94d4e98729fea7c448f246bbba6d8494",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175115",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "SC - Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Greenville/Medical-Screener_R0175115-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4b5ebf066f09842ee669b5dd3828ed1a96eb874590a1a85ad42c35ae5a11b20b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0173659",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Jacksonville - Norm",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville---Norm/Medical-Screener_R0173659-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e55d643b43d816b5646df715fa2bf967dbf4c5c8ebaa9f4f12a2ee18954afbec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176214",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "NJ - Deptford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Phlebotomist_R0176214-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7e3bd45e0e9f00037978dc001f26ad4cdf07221099edf83b3c916395d77dc950",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6137,6 +5745,426 @@
     "job_posted_at": "2026-03-27T07:01:48.813Z"
   },
   {
+    "job_id": "workday-takeda-R0177337",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mounds View",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mounds-View/Plasma-Center-Technician_R0177337-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bca11d23e2af4842728be08765f1078dffa2706732d2d683f2ca7d06376a0de8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177262",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Tallahassee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tallahassee/Medical-Screener_R0177262-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1141f89ef6e6c97d902f1ecf2f89cb8f6723bbbe1e7a1b064ca73b9582351838",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0172780",
+    "job_title": "Manufacturing Associate I - Night Shift",
+    "employer_name": "Takeda",
+    "job_city": "Brooklyn Park",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Brooklyn-Park-MN/Manufacturing-Associate-I---Night-Shift_R0172780-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d3811c1ca050003bfaff82baf921b16c03dd109a3e2ee7ce502c01188a461ca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0173713",
+    "job_title": "Part Time Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Jacksonville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville/Phlebotomist_R0173713",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8d22a270db898f38f9bf8eaae7e9af4765109a9912f9241661c449a27bcd6b03",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0173694",
+    "job_title": "Experienced Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "FL - Jacksonville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville/Experienced-Phlebotomist_R0173694-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a2c1a20895a366373486c5cf8e18870bc9aba087bd2ffbbcb0005030c29b29a5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176600",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "GA - Douglasville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Douglasville/Phlebotomist_R0176600-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ad6722b6f40618cc5543dbc0c27cba47177380a97d055628eed082e897d08eb5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175511",
+    "job_title": "Entry Level Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "MA - West Springfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---West-Springfield/Entry-Level-Plasma-Center-Technician_R0175511-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5bd44587bd284732a4c96f3b2fa757542bbd792da5addb7f64f972f539af83ff",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175470",
+    "job_title": "Part Time Medical Screener - Immediate Benefits - Open Availability Required",
+    "employer_name": "Takeda",
+    "job_city": "NC - Greensboro",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Greensboro/Part-Time-Medical-Screener---Immediate-Benefits---Open-Availability-Required_R0175470-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cc84dc72bc360aab7828a1ddc856e2e1d089b4d90463337ba40fa078c057e5b4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0173657",
+    "job_title": "Entry Level Phlebotomist/Medical Screener - Paid Training",
+    "employer_name": "Takeda",
+    "job_city": "AL - Mobile",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AL---Mobile/Entry-Level-Phlebotomist-Medical-Screener---Paid-Training_R0173657-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4a34d7700dcc3798fe463baabb056443dda0e63cb124d9411d34d0e34feb513e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0173686",
+    "job_title": "Part Time Entry Level Phlebotomist - Rochester-Spencerport  NY",
+    "employer_name": "Takeda",
+    "job_city": "NY - Rochester",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Rochester/Part-Time-Entry-Level-Phlebotomist---Rochester-Spencerport--NY_R0173686-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "430018a70f1b1eb70017d88ea5ad1d9e0d404f21d991aa30d436fb141096c41a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0174745",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "GA - Duluth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Duluth/Medical-Screener_R0174745-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9fa0d6b3851bfad1dc93c528e86d96c3bef6d681fbb9c7c94cd9b45c18a400a5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175254",
+    "job_title": "Plasma Center Technician - Daytona Beach - Part Time",
+    "employer_name": "Takeda",
+    "job_city": "FL - Daytona Beach",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Daytona-Beach/Plasma-Center-Technician---Daytona-Beach---Part-Time_R0175254-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1cb4a488b6af8cdedfd94779ae0a1e1c94d4e98729fea7c448f246bbba6d8494",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175115",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "SC - Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Greenville/Medical-Screener_R0175115-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4b5ebf066f09842ee669b5dd3828ed1a96eb874590a1a85ad42c35ae5a11b20b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0173659",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Jacksonville - Norm",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville---Norm/Medical-Screener_R0173659-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e55d643b43d816b5646df715fa2bf967dbf4c5c8ebaa9f4f12a2ee18954afbec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176214",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "NJ - Deptford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Phlebotomist_R0176214-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7e3bd45e0e9f00037978dc001f26ad4cdf07221099edf83b3c916395d77dc950",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:01:48.813Z"
+  },
+  {
     "job_id": "workday-takeda-R0174827",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
@@ -6249,18 +6277,18 @@
     "job_posted_at": "2026-03-27T07:01:48.813Z"
   },
   {
-    "job_id": "workday-takeda-R0177337",
-    "job_title": "Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mounds View",
+    "job_id": "workday-thermo-fisher-scientific-R-01347582",
+    "job_title": "Packaging / Labeling Tech 3 - 2nd & 3rd Shifts",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Allentown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mounds-View/Plasma-Center-Technician_R0177337-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Packaging---Labeling-Tech-3---2nd---3rd-Shifts_R-01347582",
+    "job_posted_at_datetime_utc": "2026-03-27T07:01:36.281Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bca11d23e2af4842728be08765f1078dffa2706732d2d683f2ca7d06376a0de8",
+    "fingerprint": "fdf4aba696b1730f752d845995a9b4216145d556b1b8cee0f788adea42aff0fa",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6269,40 +6297,12 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177262",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Tallahassee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tallahassee/Medical-Screener_R0177262-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:48.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1141f89ef6e6c97d902f1ecf2f89cb8f6723bbbe1e7a1b064ca73b9582351838",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:48.813Z"
+    "job_posted_at": "2026-03-27T07:01:36.281Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01347127",
@@ -6354,34 +6354,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:01:36.281Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01347582",
-    "job_title": "Packaging / Labeling Tech 3 - 2nd & 3rd Shifts",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Allentown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Packaging---Labeling-Tech-3---2nd---3rd-Shifts_R-01347582",
-    "job_posted_at_datetime_utc": "2026-03-27T07:01:36.281Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fdf4aba696b1730f752d845995a9b4216145d556b1b8cee0f788adea42aff0fa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7295,6 +7267,230 @@
     "job_posted_at": "2026-03-26T07:03:58.585Z"
   },
   {
+    "job_id": "workday-abbott-31131392",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Petersburg, WV; Williamson, WV",
+    "employer_name": "Abbott",
+    "job_city": "West Virginia - Grafton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---West-Virginia---Grafton/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Petersburg--WV_31131392",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "06a39e455396dbc794c5e373306e3cafb5a6319c6934dacab43259c2de3a43d3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
+  },
+  {
+    "job_id": "workday-abbott-31130715",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockville, IA; Ottumwa, IA",
+    "employer_name": "Abbott",
+    "job_city": "Iowa - Dubuque",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Iowa---Dubuque/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockville--IA_31130715",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4528646877eb4736f1baa275aa9ce786890fa9d59181fb6b5df26c22275aac59",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
+  },
+  {
+    "job_id": "workday-abbott-31128000",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Juneau, AK",
+    "employer_name": "Abbott",
+    "job_city": "Alaska - Juneau",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Alaska---Juneau/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairbanks--AK_31128000",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "42162ed4df37c72f222a7bf44ae7a666f1432eae83ae9669b0099ce9d77abb65",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
+  },
+  {
+    "job_id": "workday-abbott-31128002",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Ukiah, CA",
+    "employer_name": "Abbott",
+    "job_city": "California - Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Los-Angeles/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---San-Francisco--CA--Temecula--CA_31128002",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f2be8f980f9d8393d07bc74bf3fd3211d32f56039fd2175c8e1e4ed68457020b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
+  },
+  {
+    "job_id": "workday-abbott-31113914",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
+    "employer_name": "Abbott",
+    "job_city": "Colorado - Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
+  },
+  {
+    "job_id": "workday-abbott-31137792",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Peekskill, NY; Albany, NY",
+    "employer_name": "Abbott",
+    "job_city": "New York - Poughkeepsie",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Poughkeepsie/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-York--NY_31137792",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf0455f573274a0e4fdae6c3561805b33fb19ddba3b6f7332562429759e17cdb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
+  },
+  {
+    "job_id": "workday-abbott-31145190",
+    "job_title": "Clinical Specialist, Vessel Closure - Southern California",
+    "employer_name": "Abbott",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Costa-Mesa/Clinical-Specialist--Vessel-Closure---Southern-California_31145190-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d5bd665e016184960ea8c4fe168c9ee7d5430d8a660261652f1187de66c9e26e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
+  },
+  {
+    "job_id": "workday-abbott-31145512",
+    "job_title": "Clinical Specialist, CRM - Charleston,  WV",
+    "employer_name": "Abbott",
+    "job_city": "West Virginia - Charleston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---West-Virginia---Charleston/Clinical-Specialist--CRM---Charleston---WV_31145512-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5667f25043ed568e638a18e9b07ac6a27254f92b0da253e8477df6785e960840",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
+  },
+  {
     "job_id": "workday-abbott-31145778",
     "job_title": "Clinical Specialist - Charlotte, NC",
     "employer_name": "Abbott",
@@ -7519,34 +7715,6 @@
     "job_posted_at": "2026-03-26T07:03:19.251Z"
   },
   {
-    "job_id": "workday-abbott-31143505",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Muskogee, OK; Ardmore, OK",
-    "employer_name": "Abbott",
-    "job_city": "Oklahoma - Oklahoma City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Oklahoma---Oklahoma-City/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Muskogee--OK--Ardmore--OK_31143505",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7700098878889ccdfde6246136c88bce65add74b6dbaaf5c0a25992a301dfb69",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
     "job_id": "workday-abbott-31142458",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bridgewater, NJ",
     "employer_name": "Abbott",
@@ -7659,18 +7827,18 @@
     "job_posted_at": "2026-03-26T07:03:19.251Z"
   },
   {
-    "job_id": "workday-abbott-31131392",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Petersburg, WV; Williamson, WV",
+    "job_id": "workday-abbott-31143505",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Muskogee, OK; Ardmore, OK",
     "employer_name": "Abbott",
-    "job_city": "West Virginia - Grafton",
+    "job_city": "Oklahoma - Oklahoma City",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---West-Virginia---Grafton/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Petersburg--WV_31131392",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Oklahoma---Oklahoma-City/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Muskogee--OK--Ardmore--OK_31143505",
     "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "06a39e455396dbc794c5e373306e3cafb5a6319c6934dacab43259c2de3a43d3",
+    "fingerprint": "7700098878889ccdfde6246136c88bce65add74b6dbaaf5c0a25992a301dfb69",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7680,202 +7848,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
-    "job_id": "workday-abbott-31130715",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockville, IA; Ottumwa, IA",
-    "employer_name": "Abbott",
-    "job_city": "Iowa - Dubuque",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Iowa---Dubuque/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockville--IA_31130715",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4528646877eb4736f1baa275aa9ce786890fa9d59181fb6b5df26c22275aac59",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
-    "job_id": "workday-abbott-31128000",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Juneau, AK",
-    "employer_name": "Abbott",
-    "job_city": "Alaska - Juneau",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Alaska---Juneau/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairbanks--AK_31128000",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "42162ed4df37c72f222a7bf44ae7a666f1432eae83ae9669b0099ce9d77abb65",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
-    "job_id": "workday-abbott-31128002",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Ukiah, CA",
-    "employer_name": "Abbott",
-    "job_city": "California - Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Los-Angeles/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---San-Francisco--CA--Temecula--CA_31128002",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f2be8f980f9d8393d07bc74bf3fd3211d32f56039fd2175c8e1e4ed68457020b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
-    "job_id": "workday-abbott-31113914",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
-    "employer_name": "Abbott",
-    "job_city": "Colorado - Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
-    "job_id": "workday-abbott-31137792",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Peekskill, NY; Albany, NY",
-    "employer_name": "Abbott",
-    "job_city": "New York - Poughkeepsie",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Poughkeepsie/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-York--NY_31137792",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf0455f573274a0e4fdae6c3561805b33fb19ddba3b6f7332562429759e17cdb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
-    "job_id": "workday-abbott-31145190",
-    "job_title": "Clinical Specialist, Vessel Closure - Southern California",
-    "employer_name": "Abbott",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Costa-Mesa/Clinical-Specialist--Vessel-Closure---Southern-California_31145190-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d5bd665e016184960ea8c4fe168c9ee7d5430d8a660261652f1187de66c9e26e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
-    "job_id": "workday-abbott-31145512",
-    "job_title": "Clinical Specialist, CRM - Charleston,  WV",
-    "employer_name": "Abbott",
-    "job_city": "West Virginia - Charleston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---West-Virginia---Charleston/Clinical-Specialist--CRM---Charleston---WV_31145512-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5667f25043ed568e638a18e9b07ac6a27254f92b0da253e8477df6785e960840",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -10527,286 +10499,6 @@
     "job_posted_at": "2026-03-25T07:02:26.754Z"
   },
   {
-    "job_id": "workday-takeda-R0177107",
-    "job_title": "Medical Historian, Phlebotomist – Part Time",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Tempe",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Tempe/Medical-Historian--Phlebotomist---Part-Time_R0177107",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec94aca7cb96ff3e1411101c18b88be0503beda6740298de90309f0b10c77d9b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:48.814Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177098",
-    "job_title": "Registered Nurse (RN) – Weekend Availability Needed Appleton Eisen",
-    "employer_name": "Takeda",
-    "job_city": "WI - Appleton - Eisenhower Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Registered-Nurse--RN----Weekend-Availability-Needed-Appleton-Eisen_R0177098-1",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "faa51dda5effd20a5926530c9aaee462010d9d2739ecbdcd7bff28b871ee0c93",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:48.814Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177095",
-    "job_title": "Licensed Practical Nurse (LPN) – Weekend Availability Needed - Appleton Eisen",
-    "employer_name": "Takeda",
-    "job_city": "WI - Appleton - Eisenhower Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Licensed-Practical-Nurse--LPN----Weekend-Availability-Needed---Appleton-Eisen_R0177095-1",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1afd689ce655a66583ba330d0b62675c2a4386d476254f33dbf607dd169fc51",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:48.814Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177093",
-    "job_title": "Medical Support Specialist (EMT-P, AEMT, EMT-I) – Weekend Availability Needed   Appleton Eisen",
-    "employer_name": "Takeda",
-    "job_city": "WI - Appleton - Eisenhower Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Medical-Support-Specialist--EMT-P--AEMT--EMT-I----Weekend-Availability-Needed---Appleton-Eisen_R0177093-1",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03c46f139fba3bd506bd06f775b325682392ca766d911ed797b10aed58980b8a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:48.814Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177091",
-    "job_title": "Licensed Practical Nurse (LPN) – Immediate Benefits!   Appleton Eisen",
-    "employer_name": "Takeda",
-    "job_city": "WI - Appleton - Eisenhower Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Licensed-Practical-Nurse--LPN----Immediate-Benefits----Appleton-Eisen_R0177091-1",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d57f6b97cbbc329afed5b7d3af6dc95c6ac547ff8e300f93cfd9091adbc2d30",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:48.814Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177089",
-    "job_title": "Medical Support Specialist (EMT-P, AEMT, EMT-I) – Immediate Benefits!   Appleton Eisen",
-    "employer_name": "Takeda",
-    "job_city": "WI - Appleton - Eisenhower Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Medical-Support-Specialist--EMT-P--AEMT--EMT-I----Immediate-Benefits----Appleton-Eisen_R0177089-1",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6db645ac5722f597736970fa5019df920f5fbf629b172574f52161fe1c48a40f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:48.814Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177083",
-    "job_title": "Center Supervisor- $2000 Sign on Bonus!",
-    "employer_name": "Takeda",
-    "job_city": "UT - Orem",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---UT---Orem/Center-Supervisor---2000-Sign-on-Bonus-_R0177083",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6f7a13ca7ee1384b91a6704c45ad6a912ee8b9de3af98fcfbc92c101d61aa2dc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:48.814Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177077",
-    "job_title": "Head, CAPTIVATE (Planisware Enablement, Portfolio Management & Capacity Planning Excellence)",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--CAPTIVATE--Planisware-Enablement--Portfolio-Management---Capacity-Planning-Excellence-_R0177077",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8ee9ea79bfb2cc336b4e79282022a7a9703588415b119ce1ce3f6e32c6ae29a4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:48.814Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175999",
-    "job_title": "Full Time Supervisor",
-    "employer_name": "Takeda",
-    "job_city": "MA - Methuen",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Methuen/Full-Time-Supervisor_R0175999-1",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "74f592cd5cbe193e717e371ba3771530baccddd8ff2454ab833cb8d26417ea5d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:48.814Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176817",
-    "job_title": "Training Supervisor",
-    "employer_name": "Takeda",
-    "job_city": "IN - Kokomo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Training-Supervisor_R0176817-1",
-    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef63ed2a6995ce3d273acf7bca534bbe8b655babcb81df0a55e94b7d2c97ff15",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T07:01:48.814Z"
-  },
-  {
     "job_id": "workday-takeda-R0176893",
     "job_title": "Plasma Center Technician",
     "employer_name": "Takeda",
@@ -11071,6 +10763,286 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ac6d97ed1d52c6d3327e32301f83f6a96fa64b24a27a7d172acf058700da76c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:48.814Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177107",
+    "job_title": "Medical Historian, Phlebotomist – Part Time",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Tempe",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Tempe/Medical-Historian--Phlebotomist---Part-Time_R0177107",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec94aca7cb96ff3e1411101c18b88be0503beda6740298de90309f0b10c77d9b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:48.814Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177098",
+    "job_title": "Registered Nurse (RN) – Weekend Availability Needed Appleton Eisen",
+    "employer_name": "Takeda",
+    "job_city": "WI - Appleton - Eisenhower Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Registered-Nurse--RN----Weekend-Availability-Needed-Appleton-Eisen_R0177098-1",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "faa51dda5effd20a5926530c9aaee462010d9d2739ecbdcd7bff28b871ee0c93",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:48.814Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177095",
+    "job_title": "Licensed Practical Nurse (LPN) – Weekend Availability Needed - Appleton Eisen",
+    "employer_name": "Takeda",
+    "job_city": "WI - Appleton - Eisenhower Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Licensed-Practical-Nurse--LPN----Weekend-Availability-Needed---Appleton-Eisen_R0177095-1",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1afd689ce655a66583ba330d0b62675c2a4386d476254f33dbf607dd169fc51",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:48.814Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177093",
+    "job_title": "Medical Support Specialist (EMT-P, AEMT, EMT-I) – Weekend Availability Needed   Appleton Eisen",
+    "employer_name": "Takeda",
+    "job_city": "WI - Appleton - Eisenhower Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Medical-Support-Specialist--EMT-P--AEMT--EMT-I----Weekend-Availability-Needed---Appleton-Eisen_R0177093-1",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03c46f139fba3bd506bd06f775b325682392ca766d911ed797b10aed58980b8a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:48.814Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177091",
+    "job_title": "Licensed Practical Nurse (LPN) – Immediate Benefits!   Appleton Eisen",
+    "employer_name": "Takeda",
+    "job_city": "WI - Appleton - Eisenhower Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Licensed-Practical-Nurse--LPN----Immediate-Benefits----Appleton-Eisen_R0177091-1",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d57f6b97cbbc329afed5b7d3af6dc95c6ac547ff8e300f93cfd9091adbc2d30",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:48.814Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177089",
+    "job_title": "Medical Support Specialist (EMT-P, AEMT, EMT-I) – Immediate Benefits!   Appleton Eisen",
+    "employer_name": "Takeda",
+    "job_city": "WI - Appleton - Eisenhower Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Medical-Support-Specialist--EMT-P--AEMT--EMT-I----Immediate-Benefits----Appleton-Eisen_R0177089-1",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6db645ac5722f597736970fa5019df920f5fbf629b172574f52161fe1c48a40f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:48.814Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177083",
+    "job_title": "Center Supervisor- $2000 Sign on Bonus!",
+    "employer_name": "Takeda",
+    "job_city": "UT - Orem",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---UT---Orem/Center-Supervisor---2000-Sign-on-Bonus-_R0177083",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6f7a13ca7ee1384b91a6704c45ad6a912ee8b9de3af98fcfbc92c101d61aa2dc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:48.814Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177077",
+    "job_title": "Head, CAPTIVATE (Planisware Enablement, Portfolio Management & Capacity Planning Excellence)",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--CAPTIVATE--Planisware-Enablement--Portfolio-Management---Capacity-Planning-Excellence-_R0177077",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8ee9ea79bfb2cc336b4e79282022a7a9703588415b119ce1ce3f6e32c6ae29a4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:48.814Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175999",
+    "job_title": "Full Time Supervisor",
+    "employer_name": "Takeda",
+    "job_city": "MA - Methuen",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Methuen/Full-Time-Supervisor_R0175999-1",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "74f592cd5cbe193e717e371ba3771530baccddd8ff2454ab833cb8d26417ea5d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:01:48.814Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176817",
+    "job_title": "Training Supervisor",
+    "employer_name": "Takeda",
+    "job_city": "IN - Kokomo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Training-Supervisor_R0176817-1",
+    "job_posted_at_datetime_utc": "2026-03-25T07:01:48.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ef63ed2a6995ce3d273acf7bca534bbe8b655babcb81df0a55e94b7d2c97ff15",
     "tags": {
       "employment": "entry_level",
       "domains": [
