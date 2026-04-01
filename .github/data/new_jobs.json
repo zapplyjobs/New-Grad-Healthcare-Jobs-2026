@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "ashby-benchling-0229ae3c-438c-419b-a283-48450e041810",
+    "job_title": "Software Engineer, Full Stack (Chemistry)",
+    "employer_name": "Benchling",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/benchling/0229ae3c-438c-419b-a283-48450e041810/application",
+    "job_posted_at_datetime_utc": "2026-04-01T19:16:29.904Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "ca1abfc8a8fc9a3a0f1cb4a72f9d3e6e75112939177e6b10761b37db7adbc30b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-01T19:16:29.904Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-051575",
     "job_title": "Executive Oncology Sales Specialist, GU - (Hartford, CT) - Johnson & Johnson Innovative Medicine",
     "employer_name": "Johnson & Johnson",
@@ -310,6 +340,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-01T16:31:10.394Z"
+  },
+  {
+    "job_id": "greenhouse-neuralink-6103655003",
+    "job_title": "Animal Care Specialist",
+    "employer_name": "Neuralink",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/neuralink/jobs/6103655003?gh_jid=6103655003",
+    "job_posted_at_datetime_utc": "2026-04-01T12:29:45-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec71eefad98f15ebfcc6e6b8988be8e57fd25267680075f19dd4a5e998163774",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-01T12:29:45-04:00"
   },
   {
     "job_id": "workday-abbott-31143262",
@@ -2913,6 +2971,62 @@
     "job_posted_at": "2026-03-30T20:43:49.248Z"
   },
   {
+    "job_id": "greenhouse-bridgewater89-8294673002",
+    "job_title": "Client Investment Research Associate",
+    "employer_name": "Bridgewater Associates",
+    "job_city": "New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/bridgewater89/jobs/8294673002",
+    "job_posted_at_datetime_utc": "2026-03-30T16:15:34-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "25465ca2b90103fc5980ec504adee017127359f7a938ad83f03e4d44aafe6e76",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-30T16:15:34-04:00"
+  },
+  {
+    "job_id": "greenhouse-bridgewater89-8408478002",
+    "job_title": "Equities Research Associate, Asia Solutions",
+    "employer_name": "Bridgewater Associates",
+    "job_city": "New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/bridgewater89/jobs/8408478002",
+    "job_posted_at_datetime_utc": "2026-03-30T16:15:34-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2af28d1eb0dbe82fd2b39e76e6d6e6878173d664cca90b65e235bf0faec381ad",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-30T16:15:34-04:00"
+  },
+  {
     "job_id": "sr-AbbVie-3743990012382426",
     "job_title": "Lab Analyst I (2nd Shift, Wednesday- Saturday)",
     "employer_name": "AbbVie",
@@ -3172,6 +3286,34 @@
     "job_posted_at": "2026-03-30T07:10:15.535Z"
   },
   {
+    "job_id": "workday-medtronic-R62979",
+    "job_title": "Remote Customer Support Representative – Healthcare Technology (Veterans Focus)",
+    "employer_name": "Medtronic",
+    "job_city": "48 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Colorado-United-States-of-America/Remote-Customer-Support-Representative---Healthcare-Technology--Veterans-Focus-_R62979-2",
+    "job_posted_at_datetime_utc": "2026-03-30T07:09:27.721Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "779d68edaadb809706a62b1db631e98a3f92d96cab2391a396b5e15492af151c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:09:27.721Z"
+  },
+  {
     "job_id": "workday-medtronic-R62552",
     "job_title": "Assoc Clinical Specialist CST",
     "employer_name": "Medtronic",
@@ -3221,34 +3363,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:09:27.721Z"
-  },
-  {
-    "job_id": "workday-medtronic-R62979",
-    "job_title": "Remote Customer Support Representative – Healthcare Technology (Veterans Focus)",
-    "employer_name": "Medtronic",
-    "job_city": "48 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Colorado-United-States-of-America/Remote-Customer-Support-Representative---Healthcare-Technology--Veterans-Focus-_R62979-2",
-    "job_posted_at_datetime_utc": "2026-03-30T07:09:27.721Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "779d68edaadb809706a62b1db631e98a3f92d96cab2391a396b5e15492af151c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -3341,18 +3455,74 @@
     "job_posted_at": "2026-03-30T07:08:38.864Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-063662",
-    "job_title": "Clinical Service Specialist",
+    "job_id": "workday-johnson-&-johnson-R-067364",
+    "job_title": "Study Responsible Physician- Neuroscience (Pediatric Studies)",
     "employer_name": "Johnson & Johnson",
-    "job_city": "Irvine",
+    "job_city": "2 Locations",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Clinical-Service-Specialist_R-063662-1",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1",
     "job_posted_at_datetime_utc": "2026-03-30T07:08:32.462Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a71b0a8e30f25522f8c25e4d425eafc1c7a2683855746c68347ee85bebe92447",
+    "fingerprint": "85b83cbe8d438d46c55ed4143e76d0f22ffae4f3e3dd3b5f446712218cd9007a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:08:32.462Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-043329",
+    "job_title": "Ultrasound Area Technology Specialist  (AZ, UT, CO, WA) – Cardiac Sonographer - Johnson & Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Ultrasound-Area-Technology-Specialist---AZ--UT--CO--WA----Cardiac-Sonographer---Johnson---Johnson-MedTech--Electrophysiology_R-043329",
+    "job_posted_at_datetime_utc": "2026-03-30T07:08:32.462Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69287ef50967b4c42ff1aa840eb3fb40dd1cb27b3ccca395e048ba38f8e2c207",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:08:32.462Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-066776",
+    "job_title": "Medical Science Liaison",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Danvers",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Medical-Science-Liaison_R-066776-2",
+    "job_posted_at_datetime_utc": "2026-03-30T07:08:32.462Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d37e8b85776df50c4cfc3886287b0bc0ecb9b3dd51ad44fb7f70d03b427cfcf9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3456,74 +3626,18 @@
     "job_posted_at": "2026-03-30T07:08:32.462Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-067364",
-    "job_title": "Study Responsible Physician- Neuroscience (Pediatric Studies)",
+    "job_id": "workday-johnson-&-johnson-R-063662",
+    "job_title": "Clinical Service Specialist",
     "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
+    "job_city": "Irvine",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Clinical-Service-Specialist_R-063662-1",
     "job_posted_at_datetime_utc": "2026-03-30T07:08:32.462Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "85b83cbe8d438d46c55ed4143e76d0f22ffae4f3e3dd3b5f446712218cd9007a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:08:32.462Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-043329",
-    "job_title": "Ultrasound Area Technology Specialist  (AZ, UT, CO, WA) – Cardiac Sonographer - Johnson & Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Ultrasound-Area-Technology-Specialist---AZ--UT--CO--WA----Cardiac-Sonographer---Johnson---Johnson-MedTech--Electrophysiology_R-043329",
-    "job_posted_at_datetime_utc": "2026-03-30T07:08:32.462Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69287ef50967b4c42ff1aa840eb3fb40dd1cb27b3ccca395e048ba38f8e2c207",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:08:32.462Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066776",
-    "job_title": "Medical Science Liaison",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Danvers",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Medical-Science-Liaison_R-066776-2",
-    "job_posted_at_datetime_utc": "2026-03-30T07:08:32.462Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d37e8b85776df50c4cfc3886287b0bc0ecb9b3dd51ad44fb7f70d03b427cfcf9",
+    "fingerprint": "a71b0a8e30f25522f8c25e4d425eafc1c7a2683855746c68347ee85bebe92447",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3736,6 +3850,34 @@
     "job_posted_at": "2026-03-30T07:07:06.291Z"
   },
   {
+    "job_id": "workday-merck-&-co.-R390499",
+    "job_title": "Specialist, Quality Systems & Compliance",
+    "employer_name": "Merck & Co.",
+    "job_city": "Pennsylvania - West Point",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Specialist--Quality-Systems---Compliance_R390499-2",
+    "job_posted_at_datetime_utc": "2026-03-30T07:01:11.973Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ce3c24a1fa4c7f5c28dd36111238806e684e217fdc310a98b62f492e29aae78b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:01:11.973Z"
+  },
+  {
     "job_id": "workday-merck-&-co.-R384015",
     "job_title": "Associate Technician, Shared Services Operations (Onsite)",
     "employer_name": "Merck & Co.",
@@ -3776,34 +3918,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3f0a56eb98ef9a62884a4875bed2eba5c5d1e41760cbfc8d0bf558644f5e8874",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:01:11.973Z"
-  },
-  {
-    "job_id": "workday-merck-&-co.-R390499",
-    "job_title": "Specialist, Quality Systems & Compliance",
-    "employer_name": "Merck & Co.",
-    "job_city": "Pennsylvania - West Point",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Specialist--Quality-Systems---Compliance_R390499-2",
-    "job_posted_at_datetime_utc": "2026-03-30T07:01:11.973Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ce3c24a1fa4c7f5c28dd36111238806e684e217fdc310a98b62f492e29aae78b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4240,63 +4354,6 @@
     "job_posted_at": "2026-03-30T04:06:49.750Z"
   },
   {
-    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
-    "job_title": "Part-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:58:51.134Z"
-  },
-  {
-    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
-    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:58:51.134Z"
-  },
-  {
     "job_id": "lever-ro-aa910c54-81d8-454d-a6f9-19c2b538659c",
     "job_title": "Compounding Pharmacist - Boynton Beach, FL",
     "employer_name": "Ro",
@@ -4520,6 +4577,92 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-03-29T18:58:51.134Z"
+  },
+  {
+    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
+    "job_title": "Part-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:58:51.134Z"
+  },
+  {
+    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
+    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:58:51.134Z"
+  },
+  {
+    "job_id": "lever-includedhealth-239dac86-47d7-4829-83d8-887b433ee4da",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "California",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/239dac86-47d7-4829-83d8-887b433ee4da/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f06407866e11b5897e3fad390efa2788dc27e2eec42e598cb75fc5ef634e6277",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
   },
   {
     "job_id": "lever-includedhealth-257945ac-1faf-496a-a7be-9712e8b75115",
@@ -5037,35 +5180,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-239dac86-47d7-4829-83d8-887b433ee4da",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "California",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/239dac86-47d7-4829-83d8-887b433ee4da/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f06407866e11b5897e3fad390efa2788dc27e2eec42e598cb75fc5ef634e6277",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7430,6 +7544,62 @@
     "job_posted_at": "2026-03-27T07:01:11.973Z"
   },
   {
+    "job_id": "workday-takeda-R0177323",
+    "job_title": "Part Time Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "CA - Bakersfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Bakersfield/Part-Time-Plasma-Center-Technician_R0177323-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "524e4e4da5a1d1db345d80d15c22cbe9f84887b4bd03997ed0b645874e1fc6ae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.808Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177324",
+    "job_title": "Part Time Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "CA - Bakersfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Bakersfield/Part-Time-Plasma-Center-Technician_R0177324-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "524e4e4da5a1d1db345d80d15c22cbe9f84887b4bd03997ed0b645874e1fc6ae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.808Z"
+  },
+  {
     "job_id": "workday-takeda-R0177337",
     "job_title": "Plasma Center Technician",
     "employer_name": "Takeda",
@@ -8690,62 +8860,6 @@
     "job_posted_at": "2026-03-27T07:00:41.808Z"
   },
   {
-    "job_id": "workday-takeda-R0177323",
-    "job_title": "Part Time Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "CA - Bakersfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Bakersfield/Part-Time-Plasma-Center-Technician_R0177323-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "524e4e4da5a1d1db345d80d15c22cbe9f84887b4bd03997ed0b645874e1fc6ae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.808Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177324",
-    "job_title": "Part Time Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "CA - Bakersfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Bakersfield/Part-Time-Plasma-Center-Technician_R0177324-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "524e4e4da5a1d1db345d80d15c22cbe9f84887b4bd03997ed0b645874e1fc6ae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.808Z"
-  },
-  {
     "job_id": "workday-takeda-R0177336",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
@@ -8943,34 +9057,6 @@
     "job_posted_at": "2026-03-27T07:00:41.807Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01347582",
-    "job_title": "Packaging / Labeling Tech 3 - 2nd & 3rd Shifts",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Allentown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Packaging---Labeling-Tech-3---2nd---3rd-Shifts_R-01347582",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:27.062Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fdf4aba696b1730f752d845995a9b4216145d556b1b8cee0f788adea42aff0fa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:27.062Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01344612",
     "job_title": "Research Technician (Phlebotomist)",
     "employer_name": "Thermo Fisher Scientific",
@@ -8992,6 +9078,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:27.062Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01347582",
+    "job_title": "Packaging / Labeling Tech 3 - 2nd & 3rd Shifts",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Allentown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Packaging---Labeling-Tech-3---2nd---3rd-Shifts_R-01347582",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:27.062Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fdf4aba696b1730f752d845995a9b4216145d556b1b8cee0f788adea42aff0fa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -9961,62 +10075,6 @@
     "job_posted_at": "2026-03-26T07:03:58.585Z"
   },
   {
-    "job_id": "workday-abbott-31145190",
-    "job_title": "Clinical Specialist, Vessel Closure - Southern California",
-    "employer_name": "Abbott",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Costa-Mesa/Clinical-Specialist--Vessel-Closure---Southern-California_31145190-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d5bd665e016184960ea8c4fe168c9ee7d5430d8a660261652f1187de66c9e26e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
-    "job_id": "workday-abbott-31145512",
-    "job_title": "Clinical Specialist, CRM - Charleston,  WV",
-    "employer_name": "Abbott",
-    "job_city": "West Virginia - Charleston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---West-Virginia---Charleston/Clinical-Specialist--CRM---Charleston---WV_31145512-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5667f25043ed568e638a18e9b07ac6a27254f92b0da253e8477df6785e960840",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:03:19.251Z"
-  },
-  {
     "job_id": "workday-abbott-31145778",
     "job_title": "Clinical Specialist - Charlotte, NC",
     "employer_name": "Abbott",
@@ -10486,6 +10544,62 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
+  },
+  {
+    "job_id": "workday-abbott-31145190",
+    "job_title": "Clinical Specialist, Vessel Closure - Southern California",
+    "employer_name": "Abbott",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Costa-Mesa/Clinical-Specialist--Vessel-Closure---Southern-California_31145190-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d5bd665e016184960ea8c4fe168c9ee7d5430d8a660261652f1187de66c9e26e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:03:19.251Z"
+  },
+  {
+    "job_id": "workday-abbott-31145512",
+    "job_title": "Clinical Specialist, CRM - Charleston,  WV",
+    "employer_name": "Abbott",
+    "job_city": "West Virginia - Charleston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---West-Virginia---Charleston/Clinical-Specialist--CRM---Charleston---WV_31145512-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:03:19.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5667f25043ed568e638a18e9b07ac6a27254f92b0da253e8477df6785e960840",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -11866,6 +11980,34 @@
     "job_posted_at": "2026-03-26T07:00:41.808Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01346987",
+    "job_title": "APP (NP/PA) Sub Investigator",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Antonio-Texas-USA/APP--NP-PA--Sub-Investigator_R-01346987",
+    "job_posted_at_datetime_utc": "2026-03-26T07:00:27.062Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "884b0a26ff1a783366da87263209b12ede4e2d872609f45c1389db17c5960acd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:00:27.062Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01347423",
     "job_title": "Investigator Services Assistant",
     "employer_name": "Thermo Fisher Scientific",
@@ -11906,34 +12048,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6f4e0507218470c70982e7d00ff1a8739ec58ab4dea1ad4d379efb068ee2807e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:00:27.062Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01346987",
-    "job_title": "APP (NP/PA) Sub Investigator",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Antonio-Texas-USA/APP--NP-PA--Sub-Investigator_R-01346987",
-    "job_posted_at_datetime_utc": "2026-03-26T07:00:27.062Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "884b0a26ff1a783366da87263209b12ede4e2d872609f45c1389db17c5960acd",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12091,90 +12205,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-25T19:47:48.388Z"
-  },
-  {
-    "job_id": "greenhouse-guidepoint-8453033002",
-    "job_title": "Client Service Healthcare Associate",
-    "employer_name": "Guidepoint",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/guidepoint/jobs/8453033002",
-    "job_posted_at_datetime_utc": "2026-03-25T15:30:46-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6f179e3b34cb5b4e02a03fdcf52813178f7ec341344b8ebfb37cdba6b2be4d89",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-25T15:30:46-04:00"
-  },
-  {
-    "job_id": "sr-Intuitive-744000116696267",
-    "job_title": "Endoluminal Territory Associate - Future Opportunity",
-    "employer_name": "Intuitive",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.smartrecruiters.com/Intuitive/744000116696267",
-    "job_posted_at_datetime_utc": "2026-03-25T19:25:18.823Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "2b3511f75edfcf80d6335531625a2a162bf0fed2dbf5ee939f79d8bcb5d3d286",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-25T19:25:18.823Z"
-  },
-  {
-    "job_id": "greenhouse-guidepoint-8114376002",
-    "job_title": "Client Service Healthcare Associate (Class of 2026)",
-    "employer_name": "Guidepoint",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/guidepoint/jobs/8114376002",
-    "job_posted_at_datetime_utc": "2026-03-25T15:21:31-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "43bfd1b4f1c838762859061a72b4f24f4fae6e786ee7aa94804e82b04095bd85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-25T15:21:31-04:00"
   }
 ]
