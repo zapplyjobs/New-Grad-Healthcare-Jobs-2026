@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-376-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-377-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-45-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-344-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-345-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -71,7 +71,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Takeda** | Bilingual Plasma Center Nurse - RN | NY - Bronx - Hunts | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Bronx---Hunts/Bilingual-Plasma-Center-Nurse---RN_R0177534) |
 | 🏢 **Takeda** | Plasma Center Nurse - RN | NY - Bronx - Hunts | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Bronx---Hunts/Plasma-Center-Nurse---RN_R0177532-1) |
-| 🏢 **Takeda** | Plasma Center Nurse- RN | CO - Longmont | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Longmont/Plasma-Center-Nurse--RN_R0177529-1) |
+| 🏢 **Takeda** | Plasma Center Nurse- RN | CO - Longmont | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Longmont/Plasma-Center-Nurse--RN_R0177529-1) |
 | 🏢 **KBR** | Special Operations Clinical Psychologist (AFSOC GSU/Southern Pines, NC) | Fort Liberty | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Clinical-Psychologist--AFSOC-GSU-Southern-Pines--NC-_R2121208) |
 | 🏢 **EVERSANA** | Home Infusion RN- Per Diem (Pediatric) | Miami, FL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000117978407) |
 | 🏢 **Exact Sciences** | Sample Processing Associate I - Overnights | WI - Madison | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Clinical-Laboratory-Associate-I---Overnights_R26-12569) |
@@ -118,8 +118,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Medtronic** | Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Chicago) | Chicago | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Chicago-_R63210-1) |
-| 🏢 **Medtronic** | Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami) | 2 Locations | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2) |
+| 🏢 **Medtronic** | Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Chicago) | Chicago | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Chicago-_R63210-1) |
+| 🏢 **Medtronic** | Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami) | 2 Locations | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2) |
 | 🏢 **AbbVie** | Oncology Nurse Educator - Philadelphia, PA | Philadelphia, PA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012333801) |
 
 <p align="center">Apply for more jobs at</p>
@@ -132,14 +132,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Johnson & Johnson** | Oncology Clinical Educator, Solid Tumors – San Francisco, CA | 4 Locations | 17m | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Horsham-Pennsylvania-United-States-of-America/Oncology-Clinical-Educator--Solid-Tumors---San-Francisco--CA_R-060854-1) |
-| 🏢 **Abbott** | (GMP) Maintenance - Supervisor - Casa Grande, AZ | Arizona - Casa Gr... | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Casa-Grande/XMLNAME--GMP--Maintenance---Supervisor---Casa-Grande--AZ_31146225-1) |
-| 🏢 **Abbott** | Operator 1 | Texas - Plano | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Plano/Operator-1_31146316-1) |
+| 🏢 **Philips** | Sales Support, Clinical Specialist - Coronary Image Guided Therapy Devices (Philadelphia and South New Jersey) | Philadelphia | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Philadelphia-Pennsylvania-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--Philadelphia-and-South-New-Jersey-_579589-1) |
+| 🏢 **Johnson & Johnson** | Oncology Clinical Educator, Solid Tumors – San Francisco, CA | 4 Locations | 32m | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Horsham-Pennsylvania-United-States-of-America/Oncology-Clinical-Educator--Solid-Tumors---San-Francisco--CA_R-060854-1) |
+| 🏢 **Abbott** | (GMP) Maintenance - Supervisor - Casa Grande, AZ | Arizona - Casa Gr... | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Casa-Grande/XMLNAME--GMP--Maintenance---Supervisor---Casa-Grande--AZ_31146225-1) |
+| 🏢 **Abbott** | Operator 1 | Texas - Plano | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Plano/Operator-1_31146316-1) |
 | 🏢 **Red Bull** | Part-Time Athletic Trainer, RBII | East Hanover, NJ | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000118267363) |
 | 🏢 **Thermo Fisher Scientific** | Med Info Spec-I Pharmacist-- hybrid in Titusville, NJ! | Remote | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-New-Jersey-USA/Med-Info-Spec-I-Pharmacist---hybrid-in-Titusville--NJ-_R-01345439-1) |
 | 🏢 **AbbVie** | Clinical Research Associate I (Northeast) | Jersey City, NJ | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012420806) |
 | 🏢 **Takeda** | Change Enablement Partner | Cambridge, MA | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Cambridge-MA/Change-Enablement-Partner_R0177552-1) |
-| 🏢 **Guidehouse** | Admitting Representative, Emergency Department – Part Time | CA, Ventura | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Admitting-Representative--Emergency-Department---Part-Time_37631) |
+| 🏢 **Guidehouse** | Admitting Representative, Emergency Department – Part Time | CA, Ventura | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Admitting-Representative--Emergency-Department---Part-Time_37631) |
 | 🏢 **Thermo Fisher Scientific** | Experienced CRA  can be located anywhere in the southeast; requisitions need to be filled by March 16th 2026 | Remote | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Georgia-USA/Experienced-CRA--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344275) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Coronary Image Guided Therapy Devices (New York City) | 3 Locations | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-York-New-York-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--New-York-City-_580091-1) |
 | 🏢 **Medtronic** | Medical Science Liaison Advisor | Mounds View | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Medical-Science-Liaison-Advisor_R62266-1) |
@@ -156,25 +157,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **IDEXX** | Medical Laboratory Technician I | Nashville, TN | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Nashville-TN/Medical-Laboratory-Technician-I_J-052413-1) |
 | 🏢 **Wellmark, Inc.** | Imaging Specialist | Des Moines, IA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000118241618) |
 | 🏢 **Benchling** | Software Engineer, Full Stack (Chemistry) | San Francisco, CA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/benchling/0229ae3c-438c-419b-a283-48450e041810/application) |
-| 🏢 **Johnson & Johnson** | Executive Oncology Sales Specialist, GU - (Hartford, CT) - Johnson & Johnson Innovative Medicine | 3 Locations | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Hartford-Connecticut-United-States/Executive-Oncology-Sales-Specialist--GU----Hartford--CT----Johnson---Johnson-Innovative-Medicine_R-051575-1) |
-| 🏢 **Johnson & Johnson** | Executive Oncology Sales Specialist, GU - Boston, MA - Johnson & Johnson Innovative Medicine | Boston | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Executive-Oncology-Sales-Specialist--GU---Boston--MA---Johnson---Johnson-Innovative-Medicine_R-049813-2) |
-| 🏢 **IDEXX** | Medical Laboratory Technician | Manchester, MO | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Manchester-MO/Medical-Laboratory-Technician_J-052310) |
+| 🏢 **Johnson & Johnson** | Executive Oncology Sales Specialist, GU - (Hartford, CT) - Johnson & Johnson Innovative Medicine | 3 Locations | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Hartford-Connecticut-United-States/Executive-Oncology-Sales-Specialist--GU----Hartford--CT----Johnson---Johnson-Innovative-Medicine_R-051575-1) |
+| 🏢 **Johnson & Johnson** | Executive Oncology Sales Specialist, GU - Boston, MA - Johnson & Johnson Innovative Medicine | Boston | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Executive-Oncology-Sales-Specialist--GU---Boston--MA---Johnson---Johnson-Innovative-Medicine_R-049813-2) |
+| 🏢 **IDEXX** | Medical Laboratory Technician | Manchester, MO | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Manchester-MO/Medical-Laboratory-Technician_J-052310) |
 | 🏢 **Takeda** | Entry Level Phlebotomist - Medical Screener | IN - Indianapolis | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Entry-Level-Phlebotomist---Medical-Screener_R0177556-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Cardiac Solutions Image Guided Therapy Devices (Houston/San Antonio/Austin/Corpus Christi) | 4 Locations | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Houston-Texas-United-States/Sales-Support--Clinical-Specialist---Cardiac-Solutions-Image-Guided-Therapy-Devices--Houston-San-Antonio-Austin-Corpus-Christi-_579080-1) |
 | 🏢 **Thermo Fisher Scientific** | FSP - Associate Scientist - Cell Culture | San Diego | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Associate-Scientist---Cell-Culture_R-01346123) |
 | 🏢 **Medtronic** | Field Inventory Analyst - Indianapolis, IN | Indianapolis | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Indianapolis-Indiana-United-States-of-America/Field-Inventory-Analyst---Indianapolis--IN_R63266-1) |
 | 🏢 **Neuralink** | Animal Care Specialist | Austin | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6103655003?gh_jid=6103655003) |
-| 🏢 **Affirm** | Implementation Specialist I | Remote | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7666194003) |
+| 🏢 **Affirm** | Implementation Specialist I | Remote | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7666194003) |
 | 🏢 **Leidos** | Short Term or As Needed - MFLC Counselor - Fairchild AFB | Spokane, WA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Spokane-WA/Short-Term-or-As-Needed---MFLC-Counselor---Fairchild-AFB_R-00179756) |
 | 🏢 **Guidehouse** | Patient Account Representative | SD, Mitchell | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---SD-Mitchell/Patient-Account-Representative_37795) |
 | 🏢 **Intuitive** | Copy of Cardiovascular Program Specialist - North Central Region | Louisville, KY | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000118198707) |
 | 🏢 **Intuitive** | Cardiovascular Program Specialist - North Central Region | Nashville, TN | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000118198157) |
-| 🏢 **Intuitive** | Cardiovascular Program Specialist - North Central Region | Cleveland, OH | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000118197737) |
-| 🏢 **Medtronic** | Associate Clinical Specialist - CAS, Northeast | 6 Locations | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Associate-Clinical-Specialist---CAS--Northeast_R56240-1) |
+| 🏢 **Intuitive** | Cardiovascular Program Specialist - North Central Region | Cleveland, OH | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000118197737) |
+| 🏢 **Medtronic** | Associate Clinical Specialist - CAS, Northeast | 6 Locations | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Associate-Clinical-Specialist---CAS--Northeast_R56240-1) |
 | 🏢 **Fidelity Investments** | Fixed Income Research Associate | Merrimack, NH | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Fixed-Income-Research-Associate_2126679) |
-| 🏢 **Philips** | Critical Care Nurse - Clinical Solution Specialist (Patient Monitoring) - Metro NY | 3 Locations | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Manhattan-New-York-United-States/Critical-Care-Nurse---Clinical-Solution-Specialist--Patient-Monitoring----Metro-NY_562703) |
-| 🏢 **Globus Medical** | Associate Interventional Specialist (Los Angeles South, CA) | California | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/California/Associate-Interventional-Specialist--Los-Angeles-South--CA-_JR106310) |
-| 🏢 **Globus Medical** | Associate Interventional Specialist (Phoenix, AZ) | Arizona | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Arizona/Associate-Interventional-Specialist--Phoenix--AZ-_JR106334) |
+| 🏢 **Globus Medical** | Associate Interventional Specialist (Shreveport, LA) | Louisiana | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Louisiana/Associate-Interventional-Specialist--Shreveport--IL-_JR106353) |
+| 🏢 **Globus Medical** | Associate Interventional Specialist (Los Angeles South, CA) | California | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/California/Associate-Interventional-Specialist--Los-Angeles-South--CA-_JR106310) |
 | 🏢 **Guidehouse** | Revenue Integrity Analyst (Medical Biller) | 3 Locations | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Revenue-Integrity-Analyst--Medical-Biller-_37927) |
 | 🏢 **General Motors** | Ergonomist | Flint | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Flint-Michigan-United-States-of-America/Ergonomist_JR-202606428) |
 | 🏢 **AbbVie** | Associate Manager, Payer & Channel Analytics - Market Access Patient Services | Mettawa, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012403494) |
@@ -276,7 +276,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 376 current opportunities from 45 companies**
+**🎯 377 current opportunities from 45 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
