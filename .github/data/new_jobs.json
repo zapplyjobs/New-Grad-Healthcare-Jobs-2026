@@ -2815,7 +2815,7 @@
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01347566",
-    "job_title": "FSP Associate Scientist – Buffer / Media Preparation",
+    "job_title": "FSP Associate Scientist ��� Buffer / Media Preparation",
     "employer_name": "Thermo Fisher Scientific",
     "job_city": "Rockville",
     "job_state": "",
@@ -3010,6 +3010,63 @@
     "job_posted_at": "2026-03-31T07:03:54.602Z"
   },
   {
+    "job_id": "workday-guidehouse-37889",
+    "job_title": "Inpatient Medical Coder - Remote",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Inpatient-Medical-Coder---Remote_37889",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:43.603Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf802160698632b1c488731f73daaf9cc1f28b26e90ad0cfec6706321b2a2da4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:43.603Z"
+  },
+  {
+    "job_id": "workday-guidehouse-37257",
+    "job_title": "Patient Account Representative - Physician & Hospital Claims",
+    "employer_name": "Guidehouse",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---SD-Mitchell/Patient-Account-Representative---Physician---Hospital-Claims_37257",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:43.603Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c8089abd6dd1a49398b2e56a0bfa99bff317d17097cd2a350c11de066e9ea540",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:43.603Z"
+  },
+  {
     "job_id": "workday-guidehouse-37791",
     "job_title": "Profee Medical Coding Denial Specialist",
     "employer_name": "Guidehouse",
@@ -3061,63 +3118,6 @@
         "remote"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:43.603Z"
-  },
-  {
-    "job_id": "workday-guidehouse-37889",
-    "job_title": "Inpatient Medical Coder - Remote",
-    "employer_name": "Guidehouse",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Inpatient-Medical-Coder---Remote_37889",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:43.603Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf802160698632b1c488731f73daaf9cc1f28b26e90ad0cfec6706321b2a2da4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:43.603Z"
-  },
-  {
-    "job_id": "workday-guidehouse-37257",
-    "job_title": "Patient Account Representative - Physician & Hospital Claims",
-    "employer_name": "Guidehouse",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---SD-Mitchell/Patient-Account-Representative---Physician---Hospital-Claims_37257",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:43.603Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c8089abd6dd1a49398b2e56a0bfa99bff317d17097cd2a350c11de066e9ea540",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -4400,90 +4400,6 @@
     "job_posted_at": "2026-03-30T07:03:43.604Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-067364",
-    "job_title": "Study Responsible Physician- Neuroscience (Pediatric Studies)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1",
-    "job_posted_at_datetime_utc": "2026-03-30T07:03:38.587Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "85b83cbe8d438d46c55ed4143e76d0f22ffae4f3e3dd3b5f446712218cd9007a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:03:38.587Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-043329",
-    "job_title": "Ultrasound Area Technology Specialist  (AZ, UT, CO, WA) – Cardiac Sonographer - Johnson & Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Ultrasound-Area-Technology-Specialist---AZ--UT--CO--WA----Cardiac-Sonographer---Johnson---Johnson-MedTech--Electrophysiology_R-043329",
-    "job_posted_at_datetime_utc": "2026-03-30T07:03:38.587Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69287ef50967b4c42ff1aa840eb3fb40dd1cb27b3ccca395e048ba38f8e2c207",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:03:38.587Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066776",
-    "job_title": "Medical Science Liaison",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Danvers",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Medical-Science-Liaison_R-066776-2",
-    "job_posted_at_datetime_utc": "2026-03-30T07:03:38.587Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d37e8b85776df50c4cfc3886287b0bc0ecb9b3dd51ad44fb7f70d03b427cfcf9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:03:38.587Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-067052",
     "job_title": "Executive Oncology Sales Specialist, CAR-T - Sacramento and Portland - Johnson & Johnson Innovative Medicine",
     "employer_name": "Johnson & Johnson",
@@ -4599,6 +4515,90 @@
     "job_posted_at": "2026-03-30T07:03:38.587Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-067364",
+    "job_title": "Study Responsible Physician- Neuroscience (Pediatric Studies)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1",
+    "job_posted_at_datetime_utc": "2026-03-30T07:03:38.587Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "85b83cbe8d438d46c55ed4143e76d0f22ffae4f3e3dd3b5f446712218cd9007a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:03:38.587Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-043329",
+    "job_title": "Ultrasound Area Technology Specialist  (AZ, UT, CO, WA) – Cardiac Sonographer - Johnson & Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Ultrasound-Area-Technology-Specialist---AZ--UT--CO--WA----Cardiac-Sonographer---Johnson---Johnson-MedTech--Electrophysiology_R-043329",
+    "job_posted_at_datetime_utc": "2026-03-30T07:03:38.587Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69287ef50967b4c42ff1aa840eb3fb40dd1cb27b3ccca395e048ba38f8e2c207",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:03:38.587Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-066776",
+    "job_title": "Medical Science Liaison",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Danvers",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Medical-Science-Liaison_R-066776-2",
+    "job_posted_at_datetime_utc": "2026-03-30T07:03:38.587Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d37e8b85776df50c4cfc3886287b0bc0ecb9b3dd51ad44fb7f70d03b427cfcf9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:03:38.587Z"
+  },
+  {
     "job_id": "workday-boeing-JR2025486492",
     "job_title": "Experienced Test & Evaluation Lab Technician (Test Operations)",
     "employer_name": "Boeing",
@@ -4653,34 +4653,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-30T07:02:14.175Z"
-  },
-  {
-    "job_id": "workday-abbott-31145527",
-    "job_title": "Coordinator Project Design",
-    "employer_name": "Abbott",
-    "job_city": "California - Alameda",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Coordinator-Project-Design_31145527-1",
-    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "25aee738039b626ca3555c7cfa2d213e6bff0e471e580b9d154f642cb4396759",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:02:14.174Z"
   },
   {
     "job_id": "workday-abbott-31142984",
@@ -4816,6 +4788,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:02:14.174Z"
+  },
+  {
+    "job_id": "workday-abbott-31145527",
+    "job_title": "Coordinator Project Design",
+    "employer_name": "Abbott",
+    "job_city": "California - Alameda",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Coordinator-Project-Design_31145527-1",
+    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "25aee738039b626ca3555c7cfa2d213e6bff0e471e580b9d154f642cb4396759",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -9833,90 +9833,6 @@
     "job_posted_at": "2026-03-27T07:00:41.808Z"
   },
   {
-    "job_id": "workday-takeda-R0177336",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "IL - Rockford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Medical-Screener_R0177336",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.807Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b2358d9f7ce5cbc9addf491eba798aaf80a2f8a494849889752618424834a9c4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.807Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177335",
-    "job_title": "Medical Screener – Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "LA - Lafayette",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Medical-Screener---Day-One-Benefits_R0177335-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.807Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a3eddbfc1e56532ba99a48e39556536593114f4660107dcf2bb826223c3a37d4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.807Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177333",
-    "job_title": "Entry Level Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "IL - Villa Park",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Villa-Park/Entry-Level-Phlebotomist_R0177333-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.807Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e3ba0b999c00e56c64d21d8f65e9867c6aeb0e6179cf3a9a751000ca5b5a57e6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.807Z"
-  },
-  {
     "job_id": "workday-takeda-R0177331",
     "job_title": "Medical Customer Service/ Phlebotomist - Part Time",
     "employer_name": "Takeda",
@@ -10014,6 +9930,90 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0492bac225443a15dfbe505a28b1c98389ec3a73cc17476d450dbdd438f7fa62",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.807Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177336",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "IL - Rockford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Medical-Screener_R0177336",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.807Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b2358d9f7ce5cbc9addf491eba798aaf80a2f8a494849889752618424834a9c4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.807Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177335",
+    "job_title": "Medical Screener – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "LA - Lafayette",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Medical-Screener---Day-One-Benefits_R0177335-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.807Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a3eddbfc1e56532ba99a48e39556536593114f4660107dcf2bb826223c3a37d4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.807Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177333",
+    "job_title": "Entry Level Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "IL - Villa Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Villa-Park/Entry-Level-Phlebotomist_R0177333-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.807Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3ba0b999c00e56c64d21d8f65e9867c6aeb0e6179cf3a9a751000ca5b5a57e6",
     "tags": {
       "employment": "entry_level",
       "domains": [
