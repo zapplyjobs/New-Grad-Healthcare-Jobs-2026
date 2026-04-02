@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-takeda-R0177646",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "CO - Longmont",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Longmont/Plasma-Center-Technician_R0177646-1",
+    "job_posted_at_datetime_utc": "2026-04-02T19:31:54.470Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a70c553e004f5f76080fb9aa4f7fd5ff1f9bc0456e1996f91c099ca35eb3f33",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T19:31:54.470Z"
+  },
+  {
     "job_id": "workday-takeda-R0177644",
     "job_title": "Paramedic, EMT-P – Part Time or Full Time",
     "employer_name": "Takeda",
@@ -5122,34 +5150,6 @@
     "job_posted_at": "2026-03-31T07:03:38.587Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-060520",
-    "job_title": "Associate Clinical Consultant or Clinical Consultant - Tulsa, OK - Johnson & Johnson MedTech, Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Tulsa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Tulsa-Oklahoma-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant---Tulsa--OK---Johnson---Johnson-MedTech--Heart-Recovery_R-060520-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "273d73fe7751aa2ec5033ba3fb584630f1a9acd2073ae6472754a713e01e45e4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.586Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-055752",
     "job_title": "Associate Clinical Consultant - San Jose, CA - Johnson & Johnson MedTech – Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -5252,6 +5252,34 @@
       "domains": [
         "healthcare",
         "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.586Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-060520",
+    "job_title": "Associate Clinical Consultant or Clinical Consultant - Tulsa, OK - Johnson & Johnson MedTech, Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Tulsa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Tulsa-Oklahoma-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant---Tulsa--OK---Johnson---Johnson-MedTech--Heart-Recovery_R-060520-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "273d73fe7751aa2ec5033ba3fb584630f1a9acd2073ae6472754a713e01e45e4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
       ],
       "locations": [
         "us"
@@ -7466,6 +7494,238 @@
     "job_posted_at": "2026-03-29T18:58:51.134Z"
   },
   {
+    "job_id": "lever-includedhealth-223892df-993c-4d1a-a889-b4f9da0c50fa",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/223892df-993c-4d1a-a889-b4f9da0c50fa/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2cebb5beef9925467eb28f500f0977d6573801e538408a0557c9f67558a985fe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-36ea353c-02f1-48c0-8943-1ca53399d6ec",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Texas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/36ea353c-02f1-48c0-8943-1ca53399d6ec/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b98b1530980da1b43617752423881285e3c0a919f41926b3510ed5f3ff2f6d18",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-52d9dd20-2356-4906-a8b9-b4e33b803af2",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/52d9dd20-2356-4906-a8b9-b4e33b803af2/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2cebb5beef9925467eb28f500f0977d6573801e538408a0557c9f67558a985fe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-58c2b580-1200-465e-868d-4908c531e84d",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/58c2b580-1200-465e-868d-4908c531e84d/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a78a9de9e218c6b2acd9e41b4ed2177505f5496e9e25d71e80e66da17293cad5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-936f62ea-184f-4c2e-a94b-76508cb675ab",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Georgia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/936f62ea-184f-4c2e-a94b-76508cb675ab/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d69d7904aa8ec472e89b4cf1eb8b9c880a347f1a253381a1b949ab6ee1f5dcf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-a3aafbd5-113e-4063-aab2-0fd8a4659f0b",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Virginia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/a3aafbd5-113e-4063-aab2-0fd8a4659f0b/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "41a1c6d8814d3e40d203dd7427954e2cf2d7a3882770ed57583a55ca8fd09a3c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-fd1cbe81-aab4-41d6-9387-8e3294407d38",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Tennessee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/fd1cbe81-aab4-41d6-9387-8e3294407d38/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a671aa2782cea1128030d9dbff20d64bb3af2669820b504db3710368c1b7489",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
     "job_id": "lever-includedhealth-257945ac-1faf-496a-a7be-9712e8b75115",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -7739,238 +7999,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "30a5c9e978db285b39794782c157c03636031a479e33180f52bbea3aa2d29191",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-223892df-993c-4d1a-a889-b4f9da0c50fa",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/223892df-993c-4d1a-a889-b4f9da0c50fa/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2cebb5beef9925467eb28f500f0977d6573801e538408a0557c9f67558a985fe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-36ea353c-02f1-48c0-8943-1ca53399d6ec",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Texas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/36ea353c-02f1-48c0-8943-1ca53399d6ec/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b98b1530980da1b43617752423881285e3c0a919f41926b3510ed5f3ff2f6d18",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-52d9dd20-2356-4906-a8b9-b4e33b803af2",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/52d9dd20-2356-4906-a8b9-b4e33b803af2/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2cebb5beef9925467eb28f500f0977d6573801e538408a0557c9f67558a985fe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-58c2b580-1200-465e-868d-4908c531e84d",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/58c2b580-1200-465e-868d-4908c531e84d/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a78a9de9e218c6b2acd9e41b4ed2177505f5496e9e25d71e80e66da17293cad5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-936f62ea-184f-4c2e-a94b-76508cb675ab",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Georgia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/936f62ea-184f-4c2e-a94b-76508cb675ab/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d69d7904aa8ec472e89b4cf1eb8b9c880a347f1a253381a1b949ab6ee1f5dcf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-a3aafbd5-113e-4063-aab2-0fd8a4659f0b",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Virginia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/a3aafbd5-113e-4063-aab2-0fd8a4659f0b/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "41a1c6d8814d3e40d203dd7427954e2cf2d7a3882770ed57583a55ca8fd09a3c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-fd1cbe81-aab4-41d6-9387-8e3294407d38",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Tennessee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/fd1cbe81-aab4-41d6-9387-8e3294407d38/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a671aa2782cea1128030d9dbff20d64bb3af2669820b504db3710368c1b7489",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9332,6 +9360,34 @@
     "job_posted_at": "2026-03-27T07:04:39.833Z"
   },
   {
+    "job_id": "workday-medtronic-R60473",
+    "job_title": "Field Inventory Analyst - Lansing, MI",
+    "employer_name": "Medtronic",
+    "job_city": "Lansing",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lansing-Michigan-United-States-of-America/Field-Inventory-Analyst---Lansing--MI_R60473-2",
+    "job_posted_at_datetime_utc": "2026-03-27T07:04:28.193Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "57d83b6289efe68f9119b97c0a7c93cc880a1b34bf53ff6313b91a8bdf7bf02d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:04:28.193Z"
+  },
+  {
     "job_id": "workday-medtronic-R62820",
     "job_title": "Prin. Clinical Specialist - Superficial Venous Interventions (SVI) - Ft. Lauderdale, FL",
     "employer_name": "Medtronic",
@@ -9381,34 +9437,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:04:28.193Z"
-  },
-  {
-    "job_id": "workday-medtronic-R60473",
-    "job_title": "Field Inventory Analyst - Lansing, MI",
-    "employer_name": "Medtronic",
-    "job_city": "Lansing",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lansing-Michigan-United-States-of-America/Field-Inventory-Analyst---Lansing--MI_R60473-2",
-    "job_posted_at_datetime_utc": "2026-03-27T07:04:28.193Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "57d83b6289efe68f9119b97c0a7c93cc880a1b34bf53ff6313b91a8bdf7bf02d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
