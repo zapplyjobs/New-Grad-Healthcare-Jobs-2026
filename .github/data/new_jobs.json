@@ -2627,6 +2627,64 @@
     "job_posted_at": "2026-04-01T20:45:00.120Z"
   },
   {
+    "job_id": "lever-includedhealth-cf53b4dd-8e28-49cd-9845-fac2f05ee0f3",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Virginia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/cf53b4dd-8e28-49cd-9845-fac2f05ee0f3/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:51.692Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "acd3d2d0f27f8d498fb849ea838fe97f8e0bbfbec7fb20f3c1f4738305cb38cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:51.692Z"
+  },
+  {
+    "job_id": "lever-includedhealth-e373a9af-b559-4888-babf-707c0168e0d7",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Georgia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:51.692Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:51.692Z"
+  },
+  {
     "job_id": "lever-includedhealth-4592a33b-3545-4615-8625-94c0645c582a",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -2697,64 +2755,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b6431b3002007fc5b061dabd22ece2a6007900f4f2d7a58cb45f1730ff4755e9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:51.692Z"
-  },
-  {
-    "job_id": "lever-includedhealth-cf53b4dd-8e28-49cd-9845-fac2f05ee0f3",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Virginia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/cf53b4dd-8e28-49cd-9845-fac2f05ee0f3/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:51.692Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "acd3d2d0f27f8d498fb849ea838fe97f8e0bbfbec7fb20f3c1f4738305cb38cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:51.692Z"
-  },
-  {
-    "job_id": "lever-includedhealth-e373a9af-b559-4888-babf-707c0168e0d7",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Georgia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:51.692Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5151,6 +5151,34 @@
     "job_posted_at": "2026-03-31T07:05:44.715Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01347566",
+    "job_title": "FSP Associate Scientist – Buffer / Media Preparation",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Rockville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---Buffer---Media-Preparation_R-01347566",
+    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1baee0e3156964dc6316f5e806293f31d5d058b4c399dd30f1c88e16743d5709",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:05:44.715Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01345193",
     "job_title": "Scientist I - Chemistry",
     "employer_name": "Thermo Fisher Scientific",
@@ -5284,34 +5312,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:05:44.715Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01347566",
-    "job_title": "FSP Associate Scientist – Buffer / Media Preparation",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Rockville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---Buffer---Media-Preparation_R-01347566",
-    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1baee0e3156964dc6316f5e806293f31d5d058b4c399dd30f1c88e16743d5709",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -5602,34 +5602,6 @@
     "job_posted_at": "2026-03-31T07:03:43.603Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-056570",
-    "job_title": "Advanced Surgical Consultant - Mobile, AL - Johnson & Johnson MedTech - Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Mobile-Alabama-United-States/Advanced-Surgical-Consultant---Mobile--AL---Johnson---Johnson-MedTech---Heart-Recovery_R-056570-2",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.587Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2b1fe02a3be18e514e8df93f81a7c4cacfe6a99e95496ac3a5e834208f24694e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.587Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-067306",
     "job_title": "Associate Clinical Consultant or Clinical Consultant - Memphis, TN - Johnson & Johnson MedTech – Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -5698,6 +5670,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e685d04e6d6e56f61c5ed11b5f2f7f50ccddea5653e53512ae75e716aef7c80e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.587Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-056570",
+    "job_title": "Advanced Surgical Consultant - Mobile, AL - Johnson & Johnson MedTech - Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Mobile-Alabama-United-States/Advanced-Surgical-Consultant---Mobile--AL---Johnson---Johnson-MedTech---Heart-Recovery_R-056570-2",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.587Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b1fe02a3be18e514e8df93f81a7c4cacfe6a99e95496ac3a5e834208f24694e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7103,90 +7103,6 @@
     "job_posted_at": "2026-03-30T07:02:14.175Z"
   },
   {
-    "job_id": "workday-abbott-31146043",
-    "job_title": "Clinical Specialist, Vessel Closure - Memphis, TN",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Memphis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Memphis/Clinical-Specialist--Vessel-Closure---Memphis--TN_31146043-1",
-    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0e270521edc70d9a7cc319e793c229992bb1db9efd24915d1429b5310c174b6f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:02:14.174Z"
-  },
-  {
-    "job_id": "workday-abbott-31144820",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Missouri - St. Louis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---St-Louis/Clinical-Specialist_31144820",
-    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfd064d74d4371f0b058006eb105c7392aa2d36b7b68c72d43dc5c80fac1a215",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:02:14.174Z"
-  },
-  {
-    "job_id": "workday-abbott-31145132",
-    "job_title": "RPB Records Auditor - Nutrition Manufacturing - Casa Grande, AZ",
-    "employer_name": "Abbott",
-    "job_city": "Arizona - Casa Grande",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Casa-Grande/RPB-Records-Auditor---Nutrition-Manufacturing---Casa-Grande--AZ_31145132-1",
-    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "664f84efae8ec748790c163d17acb9b23561b6ac00988bdc0202698aee6bd94c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:02:14.174Z"
-  },
-  {
     "job_id": "workday-abbott-31145527",
     "job_title": "Coordinator Project Design",
     "employer_name": "Abbott",
@@ -7271,6 +7187,90 @@
     "job_posted_at": "2026-03-30T07:02:14.174Z"
   },
   {
+    "job_id": "workday-abbott-31146043",
+    "job_title": "Clinical Specialist, Vessel Closure - Memphis, TN",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Memphis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Memphis/Clinical-Specialist--Vessel-Closure---Memphis--TN_31146043-1",
+    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0e270521edc70d9a7cc319e793c229992bb1db9efd24915d1429b5310c174b6f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:02:14.174Z"
+  },
+  {
+    "job_id": "workday-abbott-31144820",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Missouri - St. Louis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---St-Louis/Clinical-Specialist_31144820",
+    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfd064d74d4371f0b058006eb105c7392aa2d36b7b68c72d43dc5c80fac1a215",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:02:14.174Z"
+  },
+  {
+    "job_id": "workday-abbott-31145132",
+    "job_title": "RPB Records Auditor - Nutrition Manufacturing - Casa Grande, AZ",
+    "employer_name": "Abbott",
+    "job_city": "Arizona - Casa Grande",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Casa-Grande/RPB-Records-Auditor---Nutrition-Manufacturing---Casa-Grande--AZ_31145132-1",
+    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "664f84efae8ec748790c163d17acb9b23561b6ac00988bdc0202698aee6bd94c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:02:14.174Z"
+  },
+  {
     "job_id": "workday-merck-&-co.-R388705",
     "job_title": "Vaccine Customer Representative - Bangor, Maine",
     "employer_name": "Merck & Co.",
@@ -7325,6 +7325,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-30T07:01:11.973Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177424",
+    "job_title": "Medical Support Specialist - LPN or Paramedic",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mounds View",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mounds-View/Medical-Support-Specialist---LPN-or-Paramedic_R0177424-1",
+    "job_posted_at_datetime_utc": "2026-03-30T07:00:41.807Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d34d08dac4f1c1389d561ba60f96dd5f4fd3585410e5817f4ffc017a4fb8d3ed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:00:41.807Z"
   },
   {
     "job_id": "workday-takeda-R0177418",
@@ -7551,18 +7579,18 @@
     "job_posted_at": "2026-03-30T07:00:41.807Z"
   },
   {
-    "job_id": "workday-takeda-R0177424",
-    "job_title": "Medical Support Specialist - LPN or Paramedic",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mounds View",
+    "job_id": "workday-thermo-fisher-scientific-R-01347125",
+    "job_title": "Manufacturing Chemist I, Formulations",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Rockford",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mounds-View/Medical-Support-Specialist---LPN-or-Paramedic_R0177424-1",
-    "job_posted_at_datetime_utc": "2026-03-30T07:00:41.807Z",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockford-Illinois-USA/Manufacturing-Chemist-I--Formulations_R-01347125",
+    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d34d08dac4f1c1389d561ba60f96dd5f4fd3585410e5817f4ffc017a4fb8d3ed",
+    "fingerprint": "4148012c7036ef3f045f2d9709d4be1f24c6daa1dedebe7652e76dbf9e7d5d96",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7571,12 +7599,40 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:00:41.807Z"
+    "job_posted_at": "2026-03-30T07:00:27.061Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01344556",
+    "job_title": "Supervisor, Metrology (2nd Shift)",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "St. Louis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/XMLNAME-2nd-shift-supervisor--Metrology_R-01344556",
+    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c374cef367cdbf479e494d0020ee9996b132fbd77e9a6066eccbf1411b1afc96",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:00:27.061Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01346300",
@@ -7628,62 +7684,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:00:27.061Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01347125",
-    "job_title": "Manufacturing Chemist I, Formulations",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Rockford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockford-Illinois-USA/Manufacturing-Chemist-I--Formulations_R-01347125",
-    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4148012c7036ef3f045f2d9709d4be1f24c6daa1dedebe7652e76dbf9e7d5d96",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:00:27.061Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01344556",
-    "job_title": "Supervisor, Metrology (2nd Shift)",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "St. Louis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/XMLNAME-2nd-shift-supervisor--Metrology_R-01344556",
-    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c374cef367cdbf479e494d0020ee9996b132fbd77e9a6066eccbf1411b1afc96",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -8029,238 +8029,6 @@
     "job_posted_at": "2026-03-29T18:58:51.134Z"
   },
   {
-    "job_id": "lever-includedhealth-257945ac-1faf-496a-a7be-9712e8b75115",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Illinois",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/257945ac-1faf-496a-a7be-9712e8b75115/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6cb0e1f478d83e1a6e9ab994f9a06f80e4d62d0bd4963da49f0e6820e7fcf231",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Tennessee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/29af260c-cc9b-4fe9-b358-6135fd5909be/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8dc6d786070fe4eb14ba2508d9f931a2707af0984d2e9a5ddbc3098afbc41724",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-387371b0-98f7-4b7f-a274-bef090372ae2",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Ohio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/387371b0-98f7-4b7f-a274-bef090372ae2/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fb6f53ec23fbd184b12249bfe4cd2825db33e67afea671f161e8e0d29781d676",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-4d92fdf0-d72e-40ac-85d4-fca93dece0b9",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Arizona",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4d92fdf0-d72e-40ac-85d4-fca93dece0b9/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b07abc46b510eaaa52b4fcbdd80ca5c0038a3cb8e77f3aa58627dc1be2540642",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-6a213796-8216-411a-9e6d-963aa75fb83a",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Minnesota",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/6a213796-8216-411a-9e6d-963aa75fb83a/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "66ad8f2f442bc93fd8ff455f43ee9cfb5c9db6d7915c76901ee6dbb684f90890",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-7353ca09-47ae-451b-9189-de11a94d40df",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/7353ca09-47ae-451b-9189-de11a94d40df/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2893ff0a5fcac2a607ce2ebcc482af803778cf6e698e4b9b901c529c09a1004",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-773dfdcc-f68a-4b79-afd6-ace918a45d76",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Oregon",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/773dfdcc-f68a-4b79-afd6-ace918a45d76/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b233dafa03e8858c8084cb7cb1df79f5c22b246b28e271d4424d0155e7e34528",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-b7c71562-c4d7-434f-80dc-82a2e94e28fd",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Texas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/b7c71562-c4d7-434f-80dc-82a2e94e28fd/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cfaead0b718aa7033c3cdef0c113f39af70215ab9eb4ed97b3c6c42e94a47dea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
     "job_id": "lever-includedhealth-cda7ea26-c4ad-4c72-8b63-aa73d9c16783",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -8544,6 +8312,238 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-257945ac-1faf-496a-a7be-9712e8b75115",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Illinois",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/257945ac-1faf-496a-a7be-9712e8b75115/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6cb0e1f478d83e1a6e9ab994f9a06f80e4d62d0bd4963da49f0e6820e7fcf231",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Tennessee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/29af260c-cc9b-4fe9-b358-6135fd5909be/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8dc6d786070fe4eb14ba2508d9f931a2707af0984d2e9a5ddbc3098afbc41724",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-387371b0-98f7-4b7f-a274-bef090372ae2",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Ohio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/387371b0-98f7-4b7f-a274-bef090372ae2/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fb6f53ec23fbd184b12249bfe4cd2825db33e67afea671f161e8e0d29781d676",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-4d92fdf0-d72e-40ac-85d4-fca93dece0b9",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Arizona",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4d92fdf0-d72e-40ac-85d4-fca93dece0b9/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b07abc46b510eaaa52b4fcbdd80ca5c0038a3cb8e77f3aa58627dc1be2540642",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-6a213796-8216-411a-9e6d-963aa75fb83a",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Minnesota",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/6a213796-8216-411a-9e6d-963aa75fb83a/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "66ad8f2f442bc93fd8ff455f43ee9cfb5c9db6d7915c76901ee6dbb684f90890",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-7353ca09-47ae-451b-9189-de11a94d40df",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/7353ca09-47ae-451b-9189-de11a94d40df/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d2893ff0a5fcac2a607ce2ebcc482af803778cf6e698e4b9b901c529c09a1004",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-773dfdcc-f68a-4b79-afd6-ace918a45d76",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Oregon",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/773dfdcc-f68a-4b79-afd6-ace918a45d76/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b233dafa03e8858c8084cb7cb1df79f5c22b246b28e271d4424d0155e7e34528",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-b7c71562-c4d7-434f-80dc-82a2e94e28fd",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Texas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/b7c71562-c4d7-434f-80dc-82a2e94e28fd/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cfaead0b718aa7033c3cdef0c113f39af70215ab9eb4ed97b3c6c42e94a47dea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -12051,6 +12051,90 @@
     "job_posted_at": "2026-03-27T07:00:41.808Z"
   },
   {
+    "job_id": "workday-takeda-R0177336",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "IL - Rockford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Medical-Screener_R0177336",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.807Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b2358d9f7ce5cbc9addf491eba798aaf80a2f8a494849889752618424834a9c4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.807Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177335",
+    "job_title": "Medical Screener – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "LA - Lafayette",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Medical-Screener---Day-One-Benefits_R0177335-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.807Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a3eddbfc1e56532ba99a48e39556536593114f4660107dcf2bb826223c3a37d4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.807Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177333",
+    "job_title": "Entry Level Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "IL - Villa Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Villa-Park/Entry-Level-Phlebotomist_R0177333-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.807Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3ba0b999c00e56c64d21d8f65e9867c6aeb0e6179cf3a9a751000ca5b5a57e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.807Z"
+  },
+  {
     "job_id": "workday-takeda-R0177331",
     "job_title": "Medical Customer Service/ Phlebotomist - Part Time",
     "employer_name": "Takeda",
@@ -12148,90 +12232,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0492bac225443a15dfbe505a28b1c98389ec3a73cc17476d450dbdd438f7fa62",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.807Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177336",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "IL - Rockford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Medical-Screener_R0177336",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.807Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b2358d9f7ce5cbc9addf491eba798aaf80a2f8a494849889752618424834a9c4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.807Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177335",
-    "job_title": "Medical Screener – Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "LA - Lafayette",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Medical-Screener---Day-One-Benefits_R0177335-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.807Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a3eddbfc1e56532ba99a48e39556536593114f4660107dcf2bb826223c3a37d4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.807Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177333",
-    "job_title": "Entry Level Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "IL - Villa Park",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Villa-Park/Entry-Level-Phlebotomist_R0177333-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.807Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e3ba0b999c00e56c64d21d8f65e9867c6aeb0e6179cf3a9a751000ca5b5a57e6",
     "tags": {
       "employment": "entry_level",
       "domains": [
