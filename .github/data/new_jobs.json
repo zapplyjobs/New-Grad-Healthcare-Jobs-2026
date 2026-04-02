@@ -3174,6 +3174,34 @@
     "job_posted_at": "2026-04-01T15:12:45.602Z"
   },
   {
+    "job_id": "workday-takeda-R0177530",
+    "job_title": "Paramedic/EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "CO - Longmont",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Longmont/Paramedic-EMT-P_R0177530-1",
+    "job_posted_at_datetime_utc": "2026-04-01T15:08:03.367Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50793df744495b14ee198775059e2708729b73aa2d15335fed3193ad006654e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T15:08:03.367Z"
+  },
+  {
     "job_id": "workday-takeda-R0177529",
     "job_title": "Plasma Center Nurse- RN",
     "employer_name": "Takeda",
@@ -3214,34 +3242,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5653aad3a1b348cb71d925a183d88caa6fbbb442dc466c11137edc853413eef9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T15:08:03.367Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177530",
-    "job_title": "Paramedic/EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "CO - Longmont",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Longmont/Paramedic-EMT-P_R0177530-1",
-    "job_posted_at_datetime_utc": "2026-04-01T15:08:03.367Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50793df744495b14ee198775059e2708729b73aa2d15335fed3193ad006654e6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4559,62 +4559,6 @@
     "job_posted_at": "2026-03-31T07:05:44.715Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01345193",
-    "job_title": "Scientist I - Chemistry",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Highland Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Scientist-I---Chemistry_R-01345193",
-    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1657ec0bf9d7b9915eb6dd740943c82d7ff6bfd8921b3396dbd23fe638c5fc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:05:44.715Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01345657",
-    "job_title": "Entry level Scientist - Hematology",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Highland Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Entry-level-Scientist---Hematology_R-01345657-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "68a355936a65f8d16bbca55840e67302501bd520c26247a40af8739641289b54",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:05:44.715Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01346868",
     "job_title": "Scientist I, Process Development",
     "employer_name": "Thermo Fisher Scientific",
@@ -4711,6 +4655,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1baee0e3156964dc6316f5e806293f31d5d058b4c399dd30f1c88e16743d5709",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:05:44.715Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01345193",
+    "job_title": "Scientist I - Chemistry",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Highland Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Scientist-I---Chemistry_R-01345193",
+    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1657ec0bf9d7b9915eb6dd740943c82d7ff6bfd8921b3396dbd23fe638c5fc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:05:44.715Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01345657",
+    "job_title": "Entry level Scientist - Hematology",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Highland Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Entry-level-Scientist---Hematology_R-01345657-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "68a355936a65f8d16bbca55840e67302501bd520c26247a40af8739641289b54",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5122,35 +5122,6 @@
     "job_posted_at": "2026-03-31T07:03:38.587Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-062801",
-    "job_title": "Oncology Sales Specialist - Los Angeles, CA - Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Oncology-Sales-Specialist---Los-Angeles--CA---Johnson---Johnson-Innovative-Medicine_R-062801",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d5ec305643902fbd36491c90279e059c55410253af206d6af2bde621a90e1b6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.586Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-060520",
     "job_title": "Associate Clinical Consultant or Clinical Consultant - Tulsa, OK - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -5247,6 +5218,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f7b4196068368a598caf2dcd703b777233c09dab2cdd749ffa6f2101645875a0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.586Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-062801",
+    "job_title": "Oncology Sales Specialist - Los Angeles, CA - Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Oncology-Sales-Specialist---Los-Angeles--CA---Johnson---Johnson-Innovative-Medicine_R-062801",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d5ec305643902fbd36491c90279e059c55410253af206d6af2bde621a90e1b6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10284,6 +10284,34 @@
     "job_posted_at": "2026-03-27T07:01:11.973Z"
   },
   {
+    "job_id": "workday-takeda-R0177307",
+    "job_title": "Entry Level Phlebotomist - Paid Training",
+    "employer_name": "Takeda",
+    "job_city": "MI - Livonia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Livonia/Entry-Level-Phlebotomist---Paid-Training_R0177307-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5365afaa9feacbaf4b40465f7fdc985800669f61ca421ec502b257c2bbb5c28b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.808Z"
+  },
+  {
     "job_id": "workday-takeda-R0176307",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
@@ -11460,34 +11488,6 @@
     "job_posted_at": "2026-03-27T07:00:41.808Z"
   },
   {
-    "job_id": "workday-takeda-R0177307",
-    "job_title": "Entry Level Phlebotomist - Paid Training",
-    "employer_name": "Takeda",
-    "job_city": "MI - Livonia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Livonia/Entry-Level-Phlebotomist---Paid-Training_R0177307-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5365afaa9feacbaf4b40465f7fdc985800669f61ca421ec502b257c2bbb5c28b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.808Z"
-  },
-  {
     "job_id": "workday-takeda-R0177336",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
@@ -11938,34 +11938,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-26T20:19:17.822Z"
-  },
-  {
-    "job_id": "sr-BoschGroup-744000117050947",
-    "job_title": "Paste Lab Technician",
-    "employer_name": "Bosch Group",
-    "job_city": "Anderson",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000117050947",
-    "job_posted_at_datetime_utc": "2026-03-26T19:25:39.790Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "b1bf674b1df4ffecd730eeaa98d4a14d90eb30f19ec5696ac3c906581fafef8a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-26T19:25:39.790Z"
   }
 ]
