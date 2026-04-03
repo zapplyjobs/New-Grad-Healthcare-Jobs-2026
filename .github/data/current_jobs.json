@@ -3794,63 +3794,6 @@
     "job_posted_at": "2026-04-01T07:03:58.878Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-065980",
-    "job_title": "Oncology Sales Specialist, Solid Tumor (GU) - (Denver, Fort Collins, Pueblo & Colorado Springs CO) Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Denver-Colorado-United-States/Oncology-Sales-Specialist--Solid-Tumor--GU-----Denver--Fort-Collins--Pueblo---Colorado-Springs-CO--Johnson---Johnson-Innovative-Medicine_R-065980-2",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:53.472Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e3365d9a4d57eaf7ef70b15aa33c14bf26e9dddc8444853f6d354ff66d5179b3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:53.472Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-062265",
-    "job_title": "Analyst, HCP Engagements",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raynham-Massachusetts-United-States-of-America/Analyst--HCP-Engagements_R-062265-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:53.472Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c9b3a137c990d0d8109334d0ca3818a8d788d0a58675ffc5f421e9718329369f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:53.472Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-064473",
     "job_title": "JJT ERP Product Group Engineer",
     "employer_name": "Johnson & Johnson",
@@ -3977,6 +3920,63 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ae78c27d67cc3b5e72455514766783a33b2b5b8ca446a75ab986e5eadc1c3bda",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:53.472Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-065980",
+    "job_title": "Oncology Sales Specialist, Solid Tumor (GU) - (Denver, Fort Collins, Pueblo & Colorado Springs CO) Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Denver-Colorado-United-States/Oncology-Sales-Specialist--Solid-Tumor--GU-----Denver--Fort-Collins--Pueblo---Colorado-Springs-CO--Johnson---Johnson-Innovative-Medicine_R-065980-2",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:53.472Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3365d9a4d57eaf7ef70b15aa33c14bf26e9dddc8444853f6d354ff66d5179b3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:53.472Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-062265",
+    "job_title": "Analyst, HCP Engagements",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raynham-Massachusetts-United-States-of-America/Analyst--HCP-Engagements_R-062265-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:53.472Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c9b3a137c990d0d8109334d0ca3818a8d788d0a58675ffc5f421e9718329369f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5235,34 +5235,6 @@
     "job_posted_at": "2026-03-31T07:06:03.351Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01345657",
-    "job_title": "Entry level Scientist - PBMC",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Highland Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Entry-level-Scientist---Hematology_R-01345657-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be21d17fd897ba750296406e72030d20bc3df2589d156e12648a9b5c4a143770",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:05:44.715Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01345217",
     "job_title": "FSP - Scientist - LNP Formulation",
     "employer_name": "Thermo Fisher Scientific",
@@ -5291,46 +5263,18 @@
     "job_posted_at": "2026-03-31T07:05:44.715Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01347566",
-    "job_title": "FSP Associate Scientist – Buffer / Media Preparation",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Rockville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---Buffer---Media-Preparation_R-01347566",
-    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1baee0e3156964dc6316f5e806293f31d5d058b4c399dd30f1c88e16743d5709",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:05:44.715Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01345193",
-    "job_title": "Scientist I - Chemistry",
+    "job_id": "workday-thermo-fisher-scientific-R-01345657",
+    "job_title": "Entry level Scientist - PBMC",
     "employer_name": "Thermo Fisher Scientific",
     "job_city": "Highland Heights",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Scientist-I---Chemistry_R-01345193",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Entry-level-Scientist---Hematology_R-01345657-1",
     "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e1657ec0bf9d7b9915eb6dd740943c82d7ff6bfd8921b3396dbd23fe638c5fc6",
+    "fingerprint": "be21d17fd897ba750296406e72030d20bc3df2589d156e12648a9b5c4a143770",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5431,18 +5375,18 @@
     "job_posted_at": "2026-03-31T07:05:44.715Z"
   },
   {
-    "job_id": "workday-medtronic-R60860",
-    "job_title": "Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
+    "job_id": "workday-thermo-fisher-scientific-R-01347566",
+    "job_title": "FSP Associate Scientist – Buffer / Media Preparation",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Rockville",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:04:28.192Z",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---Buffer---Media-Preparation_R-01347566",
+    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3fa196475c53f95a53a61e2a63763e57ba259c17f0a2e6891716ccd87c16ba8f",
+    "fingerprint": "1baee0e3156964dc6316f5e806293f31d5d058b4c399dd30f1c88e16743d5709",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5456,7 +5400,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:04:28.192Z"
+    "job_posted_at": "2026-03-31T07:05:44.715Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01345193",
+    "job_title": "Scientist I - Chemistry",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Highland Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Scientist-I---Chemistry_R-01345193",
+    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1657ec0bf9d7b9915eb6dd740943c82d7ff6bfd8921b3396dbd23fe638c5fc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:05:44.715Z"
   },
   {
     "job_id": "workday-medtronic-R54625",
@@ -5480,6 +5452,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:04:28.192Z"
+  },
+  {
+    "job_id": "workday-medtronic-R60860",
+    "job_title": "Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:04:28.192Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3fa196475c53f95a53a61e2a63763e57ba259c17f0a2e6891716ccd87c16ba8f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -5714,6 +5714,34 @@
     "job_posted_at": "2026-03-31T07:03:43.603Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-056570",
+    "job_title": "Advanced Surgical Consultant - Mobile, AL - Johnson & Johnson MedTech - Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Mobile-Alabama-United-States/Advanced-Surgical-Consultant---Mobile--AL---Johnson---Johnson-MedTech---Heart-Recovery_R-056570-2",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.587Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b1fe02a3be18e514e8df93f81a7c4cacfe6a99e95496ac3a5e834208f24694e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.587Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-067306",
     "job_title": "Associate Clinical Consultant or Clinical Consultant - Memphis, TN - Johnson & Johnson MedTech – Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -5782,34 +5810,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e685d04e6d6e56f61c5ed11b5f2f7f50ccddea5653e53512ae75e716aef7c80e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.587Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-056570",
-    "job_title": "Advanced Surgical Consultant - Mobile, AL - Johnson & Johnson MedTech - Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Mobile-Alabama-United-States/Advanced-Surgical-Consultant---Mobile--AL---Johnson---Johnson-MedTech---Heart-Recovery_R-056570-2",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.587Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2b1fe02a3be18e514e8df93f81a7c4cacfe6a99e95496ac3a5e834208f24694e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7439,6 +7439,34 @@
     "job_posted_at": "2026-03-30T07:01:11.973Z"
   },
   {
+    "job_id": "workday-takeda-R0177424",
+    "job_title": "Medical Support Specialist - LPN or Paramedic",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mounds View",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mounds-View/Medical-Support-Specialist---LPN-or-Paramedic_R0177424-1",
+    "job_posted_at_datetime_utc": "2026-03-30T07:00:41.807Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d34d08dac4f1c1389d561ba60f96dd5f4fd3585410e5817f4ffc017a4fb8d3ed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:00:41.807Z"
+  },
+  {
     "job_id": "workday-takeda-R0177418",
     "job_title": "Center Supervisor",
     "employer_name": "Takeda",
@@ -7647,34 +7675,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6eceb386e9bdd316367bdd470a1accfb606186ab3cc5098d4dbc4230ed5f398e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:00:41.807Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177424",
-    "job_title": "Medical Support Specialist - LPN or Paramedic",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mounds View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mounds-View/Medical-Support-Specialist---LPN-or-Paramedic_R0177424-1",
-    "job_posted_at_datetime_utc": "2026-03-30T07:00:41.807Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d34d08dac4f1c1389d561ba60f96dd5f4fd3585410e5817f4ffc017a4fb8d3ed",
     "tags": {
       "employment": "entry_level",
       "domains": [
