@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-takeda-R0177605",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "VA - Roanoke",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Roanoke/Plasma-Center-Technician_R0177605-1",
+    "job_posted_at_datetime_utc": "2026-04-03T01:00:31.846Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69fe2576e854faba222b27e3daf794e3be40d4c9a8ecaec0fd76847487e3e1f2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T01:00:31.846Z"
+  },
+  {
     "job_id": "workday-medtronic-R61783",
     "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Northeast)",
     "employer_name": "Medtronic",
@@ -4927,34 +4955,6 @@
     "job_posted_at": "2026-03-31T07:06:35.977Z"
   },
   {
-    "job_id": "workday-takeda-R0177501",
-    "job_title": "Plasma Center Paramedic -EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "MN - Saint Paul",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Saint-Paul/Plasma-Center-Paramedic--EMT-P_R0177501-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:06:03.351Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "09fa42549d36c386f3f9e3dfa4f2e26ffb030d0e1dca4393e0d3e4e212dbe376",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:06:03.351Z"
-  },
-  {
     "job_id": "workday-takeda-R0174305",
     "job_title": "Center Supervisor",
     "employer_name": "Takeda",
@@ -5135,6 +5135,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5e312c5b806901d047acc96b46116993bad3066d47543a2adc63dd2a638cdd1d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:06:03.351Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177501",
+    "job_title": "Plasma Center Paramedic -EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "MN - Saint Paul",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Saint-Paul/Plasma-Center-Paramedic--EMT-P_R0177501-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:06:03.351Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "09fa42549d36c386f3f9e3dfa4f2e26ffb030d0e1dca4393e0d3e4e212dbe376",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5630,62 +5658,6 @@
     "job_posted_at": "2026-03-31T07:03:43.603Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-056570",
-    "job_title": "Advanced Surgical Consultant - Mobile, AL - Johnson & Johnson MedTech - Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Mobile-Alabama-United-States/Advanced-Surgical-Consultant---Mobile--AL---Johnson---Johnson-MedTech---Heart-Recovery_R-056570-2",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.587Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2b1fe02a3be18e514e8df93f81a7c4cacfe6a99e95496ac3a5e834208f24694e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.587Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-067306",
-    "job_title": "Associate Clinical Consultant or Clinical Consultant - Memphis, TN - Johnson & Johnson MedTech – Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Memphis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Memphis-Tennessee-United-States-of-America/Associate-Clinical-Consultant-or-Clinical-Consultant---Memphis--TN---Johnson---Johnson-MedTech---Heart-Recovery_R-067306-2",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.587Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1e171bf5726ac2481be73ebdc8528c9c44d774bbf72a31af482a9c21442359cf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.587Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-063663",
     "job_title": "Field Clinical Specialist - Shockwave Medical (Virginia Tidewater)",
     "employer_name": "Johnson & Johnson",
@@ -5726,6 +5698,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e685d04e6d6e56f61c5ed11b5f2f7f50ccddea5653e53512ae75e716aef7c80e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.587Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-056570",
+    "job_title": "Advanced Surgical Consultant - Mobile, AL - Johnson & Johnson MedTech - Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Mobile-Alabama-United-States/Advanced-Surgical-Consultant---Mobile--AL---Johnson---Johnson-MedTech---Heart-Recovery_R-056570-2",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.587Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b1fe02a3be18e514e8df93f81a7c4cacfe6a99e95496ac3a5e834208f24694e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.587Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-067306",
+    "job_title": "Associate Clinical Consultant or Clinical Consultant - Memphis, TN - Johnson & Johnson MedTech – Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Memphis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Memphis-Tennessee-United-States-of-America/Associate-Clinical-Consultant-or-Clinical-Consultant---Memphis--TN---Johnson---Johnson-MedTech---Heart-Recovery_R-067306-2",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.587Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1e171bf5726ac2481be73ebdc8528c9c44d774bbf72a31af482a9c21442359cf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6054,34 +6082,6 @@
     "job_posted_at": "2026-03-31T07:02:29.064Z"
   },
   {
-    "job_id": "workday-abbott-31146282",
-    "job_title": "Clinical Specialist, Vessel Closure - Knoxville, TN",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Knoxville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Clinical-Specialist--Vessel-Closure---Knoxville--TN_31146282-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:02:14.173Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5e564c27ee00c58fc9368c9c94068d9b4fd1a039dd293b9fc020286ea14d9ef",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:02:14.173Z"
-  },
-  {
     "job_id": "workday-abbott-31146276",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Honolulu, HI",
     "employer_name": "Abbott",
@@ -6122,6 +6122,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "44b6cca59e81a588717088824060cbea18fe8ff358b4f8f763bf5f29ad071817",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:02:14.173Z"
+  },
+  {
+    "job_id": "workday-abbott-31146282",
+    "job_title": "Clinical Specialist, Vessel Closure - Knoxville, TN",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Knoxville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Clinical-Specialist--Vessel-Closure---Knoxville--TN_31146282-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:02:14.173Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5e564c27ee00c58fc9368c9c94068d9b4fd1a039dd293b9fc020286ea14d9ef",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6652,34 +6680,6 @@
     "job_posted_at": "2026-03-30T07:05:15.055Z"
   },
   {
-    "job_id": "workday-medtronic-R62979",
-    "job_title": "Remote Customer Support Representative – Healthcare Technology (Veterans Focus)",
-    "employer_name": "Medtronic",
-    "job_city": "48 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Colorado-United-States-of-America/Remote-Customer-Support-Representative---Healthcare-Technology--Veterans-Focus-_R62979-2",
-    "job_posted_at_datetime_utc": "2026-03-30T07:04:28.192Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "779d68edaadb809706a62b1db631e98a3f92d96cab2391a396b5e15492af151c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:04:28.192Z"
-  },
-  {
     "job_id": "workday-medtronic-R62552",
     "job_title": "Assoc Clinical Specialist CST",
     "employer_name": "Medtronic",
@@ -6729,6 +6729,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:04:28.192Z"
+  },
+  {
+    "job_id": "workday-medtronic-R62979",
+    "job_title": "Remote Customer Support Representative – Healthcare Technology (Veterans Focus)",
+    "employer_name": "Medtronic",
+    "job_city": "48 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Colorado-United-States-of-America/Remote-Customer-Support-Representative---Healthcare-Technology--Veterans-Focus-_R62979-2",
+    "job_posted_at_datetime_utc": "2026-03-30T07:04:28.192Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "779d68edaadb809706a62b1db631e98a3f92d96cab2391a396b5e15492af151c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7131,6 +7159,62 @@
     "job_posted_at": "2026-03-30T07:02:14.175Z"
   },
   {
+    "job_id": "workday-abbott-31144820",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Missouri - St. Louis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---St-Louis/Clinical-Specialist_31144820",
+    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfd064d74d4371f0b058006eb105c7392aa2d36b7b68c72d43dc5c80fac1a215",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:02:14.174Z"
+  },
+  {
+    "job_id": "workday-abbott-31145132",
+    "job_title": "RPB Records Auditor - Nutrition Manufacturing - Casa Grande, AZ",
+    "employer_name": "Abbott",
+    "job_city": "Arizona - Casa Grande",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Casa-Grande/RPB-Records-Auditor---Nutrition-Manufacturing---Casa-Grande--AZ_31145132-1",
+    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "664f84efae8ec748790c163d17acb9b23561b6ac00988bdc0202698aee6bd94c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:02:14.174Z"
+  },
+  {
     "job_id": "workday-abbott-31145527",
     "job_title": "Coordinator Project Design",
     "employer_name": "Abbott",
@@ -7236,62 +7320,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:02:14.174Z"
-  },
-  {
-    "job_id": "workday-abbott-31144820",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Missouri - St. Louis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---St-Louis/Clinical-Specialist_31144820",
-    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfd064d74d4371f0b058006eb105c7392aa2d36b7b68c72d43dc5c80fac1a215",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:02:14.174Z"
-  },
-  {
-    "job_id": "workday-abbott-31145132",
-    "job_title": "RPB Records Auditor - Nutrition Manufacturing - Casa Grande, AZ",
-    "employer_name": "Abbott",
-    "job_city": "Arizona - Casa Grande",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Casa-Grande/RPB-Records-Auditor---Nutrition-Manufacturing---Casa-Grande--AZ_31145132-1",
-    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "664f84efae8ec748790c163d17acb9b23561b6ac00988bdc0202698aee6bd94c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -7607,6 +7635,34 @@
     "job_posted_at": "2026-03-30T07:00:41.807Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01337645",
+    "job_title": "Clinical Educator - PreClara",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/Clinical-Educator---PreClara_R-01337645",
+    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f7c7ca79086de819199b0cff112bea8ddb1f0bea174203ad3b2837d32ab96ae1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:00:27.061Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01347125",
     "job_title": "Manufacturing Chemist I, Formulations",
     "employer_name": "Thermo Fisher Scientific",
@@ -7684,34 +7740,6 @@
         "us"
       ],
       "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:00:27.061Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01337645",
-    "job_title": "Clinical Educator - PreClara",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/Clinical-Educator---PreClara_R-01337645",
-    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7c7ca79086de819199b0cff112bea8ddb1f0bea174203ad3b2837d32ab96ae1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -10539,62 +10567,6 @@
     "job_posted_at": "2026-03-27T07:02:14.176Z"
   },
   {
-    "job_id": "workday-abbott-31144768",
-    "job_title": "Associate Scientist Product Development R&D - Nutrition - Columbus, OH",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Associate-Scientist-Product-Development-R-D---Nutrition---Columbus--OH_31144768-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:02:14.175Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af9754466412de8b9140d6b25652c8d7dd73c2a60a7718a823bf7924ca20fc5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:02:14.175Z"
-  },
-  {
-    "job_id": "workday-abbott-31144903",
-    "job_title": "Clinical Specialist - South Tampa, FL",
-    "employer_name": "Abbott",
-    "job_city": "Florida - Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist-II---South-Tampa--FL_31144903-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:02:14.175Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3a1278280c7ef68b776f680b95bedd380424c8f4ad8aa21b0c31419349e70952",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:02:14.175Z"
-  },
-  {
     "job_id": "workday-abbott-31145803",
     "job_title": "QC Technologist- (Monday to Friday 8:00 AM - 5:00 PM)",
     "employer_name": "Abbott",
@@ -10728,6 +10700,62 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:02:14.175Z"
+  },
+  {
+    "job_id": "workday-abbott-31144768",
+    "job_title": "Associate Scientist Product Development R&D - Nutrition - Columbus, OH",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Associate-Scientist-Product-Development-R-D---Nutrition---Columbus--OH_31144768-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:02:14.175Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af9754466412de8b9140d6b25652c8d7dd73c2a60a7718a823bf7924ca20fc5f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:02:14.175Z"
+  },
+  {
+    "job_id": "workday-abbott-31144903",
+    "job_title": "Clinical Specialist - South Tampa, FL",
+    "employer_name": "Abbott",
+    "job_city": "Florida - Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist-II---South-Tampa--FL_31144903-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:02:14.175Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3a1278280c7ef68b776f680b95bedd380424c8f4ad8aa21b0c31419349e70952",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -10873,34 +10901,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-27T07:01:11.973Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177307",
-    "job_title": "Entry Level Phlebotomist - Paid Training",
-    "employer_name": "Takeda",
-    "job_city": "MI - Livonia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Livonia/Entry-Level-Phlebotomist---Paid-Training_R0177307-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5365afaa9feacbaf4b40465f7fdc985800669f61ca421ec502b257c2bbb5c28b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.808Z"
   },
   {
     "job_id": "workday-takeda-R0176307",
@@ -12063,6 +12063,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1141f89ef6e6c97d902f1ecf2f89cb8f6723bbbe1e7a1b064ca73b9582351838",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.808Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177307",
+    "job_title": "Entry Level Phlebotomist - Paid Training",
+    "employer_name": "Takeda",
+    "job_city": "MI - Livonia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Livonia/Entry-Level-Phlebotomist---Paid-Training_R0177307-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5365afaa9feacbaf4b40465f7fdc985800669f61ca421ec502b257c2bbb5c28b",
     "tags": {
       "employment": "entry_level",
       "domains": [
