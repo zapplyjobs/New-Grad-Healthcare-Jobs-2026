@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-exact-sciences-R26-12957",
+    "job_title": "Specimen Processor",
+    "employer_name": "Exact Sciences",
+    "job_city": "AZ - Phoenix",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Specimen-Processor_R26-12957",
+    "job_posted_at_datetime_utc": "2026-04-03T06:17:47.294Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50bef9f874d7cd3b7c30bbd20c45606f41e60bc12714fe5c362c681c0c501b77",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T06:17:47.294Z"
+  },
+  {
     "job_id": "workday-takeda-R0177605",
     "job_title": "Plasma Center Technician",
     "employer_name": "Takeda",
@@ -280,34 +308,6 @@
     "job_posted_at": "2026-04-02T20:27:44.041Z"
   },
   {
-    "job_id": "workday-takeda-R0177664",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - 82nd Ter",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/Medical-Screener_R0177664-1",
-    "job_posted_at_datetime_utc": "2026-04-02T20:20:41.857Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "701a046bc90ec75f6eaa5c5798622e07a7a3fcd69a9524e14774ed62bdd55ab7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T20:20:41.857Z"
-  },
-  {
     "job_id": "workday-takeda-R0177663",
     "job_title": "BioLife Nurse",
     "employer_name": "Takeda",
@@ -364,18 +364,46 @@
     "job_posted_at": "2026-04-02T20:20:41.857Z"
   },
   {
-    "job_id": "workday-takeda-R0177658",
-    "job_title": "Registered Nurse -RN",
+    "job_id": "workday-takeda-R0177664",
+    "job_title": "Medical Screener",
     "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - Ambassador Dr",
+    "job_city": "MO - Kansas City - 82nd Ter",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/Registered-Nurse--RN_R0177658-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/Medical-Screener_R0177664-1",
+    "job_posted_at_datetime_utc": "2026-04-02T20:20:41.857Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "701a046bc90ec75f6eaa5c5798622e07a7a3fcd69a9524e14774ed62bdd55ab7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T20:20:41.857Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177659",
+    "job_title": "LPN - 2k Sign On Bonus - Predictable Schedule - Work-Life Balance",
+    "employer_name": "Takeda",
+    "job_city": "MO - Saint Peters",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/LPN---2k-Sign-On-Bonus---Predictable-Schedule---Work-Life-Balance_R0177659-1",
     "job_posted_at_datetime_utc": "2026-04-02T20:05:59.614Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4229b500adc27f1100e8a8fd357b206a205aeca0decbb9c1031dd503b30c1d51",
+    "fingerprint": "be8fa1058b830b216956c3d0fffafc2d7d622ebc39389716ec5ebe7355c5a07f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -392,18 +420,18 @@
     "job_posted_at": "2026-04-02T20:05:59.614Z"
   },
   {
-    "job_id": "workday-takeda-R0177659",
-    "job_title": "LPN - 2k Sign On Bonus - Predictable Schedule - Work-Life Balance",
+    "job_id": "workday-takeda-R0177658",
+    "job_title": "Registered Nurse -RN",
     "employer_name": "Takeda",
-    "job_city": "MO - Saint Peters",
+    "job_city": "MO - Kansas City - Ambassador Dr",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/LPN---2k-Sign-On-Bonus---Predictable-Schedule---Work-Life-Balance_R0177659-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/Registered-Nurse--RN_R0177658-1",
     "job_posted_at_datetime_utc": "2026-04-02T20:05:59.614Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "be8fa1058b830b216956c3d0fffafc2d7d622ebc39389716ec5ebe7355c5a07f",
+    "fingerprint": "4229b500adc27f1100e8a8fd357b206a205aeca0decbb9c1031dd503b30c1d51",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5235,62 +5263,6 @@
     "job_posted_at": "2026-03-31T07:05:44.715Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01345193",
-    "job_title": "Scientist I - Chemistry",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Highland Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Scientist-I---Chemistry_R-01345193",
-    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1657ec0bf9d7b9915eb6dd740943c82d7ff6bfd8921b3396dbd23fe638c5fc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:05:44.715Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01345657",
-    "job_title": "Entry level Scientist - Hematology",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Highland Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Entry-level-Scientist---Hematology_R-01345657-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "68a355936a65f8d16bbca55840e67302501bd520c26247a40af8739641289b54",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:05:44.715Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01346868",
     "job_title": "Scientist I, Process Development",
     "employer_name": "Thermo Fisher Scientific",
@@ -5387,6 +5359,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1baee0e3156964dc6316f5e806293f31d5d058b4c399dd30f1c88e16743d5709",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:05:44.715Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01345193",
+    "job_title": "Scientist I - Chemistry",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Highland Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Scientist-I---Chemistry_R-01345193",
+    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1657ec0bf9d7b9915eb6dd740943c82d7ff6bfd8921b3396dbd23fe638c5fc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:05:44.715Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01345657",
+    "job_title": "Entry level Scientist - Hematology",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Highland Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Entry-level-Scientist---Hematology_R-01345657-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "68a355936a65f8d16bbca55840e67302501bd520c26247a40af8739641289b54",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5686,6 +5714,34 @@
     "job_posted_at": "2026-03-31T07:03:43.603Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-056570",
+    "job_title": "Advanced Surgical Consultant - Mobile, AL - Johnson & Johnson MedTech - Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Mobile-Alabama-United-States/Advanced-Surgical-Consultant---Mobile--AL---Johnson---Johnson-MedTech---Heart-Recovery_R-056570-2",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.587Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b1fe02a3be18e514e8df93f81a7c4cacfe6a99e95496ac3a5e834208f24694e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.587Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-067306",
     "job_title": "Associate Clinical Consultant or Clinical Consultant - Memphis, TN - Johnson & Johnson MedTech – Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -5754,34 +5810,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e685d04e6d6e56f61c5ed11b5f2f7f50ccddea5653e53512ae75e716aef7c80e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.587Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-056570",
-    "job_title": "Advanced Surgical Consultant - Mobile, AL - Johnson & Johnson MedTech - Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Mobile-Alabama-United-States/Advanced-Surgical-Consultant---Mobile--AL---Johnson---Johnson-MedTech---Heart-Recovery_R-056570-2",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.587Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2b1fe02a3be18e514e8df93f81a7c4cacfe6a99e95496ac3a5e834208f24694e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7663,62 +7691,6 @@
     "job_posted_at": "2026-03-30T07:00:41.807Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01346300",
-    "job_title": "Supervisor - Small Molecule",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Middleton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Supervisor---Small-Molecule_R-01346300",
-    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3ac441dade2414826e013964cb9cb41512ddafecd86efdd2c85d28d70707648d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:00:27.061Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01337645",
-    "job_title": "Clinical Educator - PreClara",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/Clinical-Educator---PreClara_R-01337645",
-    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7c7ca79086de819199b0cff112bea8ddb1f0bea174203ad3b2837d32ab96ae1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:00:27.061Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01347125",
     "job_title": "Manufacturing Chemist I, Formulations",
     "employer_name": "Thermo Fisher Scientific",
@@ -7768,6 +7740,62 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:00:27.061Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01346300",
+    "job_title": "Supervisor - Small Molecule",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Middleton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Supervisor---Small-Molecule_R-01346300",
+    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3ac441dade2414826e013964cb9cb41512ddafecd86efdd2c85d28d70707648d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:00:27.061Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01337645",
+    "job_title": "Clinical Educator - PreClara",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/Clinical-Educator---PreClara_R-01337645",
+    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f7c7ca79086de819199b0cff112bea8ddb1f0bea174203ad3b2837d32ab96ae1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -9387,18 +9415,18 @@
     "job_posted_at": "2026-03-27T07:55:41.047Z"
   },
   {
-    "job_id": "workday-takeda-R0175557",
-    "job_title": "Medical Screener",
+    "job_id": "workday-takeda-R0177323",
+    "job_title": "Part Time Plasma Center Technician",
     "employer_name": "Takeda",
-    "job_city": "NJ - Deptford",
+    "job_city": "CA - Bakersfield",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Medical-Screener_R0175557-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Bakersfield/Part-Time-Plasma-Center-Technician_R0177323-1",
     "job_posted_at_datetime_utc": "2026-03-27T07:06:03.351Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "db56a4361a2bb394845bd4de749ab2b84069acdd2e6a02c5361d0a0e7fbe7e81",
+    "fingerprint": "524e4e4da5a1d1db345d80d15c22cbe9f84887b4bd03997ed0b645874e1fc6ae",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9415,18 +9443,18 @@
     "job_posted_at": "2026-03-27T07:06:03.351Z"
   },
   {
-    "job_id": "workday-takeda-R0177323",
-    "job_title": "Part Time Plasma Center Technician",
+    "job_id": "workday-takeda-R0175557",
+    "job_title": "Medical Screener",
     "employer_name": "Takeda",
-    "job_city": "CA - Bakersfield",
+    "job_city": "NJ - Deptford",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Bakersfield/Part-Time-Plasma-Center-Technician_R0177323-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Medical-Screener_R0175557-1",
     "job_posted_at_datetime_utc": "2026-03-27T07:06:03.351Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "524e4e4da5a1d1db345d80d15c22cbe9f84887b4bd03997ed0b645874e1fc6ae",
+    "fingerprint": "db56a4361a2bb394845bd4de749ab2b84069acdd2e6a02c5361d0a0e7fbe7e81",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10931,6 +10959,90 @@
     "job_posted_at": "2026-03-27T07:01:11.973Z"
   },
   {
+    "job_id": "workday-takeda-R0177324",
+    "job_title": "Part Time Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "CA - Bakersfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Bakersfield/Part-Time-Plasma-Center-Technician_R0177324-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "524e4e4da5a1d1db345d80d15c22cbe9f84887b4bd03997ed0b645874e1fc6ae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.808Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177337",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mounds View",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mounds-View/Plasma-Center-Technician_R0177337-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bca11d23e2af4842728be08765f1078dffa2706732d2d683f2ca7d06376a0de8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.808Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177262",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Tallahassee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tallahassee/Medical-Screener_R0177262-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1141f89ef6e6c97d902f1ecf2f89cb8f6723bbbe1e7a1b064ca73b9582351838",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.808Z"
+  },
+  {
     "job_id": "workday-takeda-R0177307",
     "job_title": "Entry Level Phlebotomist - Paid Training",
     "employer_name": "Takeda",
@@ -12035,90 +12147,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c2c9b9ac866d10c5a87556d637f61389dd13b0677d3d580083e11176cd93c6f4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.808Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177324",
-    "job_title": "Part Time Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "CA - Bakersfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Bakersfield/Part-Time-Plasma-Center-Technician_R0177324-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "524e4e4da5a1d1db345d80d15c22cbe9f84887b4bd03997ed0b645874e1fc6ae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.808Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177337",
-    "job_title": "Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mounds View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mounds-View/Plasma-Center-Technician_R0177337-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bca11d23e2af4842728be08765f1078dffa2706732d2d683f2ca7d06376a0de8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.808Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177262",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Tallahassee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tallahassee/Medical-Screener_R0177262-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1141f89ef6e6c97d902f1ecf2f89cb8f6723bbbe1e7a1b064ca73b9582351838",
     "tags": {
       "employment": "entry_level",
       "domains": [
