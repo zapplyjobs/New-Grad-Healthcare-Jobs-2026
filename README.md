@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-334-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-336-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-46-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-285-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-287-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,10 +69,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Registered Nurse (RN), Part-Time – Afternoon/Evening Shifts & Weekend Rotation | TX - Georgetown | 8m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Registered-Nurse--RN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177697-1) |
-| 🏢 **Takeda** | EMT-P, Part-Time – Afternoon/Evening Shifts & Weekend Rotation | TX - Georgetown | 8m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/EMT-P--Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177696-1) |
-| 🏢 **Takeda** | Licensed Practical Nurse (LPN), Part-Time – Afternoon/Evening Shifts & Weekend Rotation | TX - Georgetown | 8m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Licensed-Practical-Nurse--LPN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177695-1) |
-| 🏢 **Abbott** | Advanced Clinical Expert, CardioMEMS - Northern California/Reno, NV | 4 Locations | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Francisco/Advanced-Clinical-Expert--CardioMEMS---Phoenix--AZ-Los-Angeles--CA_31140656-1) |
+| 🏢 **Takeda** | Registered Nurse (RN), Part-Time – Afternoon/Evening Shifts & Weekend Rotation | TX - Georgetown | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Registered-Nurse--RN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177697-1) |
+| 🏢 **Takeda** | EMT-P, Part-Time – Afternoon/Evening Shifts & Weekend Rotation | TX - Georgetown | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/EMT-P--Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177696-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse (LPN), Part-Time – Afternoon/Evening Shifts & Weekend Rotation | TX - Georgetown | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Licensed-Practical-Nurse--LPN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177695-1) |
+| 🏢 **Abbott** | Advanced Clinical Expert, CardioMEMS - Northern California/Reno, NV | 4 Locations | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Francisco/Advanced-Clinical-Expert--CardioMEMS---Phoenix--AZ-Los-Angeles--CA_31140656-1) |
 | 🏢 **Guidehouse** | Clinical Denials and Appeals RN | Remote | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-and-Appeals-RN_38008) |
 | 🏢 **KBR** | Special Operations Clinical Psychologist (AFSOC GSU/Southern Pines, NC) | Fort Liberty | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Clinical-Psychologist--AFSOC-GSU-Southern-Pines--NC-_R2121208) |
 | 🏢 **EVERSANA** | Home Infusion RN- Per Diem (Pediatric) | Miami, FL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000117978407) |
@@ -103,7 +103,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Licensed Practical Nurse – Day One Benefits | WI - Janesville | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Licensed-Practical-Nurse---Day-One-Benefits_R0177691-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse – Day One Benefits | WI - Janesville | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Licensed-Practical-Nurse---Day-One-Benefits_R0177691-1) |
 | 🏢 **Takeda** | LPN - 2k Sign On Bonus - Predictable Schedule - Work-Life Balance | MO - Saint Peters | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/LPN---2k-Sign-On-Bonus---Predictable-Schedule---Work-Life-Balance_R0177659-1) |
 | 🏢 **Takeda** | LPN – Day One Benefits | MO - Kansas City ... | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/LPN---Day-One-Benefits_R0177653-1) |
 
@@ -131,23 +131,25 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Technician (Part Time) | CO - Loveland | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Loveland/Plasma-Center-Technician_R0177683-1) |
-| 🏢 **Takeda** | Scientist - Analytical Development Early Stage | Cambridge, MA | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Cambridge-MA/Scientist---Analytical-Development-Early-Stage_R0176788-1) |
-| 🏢 **Medtronic** | Clinical Specialist - Cardiac Rhythm Management (Madison, WI) | 2 Locations | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Madison-Wisconsin-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management--Madison--WI-_R62436-1) |
+| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (AFSOC GSU/Fort Benning, GA) | Fort Moore | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Moore-Georgia/Special-Operations-Licensed-Clinical-Social-Worker--AFSOC-GSU-Fort-Benning--GA-_R2121385-1) |
+| 🏢 **IDEXX** | Medical Laboratory Technician | Red Bank, NJ | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Red-Bank-NJ/Medical-Laboratory-Technician_J-052375) |
+| 🏢 **Takeda** | Plasma Center Technician (Part Time) | CO - Loveland | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Loveland/Plasma-Center-Technician_R0177683-1) |
+| 🏢 **Takeda** | Scientist - Analytical Development Early Stage | Cambridge, MA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Cambridge-MA/Scientist---Analytical-Development-Early-Stage_R0176788-1) |
+| 🏢 **Medtronic** | Clinical Specialist - Cardiac Rhythm Management (Madison, WI) | 2 Locations | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Madison-Wisconsin-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management--Madison--WI-_R62436-1) |
 | 🏢 **Takeda** | Plasma Center Technician | VA - Roanoke | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Roanoke/Plasma-Center-Technician_R0177605-1) |
 | 🏢 **Elanco** | Quality Control Lab Technician | Winslow, ME | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Winslow-ME/Quality-Control-Lab-Technician_R0024739-1) |
-| 🏢 **Exact Sciences** | Specimen Processor | AZ - Phoenix | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Specimen-Processor_R26-12957) |
+| 🏢 **Exact Sciences** | Specimen Processor | AZ - Phoenix | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Specimen-Processor_R26-12957) |
 | 🏢 **Broadcom** | PHY Lab Technician | Colorado-Fort Col... | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/PHY-Lab-Technician_R025541) |
 | 🏢 **Merck & Co.** | Associate Scientist | Massachusetts - B... | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Associate-Scientist_R392092-1) |
-| 🏢 **Medtronic** | Assoc Clinical Specialist CRM - Portland | Portland | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Portland-Oregon-United-States-of-America/Assoc-Clinical-Specialist-CRM---Portland_R63439-1) |
+| 🏢 **Medtronic** | Assoc Clinical Specialist CRM - Portland | Portland | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Portland-Oregon-United-States-of-America/Assoc-Clinical-Specialist-CRM---Portland_R63439-1) |
 | 🏢 **IDEXX** | Field Sales Veterinary Diagnostics Seattle South | 2 Locations | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Seattle-WA/Field-Sales-Veterinary-Diagnostics-Seattle-South_J-052471) |
 | 🏢 **Thermo Fisher Scientific** | Med Info Spec I-Nurse here | 5 Locations | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Med-Info-Spec-I-Nurse-here_R-01347595) |
-| 🏢 **Abbott** | Lab Technician, Sampling (3rd Shift Tues-Sat) - Sturgis, MI | Michigan - Sturgis | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Sturgis/Lab-Technician--Sampling--3rd-Shift-Tues-Sat----Sturgis--MI_31145639-1) |
+| 🏢 **Abbott** | Lab Technician, Sampling (3rd Shift Tues-Sat) - Sturgis, MI | Michigan - Sturgis | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Sturgis/Lab-Technician--Sampling--3rd-Shift-Tues-Sat----Sturgis--MI_31145639-1) |
 | 🏢 **Guidehouse** | Clinical Documentation Integrity Specialist - Remote | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Documentation-Integrity-Specialist---Remote_37521) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Account Specialist (Austin, TX) - Johnson & Johnson MedTech, Electrophysiology | Austin | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Austin-Texas-United-States/Associate-Clinical-Account-Specialist--Austin--TX----Johnson---Johnson-MedTech--Electrophysiology_R-044437) |
 | 🏢 **Leidos** | Military Family Life Counselor - Fort Wainwright, AK | Fairbanks, AK | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Fairbanks-AK/Military-Family-Life-Counselor---Fort-Wainwright--AK_R-00179908-1) |
 | 🏢 **Abbott** | Clinical Specialist | Louisiana - New O... | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Louisiana---New-Orleans/Clinical-Specialist-II_31139851-1) |
-| 🏢 **DoorDash** | Specialist, MXO Drive Support | Tempe, AZ | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7646763) |
+| 🏢 **DoorDash** | Specialist, MXO Drive Support | Tempe, AZ | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7646763) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Salt Lake City, UT) | Utah | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Utah/Associate-Spine-Specialist--Salt-Lake-City--UT-_JR106376) |
 | 🏢 **IDEXX** | Medical Laboratory Technologist (Nights) | Elmhurst, IL | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Elmhurst-IL/Medical-Laboratory-Technologist--Nights-_J-052469) |
 | 🏢 **Guidehouse** | MSO Credit Balance Specialist | AL, Birmingham | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/MSO-Credit-Balance-Specialist_37905) |
@@ -158,7 +160,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Medtronic** | Clinical Specialist CRM - Oklahoma City | Oklahoma City | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oklahoma-City-Oklahoma-United-States-of-America/Clinical-Specialist-CRM---Oklahoma-City_R62641-1) |
 | 🏢 **Guidehouse** | Veterinarian | MD, Bethesda | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Veterinarian_37995) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist – Coronary Image-Guided Therapy Devices (Denver CO) | Denver | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denver-Colorado-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--Denver-CO-_579553) |
-| 🏢 **Johnson & Johnson** | Scientist, Discovery- Oncology In Vivo | Spring House | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Scientist--Discovery--Oncology-In-Vivo_R-067232-2) |
+| 🏢 **Johnson & Johnson** | Scientist, Discovery- Oncology In Vivo | Spring House | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Scientist--Discovery--Oncology-In-Vivo_R-067232-2) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (San Francisco CA) | 2 Locations | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Francisco-Bay-Area-California-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--San-Francisco-CA-_579374-1) |
 | 🏢 **Ro** | Compounding Pharmacy Technician - Boynton Beach, FL (Temp) | Boynton Beach, FL | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90/apply) |
 | 🏢 **Abbott** | Supervisor Complaint Handling | California - Alameda | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Supervisor-Complaint-Handling_31145934-1) |
@@ -186,7 +188,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intuitive** | Cardiovascular Program Specialist - North Central Region | Cleveland, OH | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000118197737) |
 | 🏢 **Thermo Fisher Scientific** | Med Info Spec-I Pharmacist-- hybrid in Titusville, NJ! | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-New-Jersey-USA/Med-Info-Spec-I-Pharmacist---hybrid-in-Titusville--NJ-_R-01345439-1) |
 | 🏢 **Leidos** | Short Term or As Needed - MFLC Counselor - Fairchild AFB | Spokane, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Spokane-WA/Short-Term-or-As-Needed---MFLC-Counselor---Fairchild-AFB_R-00179756) |
-| 🏢 **IDEXX** | Medical Laboratory Technician I | Nashville, TN | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Nashville-TN/Medical-Laboratory-Technician-I_J-052413-1) |
 | 🏢 **Fidelity Investments** | Fixed Income Research Associate | Merrimack, NH | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Fixed-Income-Research-Associate_2126679) |
 | 🏢 **General Motors** | Ergonomist | Flint | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Flint-Michigan-United-States-of-America/Ergonomist_JR-202606428) |
 | 🏢 **Biogen** | Associate Pharmacovigilance Scientist | Cambridge, MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Associate-Pharmacovigilance-Scientist_REQ22965) |
@@ -275,7 +276,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 334 current opportunities from 46 companies**
+**🎯 336 current opportunities from 46 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
