@@ -280,34 +280,6 @@
     "job_posted_at": "2026-04-02T20:27:44.041Z"
   },
   {
-    "job_id": "workday-takeda-R0177664",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - 82nd Ter",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/Medical-Screener_R0177664-1",
-    "job_posted_at_datetime_utc": "2026-04-02T20:20:41.857Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "701a046bc90ec75f6eaa5c5798622e07a7a3fcd69a9524e14774ed62bdd55ab7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T20:20:41.857Z"
-  },
-  {
     "job_id": "workday-takeda-R0177663",
     "job_title": "BioLife Nurse",
     "employer_name": "Takeda",
@@ -364,18 +336,46 @@
     "job_posted_at": "2026-04-02T20:20:41.857Z"
   },
   {
-    "job_id": "workday-takeda-R0177658",
-    "job_title": "Registered Nurse -RN",
+    "job_id": "workday-takeda-R0177664",
+    "job_title": "Medical Screener",
     "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - Ambassador Dr",
+    "job_city": "MO - Kansas City - 82nd Ter",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/Registered-Nurse--RN_R0177658-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/Medical-Screener_R0177664-1",
+    "job_posted_at_datetime_utc": "2026-04-02T20:20:41.857Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "701a046bc90ec75f6eaa5c5798622e07a7a3fcd69a9524e14774ed62bdd55ab7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T20:20:41.857Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177659",
+    "job_title": "LPN - 2k Sign On Bonus - Predictable Schedule - Work-Life Balance",
+    "employer_name": "Takeda",
+    "job_city": "MO - Saint Peters",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/LPN---2k-Sign-On-Bonus---Predictable-Schedule---Work-Life-Balance_R0177659-1",
     "job_posted_at_datetime_utc": "2026-04-02T20:05:59.614Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4229b500adc27f1100e8a8fd357b206a205aeca0decbb9c1031dd503b30c1d51",
+    "fingerprint": "be8fa1058b830b216956c3d0fffafc2d7d622ebc39389716ec5ebe7355c5a07f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -392,18 +392,18 @@
     "job_posted_at": "2026-04-02T20:05:59.614Z"
   },
   {
-    "job_id": "workday-takeda-R0177659",
-    "job_title": "LPN - 2k Sign On Bonus - Predictable Schedule - Work-Life Balance",
+    "job_id": "workday-takeda-R0177658",
+    "job_title": "Registered Nurse -RN",
     "employer_name": "Takeda",
-    "job_city": "MO - Saint Peters",
+    "job_city": "MO - Kansas City - Ambassador Dr",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/LPN---2k-Sign-On-Bonus---Predictable-Schedule---Work-Life-Balance_R0177659-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/Registered-Nurse--RN_R0177658-1",
     "job_posted_at_datetime_utc": "2026-04-02T20:05:59.614Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "be8fa1058b830b216956c3d0fffafc2d7d622ebc39389716ec5ebe7355c5a07f",
+    "fingerprint": "4229b500adc27f1100e8a8fd357b206a205aeca0decbb9c1031dd503b30c1d51",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3850,6 +3850,34 @@
     "job_posted_at": "2026-04-01T15:12:45.602Z"
   },
   {
+    "job_id": "workday-takeda-R0177530",
+    "job_title": "Paramedic/EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "CO - Longmont",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Longmont/Paramedic-EMT-P_R0177530-1",
+    "job_posted_at_datetime_utc": "2026-04-01T15:08:03.367Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50793df744495b14ee198775059e2708729b73aa2d15335fed3193ad006654e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T15:08:03.367Z"
+  },
+  {
     "job_id": "workday-takeda-R0177529",
     "job_title": "Plasma Center Nurse- RN",
     "employer_name": "Takeda",
@@ -3890,34 +3918,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5653aad3a1b348cb71d925a183d88caa6fbbb442dc466c11137edc853413eef9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T15:08:03.367Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177530",
-    "job_title": "Paramedic/EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "CO - Longmont",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Longmont/Paramedic-EMT-P_R0177530-1",
-    "job_posted_at_datetime_utc": "2026-04-01T15:08:03.367Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50793df744495b14ee198775059e2708729b73aa2d15335fed3193ad006654e6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5235,6 +5235,62 @@
     "job_posted_at": "2026-03-31T07:05:44.715Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01345193",
+    "job_title": "Scientist I - Chemistry",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Highland Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Scientist-I---Chemistry_R-01345193",
+    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1657ec0bf9d7b9915eb6dd740943c82d7ff6bfd8921b3396dbd23fe638c5fc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:05:44.715Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01345657",
+    "job_title": "Entry level Scientist - Hematology",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Highland Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Entry-level-Scientist---Hematology_R-01345657-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "68a355936a65f8d16bbca55840e67302501bd520c26247a40af8739641289b54",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:05:44.715Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01346868",
     "job_title": "Scientist I, Process Development",
     "employer_name": "Thermo Fisher Scientific",
@@ -5331,62 +5387,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1baee0e3156964dc6316f5e806293f31d5d058b4c399dd30f1c88e16743d5709",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:05:44.715Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01345193",
-    "job_title": "Scientist I - Chemistry",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Highland Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Scientist-I---Chemistry_R-01345193",
-    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1657ec0bf9d7b9915eb6dd740943c82d7ff6bfd8921b3396dbd23fe638c5fc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:05:44.715Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01345657",
-    "job_title": "Entry level Scientist - Hematology",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Highland Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Entry-level-Scientist---Hematology_R-01345657-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "68a355936a65f8d16bbca55840e67302501bd520c26247a40af8739641289b54",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5798,6 +5798,64 @@
     "job_posted_at": "2026-03-31T07:03:38.587Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-063147",
+    "job_title": "Associate Clinical Account Specialist (San Jose/San Francisco)  Johnson Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/San-Jose-California-United-States-of-America/Associate-Clinical-Account-Specialist--San-Jose-San-Francisco---Johnson-Johnson-MedTech--Electrophysiology_R-063147-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f7b4196068368a598caf2dcd703b777233c09dab2cdd749ffa6f2101645875a0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.586Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-062801",
+    "job_title": "Oncology Sales Specialist - Los Angeles, CA - Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Oncology-Sales-Specialist---Los-Angeles--CA---Johnson---Johnson-Innovative-Medicine_R-062801",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d5ec305643902fbd36491c90279e059c55410253af206d6af2bde621a90e1b6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.586Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-060520",
     "job_title": "Associate Clinical Consultant or Clinical Consultant - Tulsa, OK - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -5870,64 +5928,6 @@
       "employment": "entry_level",
       "domains": [
         "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.586Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-063147",
-    "job_title": "Associate Clinical Account Specialist (San Jose/San Francisco)  Johnson Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/San-Jose-California-United-States-of-America/Associate-Clinical-Account-Specialist--San-Jose-San-Francisco---Johnson-Johnson-MedTech--Electrophysiology_R-063147-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7b4196068368a598caf2dcd703b777233c09dab2cdd749ffa6f2101645875a0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.586Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-062801",
-    "job_title": "Oncology Sales Specialist - Los Angeles, CA - Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Oncology-Sales-Specialist---Los-Angeles--CA---Johnson---Johnson-Innovative-Medicine_R-062801",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d5ec305643902fbd36491c90279e059c55410253af206d6af2bde621a90e1b6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
       ],
       "locations": [
         "us"
@@ -6708,34 +6708,6 @@
     "job_posted_at": "2026-03-30T07:05:15.055Z"
   },
   {
-    "job_id": "workday-medtronic-R62979",
-    "job_title": "Remote Customer Support Representative – Healthcare Technology (Veterans Focus)",
-    "employer_name": "Medtronic",
-    "job_city": "48 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Colorado-United-States-of-America/Remote-Customer-Support-Representative---Healthcare-Technology--Veterans-Focus-_R62979-2",
-    "job_posted_at_datetime_utc": "2026-03-30T07:04:28.192Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "779d68edaadb809706a62b1db631e98a3f92d96cab2391a396b5e15492af151c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:04:28.192Z"
-  },
-  {
     "job_id": "workday-medtronic-R62552",
     "job_title": "Assoc Clinical Specialist CST",
     "employer_name": "Medtronic",
@@ -6785,6 +6757,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:04:28.192Z"
+  },
+  {
+    "job_id": "workday-medtronic-R62979",
+    "job_title": "Remote Customer Support Representative – Healthcare Technology (Veterans Focus)",
+    "employer_name": "Medtronic",
+    "job_city": "48 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Colorado-United-States-of-America/Remote-Customer-Support-Representative---Healthcare-Technology--Veterans-Focus-_R62979-2",
+    "job_posted_at_datetime_utc": "2026-03-30T07:04:28.192Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "779d68edaadb809706a62b1db631e98a3f92d96cab2391a396b5e15492af151c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -6876,34 +6876,6 @@
     "job_posted_at": "2026-03-30T07:04:10.986Z"
   },
   {
-    "job_id": "workday-guidehouse-35901",
-    "job_title": "Patient Access Trainer",
-    "employer_name": "Guidehouse",
-    "job_city": "CA, Ventura",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Patient-Access-Trainer_35901",
-    "job_posted_at_datetime_utc": "2026-03-30T07:03:43.604Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "584d5f859c5deafc6c66e35f5e329cd867350761949f0d7ca9385c9df52fea96",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:03:43.604Z"
-  },
-  {
     "job_id": "workday-guidehouse-34820",
     "job_title": "Managing Consultant - Life Sciences Advisory - Patient Support Programs (Pharma)",
     "employer_name": "Guidehouse",
@@ -6925,6 +6897,34 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:03:43.604Z"
+  },
+  {
+    "job_id": "workday-guidehouse-35901",
+    "job_title": "Patient Access Trainer",
+    "employer_name": "Guidehouse",
+    "job_city": "CA, Ventura",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Patient-Access-Trainer_35901",
+    "job_posted_at_datetime_utc": "2026-03-30T07:03:43.604Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "584d5f859c5deafc6c66e35f5e329cd867350761949f0d7ca9385c9df52fea96",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7271,6 +7271,34 @@
     "job_posted_at": "2026-03-30T07:02:14.174Z"
   },
   {
+    "job_id": "workday-abbott-31145527",
+    "job_title": "Coordinator Project Design",
+    "employer_name": "Abbott",
+    "job_city": "California - Alameda",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Coordinator-Project-Design_31145527-1",
+    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "25aee738039b626ca3555c7cfa2d213e6bff0e471e580b9d154f642cb4396759",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:02:14.174Z"
+  },
+  {
     "job_id": "workday-abbott-31144820",
     "job_title": "Clinical Specialist",
     "employer_name": "Abbott",
@@ -7327,46 +7355,18 @@
     "job_posted_at": "2026-03-30T07:02:14.174Z"
   },
   {
-    "job_id": "workday-abbott-31145527",
-    "job_title": "Coordinator Project Design",
-    "employer_name": "Abbott",
-    "job_city": "California - Alameda",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Coordinator-Project-Design_31145527-1",
-    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "25aee738039b626ca3555c7cfa2d213e6bff0e471e580b9d154f642cb4396759",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:02:14.174Z"
-  },
-  {
-    "job_id": "workday-merck-&-co.-R388705",
-    "job_title": "Vaccine Customer Representative - Bangor, Maine",
+    "job_id": "workday-merck-&-co.-R390499",
+    "job_title": "Specialist, Quality Systems & Compliance",
     "employer_name": "Merck & Co.",
-    "job_city": "Maine - Maine",
+    "job_city": "Pennsylvania - West Point",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Maine---Maine/Vaccine-Customer-Representative---Bangor--Maine_R388705-1",
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Specialist--Quality-Systems---Compliance_R390499-2",
     "job_posted_at_datetime_utc": "2026-03-30T07:01:11.973Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3f0a56eb98ef9a62884a4875bed2eba5c5d1e41760cbfc8d0bf558644f5e8874",
+    "fingerprint": "ce3c24a1fa4c7f5c28dd36111238806e684e217fdc310a98b62f492e29aae78b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7383,18 +7383,18 @@
     "job_posted_at": "2026-03-30T07:01:11.973Z"
   },
   {
-    "job_id": "workday-merck-&-co.-R390499",
-    "job_title": "Specialist, Quality Systems & Compliance",
+    "job_id": "workday-merck-&-co.-R388705",
+    "job_title": "Vaccine Customer Representative - Bangor, Maine",
     "employer_name": "Merck & Co.",
-    "job_city": "Pennsylvania - West Point",
+    "job_city": "Maine - Maine",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Specialist--Quality-Systems---Compliance_R390499-2",
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Maine---Maine/Vaccine-Customer-Representative---Bangor--Maine_R388705-1",
     "job_posted_at_datetime_utc": "2026-03-30T07:01:11.973Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ce3c24a1fa4c7f5c28dd36111238806e684e217fdc310a98b62f492e29aae78b",
+    "fingerprint": "3f0a56eb98ef9a62884a4875bed2eba5c5d1e41760cbfc8d0bf558644f5e8874",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10931,6 +10931,62 @@
     "job_posted_at": "2026-03-27T07:01:11.973Z"
   },
   {
+    "job_id": "workday-takeda-R0177337",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mounds View",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mounds-View/Plasma-Center-Technician_R0177337-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bca11d23e2af4842728be08765f1078dffa2706732d2d683f2ca7d06376a0de8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.808Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177262",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Tallahassee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tallahassee/Medical-Screener_R0177262-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1141f89ef6e6c97d902f1ecf2f89cb8f6723bbbe1e7a1b064ca73b9582351838",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:00:41.808Z"
+  },
+  {
     "job_id": "workday-takeda-R0177307",
     "job_title": "Entry Level Phlebotomist - Paid Training",
     "employer_name": "Takeda",
@@ -12063,62 +12119,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "524e4e4da5a1d1db345d80d15c22cbe9f84887b4bd03997ed0b645874e1fc6ae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.808Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177337",
-    "job_title": "Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mounds View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mounds-View/Plasma-Center-Technician_R0177337-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bca11d23e2af4842728be08765f1078dffa2706732d2d683f2ca7d06376a0de8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:00:41.808Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177262",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Tallahassee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tallahassee/Medical-Screener_R0177262-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:00:41.808Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1141f89ef6e6c97d902f1ecf2f89cb8f6723bbbe1e7a1b064ca73b9582351838",
     "tags": {
       "employment": "entry_level",
       "domains": [
