@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "workday-takeda-R0177710",
+    "job_title": "Paramedic – 2k Sign On Bonus – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "IL - Fairview Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Fairview-Heights/Paramedic---2k-Sign-On-Bonus---No-Overnight-Shifts_R0177710-1",
+    "job_posted_at_datetime_utc": "2026-04-03T15:21:30.325Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "df51e457aa0e9ea713047a1b9bd38f45fefc30860de07935735913d218b2404e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T15:21:30.325Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177705",
+    "job_title": "LPN – 2k Sign On Bonus – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IL - Fairview Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Fairview-Heights/LPN---2k-Sign-On-Bonus---Day-One-Benefits_R0177705-1",
+    "job_posted_at_datetime_utc": "2026-04-03T15:21:30.325Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "78295cd83f481cc15a9b4b10617cdb2773b0e4f1b39bee6b0b0ab99f8df6f720",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T15:21:30.325Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026490971",
     "job_title": "Firefighter Emergency Medical Technician",
     "employer_name": "Boeing",
@@ -869,34 +925,6 @@
     "job_posted_at": "2026-04-02T20:27:44.041Z"
   },
   {
-    "job_id": "workday-takeda-R0177664",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - 82nd Ter",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/Medical-Screener_R0177664-1",
-    "job_posted_at_datetime_utc": "2026-04-02T20:20:41.857Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "701a046bc90ec75f6eaa5c5798622e07a7a3fcd69a9524e14774ed62bdd55ab7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T20:20:41.857Z"
-  },
-  {
     "job_id": "workday-takeda-R0177663",
     "job_title": "BioLife Nurse",
     "employer_name": "Takeda",
@@ -953,18 +981,46 @@
     "job_posted_at": "2026-04-02T20:20:41.857Z"
   },
   {
-    "job_id": "workday-takeda-R0177658",
-    "job_title": "Registered Nurse -RN",
+    "job_id": "workday-takeda-R0177664",
+    "job_title": "Medical Screener",
     "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - Ambassador Dr",
+    "job_city": "MO - Kansas City - 82nd Ter",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/Registered-Nurse--RN_R0177658-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/Medical-Screener_R0177664-1",
+    "job_posted_at_datetime_utc": "2026-04-02T20:20:41.857Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "701a046bc90ec75f6eaa5c5798622e07a7a3fcd69a9524e14774ed62bdd55ab7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T20:20:41.857Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177659",
+    "job_title": "LPN - 2k Sign On Bonus - Predictable Schedule - Work-Life Balance",
+    "employer_name": "Takeda",
+    "job_city": "MO - Saint Peters",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/LPN---2k-Sign-On-Bonus---Predictable-Schedule---Work-Life-Balance_R0177659-1",
     "job_posted_at_datetime_utc": "2026-04-02T20:05:59.614Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4229b500adc27f1100e8a8fd357b206a205aeca0decbb9c1031dd503b30c1d51",
+    "fingerprint": "be8fa1058b830b216956c3d0fffafc2d7d622ebc39389716ec5ebe7355c5a07f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -981,18 +1037,18 @@
     "job_posted_at": "2026-04-02T20:05:59.614Z"
   },
   {
-    "job_id": "workday-takeda-R0177659",
-    "job_title": "LPN - 2k Sign On Bonus - Predictable Schedule - Work-Life Balance",
+    "job_id": "workday-takeda-R0177658",
+    "job_title": "Registered Nurse -RN",
     "employer_name": "Takeda",
-    "job_city": "MO - Saint Peters",
+    "job_city": "MO - Kansas City - Ambassador Dr",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/LPN---2k-Sign-On-Bonus---Predictable-Schedule---Work-Life-Balance_R0177659-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/Registered-Nurse--RN_R0177658-1",
     "job_posted_at_datetime_utc": "2026-04-02T20:05:59.614Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "be8fa1058b830b216956c3d0fffafc2d7d622ebc39389716ec5ebe7355c5a07f",
+    "fingerprint": "4229b500adc27f1100e8a8fd357b206a205aeca0decbb9c1031dd503b30c1d51",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2222,18 +2278,18 @@
     "job_posted_at": "2026-04-02T14:45:55.380Z"
   },
   {
-    "job_id": "workday-takeda-R0177615",
-    "job_title": "Plasma Center Nurse- RN",
+    "job_id": "workday-takeda-R0177614",
+    "job_title": "Spanish Speaking EMT-P",
     "employer_name": "Takeda",
     "job_city": "TX - Irving",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Irving/Plasma-Center-Nurse--RN_R0177615-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Irving/Spanish-Speaking-EMT-P_R0177614-1",
     "job_posted_at_datetime_utc": "2026-04-02T14:35:40.913Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "cc09bc7cb4eb78428aace37cec378a854a18971d9b006c4ec5dc8f027e548562",
+    "fingerprint": "643047ec46146ecbf57f631e3eeaa5c7a8f321486e877fd6517394edb7a7d8f0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2250,18 +2306,18 @@
     "job_posted_at": "2026-04-02T14:35:40.913Z"
   },
   {
-    "job_id": "workday-takeda-R0177614",
-    "job_title": "Spanish Speaking EMT-P",
+    "job_id": "workday-takeda-R0177615",
+    "job_title": "Plasma Center Nurse- RN",
     "employer_name": "Takeda",
     "job_city": "TX - Irving",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Irving/Spanish-Speaking-EMT-P_R0177614-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Irving/Plasma-Center-Nurse--RN_R0177615-1",
     "job_posted_at_datetime_utc": "2026-04-02T14:35:40.913Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "643047ec46146ecbf57f631e3eeaa5c7a8f321486e877fd6517394edb7a7d8f0",
+    "fingerprint": "cc09bc7cb4eb78428aace37cec378a854a18971d9b006c4ec5dc8f027e548562",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3509,34 +3565,6 @@
     "job_posted_at": "2026-04-01T13:45:37.691Z"
   },
   {
-    "job_id": "workday-takeda-R0177516",
-    "job_title": "Plasma Center Technician / Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "MD - Salisbury",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Salisbury/Plasma-Center-Technician---Phlebotomist_R0177516-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:06:17.424Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ddecc8579671ccb38effcefc46f82d47fd09c869e937a867a0e61d4cc19442dd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:06:17.424Z"
-  },
-  {
     "job_id": "workday-takeda-R0177410",
     "job_title": "DDT Medical Device Investigation Analyst",
     "employer_name": "Takeda",
@@ -3761,34 +3789,6 @@
     "job_posted_at": "2026-04-01T07:06:17.424Z"
   },
   {
-    "job_id": "workday-takeda-R0177519",
-    "job_title": "Entry Level Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "MD - Salisbury",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Salisbury/Entry-Level-Phlebotomist_R0177519-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:06:17.424Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0ded6b32eab823d3c1a6705e731a962707c9bd937d4f19d91102a0eecb88bf36",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:06:17.424Z"
-  },
-  {
     "job_id": "workday-takeda-R0177518",
     "job_title": "Medical Customer Service / Plasma Center Technician",
     "employer_name": "Takeda",
@@ -3806,6 +3806,62 @@
       "domains": [
         "healthcare",
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:06:17.424Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177516",
+    "job_title": "Plasma Center Technician / Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "MD - Salisbury",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Salisbury/Plasma-Center-Technician---Phlebotomist_R0177516-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:06:17.424Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ddecc8579671ccb38effcefc46f82d47fd09c869e937a867a0e61d4cc19442dd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:06:17.424Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177519",
+    "job_title": "Entry Level Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "MD - Salisbury",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Salisbury/Entry-Level-Phlebotomist_R0177519-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:06:17.424Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0ded6b32eab823d3c1a6705e731a962707c9bd937d4f19d91102a0eecb88bf36",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
       ],
       "locations": [
         "us"
@@ -4018,34 +4074,6 @@
     "job_posted_at": "2026-04-01T07:05:29.713Z"
   },
   {
-    "job_id": "workday-medtronic-R63210",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Chicago)",
-    "employer_name": "Medtronic",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Chicago-_R63210-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:04:43.919Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ca8fcbaedd2f39340cfd1e458c9d4de357f80ff1ebe3a216fcfdb59b8cc2e88b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:04:43.919Z"
-  },
-  {
     "job_id": "workday-medtronic-R63211",
     "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
     "employer_name": "Medtronic",
@@ -4142,6 +4170,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4f1f8618dcc28dc0f5554686fd14a98b7bb07818fba7e11da0577a7fff8db758",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:04:43.919Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63210",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Chicago)",
+    "employer_name": "Medtronic",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Chicago-_R63210-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:04:43.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ca8fcbaedd2f39340cfd1e458c9d4de357f80ff1ebe3a216fcfdb59b8cc2e88b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6020,18 +6076,18 @@
     "job_posted_at": "2026-03-31T07:04:28.192Z"
   },
   {
-    "job_id": "workday-leidos-R-00179701",
-    "job_title": "Military and Family Life Counselor - Davis Monthan",
+    "job_id": "workday-leidos-R-00179649",
+    "job_title": "Military and Family Life Counselor - NAS Everett",
     "employer_name": "Leidos",
-    "job_city": "Tucson",
-    "job_state": "AZ",
+    "job_city": "Everett",
+    "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Military-and-Family-Life-Counselor---Davis-Monthan_R-00179701",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Everett-WA/Military-and-Family-Life-Counselor---NAS-Everett_R-00179649",
     "job_posted_at_datetime_utc": "2026-03-31T07:04:22.606Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b2b94c9a3d34662b87de402da91efd6c88194057c62b82f0e2effc555454996a",
+    "fingerprint": "2d5f614f66161062c071d35525612b180c75593a887a2960aaf822544141626e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6048,18 +6104,18 @@
     "job_posted_at": "2026-03-31T07:04:22.606Z"
   },
   {
-    "job_id": "workday-leidos-R-00179649",
-    "job_title": "Military and Family Life Counselor - NAS Everett",
+    "job_id": "workday-leidos-R-00179701",
+    "job_title": "Military and Family Life Counselor - Davis Monthan",
     "employer_name": "Leidos",
-    "job_city": "Everett",
-    "job_state": "WA",
+    "job_city": "Tucson",
+    "job_state": "AZ",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Everett-WA/Military-and-Family-Life-Counselor---NAS-Everett_R-00179649",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Military-and-Family-Life-Counselor---Davis-Monthan_R-00179701",
     "job_posted_at_datetime_utc": "2026-03-31T07:04:22.606Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2d5f614f66161062c071d35525612b180c75593a887a2960aaf822544141626e",
+    "fingerprint": "b2b94c9a3d34662b87de402da91efd6c88194057c62b82f0e2effc555454996a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6247,6 +6303,34 @@
     "job_posted_at": "2026-03-31T07:03:43.603Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-064826",
+    "job_title": "Executive Area Business Specialist, Immunology (Baltimore, MD) - Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Baltimore-Maryland-United-States/Executive-Area-Business-Specialist--Immunology--Baltimore--MD----Johnson---Johnson-Innovative-Medicine_R-064826-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.587Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e685d04e6d6e56f61c5ed11b5f2f7f50ccddea5653e53512ae75e716aef7c80e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.587Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-067306",
     "job_title": "Associate Clinical Consultant or Clinical Consultant - Memphis, TN - Johnson & Johnson MedTech – Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -6296,34 +6380,6 @@
         "us"
       ],
       "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.587Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-064826",
-    "job_title": "Executive Area Business Specialist, Immunology (Baltimore, MD) - Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Baltimore-Maryland-United-States/Executive-Area-Business-Specialist--Immunology--Baltimore--MD----Johnson---Johnson-Innovative-Medicine_R-064826-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.587Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e685d04e6d6e56f61c5ed11b5f2f7f50ccddea5653e53512ae75e716aef7c80e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -7748,6 +7804,34 @@
     "job_posted_at": "2026-03-30T07:02:14.175Z"
   },
   {
+    "job_id": "workday-abbott-31145527",
+    "job_title": "Coordinator Project Design",
+    "employer_name": "Abbott",
+    "job_city": "California - Alameda",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Coordinator-Project-Design_31145527-1",
+    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "25aee738039b626ca3555c7cfa2d213e6bff0e471e580b9d154f642cb4396759",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:02:14.174Z"
+  },
+  {
     "job_id": "workday-abbott-31142984",
     "job_title": "Automation Support Professional - Wichita, KS",
     "employer_name": "Abbott",
@@ -7881,34 +7965,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:02:14.174Z"
-  },
-  {
-    "job_id": "workday-abbott-31145527",
-    "job_title": "Coordinator Project Design",
-    "employer_name": "Abbott",
-    "job_city": "California - Alameda",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Coordinator-Project-Design_31145527-1",
-    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "25aee738039b626ca3555c7cfa2d213e6bff0e471e580b9d154f642cb4396759",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -9719,33 +9775,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-27T15:35:16.571Z"
-  },
-  {
-    "job_id": "greenhouse-guidepoint-8342632002",
-    "job_title": "Client Success - Healthcare Corporate Specialist (NYC)",
-    "employer_name": "Guidepoint",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/guidepoint/jobs/8342632002",
-    "job_posted_at_datetime_utc": "2026-03-27T11:16:38-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eeaf18c58b29b9e724f0e17a427601d3a96300a89adebee42a71a3a8da905e7e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-27T11:16:38-04:00"
   }
 ]
