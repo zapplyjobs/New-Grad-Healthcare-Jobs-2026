@@ -2485,35 +2485,6 @@
     "job_posted_at": "2026-04-01T20:45:00.120Z"
   },
   {
-    "job_id": "lever-includedhealth-e373a9af-b559-4888-babf-707c0168e0d7",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Georgia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:51.692Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:51.692Z"
-  },
-  {
     "job_id": "lever-includedhealth-4592a33b-3545-4615-8625-94c0645c582a",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -2613,6 +2584,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "acd3d2d0f27f8d498fb849ea838fe97f8e0bbfbec7fb20f3c1f4738305cb38cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:51.692Z"
+  },
+  {
+    "job_id": "lever-includedhealth-e373a9af-b559-4888-babf-707c0168e0d7",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Georgia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:51.692Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3485,6 +3485,34 @@
     "job_posted_at": "2026-04-01T07:05:29.713Z"
   },
   {
+    "job_id": "workday-medtronic-R63210",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Chicago)",
+    "employer_name": "Medtronic",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Chicago-_R63210-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:04:43.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ca8fcbaedd2f39340cfd1e458c9d4de357f80ff1ebe3a216fcfdb59b8cc2e88b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:04:43.919Z"
+  },
+  {
     "job_id": "workday-medtronic-R63211",
     "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
     "employer_name": "Medtronic",
@@ -3581,34 +3609,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4f1f8618dcc28dc0f5554686fd14a98b7bb07818fba7e11da0577a7fff8db758",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:04:43.919Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63210",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Chicago)",
-    "employer_name": "Medtronic",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Chicago-_R63210-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:04:43.919Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ca8fcbaedd2f39340cfd1e458c9d4de357f80ff1ebe3a216fcfdb59b8cc2e88b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3794,6 +3794,91 @@
     "job_posted_at": "2026-04-01T07:03:58.878Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-066672",
+    "job_title": "MSL Head, East Region, Hematology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Horsham-Pennsylvania-United-States-of-America/MSL-Head--East-Region--Hematology_R-066672",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:53.472Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ae78c27d67cc3b5e72455514766783a33b2b5b8ca446a75ab986e5eadc1c3bda",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:53.472Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-065980",
+    "job_title": "Oncology Sales Specialist, Solid Tumor (GU) - (Denver, Fort Collins, Pueblo & Colorado Springs CO) Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Denver-Colorado-United-States/Oncology-Sales-Specialist--Solid-Tumor--GU-----Denver--Fort-Collins--Pueblo---Colorado-Springs-CO--Johnson---Johnson-Innovative-Medicine_R-065980-2",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:53.472Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3365d9a4d57eaf7ef70b15aa33c14bf26e9dddc8444853f6d354ff66d5179b3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:53.472Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-062265",
+    "job_title": "Analyst, HCP Engagements",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raynham-Massachusetts-United-States-of-America/Analyst--HCP-Engagements_R-062265-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:53.472Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c9b3a137c990d0d8109334d0ca3818a8d788d0a58675ffc5f421e9718329369f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:53.472Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-064473",
     "job_title": "JJT ERP Product Group Engineer",
     "employer_name": "Johnson & Johnson",
@@ -3892,91 +3977,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b6d14b7148e2069571bb4f842fc2970f0ec8b400bf63b0ec41f66ce2c6417b44",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:53.472Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066672",
-    "job_title": "MSL Head, East Region, Hematology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Horsham-Pennsylvania-United-States-of-America/MSL-Head--East-Region--Hematology_R-066672",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:53.472Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ae78c27d67cc3b5e72455514766783a33b2b5b8ca446a75ab986e5eadc1c3bda",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:53.472Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-065980",
-    "job_title": "Oncology Sales Specialist, Solid Tumor (GU) - (Denver, Fort Collins, Pueblo & Colorado Springs CO) Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Denver-Colorado-United-States/Oncology-Sales-Specialist--Solid-Tumor--GU-----Denver--Fort-Collins--Pueblo---Colorado-Springs-CO--Johnson---Johnson-Innovative-Medicine_R-065980-2",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:53.472Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e3365d9a4d57eaf7ef70b15aa33c14bf26e9dddc8444853f6d354ff66d5179b3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:53.472Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-062265",
-    "job_title": "Analyst, HCP Engagements",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raynham-Massachusetts-United-States-of-America/Analyst--HCP-Engagements_R-062265-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:53.472Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c9b3a137c990d0d8109334d0ca3818a8d788d0a58675ffc5f421e9718329369f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4273,6 +4273,34 @@
     "job_posted_at": "2026-04-01T07:02:34.412Z"
   },
   {
+    "job_id": "workday-abbott-31146315",
+    "job_title": "Clinical Specialist I, CPT - San Francisco, CA",
+    "employer_name": "Abbott",
+    "job_city": "California - San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Francisco/Clinical-Specialist-I--CPT---San-Francisco--CA_31146315-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:21.364Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b4c62b2e0a9d311b719b3ed6a1a5005df6e3662dc0f7f18059413d9516681ae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:21.364Z"
+  },
+  {
     "job_id": "workday-abbott-31143683",
     "job_title": "Associate Packaging Engineer - Columbus, OH",
     "employer_name": "Abbott",
@@ -4341,34 +4369,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9e4b109c184d6d568a94cae94965e849558737da77117ec4f552991b20d4d2a0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:21.364Z"
-  },
-  {
-    "job_id": "workday-abbott-31146315",
-    "job_title": "Clinical Specialist I, CPT - San Francisco, CA",
-    "employer_name": "Abbott",
-    "job_city": "California - San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Francisco/Clinical-Specialist-I--CPT---San-Francisco--CA_31146315-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:21.364Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2b4c62b2e0a9d311b719b3ed6a1a5005df6e3662dc0f7f18059413d9516681ae",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5235,6 +5235,34 @@
     "job_posted_at": "2026-03-31T07:06:03.351Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01345657",
+    "job_title": "Entry level Scientist - PBMC",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Highland Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Entry-level-Scientist---Hematology_R-01345657-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be21d17fd897ba750296406e72030d20bc3df2589d156e12648a9b5c4a143770",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:05:44.715Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01345217",
     "job_title": "FSP - Scientist - LNP Formulation",
     "employer_name": "Thermo Fisher Scientific",
@@ -5263,18 +5291,18 @@
     "job_posted_at": "2026-03-31T07:05:44.715Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01345657",
-    "job_title": "Entry level Scientist - PBMC",
+    "job_id": "workday-thermo-fisher-scientific-R-01347566",
+    "job_title": "FSP Associate Scientist – Buffer / Media Preparation",
     "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Highland Heights",
+    "job_city": "Rockville",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Entry-level-Scientist---Hematology_R-01345657-1",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---Buffer---Media-Preparation_R-01347566",
     "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "be21d17fd897ba750296406e72030d20bc3df2589d156e12648a9b5c4a143770",
+    "fingerprint": "1baee0e3156964dc6316f5e806293f31d5d058b4c399dd30f1c88e16743d5709",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5403,34 +5431,6 @@
     "job_posted_at": "2026-03-31T07:05:44.715Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01347566",
-    "job_title": "FSP Associate Scientist – Buffer / Media Preparation",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Rockville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---Buffer---Media-Preparation_R-01347566",
-    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1baee0e3156964dc6316f5e806293f31d5d058b4c399dd30f1c88e16743d5709",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:05:44.715Z"
-  },
-  {
     "job_id": "workday-medtronic-R54625",
     "job_title": "Clinical Specialist, Pain Interventions -  Bend , OR",
     "employer_name": "Medtronic",
@@ -5487,18 +5487,18 @@
     "job_posted_at": "2026-03-31T07:04:28.192Z"
   },
   {
-    "job_id": "workday-leidos-R-00179649",
-    "job_title": "Military and Family Life Counselor - NAS Everett",
+    "job_id": "workday-leidos-R-00179701",
+    "job_title": "Military and Family Life Counselor - Davis Monthan",
     "employer_name": "Leidos",
-    "job_city": "Everett",
-    "job_state": "WA",
+    "job_city": "Tucson",
+    "job_state": "AZ",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Everett-WA/Military-and-Family-Life-Counselor---NAS-Everett_R-00179649",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Military-and-Family-Life-Counselor---Davis-Monthan_R-00179701",
     "job_posted_at_datetime_utc": "2026-03-31T07:04:22.606Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2d5f614f66161062c071d35525612b180c75593a887a2960aaf822544141626e",
+    "fingerprint": "b2b94c9a3d34662b87de402da91efd6c88194057c62b82f0e2effc555454996a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5515,18 +5515,18 @@
     "job_posted_at": "2026-03-31T07:04:22.606Z"
   },
   {
-    "job_id": "workday-leidos-R-00179701",
-    "job_title": "Military and Family Life Counselor - Davis Monthan",
+    "job_id": "workday-leidos-R-00179649",
+    "job_title": "Military and Family Life Counselor - NAS Everett",
     "employer_name": "Leidos",
-    "job_city": "Tucson",
-    "job_state": "AZ",
+    "job_city": "Everett",
+    "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Military-and-Family-Life-Counselor---Davis-Monthan_R-00179701",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Everett-WA/Military-and-Family-Life-Counselor---NAS-Everett_R-00179649",
     "job_posted_at_datetime_utc": "2026-03-31T07:04:22.606Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b2b94c9a3d34662b87de402da91efd6c88194057c62b82f0e2effc555454996a",
+    "fingerprint": "2d5f614f66161062c071d35525612b180c75593a887a2960aaf822544141626e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5826,6 +5826,35 @@
     "job_posted_at": "2026-03-31T07:03:38.587Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-062801",
+    "job_title": "Oncology Sales Specialist - Los Angeles, CA - Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Oncology-Sales-Specialist---Los-Angeles--CA---Johnson---Johnson-Innovative-Medicine_R-062801",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d5ec305643902fbd36491c90279e059c55410253af206d6af2bde621a90e1b6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.586Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-060520",
     "job_title": "Associate Clinical Consultant or Clinical Consultant - Tulsa, OK - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -5922,35 +5951,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f7b4196068368a598caf2dcd703b777233c09dab2cdd749ffa6f2101645875a0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.586Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-062801",
-    "job_title": "Oncology Sales Specialist - Los Angeles, CA - Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Oncology-Sales-Specialist---Los-Angeles--CA---Johnson---Johnson-Innovative-Medicine_R-062801",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d5ec305643902fbd36491c90279e059c55410253af206d6af2bde621a90e1b6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6138,6 +6138,34 @@
     "job_posted_at": "2026-03-31T07:02:29.064Z"
   },
   {
+    "job_id": "workday-abbott-31146282",
+    "job_title": "Clinical Specialist, Vessel Closure - Knoxville, TN",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Knoxville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Clinical-Specialist--Vessel-Closure---Knoxville--TN_31146282-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:02:14.173Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5e564c27ee00c58fc9368c9c94068d9b4fd1a039dd293b9fc020286ea14d9ef",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:02:14.173Z"
+  },
+  {
     "job_id": "workday-abbott-31146276",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Honolulu, HI",
     "employer_name": "Abbott",
@@ -6178,34 +6206,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "44b6cca59e81a588717088824060cbea18fe8ff358b4f8f763bf5f29ad071817",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:02:14.173Z"
-  },
-  {
-    "job_id": "workday-abbott-31146282",
-    "job_title": "Clinical Specialist, Vessel Closure - Knoxville, TN",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Knoxville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Clinical-Specialist--Vessel-Closure---Knoxville--TN_31146282-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:02:14.173Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5e564c27ee00c58fc9368c9c94068d9b4fd1a039dd293b9fc020286ea14d9ef",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8141,151 +8141,6 @@
     "job_posted_at": "2026-03-29T18:58:51.134Z"
   },
   {
-    "job_id": "lever-includedhealth-16abe98f-67e4-4d5c-a6cf-5b32adbe887a",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/16abe98f-67e4-4d5c-a6cf-5b32adbe887a/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "30a5c9e978db285b39794782c157c03636031a479e33180f52bbea3aa2d29191",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-223892df-993c-4d1a-a889-b4f9da0c50fa",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/223892df-993c-4d1a-a889-b4f9da0c50fa/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2cebb5beef9925467eb28f500f0977d6573801e538408a0557c9f67558a985fe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-36ea353c-02f1-48c0-8943-1ca53399d6ec",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Texas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/36ea353c-02f1-48c0-8943-1ca53399d6ec/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b98b1530980da1b43617752423881285e3c0a919f41926b3510ed5f3ff2f6d18",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
-    "job_id": "lever-includedhealth-52d9dd20-2356-4906-a8b9-b4e33b803af2",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/52d9dd20-2356-4906-a8b9-b4e33b803af2/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2cebb5beef9925467eb28f500f0977d6573801e538408a0557c9f67558a985fe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:50:01.199Z"
-  },
-  {
     "job_id": "lever-includedhealth-58c2b580-1200-465e-868d-4908c531e84d",
     "job_title": "Psychiatrist",
     "employer_name": "Included Health",
@@ -8656,6 +8511,151 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-16abe98f-67e4-4d5c-a6cf-5b32adbe887a",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/16abe98f-67e4-4d5c-a6cf-5b32adbe887a/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "30a5c9e978db285b39794782c157c03636031a479e33180f52bbea3aa2d29191",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-223892df-993c-4d1a-a889-b4f9da0c50fa",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/223892df-993c-4d1a-a889-b4f9da0c50fa/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2cebb5beef9925467eb28f500f0977d6573801e538408a0557c9f67558a985fe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-36ea353c-02f1-48c0-8943-1ca53399d6ec",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Texas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/36ea353c-02f1-48c0-8943-1ca53399d6ec/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b98b1530980da1b43617752423881285e3c0a919f41926b3510ed5f3ff2f6d18",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:50:01.199Z"
+  },
+  {
+    "job_id": "lever-includedhealth-52d9dd20-2356-4906-a8b9-b4e33b803af2",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/52d9dd20-2356-4906-a8b9-b4e33b803af2/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:50:01.199Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2cebb5beef9925467eb28f500f0977d6573801e538408a0557c9f67558a985fe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
