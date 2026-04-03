@@ -308,34 +308,6 @@
     "job_posted_at": "2026-04-02T20:27:44.041Z"
   },
   {
-    "job_id": "workday-takeda-R0177664",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - 82nd Ter",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/Medical-Screener_R0177664-1",
-    "job_posted_at_datetime_utc": "2026-04-02T20:20:41.857Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "701a046bc90ec75f6eaa5c5798622e07a7a3fcd69a9524e14774ed62bdd55ab7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T20:20:41.857Z"
-  },
-  {
     "job_id": "workday-takeda-R0177663",
     "job_title": "BioLife Nurse",
     "employer_name": "Takeda",
@@ -392,18 +364,46 @@
     "job_posted_at": "2026-04-02T20:20:41.857Z"
   },
   {
-    "job_id": "workday-takeda-R0177658",
-    "job_title": "Registered Nurse -RN",
+    "job_id": "workday-takeda-R0177664",
+    "job_title": "Medical Screener",
     "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - Ambassador Dr",
+    "job_city": "MO - Kansas City - 82nd Ter",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/Registered-Nurse--RN_R0177658-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/Medical-Screener_R0177664-1",
+    "job_posted_at_datetime_utc": "2026-04-02T20:20:41.857Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "701a046bc90ec75f6eaa5c5798622e07a7a3fcd69a9524e14774ed62bdd55ab7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T20:20:41.857Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177659",
+    "job_title": "LPN - 2k Sign On Bonus - Predictable Schedule - Work-Life Balance",
+    "employer_name": "Takeda",
+    "job_city": "MO - Saint Peters",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/LPN---2k-Sign-On-Bonus---Predictable-Schedule---Work-Life-Balance_R0177659-1",
     "job_posted_at_datetime_utc": "2026-04-02T20:05:59.614Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4229b500adc27f1100e8a8fd357b206a205aeca0decbb9c1031dd503b30c1d51",
+    "fingerprint": "be8fa1058b830b216956c3d0fffafc2d7d622ebc39389716ec5ebe7355c5a07f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -420,18 +420,18 @@
     "job_posted_at": "2026-04-02T20:05:59.614Z"
   },
   {
-    "job_id": "workday-takeda-R0177659",
-    "job_title": "LPN - 2k Sign On Bonus - Predictable Schedule - Work-Life Balance",
+    "job_id": "workday-takeda-R0177658",
+    "job_title": "Registered Nurse -RN",
     "employer_name": "Takeda",
-    "job_city": "MO - Saint Peters",
+    "job_city": "MO - Kansas City - Ambassador Dr",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/LPN---2k-Sign-On-Bonus---Predictable-Schedule---Work-Life-Balance_R0177659-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/Registered-Nurse--RN_R0177658-1",
     "job_posted_at_datetime_utc": "2026-04-02T20:05:59.614Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "be8fa1058b830b216956c3d0fffafc2d7d622ebc39389716ec5ebe7355c5a07f",
+    "fingerprint": "4229b500adc27f1100e8a8fd357b206a205aeca0decbb9c1031dd503b30c1d51",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2395,36 +2395,6 @@
     "job_posted_at": "2026-04-01T20:47:57.304Z"
   },
   {
-    "job_id": "ashby-hinge-health-2c5c58a9-5176-4ca7-b6bc-a832a375ea2f",
-    "job_title": "Health Economist",
-    "employer_name": "Hinge Health",
-    "job_city": "San Francisco-HQ",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/hinge-health/2c5c58a9-5176-4ca7-b6bc-a832a375ea2f/application",
-    "job_posted_at_datetime_utc": "2026-04-01T20:45:00.120Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "30d8ae8ab67555dc4db248163a54c6237b4611d38fa5271da0a5e6048b7df55a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-01T20:45:00.120Z"
-  },
-  {
     "job_id": "ashby-hinge-health-1e4f194d-67e9-457c-89ce-387355f2e500",
     "job_title": "Physical Therapist, Pelvic Health (Flex)",
     "employer_name": "Hinge Health",
@@ -2478,6 +2448,36 @@
         "remote"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-01T20:45:00.120Z"
+  },
+  {
+    "job_id": "ashby-hinge-health-2c5c58a9-5176-4ca7-b6bc-a832a375ea2f",
+    "job_title": "Health Economist",
+    "employer_name": "Hinge Health",
+    "job_city": "San Francisco-HQ",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/hinge-health/2c5c58a9-5176-4ca7-b6bc-a832a375ea2f/application",
+    "job_posted_at_datetime_utc": "2026-04-01T20:45:00.120Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "30d8ae8ab67555dc4db248163a54c6237b4611d38fa5271da0a5e6048b7df55a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -3285,6 +3285,35 @@
     "job_posted_at": "2026-04-01T07:06:17.424Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01345439",
+    "job_title": "Med Info Spec-I Pharmacist-- hybrid in Titusville, NJ!",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-New-Jersey-USA/Med-Info-Spec-I-Pharmacist---hybrid-in-Titusville--NJ-_R-01345439-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:06:00.223Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5e68dcd04dd5915da2463d50932fbea0b8c3733d4276a5bf1071c834f09d7fca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:06:00.223Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01346123",
     "job_title": "FSP - Associate Scientist - Cell Culture",
     "employer_name": "Thermo Fisher Scientific",
@@ -3363,35 +3392,6 @@
         "remote"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:06:00.223Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01345439",
-    "job_title": "Med Info Spec-I Pharmacist-- hybrid in Titusville, NJ!",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-New-Jersey-USA/Med-Info-Spec-I-Pharmacist---hybrid-in-Titusville--NJ-_R-01345439-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:06:00.223Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5e68dcd04dd5915da2463d50932fbea0b8c3733d4276a5bf1071c834f09d7fca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -3485,6 +3485,62 @@
     "job_posted_at": "2026-04-01T07:05:29.713Z"
   },
   {
+    "job_id": "workday-medtronic-R63210",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Chicago)",
+    "employer_name": "Medtronic",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Chicago-_R63210-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:04:43.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ca8fcbaedd2f39340cfd1e458c9d4de357f80ff1ebe3a216fcfdb59b8cc2e88b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:04:43.919Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63211",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
+    "job_posted_at_datetime_utc": "2026-04-01T07:04:43.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:04:43.919Z"
+  },
+  {
     "job_id": "workday-medtronic-R62266",
     "job_title": "Medical Science Liaison Advisor",
     "employer_name": "Medtronic",
@@ -3569,62 +3625,6 @@
     "job_posted_at": "2026-04-01T07:04:43.919Z"
   },
   {
-    "job_id": "workday-medtronic-R63210",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Chicago)",
-    "employer_name": "Medtronic",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Chicago-_R63210-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:04:43.919Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ca8fcbaedd2f39340cfd1e458c9d4de357f80ff1ebe3a216fcfdb59b8cc2e88b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:04:43.919Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63211",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
-    "job_posted_at_datetime_utc": "2026-04-01T07:04:43.919Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:04:43.919Z"
-  },
-  {
     "job_id": "workday-leidos-R-00179756",
     "job_title": "Short Term or As Needed - MFLC Counselor - Fairchild AFB",
     "employer_name": "Leidos",
@@ -3681,6 +3681,35 @@
     "job_posted_at": "2026-04-01T07:04:29.645Z"
   },
   {
+    "job_id": "workday-guidehouse-35876",
+    "job_title": "Remote Inpatient Coding",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Remote-Inpatient-Coding_35876",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:58.879Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1fbafb856a86d0e1598ace71ad6f70ac02455210c06aaadc11d49d0e23f16884",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:58.879Z"
+  },
+  {
     "job_id": "workday-guidehouse-37795",
     "job_title": "Patient Account Representative",
     "employer_name": "Guidehouse",
@@ -3728,35 +3757,6 @@
       ],
       "locations": [
         "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:58.879Z"
-  },
-  {
-    "job_id": "workday-guidehouse-35876",
-    "job_title": "Remote Inpatient Coding",
-    "employer_name": "Guidehouse",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Remote-Inpatient-Coding_35876",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:58.879Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1fbafb856a86d0e1598ace71ad6f70ac02455210c06aaadc11d49d0e23f16884",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
       ],
       "experience": "unknown",
       "special": []
@@ -5291,6 +5291,34 @@
     "job_posted_at": "2026-03-31T07:05:44.715Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01347566",
+    "job_title": "FSP Associate Scientist – Buffer / Media Preparation",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Rockville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---Buffer---Media-Preparation_R-01347566",
+    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1baee0e3156964dc6316f5e806293f31d5d058b4c399dd30f1c88e16743d5709",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:05:44.715Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01345193",
     "job_title": "Scientist I - Chemistry",
     "employer_name": "Thermo Fisher Scientific",
@@ -5396,34 +5424,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:05:44.715Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01347566",
-    "job_title": "FSP Associate Scientist – Buffer / Media Preparation",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Rockville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---Buffer---Media-Preparation_R-01347566",
-    "job_posted_at_datetime_utc": "2026-03-31T07:05:44.715Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1baee0e3156964dc6316f5e806293f31d5d058b4c399dd30f1c88e16743d5709",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -5826,6 +5826,62 @@
     "job_posted_at": "2026-03-31T07:03:38.587Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-055752",
+    "job_title": "Associate Clinical Consultant - San Jose, CA - Johnson & Johnson MedTech – Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/San-Jose-California-United-States-of-America/Associate-Clinical-Consultant---San-Jose--CA---Johnson---Johnson-MedTech---Heart-Recovery_R-055752",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1571551a9aa65a569d2d7d3ea6f7b006c2392eb32aac3da09e79721a6eecda18",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.586Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-054535",
+    "job_title": "Associate Clinical Consultant - Honolulu, Hawaii - Johnson & Johnson MedTech – Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Honolulu",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Honolulu-Hawaii-United-States/Associate-Clinical-Consultant---Honolulu--Hawaii---Johnson---Johnson-MedTech---Heart-Recovery_R-054535-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b8fbf8a219bd879648d07e302fc9f915299bc7a4a3f6165b50cf2ab86ae9059e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:38.586Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-063147",
     "job_title": "Associate Clinical Account Specialist (San Jose/San Francisco)  Johnson Johnson MedTech, Electrophysiology",
     "employer_name": "Johnson & Johnson",
@@ -5896,62 +5952,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "273d73fe7751aa2ec5033ba3fb584630f1a9acd2073ae6472754a713e01e45e4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.586Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-055752",
-    "job_title": "Associate Clinical Consultant - San Jose, CA - Johnson & Johnson MedTech – Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/San-Jose-California-United-States-of-America/Associate-Clinical-Consultant---San-Jose--CA---Johnson---Johnson-MedTech---Heart-Recovery_R-055752",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1571551a9aa65a569d2d7d3ea6f7b006c2392eb32aac3da09e79721a6eecda18",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:38.586Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-054535",
-    "job_title": "Associate Clinical Consultant - Honolulu, Hawaii - Johnson & Johnson MedTech – Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Honolulu",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Honolulu-Hawaii-United-States/Associate-Clinical-Consultant---Honolulu--Hawaii---Johnson---Johnson-MedTech---Heart-Recovery_R-054535-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:38.586Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b8fbf8a219bd879648d07e302fc9f915299bc7a4a3f6165b50cf2ab86ae9059e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6138,6 +6138,34 @@
     "job_posted_at": "2026-03-31T07:02:29.064Z"
   },
   {
+    "job_id": "workday-abbott-31146282",
+    "job_title": "Clinical Specialist, Vessel Closure - Knoxville, TN",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Knoxville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Clinical-Specialist--Vessel-Closure---Knoxville--TN_31146282-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:02:14.173Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5e564c27ee00c58fc9368c9c94068d9b4fd1a039dd293b9fc020286ea14d9ef",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:02:14.173Z"
+  },
+  {
     "job_id": "workday-abbott-31146276",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Honolulu, HI",
     "employer_name": "Abbott",
@@ -6178,34 +6206,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "44b6cca59e81a588717088824060cbea18fe8ff358b4f8f763bf5f29ad071817",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:02:14.173Z"
-  },
-  {
-    "job_id": "workday-abbott-31146282",
-    "job_title": "Clinical Specialist, Vessel Closure - Knoxville, TN",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Knoxville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Clinical-Specialist--Vessel-Closure---Knoxville--TN_31146282-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:02:14.173Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5e564c27ee00c58fc9368c9c94068d9b4fd1a039dd293b9fc020286ea14d9ef",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6904,34 +6904,6 @@
     "job_posted_at": "2026-03-30T07:04:10.986Z"
   },
   {
-    "job_id": "workday-guidehouse-34820",
-    "job_title": "Managing Consultant - Life Sciences Advisory - Patient Support Programs (Pharma)",
-    "employer_name": "Guidehouse",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Managing-Consultant---Life-Sciences-Advisory---Patient-Support-Programs--Pharma-_34820",
-    "job_posted_at_datetime_utc": "2026-03-30T07:03:43.604Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "18738f0ff18121da6d1168cc16de0f53ea2f4fd971315cdb1e6333680358ea89",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:03:43.604Z"
-  },
-  {
     "job_id": "workday-guidehouse-35901",
     "job_title": "Patient Access Trainer",
     "employer_name": "Guidehouse",
@@ -6953,6 +6925,34 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:03:43.604Z"
+  },
+  {
+    "job_id": "workday-guidehouse-34820",
+    "job_title": "Managing Consultant - Life Sciences Advisory - Patient Support Programs (Pharma)",
+    "employer_name": "Guidehouse",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Managing-Consultant---Life-Sciences-Advisory---Patient-Support-Programs--Pharma-_34820",
+    "job_posted_at_datetime_utc": "2026-03-30T07:03:43.604Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "18738f0ff18121da6d1168cc16de0f53ea2f4fd971315cdb1e6333680358ea89",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7215,34 +7215,6 @@
     "job_posted_at": "2026-03-30T07:02:14.175Z"
   },
   {
-    "job_id": "workday-abbott-31145527",
-    "job_title": "Coordinator Project Design",
-    "employer_name": "Abbott",
-    "job_city": "California - Alameda",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Coordinator-Project-Design_31145527-1",
-    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "25aee738039b626ca3555c7cfa2d213e6bff0e471e580b9d154f642cb4396759",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:02:14.174Z"
-  },
-  {
     "job_id": "workday-abbott-31142984",
     "job_title": "Automation Support Professional - Wichita, KS",
     "employer_name": "Abbott",
@@ -7376,6 +7348,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:02:14.174Z"
+  },
+  {
+    "job_id": "workday-abbott-31145527",
+    "job_title": "Coordinator Project Design",
+    "employer_name": "Abbott",
+    "job_city": "California - Alameda",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Coordinator-Project-Design_31145527-1",
+    "job_posted_at_datetime_utc": "2026-03-30T07:02:14.174Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "25aee738039b626ca3555c7cfa2d213e6bff0e471e580b9d154f642cb4396759",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7691,62 +7691,6 @@
     "job_posted_at": "2026-03-30T07:00:41.807Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01346300",
-    "job_title": "Supervisor - Small Molecule",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Middleton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Supervisor---Small-Molecule_R-01346300",
-    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3ac441dade2414826e013964cb9cb41512ddafecd86efdd2c85d28d70707648d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:00:27.061Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01337645",
-    "job_title": "Clinical Educator - PreClara",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/Clinical-Educator---PreClara_R-01337645",
-    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7c7ca79086de819199b0cff112bea8ddb1f0bea174203ad3b2837d32ab96ae1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:00:27.061Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01347125",
     "job_title": "Manufacturing Chemist I, Formulations",
     "employer_name": "Thermo Fisher Scientific",
@@ -7796,6 +7740,62 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:00:27.061Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01346300",
+    "job_title": "Supervisor - Small Molecule",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Middleton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Supervisor---Small-Molecule_R-01346300",
+    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3ac441dade2414826e013964cb9cb41512ddafecd86efdd2c85d28d70707648d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:00:27.061Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01337645",
+    "job_title": "Clinical Educator - PreClara",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/Clinical-Educator---PreClara_R-01337645",
+    "job_posted_at_datetime_utc": "2026-03-30T07:00:27.061Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f7c7ca79086de819199b0cff112bea8ddb1f0bea174203ad3b2837d32ab96ae1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7857,6 +7857,92 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-30T04:06:49.750Z"
+  },
+  {
+    "job_id": "lever-ro-61b4e90e-0340-439d-ae46-9e72ebbfed4a",
+    "job_title": "Full-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/ro/61b4e90e-0340-439d-ae46-9e72ebbfed4a/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f5b195d38935cb0974acd06d48e6a9674dd5ffc43d2bc2c117ba581f0155938f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:58:51.134Z"
+  },
+  {
+    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
+    "job_title": "Part-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:58:51.134Z"
+  },
+  {
+    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
+    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
+    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-29T18:58:51.134Z"
   },
   {
     "job_id": "lever-ro-aa910c54-81d8-454d-a6f9-19c2b538659c",
@@ -8048,92 +8134,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:58:51.134Z"
-  },
-  {
-    "job_id": "lever-ro-61b4e90e-0340-439d-ae46-9e72ebbfed4a",
-    "job_title": "Full-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/ro/61b4e90e-0340-439d-ae46-9e72ebbfed4a/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f5b195d38935cb0974acd06d48e6a9674dd5ffc43d2bc2c117ba581f0155938f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:58:51.134Z"
-  },
-  {
-    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
-    "job_title": "Part-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-29T18:58:51.134Z"
-  },
-  {
-    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
-    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
-    "job_posted_at_datetime_utc": "2026-03-29T18:58:51.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
