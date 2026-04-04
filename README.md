@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-862-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-859-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-39-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-598-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-595-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -106,8 +106,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Takeda** | Licensed Practical Nurse - Sign-On Bonus Eligible | GA - Kennesaw | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Kennesaw/Licensed-Practical-Nurse---Sign-On-Bonus-Eligible_R0177726-1) |
-| 🏢 **Takeda** | Part Time Licensed Nurse, LPN or LVN | AZ - Tucson | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Tucson/Part-Time-Licensed-Nurse--LPN-or-LVN_R0175441-1) |
-| 🏢 **Takeda** | Plasma Center LVN | TX - Pearland | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Pearland/Plasma-Center-LVN_R0175909-1) |
+| 🏢 **Takeda** | Bilingual Licensed Practical Nurse – Day One Medical Benefits | OK - Oklahoma City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/Bilingual-Licensed-Practical-Nurse---Day-One-Medical-Benefits_R0174765-1) |
+| 🏢 **Takeda** | LPN – Day One Medical Benefits | LA - Baton Rouge | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Baton-Rouge/LPN---Day-One-Medical-Benefits_R0174854-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -133,21 +133,21 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Intuitive** | Clinical Development Lab Technician | Sunnyvale, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000118701147) |
+| 🏢 **Intuitive** | Clinical Development Lab Technician | Sunnyvale, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000118701147) |
 | 🏢 **Takeda** | Entry Level Phlebotomist/Medical Screener - Immediate Benefits | MI - Ypsilanti | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Ypsilanti/Entry-Level-Phlebotomist-Medical-Screener---Immediate-Benefits_R0177312-1) |
-| 🏢 **Abbott** | Field Clinical Specialist | Illinois - Abbott... | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Field-Clinical-Specialist_31134905-1) |
+| 🏢 **Abbott** | Field Clinical Specialist | Illinois - Abbott... | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Field-Clinical-Specialist_31134905-1) |
 | 🏢 **Takeda** | Medical Screener | NJ - Deptford | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Medical-Screener_R0176375) |
-| 🏢 **Takeda** | Advanced EMT (AEMT) | LA - Lafayette | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Advanced-EMT--AEMT-_R0174815-1) |
+| 🏢 **Takeda** | Plasma Center Technician | TX - Dallas | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Dallas/Plasma-Center-Technician_R0174022-1) |
 | 🏢 **Medtronic** | Clinical Specialist, CAS | 2 Locations | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Eugene-Oregon-United-States-of-America/Clinical-Specialist--CAS_R63517-1) |
 | 🏢 **Exact Sciences** | Future Opportunities - Precision Oncology Sales & Sales Management | 15 Locations | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---San-Diego/Future-Opportunities---Precision-Oncology-Sales---Sales-Management_R26-12974) |
-| 🏢 **Medtronic** | Vascular Clinical Specialist - Dallas TX | Dallas | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Vascular-Clinical-Specialist---Dallas-TX_R63505-1) |
-| 🏢 **Personalis** | Sample Accessioner 1 (Temp) | Fremont, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7689649003) |
+| 🏢 **Medtronic** | Vascular Clinical Specialist - Dallas TX | Dallas | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Vascular-Clinical-Specialist---Dallas-TX_R63505-1) |
+| 🏢 **Personalis** | Sample Accessioner 1 (Temp) | Fremont, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7689649003) |
 | 🏢 **IDEXX** | Microbiology Laboratory Technician | Columbia, MO | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Microbiology-Laboratory-Technician_J-052503) |
 | 🏢 **Thermo Fisher Scientific** | FSP - Scientist - Sample Management | Collegeville | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/FSP---Scientist---Sample-Management_R-01346959) |
 | 🏢 **Medtronic** | Prin. Clinical Specialist - Cardiac Rhythm Management (CRM) | Hartford | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/Prin-Clinical-Specialist---Cardiac-Rhythm-Management--CRM-_R63453-1) |
 | 🏢 **AbbVie** | Oncology Specialist - Chicago, IL | Chicago, IL | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012455411) |
 | 🏢 **Thermo Fisher Scientific** | Experienced CRA 1; Southeast Location | Remote | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Experienced-CRA-1--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344265-1) |
-| 🏢 **Johnson & Johnson** | Scientist, Translational Oncology | Spring House | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Scientist--Translational-Oncology_R-065581-1) |
+| 🏢 **Johnson & Johnson** | Scientist, Translational Oncology | Spring House | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Scientist--Translational-Oncology_R-065581-1) |
 | 🏢 **Abbott** | Supplier Quality Specialist | New Jersey - Prin... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Princeton/Supplier-Quality-Specialist_31146325-1) |
 | 🏢 **Thermo Fisher Scientific** | Formulation Scientist I | Milwaukee | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Milwaukee-Wisconsin-USA/Formulation-Scientist-I_R-01347008) |
 | 🏢 **Abbott** | Clinical Account Representative, CardioMEMS – Austin | Texas - Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Austin/Clinical-Account-Representative--CardioMEMS---Austin_31145524-1) |
@@ -271,7 +271,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 862 current opportunities from 39 companies**
+**🎯 859 current opportunities from 39 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
