@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Biolife Registered Nurse - Loop 410 | TX - San Antonio | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Biolife-Registered-Nurse---Loop-410_R0176317-1) |
+| 🏢 **Takeda** | Biolife Registered Nurse - Loop 410 | TX - San Antonio | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Biolife-Registered-Nurse---Loop-410_R0176317-1) |
 | 🏢 **Takeda** | Plasma Center Nurse - Full Time | TX - Beaumont | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Beaumont/Plasma-Center-Nurse---Full-Time_R0176059-1) |
 | 🏢 **Takeda** | Plasma Center Nurse – RN | MI - Mt Pleasant | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Mt-Pleasant/Plasma-Center-Nurse---RN_R0175963-1) |
 | 🏢 **Guidehouse** | Clinical Denials and Appeals RN | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-and-Appeals-RN_38008) |
@@ -105,9 +105,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Licensed Practical Nurse - Sign-On Bonus Eligible | GA - Kennesaw | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Kennesaw/Licensed-Practical-Nurse---Sign-On-Bonus-Eligible_R0177726-1) |
-| 🏢 **Takeda** | Bilingual Licensed Practical Nurse – Day One Medical Benefits | OK - Oklahoma City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/Bilingual-Licensed-Practical-Nurse---Day-One-Medical-Benefits_R0174765-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse - Sign-On Bonus Eligible | GA - Kennesaw | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Kennesaw/Licensed-Practical-Nurse---Sign-On-Bonus-Eligible_R0177726-1) |
 | 🏢 **Takeda** | LPN – Day One Medical Benefits | LA - Baton Rouge | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Baton-Rouge/LPN---Day-One-Medical-Benefits_R0174854-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse - 2.5 K Sign On - Day One Benefits | MO - Kansas City ... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/Licensed-Practical-Nurse---25-K-Sign-On---Day-One-Benefits_R0174825-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -133,9 +133,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Advanced EMT (AEMT) | LA - Lafayette | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Advanced-EMT--AEMT-_R0174815-1) |
-| 🏢 **Takeda** | Medical Screener | NJ - Deptford | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Medical-Screener_R0175557-1) |
-| 🏢 **Takeda** | Plasma Center Technician | VA - Roanoke | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Roanoke/Plasma-Center-Technician_R0177605-1) |
+| 🏢 **Takeda** | Medical Screener | NJ - Deptford | 38m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Medical-Screener_R0175557-1) |
+| 🏢 **Takeda** | Advanced EMT (AEMT) | LA - Lafayette | 38m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Advanced-EMT--AEMT-_R0174815-1) |
+| 🏢 **Takeda** | Plasma Center Technician | VA - Roanoke | 38m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Roanoke/Plasma-Center-Technician_R0177605-1) |
 | 🏢 **Intuitive** | Clinical Development Lab Technician | Sunnyvale, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000118701147) |
 | 🏢 **Abbott** | Field Clinical Specialist | Illinois - Abbott... | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Field-Clinical-Specialist_31134905-1) |
 | 🏢 **Medtronic** | Clinical Specialist, CAS | 2 Locations | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Eugene-Oregon-United-States-of-America/Clinical-Specialist--CAS_R63517-1) |
@@ -170,17 +170,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **EVERSANA** | Pharmacy Technician | Chesterfield, MO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000118439602) |
 | 🏢 **Rockstar Games** | Strategy Research Associate, Creator Platform | Manhattan | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rockstargames/jobs/7686342003) |
 | 🏢 **Booz Allen Hamilton** | Computational Biologist | Boston, MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Boston-MA/Computational-Biologist_R0237012) |
-| 🏢 **Guidehouse** | Clinical Denial Specialist | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denial-Specialist_37705) |
 | 🏢 **Guidehouse** | Clinical Documentation Integrity Specialist - Remote | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Documentation-Integrity-Specialist---Remote_37521) |
 | 🏢 **Guidehouse** | MSO Credit Balance Specialist | AL, Birmingham | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/MSO-Credit-Balance-Specialist_37905) |
+| 🏢 **Guidehouse** | Veterinarian | MD, Bethesda | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Veterinarian_37995) |
 | 🏢 **IDEXX** | Field Sales Veterinary Diagnostics Seattle South | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Seattle-WA/Field-Sales-Veterinary-Diagnostics-Seattle-South_J-052471) |
 | 🏢 **Exact Sciences** | Specimen Processor | AZ - Phoenix | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Specimen-Processor_R26-12957) |
 | 🏢 **Broadcom** | PHY Lab Technician | Colorado-Fort Col... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/PHY-Lab-Technician_R025541) |
 | 🏢 **athenahealth** | Sales Operations and Contract Associate | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://athenahealth.wd1.myworkdayjobs.com/External/job/Austin-TX/Sales-Operations-and-Contract-Associate_R14688) |
 | 🏢 **Leidos** | Military Family Life Counselor - Fort Wainwright, AK | Fairbanks, AK | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Fairbanks-AK/Military-Family-Life-Counselor---Fort-Wainwright--AK_R-00179908-1) |
+| 🏢 **Globus Medical** | Associate Spine Specialist (Salt Lake City, UT) | Utah | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Utah/Associate-Spine-Specialist--Salt-Lake-City--UT-_JR106376) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Reno, NV) | Nevada | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Nevada/Associate-Spine-Specialist--Reno--NV-_JR106378) |
 | 🏢 **Globus Medical** | Associate Interventional Specialist (Delmarva, MD) | Maryland | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Associate-Interventional-Specialist--Delmarva--MD-_JR106372) |
-| 🏢 **Globus Medical** | Cranial Clinical Specialist Representative | California | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/California/Clinical-Specialist_JR104858) |
 | 🏢 **Johnson & Johnson** | Oncology Clinical Educator, Solid Tumors – San Francisco, CA | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Horsham-Pennsylvania-United-States-of-America/Oncology-Clinical-Educator--Solid-Tumors---San-Francisco--CA_R-060854-1) |
 | 🏢 **Elanco** | Quality Control Lab Technician | Winslow, ME | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Winslow-ME/Quality-Control-Lab-Technician_R0024739-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Coronary Image Guided Therapy Devices (Philadelphia and South New Jersey) | Philadelphia | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Philadelphia-Pennsylvania-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--Philadelphia-and-South-New-Jersey-_579589-1) |
