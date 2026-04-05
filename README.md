@@ -133,7 +133,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Assoc Dir, Clinical Pharmacovigilance and Medical Quality (CPMQ) Operations (Hybrid) | Boston, MA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Assoc-Dir--Clinical-Pharmacovigilance-and-Medical-Quality--CPMQ--Operations--Hybrid-_R0170395) |
+| 🏢 **Takeda** | Assoc Dir, Clinical Pharmacovigilance and Medical Quality (CPMQ) Operations (Hybrid) | Boston, MA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Assoc-Dir--Clinical-Pharmacovigilance-and-Medical-Quality--CPMQ--Operations--Hybrid-_R0170395) |
 | 🏢 **Intuitive** | Clinical Development Lab Technician | Sunnyvale, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000118701147) |
 | 🏢 **Abbott** | Field Clinical Specialist | Illinois - Abbott... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Field-Clinical-Specialist_31134905-1) |
 | 🏢 **Takeda** | Plasma Center Technician | TX - Dallas | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Dallas/Plasma-Center-Technician_R0174022-1) |
