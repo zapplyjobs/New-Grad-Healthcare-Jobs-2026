@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-873-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-872-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-39-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-609-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-608-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -147,9 +147,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Merck & Co.** | Scientist, Statistical Programming (Hybrid) | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Scientist--Statistical-Programming--Hybrid-_R392524-1) |
 | 🏢 **Merck & Co.** | Scientist, Sterile Drug Product Commercialization-2 | Pennsylvania - We... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Scientist--Sterile-Drug-Product-Commercialization-2_R391318-1) |
 | 🏢 **Merck & Co.** | Specialist, Clinical Data Management – Hybrid | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Clinical-Data-Management---Hybrid_R391642-2) |
-| 🏢 **Thermo Fisher Scientific** | Equipment Operator, Onsert - 3rd Shift | Bohemia | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bohemia-New-York-USA/Equipment-Operator--Onsert---3rd-Shift_R-01347523) |
-| 🏢 **Thermo Fisher Scientific** | Medical Associate (Per Diem) | Austin | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Medical-Associate--Per-Diem-_R-01345529) |
 | 🏢 **Thermo Fisher Scientific** | FSP - Scientist - Sample Management | Collegeville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/FSP---Scientist---Sample-Management_R-01346959) |
+| 🏢 **Thermo Fisher Scientific** | Experienced CRA 1; Southeast Location | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Experienced-CRA-1--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344265-1) |
+| 🏢 **Thermo Fisher Scientific** | Formulation Scientist I | Milwaukee | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Milwaukee-Wisconsin-USA/Formulation-Scientist-I_R-01347008) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Coronary - Image Guided Therapy Devices (Sacramento, South/East Bay Region, CA) | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Sacramento-California-United-States/Sales-Support--Clinical-Specialist---Coronary---Image-Guided-Therapy--Sacramento--South-East-Bay-Region--CA-_578447) |
 | 🏢 **Medtronic** | Clinical Specialist, CAS | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Eugene-Oregon-United-States-of-America/Clinical-Specialist--CAS_R63517-1) |
 | 🏢 **Medtronic** | Vascular Clinical Specialist - Dallas TX | Dallas | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Vascular-Clinical-Specialist---Dallas-TX_R63505-1) |
@@ -166,13 +166,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Abbott** | Supplier Quality Specialist | New Jersey - Prin... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Princeton/Supplier-Quality-Specialist_31146325-1) |
 | 🏢 **Abbott** | Clinical Account Representative, CardioMEMS – Austin | Texas - Austin | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Austin/Clinical-Account-Representative--CardioMEMS---Austin_31145524-1) |
 | 🏢 **DoorDash** | Specialist, MXO Drive Support | Tempe, AZ | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7646763) |
-| 🏢 **Ro** | Ro Pharmacy Interview Day! Friday, April 10 & Saturday, April 11 | Romeoville, IL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/e71c39dc-4053-47f2-9466-cb756d6cbd52/apply) |
+| 🏢 **Ro** | Ro Pharmacy Interview Day! Friday, April 10 & Saturday, April 11 | Romeoville, IL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/e71c39dc-4053-47f2-9466-cb756d6cbd52/apply) |
 | 🏢 **Ro** | Compounding Pharmacy Technician - Boynton Beach, FL (Temp) | Boynton Beach, FL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90/apply) |
 | 🏢 **EVERSANA** | Pharmacy Technician | Chesterfield, MO | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000118439602) |
 | 🏢 **Rockstar Games** | Strategy Research Associate, Creator Platform | Manhattan | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rockstargames/jobs/7686342003) |
 | 🏢 **Booz Allen Hamilton** | Computational Biologist | Boston, MA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Boston-MA/Computational-Biologist_R0237012) |
-| 🏢 **Philips** | Sales Support, Clinical Specialist - Coronary Image Guided Therapy Devices (Philadelphia and South New Jersey) | Philadelphia | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Philadelphia-Pennsylvania-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--Philadelphia-and-South-New-Jersey-_579589-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist – Coronary Image-Guided Therapy Devices (Denver CO) | Denver | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denver-Colorado-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--Denver-CO-_579553) |
+| 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (San Francisco CA) | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Francisco-Bay-Area-California-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--San-Francisco-CA-_579374-1) |
 | 🏢 **Leidos** | Military Family Life Counselor - Fort Wainwright, AK | Fairbanks, AK | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Fairbanks-AK/Military-Family-Life-Counselor---Fort-Wainwright--AK_R-00179908-1) |
 | 🏢 **Guidehouse** | Clinical Documentation Integrity Specialist - Remote | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Documentation-Integrity-Specialist---Remote_37521) |
 | 🏢 **Guidehouse** | MSO Credit Balance Specialist | AL, Birmingham | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/MSO-Credit-Balance-Specialist_37905) |
@@ -273,7 +273,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 873 current opportunities from 39 companies**
+**🎯 872 current opportunities from 39 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
