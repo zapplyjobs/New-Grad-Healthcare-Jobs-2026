@@ -106,8 +106,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Takeda** | Licensed Practical Nurse - Sign-On Bonus Eligible | GA - Kennesaw | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Kennesaw/Licensed-Practical-Nurse---Sign-On-Bonus-Eligible_R0177726-1) |
-| 🏢 **Takeda** | Part Time Licensed Nurse, LPN or LVN | AZ - Tucson | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Tucson/Part-Time-Licensed-Nurse--LPN-or-LVN_R0175441-1) |
-| 🏢 **Takeda** | Plasma Center LVN | TX - Pearland | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Pearland/Plasma-Center-LVN_R0175909-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse LPN | TX - Waco | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Waco/Licensed-Practical-Nurse-LPN_R0174717) |
+| 🏢 **Takeda** | Licensed Practical Nurse | OK - Del City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Del-City/Licensed-Practical-Nurse_R0175032-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -215,7 +215,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Personalis** | Clinical Lab Scientist 1 (3rd Shift, Sun - Thurs) | Fremont, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645077003) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (1st SFG, JBLM, WA) | McChord, Washington | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Joint-Base-Lewis-McChord-Washington/Special-Operations-Licensed-Clinical-Social-Worker--1st-SFG--JBLM--WA-_R2120671) |
 | 🏢 **Boeing** | Experienced Test & Evaluation Lab Technician (Test Operations) | New Orleans, LA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---New-Orleans-LA/Experienced-Test---Evaluation-Lab-Technician--Test-Operations-_JR2025486492-1) |
-| 🏢 **Ro** | Part-Time, Virtual Physician | New York, NY | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply) |
+| 🏢 **Ro** | Fulfillment Pharmacist - Romeoville, IL | Romeoville, IL | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/185af8b6-587d-45d5-99b2-0d0af1b3d252/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
