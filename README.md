@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-842-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-843-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-39-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-578-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-579-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -133,6 +133,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 🏢 **Abbott** | System Engineer I | California - Plea... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pleasanton/System-Engineer-I_31146545-1) |
 | 🏢 **Takeda** | Assoc Dir, Clinical Pharmacovigilance and Medical Quality (CPMQ) Operations (Hybrid) | Boston, MA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Assoc-Dir--Clinical-Pharmacovigilance-and-Medical-Quality--CPMQ--Operations--Hybrid-_R0170395) |
 | 🏢 **Intuitive** | Clinical Development Lab Technician | Sunnyvale, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000118701147) |
 | 🏢 **Abbott** | Field Clinical Specialist | Illinois - Abbott... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Field-Clinical-Specialist_31134905-1) |
@@ -155,16 +156,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Medtronic** | Vascular Clinical Specialist - Dallas TX | Dallas | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Vascular-Clinical-Specialist---Dallas-TX_R63505-1) |
 | 🏢 **Medtronic** | Prin. Clinical Specialist - Cardiac Rhythm Management (CRM) | Hartford | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/Prin-Clinical-Specialist---Cardiac-Rhythm-Management--CRM-_R63453-1) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (AFSOC GSU/Fort Benning, GA) | Fort Moore | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Moore-Georgia/Special-Operations-Licensed-Clinical-Social-Worker--AFSOC-GSU-Fort-Benning--GA-_R2121385-1) |
-| 🏢 **Johnson & Johnson** | Investigator - Lenti | Raritan | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Investigator---Lenti_R-067790-1) |
 | 🏢 **Johnson & Johnson** | Medical Writer I | 3 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Medical-Writer-I_R-067861) |
 | 🏢 **Johnson & Johnson** | Scientist, Translational Oncology | Spring House | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Scientist--Translational-Oncology_R-065581-1) |
+| 🏢 **Johnson & Johnson** | Investigator - Lenti | Raritan | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Investigator---Lenti_R-067790-1) |
 | 🏢 **IDEXX** | Microbiology Laboratory Technician | Columbia, MO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Microbiology-Laboratory-Technician_J-052503) |
 | 🏢 **IDEXX** | Medical Laboratory Technician | Red Bank, NJ | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Red-Bank-NJ/Medical-Laboratory-Technician_J-052375) |
 | 🏢 **Exact Sciences** | Future Opportunities - Precision Oncology Sales & Sales Management | 15 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---San-Diego/Future-Opportunities---Precision-Oncology-Sales---Sales-Management_R26-12974) |
 | 🏢 **Boeing** | Firefighter Emergency Medical Technician | Berkeley, MO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Firefighter-Emergency-Medical-Technician_JR2026490971-1) |
 | 🏢 **Boeing** | Occupational Health Physician | Everett, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Occupational-Health-Physician_JR2026494181) |
 | 🏢 **Abbott** | Supplier Quality Specialist | New Jersey - Prin... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Princeton/Supplier-Quality-Specialist_31146325-1) |
-| 🏢 **Abbott** | Clinical Account Representative, CardioMEMS – Austin | Texas - Austin | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Austin/Clinical-Account-Representative--CardioMEMS---Austin_31145524-1) |
 | 🏢 **DoorDash** | Specialist, MXO Drive Support | Tempe, AZ | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7646763) |
 | 🏢 **Ro** | Ro Pharmacy Interview Day! Friday, April 10 & Saturday, April 11 | Romeoville, IL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/e71c39dc-4053-47f2-9466-cb756d6cbd52/apply) |
 | 🏢 **Ro** | Compounding Pharmacy Technician - Boynton Beach, FL (Temp) | Boynton Beach, FL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90/apply) |
@@ -182,7 +182,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Globus Medical** | Associate Interventional Specialist (Delmarva, MD) | Maryland | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Associate-Interventional-Specialist--Delmarva--MD-_JR106372) |
 | 🏢 **IDEXX** | Field Sales Veterinary Diagnostics Seattle South | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Seattle-WA/Field-Sales-Veterinary-Diagnostics-Seattle-South_J-052471) |
 | 🏢 **Exact Sciences** | Specimen Processor | AZ - Phoenix | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Specimen-Processor_R26-12957) |
-| 🏢 **Elanco** | Quality Control Lab Technician | Winslow, ME | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Winslow-ME/Quality-Control-Lab-Technician_R0024739-1) |
+| 🏢 **Elanco** | Quality Control Lab Technician | Winslow, ME | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Winslow-ME/Quality-Control-Lab-Technician_R0025301-1) |
 | 🏢 **Elanco** | Associate, Process Team Engineer | Fort Dodge, IA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Associate--Process-Team-Engineer_R0025317-1) |
 | 🏢 **Broadcom** | PHY Lab Technician | Colorado-Fort Col... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/PHY-Lab-Technician_R025541) |
 | 🏢 **athenahealth** | Sales Operations and Contract Associate | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://athenahealth.wd1.myworkdayjobs.com/External/job/Austin-TX/Sales-Operations-and-Contract-Associate_R14688) |
@@ -272,7 +272,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 842 current opportunities from 39 companies**
+**🎯 843 current opportunities from 39 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
