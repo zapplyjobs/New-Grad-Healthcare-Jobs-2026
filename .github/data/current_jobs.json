@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-medtronic-R62871",
+    "job_title": "Associate Clinical Specialist - Cardiac Rhythm Management (Searcy, AR)",
+    "employer_name": "Medtronic",
+    "job_city": "Little Rock",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Associate-Clinical-Specialist---Cardiac-Rhythm-Management--Searcy--AR-_R62871-1",
+    "job_posted_at_datetime_utc": "2026-04-07T19:34:35.650Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1b7f76dd47c1e926b6cee3743d1034d946f6873e605b08dd16628c90fa2f7d1d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T19:34:35.650Z"
+  },
+  {
     "job_id": "workday-leidos-R-00176691",
     "job_title": "MFLC Counselor Short Term or As-Needed Coverage, Fort Cavazos, TX",
     "employer_name": "Leidos",
@@ -764,34 +792,6 @@
     "job_posted_at": "2026-04-07T16:35:34.692Z"
   },
   {
-    "job_id": "workday-abbott-31146133",
-    "job_title": "Clinical Specialist, Vessel Closure in North Boston",
-    "employer_name": "Abbott",
-    "job_city": "Massachusetts - Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Boston/Clinical-Specialist--Vessel-Closure-in-North-Boston_31146133-1",
-    "job_posted_at_datetime_utc": "2026-04-07T16:31:43.095Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2793a4516277294526a223448f7b16d46d5234cb4a160bd44893f7aaca45f683",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T16:31:43.095Z"
-  },
-  {
     "job_id": "workday-abbott-31131441",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -813,6 +813,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T16:31:43.095Z"
+  },
+  {
+    "job_id": "workday-abbott-31146133",
+    "job_title": "Clinical Specialist, Vessel Closure in North Boston",
+    "employer_name": "Abbott",
+    "job_city": "Massachusetts - Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Boston/Clinical-Specialist--Vessel-Closure-in-North-Boston_31146133-1",
+    "job_posted_at_datetime_utc": "2026-04-07T16:31:43.095Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2793a4516277294526a223448f7b16d46d5234cb4a160bd44893f7aaca45f683",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7150,942 +7178,18 @@
     "job_posted_at": "2026-04-03T07:05:36.241Z"
   },
   {
-    "job_id": "workday-takeda-R0176256",
-    "job_title": "Paramedic – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "IA - Davenport",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/Paramedic---No-Overnight-Shifts_R0176256-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "355d0bbce17d31ea91ca2201bfad3ea0b484c13534a37d79fef9a618e1ebb758",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176259",
-    "job_title": "Paramedic – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "IA - Dubuque",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Paramedic---No-Overnight-Shifts_R0176259-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c054c427e77cf721680045c5e9fa8c98ba6672897f0f6c62a369b7e732b50d0a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176344",
-    "job_title": "Paramedic – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "IL - Rockford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Paramedic---No-Overnight-Shifts_R0176344-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "da005a822857f80b623045f10e27640fa4478975822e4e0fd51ba6d4502846ff",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176142",
-    "job_title": "Paramedic – Plasma Center - English/Spanish Speaking",
-    "employer_name": "Takeda",
-    "job_city": "TX - Spring",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Spring/Paramedic---Plasma-Center---English-Spanish-Speaking_R0176142-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ab5edbe1305b9392af147a15ca45f838e8d5403cf1f7d388786227012f28b9d3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176146",
-    "job_title": "Paramedic – Plasma Center",
-    "employer_name": "Takeda",
-    "job_city": "TX - Spring",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Spring/Paramedic---Plasma-Center_R0176146-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "70625c6e18a54eb870b045ecbe14dfa11a5056eab7c53bb32080fdc0171203ca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176229",
-    "job_title": "Paramedic (EMT-P) – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/Paramedic--EMT-P----No-Overnight-Shifts_R0176229-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ad9e5708e94b2eb7e7dfeb8195d4c75e789b98ff82f0254c58bb72f3ae449797",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176308",
-    "job_title": "Paramedic (EMT-P)",
-    "employer_name": "Takeda",
-    "job_city": "TN - Chattanooga",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Chattanooga/Paramedic--EMT-P-_R0176308-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "581a34a22898150bccbc954f6a939cf1ed4bf27102a24d0ad69529ca9b47111a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176448",
-    "job_title": "Part Time Plasma Center Technician- Phlebotomy",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Plasma-Center-Technician--Phlebotomy_R0176448",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7f34310215279c5caee68cc078ee275c434daed18cbda214193c34844a6e4482",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176321",
-    "job_title": "Part Time Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0176321-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176335",
-    "job_title": "Phlebotomist – We Train",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/Phlebotomist---We-Train_R0176335-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02bf251826c0405645f7ffc42227e0b9a8073da626ebf4aa095591546d738884",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176324",
-    "job_title": "Phlebotomist- No Experience Required",
-    "employer_name": "Takeda",
-    "job_city": "IA - Davenport",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/Phlebotomist--No-Experience-Required_R0176324-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "df1e965384649d4169a5e36c038badb9135e32e66108521b7954a307e80ee1bd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176214",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "NJ - Deptford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Phlebotomist_R0176214-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7e3bd45e0e9f00037978dc001f26ad4cdf07221099edf83b3c916395d77dc950",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176250",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "MN - Moorhead",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0176250-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176333",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "IL - Joliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Phlebotomist_R0176333-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5fc52798e2fdd03d530565ebba83560d49e8527bc311ba0a901020d60eb0b84e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176342",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "IL - Addison",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Addison/Phlebotomist_R0176342-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cd11ee523751e6ac051f899cb32c016bc4e0bdef0bf080f8bddec868924777b8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176343",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "IL - Addison",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Addison/Phlebotomist_R0176343-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cd11ee523751e6ac051f899cb32c016bc4e0bdef0bf080f8bddec868924777b8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176365",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mankato",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Phlebotomist_R0176365-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9aa421065dabe94dc70d255b45c481a1ebf990f6191d3c67112086eff9a226f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176366",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mankato",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Phlebotomist_R0176366-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9aa421065dabe94dc70d255b45c481a1ebf990f6191d3c67112086eff9a226f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176457",
-    "job_title": "Plasma Center Nurse - EMT (Benefits Day 1)",
-    "employer_name": "Takeda",
-    "job_city": "WI - Sheboygan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Sheboygan/Plasma-Center-Nurse---EMT--Benefits-Day-1-_R0176457-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "87b8b0fdf81d372fb32677832e8f592029a9ebba3988a3c47b63a116f1f50a91",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176147",
-    "job_title": "Plasma Center Nurse - LPN - English/Spanish Speaking",
-    "employer_name": "Takeda",
-    "job_city": "TX - Spring",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Spring/Plasma-Center-Nurse---LPN---English-Spanish-Speaking_R0176147-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "775ef4e9ccacef5f6aeb1ee7b8d81e2a389f9a2cacc9bb4b666de7a93c0b2131",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176453",
-    "job_title": "Plasma Center Nurse - LPN",
-    "employer_name": "Takeda",
-    "job_city": "IN - Elkhart",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Nurse---LPN_R0176453-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "25cf37c6ae98321105766573ddfdc50a6b618b64acaf4e84326ef38e0491c802",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176463",
-    "job_title": "Plasma Center Nurse – LPN",
-    "employer_name": "Takeda",
-    "job_city": "OH - Findlay",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Findlay/Plasma-Center-Nurse---LPN_R0176463-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2c42a5014bb2fe40e5d8a6a83e9cff641b3d22afc013a4ac1855fbb404360b52",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176169",
-    "job_title": "Plasma Center Nurse – RN",
-    "employer_name": "Takeda",
-    "job_city": "NC - Greensboro",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Greensboro/Plasma-Center-Nurse---RN_R0176169-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ba50c09777d12040b55f9bbab33cd72ef3aaedb02f576379f0eaeffa1f04bf75",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176454",
-    "job_title": "Plasma Center Nurse - RN",
-    "employer_name": "Takeda",
-    "job_city": "IN - Elkhart",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Nurse---RN_R0176454-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4058bcf3a6ef9a3c34d6084508d2c366af190ebb4c999cf1ad0e390c16e51845",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176474",
-    "job_title": "Plasma Center Nurse – RN",
-    "employer_name": "Takeda",
-    "job_city": "FL - Tallahassee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tallahassee/Plasma-Center-Nurse---RN_R0176474-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2fa5f3b41b77c6db627f83f12fc20ccf15788d6efaee942d1468ee1daa205b1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176470",
-    "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IN - Fort Wayne - Coldwater Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--LPN----Weekday---Weekend-Availability---Immediate-Benefits_R0176470",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "33fab2c7a7cdfe220c3ce06197435beb6b59d52b6167ec011225703e425e466d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176374",
-    "job_title": "Plasma Center Nurse BSN",
-    "employer_name": "Takeda",
-    "job_city": "NJ - Deptford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Plasma-Center-Nurse-RN-LPN_R0176374-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6f5e73ead957af9864d7bf205104789ff1853ec052ecb96801f4670dd8ef93ab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176464",
-    "job_title": "Plasma Center Paramedic – EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "OH - Findlay",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Findlay/Plasma-Center-Paramedic---EMT-P_R0176464-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ecd4ed0b09029c35c1ee7d561c92c7a800c905626c4865831e03dc0cec09ae6e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176467",
-    "job_title": "Plasma Center Paramedic – EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "IN - Elkhart",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Paramedic---EMT-P_R0176467-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2abfcc846a12979158a3762c5620ccaa180ea4581e381707e46c0eda018e9b97",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176472",
-    "job_title": "Plasma Center Paramedic – EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "FL - Tallahassee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tallahassee/Plasma-Center-Paramedic---EMT-P_R0176472",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a2d6eaf1edfa5900e9659d55cf7222104cd9475eb9722784a20f507458e307d2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176303",
-    "job_title": "Plasma Center Technician - Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "OK - Oklahoma City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/Plasma-Center-Technician---Phlebotomist_R0176303-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69f1d1b40067209fc4f217c7a56243edfeacecddb0d4117d57fa6889069f0d26",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176263",
-    "job_title": "Plasma Center Technician-PM",
-    "employer_name": "Takeda",
-    "job_city": "IL - Bolingbrook",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Bolingbrook/Plasma-Center-Technician-PM_R0176263-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "26b29ed25e51eebc0acf68cf5ebe20034b579e495982ef4fe70224a6349a5c42",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176158",
-    "job_title": "Plasma Center Technician/Phlebotomist (On-the-Job Training)",
-    "employer_name": "Takeda",
-    "job_city": "MD - Forestville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Forestville/Plasma-Center-Technician-Phlebotomist--On-the-Job-Training--_R0176158-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "99a6d79ba817ee6ba3438e0f695ff877388d7a6431f9faa1b3871035e9bb4f72",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176122",
+    "job_id": "workday-takeda-R0175729",
     "job_title": "Plasma Center Technician",
     "employer_name": "Takeda",
-    "job_city": "CA - Vista",
+    "job_city": "NY - Latham",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Vista/Plasma-Center-Technician_R0176122-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Latham/Plasma-Center-Technician_R0175729-1",
     "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9c25a2512d710008f858707465736ad85a9ab46b8ff0bf251b1b3a6d9ba3cfaa",
+    "fingerprint": "621dadb20554573c957aebab8d63888ec5fb24bb03da67cb0f9f47319265872a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8102,18 +7206,18 @@
     "job_posted_at": "2026-04-03T07:05:06.679Z"
   },
   {
-    "job_id": "workday-takeda-R0176155",
+    "job_id": "workday-takeda-R0175740",
     "job_title": "Plasma Center Technician",
     "employer_name": "Takeda",
-    "job_city": "TX - Temple",
+    "job_city": "WA - Vancouver",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Temple/Plasma-Center-Technician_R0176155-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WA---Vancouver/Plasma-Center-Technician_R0175740",
     "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "30241d0c2b6c2f2aa49137ba4e4d09b4911768260e2ab4a1b8768075a650277a",
+    "fingerprint": "d3e1ef901807d61dfc21794306d5384896c1a91919365300f9213a4ceff516ce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8130,18 +7234,18 @@
     "job_posted_at": "2026-04-03T07:05:06.679Z"
   },
   {
-    "job_id": "workday-takeda-R0176462",
+    "job_id": "workday-takeda-R0175746",
     "job_title": "Plasma Center Technician",
     "employer_name": "Takeda",
-    "job_city": "SC - Spartanburg",
+    "job_city": "VA - Colonial Heights",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Plasma-Center-Technician_R0176462-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Colonial-Heights/Plasma-Center-Technician_R0175746",
     "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d20edc17aaa78e02c7e6e3c54e346036bc96dd84ff3db41ad469c69c9b8ef2d5",
+    "fingerprint": "ff99604bab09ad5127d5ed7a6f10396833b9c714d0000178daf2843cbd91708d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8158,18 +7262,18 @@
     "job_posted_at": "2026-04-03T07:05:06.679Z"
   },
   {
-    "job_id": "workday-takeda-R0176336",
-    "job_title": "RN – 3k Sign On - Day One Medical Benefits",
+    "job_id": "workday-takeda-R0175809",
+    "job_title": "Plasma Center Technician",
     "employer_name": "Takeda",
-    "job_city": "MO - Springfield - Erie St",
+    "job_city": "FL - Pensacola",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---Erie-St/RN---3k-Sign-On---Day-One-Medical-Benefits_R0176336-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Pensacola/Plasma-Center-Technician_R0175809-1",
     "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "fc0b83fbd46d693496195ae12d76c6b80e39688cd575449f8945761aa9ba381a",
+    "fingerprint": "03d2cc08edf31521dae7a66aa16babcab8b6657cbdb2511e02ec4dbaea601d57",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8186,18 +7290,18 @@
     "job_posted_at": "2026-04-03T07:05:06.679Z"
   },
   {
-    "job_id": "workday-takeda-R0176232",
-    "job_title": "RN – Day One Benefits",
+    "job_id": "workday-takeda-R0176000",
+    "job_title": "Plasma Center Technician",
     "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
+    "job_city": "TX - Webster",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/RN---Day-One-Benefits_R0176232-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Webster/Plasma-Center-Technician_R0176000",
     "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "313b9e5cbef1439276d604b9b2e3f4bae2f1966ec8ced81758431710a558ea9d",
+    "fingerprint": "ecfb9ee5809af51a420db0bd97b378e77c34b8c7280296415b85fa651a737643",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8214,270 +7318,18 @@
     "job_posted_at": "2026-04-03T07:05:06.679Z"
   },
   {
-    "job_id": "workday-takeda-R0176227",
-    "job_title": "RN - Predictable Schedule - No Overnight Shifts",
+    "job_id": "workday-takeda-R0176005",
+    "job_title": "Plasma Center Technician",
     "employer_name": "Takeda",
-    "job_city": "MO - Saint Peters",
+    "job_city": "TX - Universal City",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/RN---Predictable-Schedule---No-Overnight-Shifts_R0176227-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Universal-City/Plasma-Center-Technician_R0176005-1",
     "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3ca0c2b46260a0c6a446a174a3023b0b2033f1cb81d0ffdddd1bfd5fecba93ee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176434",
-    "job_title": "Spanish Speaking Nurse - LPN",
-    "employer_name": "Takeda",
-    "job_city": "TX - Houston - North",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Spanish-Speaking-Nurse---LPN_R0176434-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "350ef5d764e6b31e15979bc76b153c133ecde46a4e0e802e6b80e7c224e32534",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176062",
-    "job_title": "Advanced EMT (AEMT)",
-    "employer_name": "Takeda",
-    "job_city": "LA - Lafayette",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Advanced-EMT--AEMT-_R0176062-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fc2476e394950277416291f17c6b0ffee8c39970c93dab5bad95aed9af3bdd41",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176052",
-    "job_title": "Bilingual Plasma Center Nurse",
-    "employer_name": "Takeda",
-    "job_city": "TX - Beaumont",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Beaumont/Bilingual-Plasma-Center-Nurse_R0176052-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5eb5e54ddbbb242bb7c41124ac93768f8537c83f076d271bac2015095e5f9869",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175747",
-    "job_title": "Biolife Licensed Practical Nurse - Loop 410",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Biolife-Licensed-Practical-Nurse---Loop-410_R0175747",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "665c6d684cbea9526941f3c9b2760b976951d83850128e486e1965aab5c7c800",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175751",
-    "job_title": "Biolife Paramedic - Loop 410",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Biolife-Paramedic---Loop-410_R0175751-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "46c2514bdf6404f59ef5d4390e29f17d2877936ff636aad813b4ba24634da861",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175504",
-    "job_title": "EMT-P – No Overnight shifts",
-    "employer_name": "Takeda",
-    "job_city": "TN - Mount Juliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Mount-Juliet/EMT-P---No-Overnight-shifts_R0175504-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "36781677f4f60260d8eb7e1e82166b562b47002edfae232016ebd88c77cfc974",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175516",
-    "job_title": "EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "OH - Columbus - Bethel Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Columbus---Bethel-Rd/EMT-P_R0175516-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61a29c65dc9caef09440a6fd448d8e839816422fee39d1648caa5315fafeddbb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175992",
-    "job_title": "EMT-Paramedic - Bonus Available",
-    "employer_name": "Takeda",
-    "job_city": "TX - Kyle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Kyle/EMT-Paramedic---Bonus-Available_R0175992-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8d4c8eef6ad7d5d3eb9d09b0fbaa8ce64316de4918d5e1808518124163b659c2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.679Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175597",
-    "job_title": "Entry Level Phlebotomy",
-    "employer_name": "Takeda",
-    "job_city": "MN - Waite Park",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Waite-Park/Entry-Level-Phlebotomy_R0175597-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af525af8331a060ee5887b5309c2b1c948f1c532c2d3a2f2397feab92458c627",
+    "fingerprint": "6cd7be7e27bca9f200bfc44bf4e9da23bac6efcb05b2f5da85761e0bf58bc630",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10202,18 +9054,18 @@
     "job_posted_at": "2026-04-03T07:05:06.679Z"
   },
   {
-    "job_id": "workday-takeda-R0175729",
-    "job_title": "Plasma Center Technician",
+    "job_id": "workday-takeda-R0176256",
+    "job_title": "Paramedic – No Overnight Shifts",
     "employer_name": "Takeda",
-    "job_city": "NY - Latham",
+    "job_city": "IA - Davenport",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Latham/Plasma-Center-Technician_R0175729-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/Paramedic---No-Overnight-Shifts_R0176256-1",
     "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "621dadb20554573c957aebab8d63888ec5fb24bb03da67cb0f9f47319265872a",
+    "fingerprint": "355d0bbce17d31ea91ca2201bfad3ea0b484c13534a37d79fef9a618e1ebb758",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10230,18 +9082,18 @@
     "job_posted_at": "2026-04-03T07:05:06.679Z"
   },
   {
-    "job_id": "workday-takeda-R0175740",
-    "job_title": "Plasma Center Technician",
+    "job_id": "workday-takeda-R0176259",
+    "job_title": "Paramedic – No Overnight Shifts",
     "employer_name": "Takeda",
-    "job_city": "WA - Vancouver",
+    "job_city": "IA - Dubuque",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WA---Vancouver/Plasma-Center-Technician_R0175740",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Paramedic---No-Overnight-Shifts_R0176259-1",
     "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d3e1ef901807d61dfc21794306d5384896c1a91919365300f9213a4ceff516ce",
+    "fingerprint": "c054c427e77cf721680045c5e9fa8c98ba6672897f0f6c62a369b7e732b50d0a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10258,18 +9110,18 @@
     "job_posted_at": "2026-04-03T07:05:06.679Z"
   },
   {
-    "job_id": "workday-takeda-R0175746",
-    "job_title": "Plasma Center Technician",
+    "job_id": "workday-takeda-R0176344",
+    "job_title": "Paramedic – No Overnight Shifts",
     "employer_name": "Takeda",
-    "job_city": "VA - Colonial Heights",
+    "job_city": "IL - Rockford",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Colonial-Heights/Plasma-Center-Technician_R0175746",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Paramedic---No-Overnight-Shifts_R0176344-1",
     "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ff99604bab09ad5127d5ed7a6f10396833b9c714d0000178daf2843cbd91708d",
+    "fingerprint": "da005a822857f80b623045f10e27640fa4478975822e4e0fd51ba6d4502846ff",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10286,18 +9138,18 @@
     "job_posted_at": "2026-04-03T07:05:06.679Z"
   },
   {
-    "job_id": "workday-takeda-R0175809",
-    "job_title": "Plasma Center Technician",
+    "job_id": "workday-takeda-R0176142",
+    "job_title": "Paramedic – Plasma Center - English/Spanish Speaking",
     "employer_name": "Takeda",
-    "job_city": "FL - Pensacola",
+    "job_city": "TX - Spring",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Pensacola/Plasma-Center-Technician_R0175809-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Spring/Paramedic---Plasma-Center---English-Spanish-Speaking_R0176142-1",
     "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "03d2cc08edf31521dae7a66aa16babcab8b6657cbdb2511e02ec4dbaea601d57",
+    "fingerprint": "ab5edbe1305b9392af147a15ca45f838e8d5403cf1f7d388786227012f28b9d3",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10314,18 +9166,18 @@
     "job_posted_at": "2026-04-03T07:05:06.679Z"
   },
   {
-    "job_id": "workday-takeda-R0176000",
-    "job_title": "Plasma Center Technician",
+    "job_id": "workday-takeda-R0176146",
+    "job_title": "Paramedic – Plasma Center",
     "employer_name": "Takeda",
-    "job_city": "TX - Webster",
+    "job_city": "TX - Spring",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Webster/Plasma-Center-Technician_R0176000",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Spring/Paramedic---Plasma-Center_R0176146-1",
     "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ecfb9ee5809af51a420db0bd97b378e77c34b8c7280296415b85fa651a737643",
+    "fingerprint": "70625c6e18a54eb870b045ecbe14dfa11a5056eab7c53bb32080fdc0171203ca",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10342,18 +9194,1194 @@
     "job_posted_at": "2026-04-03T07:05:06.679Z"
   },
   {
-    "job_id": "workday-takeda-R0176005",
-    "job_title": "Plasma Center Technician",
+    "job_id": "workday-takeda-R0176229",
+    "job_title": "Paramedic (EMT-P) – No Overnight Shifts",
     "employer_name": "Takeda",
-    "job_city": "TX - Universal City",
+    "job_city": "KS - Lenexa",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Universal-City/Plasma-Center-Technician_R0176005-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/Paramedic--EMT-P----No-Overnight-Shifts_R0176229-1",
     "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "6cd7be7e27bca9f200bfc44bf4e9da23bac6efcb05b2f5da85761e0bf58bc630",
+    "fingerprint": "ad9e5708e94b2eb7e7dfeb8195d4c75e789b98ff82f0254c58bb72f3ae449797",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176308",
+    "job_title": "Paramedic (EMT-P)",
+    "employer_name": "Takeda",
+    "job_city": "TN - Chattanooga",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Chattanooga/Paramedic--EMT-P-_R0176308-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "581a34a22898150bccbc954f6a939cf1ed4bf27102a24d0ad69529ca9b47111a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176448",
+    "job_title": "Part Time Plasma Center Technician- Phlebotomy",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Plasma-Center-Technician--Phlebotomy_R0176448",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7f34310215279c5caee68cc078ee275c434daed18cbda214193c34844a6e4482",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176321",
+    "job_title": "Part Time Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0176321-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176335",
+    "job_title": "Phlebotomist – We Train",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/Phlebotomist---We-Train_R0176335-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02bf251826c0405645f7ffc42227e0b9a8073da626ebf4aa095591546d738884",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176324",
+    "job_title": "Phlebotomist- No Experience Required",
+    "employer_name": "Takeda",
+    "job_city": "IA - Davenport",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/Phlebotomist--No-Experience-Required_R0176324-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "df1e965384649d4169a5e36c038badb9135e32e66108521b7954a307e80ee1bd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176214",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "NJ - Deptford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Phlebotomist_R0176214-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7e3bd45e0e9f00037978dc001f26ad4cdf07221099edf83b3c916395d77dc950",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176250",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "MN - Moorhead",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0176250-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176333",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Phlebotomist_R0176333-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5fc52798e2fdd03d530565ebba83560d49e8527bc311ba0a901020d60eb0b84e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176342",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "IL - Addison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Addison/Phlebotomist_R0176342-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cd11ee523751e6ac051f899cb32c016bc4e0bdef0bf080f8bddec868924777b8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176343",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "IL - Addison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Addison/Phlebotomist_R0176343-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cd11ee523751e6ac051f899cb32c016bc4e0bdef0bf080f8bddec868924777b8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176365",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mankato",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Phlebotomist_R0176365-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9aa421065dabe94dc70d255b45c481a1ebf990f6191d3c67112086eff9a226f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176366",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mankato",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Phlebotomist_R0176366-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9aa421065dabe94dc70d255b45c481a1ebf990f6191d3c67112086eff9a226f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176457",
+    "job_title": "Plasma Center Nurse - EMT (Benefits Day 1)",
+    "employer_name": "Takeda",
+    "job_city": "WI - Sheboygan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Sheboygan/Plasma-Center-Nurse---EMT--Benefits-Day-1-_R0176457-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87b8b0fdf81d372fb32677832e8f592029a9ebba3988a3c47b63a116f1f50a91",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176147",
+    "job_title": "Plasma Center Nurse - LPN - English/Spanish Speaking",
+    "employer_name": "Takeda",
+    "job_city": "TX - Spring",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Spring/Plasma-Center-Nurse---LPN---English-Spanish-Speaking_R0176147-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "775ef4e9ccacef5f6aeb1ee7b8d81e2a389f9a2cacc9bb4b666de7a93c0b2131",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176453",
+    "job_title": "Plasma Center Nurse - LPN",
+    "employer_name": "Takeda",
+    "job_city": "IN - Elkhart",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Nurse---LPN_R0176453-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "25cf37c6ae98321105766573ddfdc50a6b618b64acaf4e84326ef38e0491c802",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176463",
+    "job_title": "Plasma Center Nurse – LPN",
+    "employer_name": "Takeda",
+    "job_city": "OH - Findlay",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Findlay/Plasma-Center-Nurse---LPN_R0176463-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2c42a5014bb2fe40e5d8a6a83e9cff641b3d22afc013a4ac1855fbb404360b52",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176169",
+    "job_title": "Plasma Center Nurse – RN",
+    "employer_name": "Takeda",
+    "job_city": "NC - Greensboro",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Greensboro/Plasma-Center-Nurse---RN_R0176169-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ba50c09777d12040b55f9bbab33cd72ef3aaedb02f576379f0eaeffa1f04bf75",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176454",
+    "job_title": "Plasma Center Nurse - RN",
+    "employer_name": "Takeda",
+    "job_city": "IN - Elkhart",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Nurse---RN_R0176454-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4058bcf3a6ef9a3c34d6084508d2c366af190ebb4c999cf1ad0e390c16e51845",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176474",
+    "job_title": "Plasma Center Nurse – RN",
+    "employer_name": "Takeda",
+    "job_city": "FL - Tallahassee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tallahassee/Plasma-Center-Nurse---RN_R0176474-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d2fa5f3b41b77c6db627f83f12fc20ccf15788d6efaee942d1468ee1daa205b1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176470",
+    "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IN - Fort Wayne - Coldwater Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--LPN----Weekday---Weekend-Availability---Immediate-Benefits_R0176470",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "33fab2c7a7cdfe220c3ce06197435beb6b59d52b6167ec011225703e425e466d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176374",
+    "job_title": "Plasma Center Nurse BSN",
+    "employer_name": "Takeda",
+    "job_city": "NJ - Deptford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Plasma-Center-Nurse-RN-LPN_R0176374-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6f5e73ead957af9864d7bf205104789ff1853ec052ecb96801f4670dd8ef93ab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176464",
+    "job_title": "Plasma Center Paramedic – EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "OH - Findlay",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Findlay/Plasma-Center-Paramedic---EMT-P_R0176464-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ecd4ed0b09029c35c1ee7d561c92c7a800c905626c4865831e03dc0cec09ae6e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176467",
+    "job_title": "Plasma Center Paramedic – EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "IN - Elkhart",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Paramedic---EMT-P_R0176467-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2abfcc846a12979158a3762c5620ccaa180ea4581e381707e46c0eda018e9b97",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176472",
+    "job_title": "Plasma Center Paramedic – EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "FL - Tallahassee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tallahassee/Plasma-Center-Paramedic---EMT-P_R0176472",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a2d6eaf1edfa5900e9659d55cf7222104cd9475eb9722784a20f507458e307d2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176303",
+    "job_title": "Plasma Center Technician - Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "OK - Oklahoma City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/Plasma-Center-Technician---Phlebotomist_R0176303-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69f1d1b40067209fc4f217c7a56243edfeacecddb0d4117d57fa6889069f0d26",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176263",
+    "job_title": "Plasma Center Technician-PM",
+    "employer_name": "Takeda",
+    "job_city": "IL - Bolingbrook",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Bolingbrook/Plasma-Center-Technician-PM_R0176263-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "26b29ed25e51eebc0acf68cf5ebe20034b579e495982ef4fe70224a6349a5c42",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176158",
+    "job_title": "Plasma Center Technician/Phlebotomist (On-the-Job Training)",
+    "employer_name": "Takeda",
+    "job_city": "MD - Forestville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Forestville/Plasma-Center-Technician-Phlebotomist--On-the-Job-Training--_R0176158-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "99a6d79ba817ee6ba3438e0f695ff877388d7a6431f9faa1b3871035e9bb4f72",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176122",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "CA - Vista",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Vista/Plasma-Center-Technician_R0176122-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c25a2512d710008f858707465736ad85a9ab46b8ff0bf251b1b3a6d9ba3cfaa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176155",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "TX - Temple",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Temple/Plasma-Center-Technician_R0176155-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "30241d0c2b6c2f2aa49137ba4e4d09b4911768260e2ab4a1b8768075a650277a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176462",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "SC - Spartanburg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Plasma-Center-Technician_R0176462-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d20edc17aaa78e02c7e6e3c54e346036bc96dd84ff3db41ad469c69c9b8ef2d5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176336",
+    "job_title": "RN – 3k Sign On - Day One Medical Benefits",
+    "employer_name": "Takeda",
+    "job_city": "MO - Springfield - Erie St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---Erie-St/RN---3k-Sign-On---Day-One-Medical-Benefits_R0176336-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc0b83fbd46d693496195ae12d76c6b80e39688cd575449f8945761aa9ba381a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176232",
+    "job_title": "RN – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/RN---Day-One-Benefits_R0176232-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "313b9e5cbef1439276d604b9b2e3f4bae2f1966ec8ced81758431710a558ea9d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176227",
+    "job_title": "RN - Predictable Schedule - No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "MO - Saint Peters",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/RN---Predictable-Schedule---No-Overnight-Shifts_R0176227-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3ca0c2b46260a0c6a446a174a3023b0b2033f1cb81d0ffdddd1bfd5fecba93ee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176434",
+    "job_title": "Spanish Speaking Nurse - LPN",
+    "employer_name": "Takeda",
+    "job_city": "TX - Houston - North",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Spanish-Speaking-Nurse---LPN_R0176434-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "350ef5d764e6b31e15979bc76b153c133ecde46a4e0e802e6b80e7c224e32534",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176062",
+    "job_title": "Advanced EMT (AEMT)",
+    "employer_name": "Takeda",
+    "job_city": "LA - Lafayette",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Advanced-EMT--AEMT-_R0176062-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc2476e394950277416291f17c6b0ffee8c39970c93dab5bad95aed9af3bdd41",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176052",
+    "job_title": "Bilingual Plasma Center Nurse",
+    "employer_name": "Takeda",
+    "job_city": "TX - Beaumont",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Beaumont/Bilingual-Plasma-Center-Nurse_R0176052-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5eb5e54ddbbb242bb7c41124ac93768f8537c83f076d271bac2015095e5f9869",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175747",
+    "job_title": "Biolife Licensed Practical Nurse - Loop 410",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Biolife-Licensed-Practical-Nurse---Loop-410_R0175747",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "665c6d684cbea9526941f3c9b2760b976951d83850128e486e1965aab5c7c800",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175751",
+    "job_title": "Biolife Paramedic - Loop 410",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Biolife-Paramedic---Loop-410_R0175751-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "46c2514bdf6404f59ef5d4390e29f17d2877936ff636aad813b4ba24634da861",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175504",
+    "job_title": "EMT-P – No Overnight shifts",
+    "employer_name": "Takeda",
+    "job_city": "TN - Mount Juliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Mount-Juliet/EMT-P---No-Overnight-shifts_R0175504-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "36781677f4f60260d8eb7e1e82166b562b47002edfae232016ebd88c77cfc974",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175516",
+    "job_title": "EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "OH - Columbus - Bethel Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Columbus---Bethel-Rd/EMT-P_R0175516-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "61a29c65dc9caef09440a6fd448d8e839816422fee39d1648caa5315fafeddbb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175992",
+    "job_title": "EMT-Paramedic - Bonus Available",
+    "employer_name": "Takeda",
+    "job_city": "TX - Kyle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Kyle/EMT-Paramedic---Bonus-Available_R0175992-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8d4c8eef6ad7d5d3eb9d09b0fbaa8ce64316de4918d5e1808518124163b659c2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.679Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175597",
+    "job_title": "Entry Level Phlebotomy",
+    "employer_name": "Takeda",
+    "job_city": "MN - Waite Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Waite-Park/Entry-Level-Phlebotomy_R0175597-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af525af8331a060ee5887b5309c2b1c948f1c532c2d3a2f2397feab92458c627",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -16783,6 +16811,370 @@
     "job_posted_at": "2026-04-03T07:05:06.677Z"
   },
   {
+    "job_id": "workday-takeda-R0177710",
+    "job_title": "Paramedic – 2k Sign On Bonus – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "IL - Fairview Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Fairview-Heights/Paramedic---2k-Sign-On-Bonus---No-Overnight-Shifts_R0177710-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "df51e457aa0e9ea713047a1b9bd38f45fefc30860de07935735913d218b2404e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177703",
+    "job_title": "Paramedic – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "WI - Janesville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Paramedic---No-Overnight-Shifts_R0177703",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "16b912402ab81b2a46de9472b248b844631c7c76391c9bed16ab803e79620aee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177687",
+    "job_title": "Plasma Center Nurse – LPN ($2,000 Sign on Bonus)",
+    "employer_name": "Takeda",
+    "job_city": "NC - Fayetteville - Morgan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Fayetteville---Morgan/Plasma-Center-Nurse---LPN---2-000-Sign-on-Bonus-_R0177687-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bd82de2430b3889e5608a577dc0bf7045fb2219351a6ac3f1499ccf811ad3b8e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177702",
+    "job_title": "Plasma Center Nurse - RN - Sign-On Bonus Eligible",
+    "employer_name": "Takeda",
+    "job_city": "GA - Kennesaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Kennesaw/Plasma-Center-Nurse---RN---Sign-On-Bonus-Eligible_R0177702",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "feb3b6e52d2ea2e96abe27813903e7e1143df07c06b36ff19b2a5fceccb8f4ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177715",
+    "job_title": "Plasma Center Nurse - RN - Sign-On Bonus Eligible",
+    "employer_name": "Takeda",
+    "job_city": "GA - Kennesaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Kennesaw/Plasma-Center-Nurse---RN---Sign-On-Bonus-Eligible_R0177715-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "feb3b6e52d2ea2e96abe27813903e7e1143df07c06b36ff19b2a5fceccb8f4ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177683",
+    "job_title": "Plasma Center Technician (Part Time)",
+    "employer_name": "Takeda",
+    "job_city": "CO - Loveland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Loveland/Plasma-Center-Technician_R0177683-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c272b9799bd10883a35730b81cc33a39fb28076e7de61c77c0249161fda95d42",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177697",
+    "job_title": "Registered Nurse (RN), Part-Time – Afternoon/Evening Shifts & Weekend Rotation",
+    "employer_name": "Takeda",
+    "job_city": "TX - Georgetown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Registered-Nurse--RN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177697-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "baeb5f68eb2a4c7ef7bee777f05ae32093435d73f6c1e1ed95e958f88ae57332",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177699",
+    "job_title": "EMT – I – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "WI - Janesville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/EMT---I---No-Overnight-Shifts_R0177699-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "01d9245a38071092ea3a79be78faf0e46db7489357c6ec7280b2438ab732c22f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177711",
+    "job_title": "EMT-P Humble, TX",
+    "employer_name": "Takeda",
+    "job_city": "TX - Humble",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Humble/EMT-P-Humble--TX_R0177711-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c326306540f009ddafe11b6d4082b8ba20fbdbb86ab1d861f432ce836774863d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177307",
+    "job_title": "Entry Level Phlebotomist - Paid Training",
+    "employer_name": "Takeda",
+    "job_city": "MI - Livonia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Livonia/Entry-Level-Phlebotomist---Paid-Training_R0177307-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5365afaa9feacbaf4b40465f7fdc985800669f61ca421ec502b257c2bbb5c28b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177333",
+    "job_title": "Entry Level Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "IL - Villa Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Villa-Park/Entry-Level-Phlebotomist_R0177333-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3ba0b999c00e56c64d21d8f65e9867c6aeb0e6179cf3a9a751000ca5b5a57e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177219",
+    "job_title": "Licensed Practical Nurse - Part-Time",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Licensed-Practical-Nurse---Part-Time_R0177219-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c021de0def14f75bad620a45fa1def9f884a412b0cc61490ce3ea82c561d7ba3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177757",
+    "job_title": "Assistant Manager",
+    "employer_name": "Takeda",
+    "job_city": "VA - Colonial Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Colonial-Heights/Assistant-Manager_R0177757",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f94ea200cc6a0f4a5eeb9912a0e95532c371208ec62799154ffd6d7bf5a708fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.677Z"
+  },
+  {
     "job_id": "workday-takeda-R0177735",
     "job_title": "Center Supervisor",
     "employer_name": "Takeda",
@@ -17271,370 +17663,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4364e1993805bbcf95587f6d62a92a9aaac920460c437cf4485c4f4c68fe869b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177710",
-    "job_title": "Paramedic – 2k Sign On Bonus – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "IL - Fairview Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Fairview-Heights/Paramedic---2k-Sign-On-Bonus---No-Overnight-Shifts_R0177710-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "df51e457aa0e9ea713047a1b9bd38f45fefc30860de07935735913d218b2404e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177703",
-    "job_title": "Paramedic – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "WI - Janesville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Paramedic---No-Overnight-Shifts_R0177703",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "16b912402ab81b2a46de9472b248b844631c7c76391c9bed16ab803e79620aee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177687",
-    "job_title": "Plasma Center Nurse – LPN ($2,000 Sign on Bonus)",
-    "employer_name": "Takeda",
-    "job_city": "NC - Fayetteville - Morgan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Fayetteville---Morgan/Plasma-Center-Nurse---LPN---2-000-Sign-on-Bonus-_R0177687-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bd82de2430b3889e5608a577dc0bf7045fb2219351a6ac3f1499ccf811ad3b8e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177702",
-    "job_title": "Plasma Center Nurse - RN - Sign-On Bonus Eligible",
-    "employer_name": "Takeda",
-    "job_city": "GA - Kennesaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Kennesaw/Plasma-Center-Nurse---RN---Sign-On-Bonus-Eligible_R0177702",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "feb3b6e52d2ea2e96abe27813903e7e1143df07c06b36ff19b2a5fceccb8f4ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177715",
-    "job_title": "Plasma Center Nurse - RN - Sign-On Bonus Eligible",
-    "employer_name": "Takeda",
-    "job_city": "GA - Kennesaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Kennesaw/Plasma-Center-Nurse---RN---Sign-On-Bonus-Eligible_R0177715-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "feb3b6e52d2ea2e96abe27813903e7e1143df07c06b36ff19b2a5fceccb8f4ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177683",
-    "job_title": "Plasma Center Technician (Part Time)",
-    "employer_name": "Takeda",
-    "job_city": "CO - Loveland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Loveland/Plasma-Center-Technician_R0177683-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c272b9799bd10883a35730b81cc33a39fb28076e7de61c77c0249161fda95d42",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177697",
-    "job_title": "Registered Nurse (RN), Part-Time – Afternoon/Evening Shifts & Weekend Rotation",
-    "employer_name": "Takeda",
-    "job_city": "TX - Georgetown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Registered-Nurse--RN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177697-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "baeb5f68eb2a4c7ef7bee777f05ae32093435d73f6c1e1ed95e958f88ae57332",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177699",
-    "job_title": "EMT – I – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "WI - Janesville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/EMT---I---No-Overnight-Shifts_R0177699-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "01d9245a38071092ea3a79be78faf0e46db7489357c6ec7280b2438ab732c22f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177711",
-    "job_title": "EMT-P Humble, TX",
-    "employer_name": "Takeda",
-    "job_city": "TX - Humble",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Humble/EMT-P-Humble--TX_R0177711-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c326306540f009ddafe11b6d4082b8ba20fbdbb86ab1d861f432ce836774863d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177307",
-    "job_title": "Entry Level Phlebotomist - Paid Training",
-    "employer_name": "Takeda",
-    "job_city": "MI - Livonia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Livonia/Entry-Level-Phlebotomist---Paid-Training_R0177307-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5365afaa9feacbaf4b40465f7fdc985800669f61ca421ec502b257c2bbb5c28b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177333",
-    "job_title": "Entry Level Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "IL - Villa Park",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Villa-Park/Entry-Level-Phlebotomist_R0177333-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e3ba0b999c00e56c64d21d8f65e9867c6aeb0e6179cf3a9a751000ca5b5a57e6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177219",
-    "job_title": "Licensed Practical Nurse - Part-Time",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Licensed-Practical-Nurse---Part-Time_R0177219-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c021de0def14f75bad620a45fa1def9f884a412b0cc61490ce3ea82c561d7ba3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.677Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177757",
-    "job_title": "Assistant Manager",
-    "employer_name": "Takeda",
-    "job_city": "VA - Colonial Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Colonial-Heights/Assistant-Manager_R0177757",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f94ea200cc6a0f4a5eeb9912a0e95532c371208ec62799154ffd6d7bf5a708fb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -18410,6 +18438,34 @@
     "job_posted_at": "2026-04-02T21:09:10.054Z"
   },
   {
+    "job_id": "workday-takeda-R0177665",
+    "job_title": "RN - 2k Sign On Bonus -  Predictable Schedule - No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "MO - Saint Peters",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/RN---2k-Sign-On-Bonus----Predictable-Schedule---No-Overnight-Shifts_R0177665-1",
+    "job_posted_at_datetime_utc": "2026-04-02T20:20:41.857Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "74c56239af628dec1f994c189d0c00729351363bedceb82125e06f4a05b6c68f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T20:20:41.857Z"
+  },
+  {
     "job_id": "workday-takeda-R0177663",
     "job_title": "BioLife Nurse",
     "employer_name": "Takeda",
@@ -18450,34 +18506,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "701a046bc90ec75f6eaa5c5798622e07a7a3fcd69a9524e14774ed62bdd55ab7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T20:20:41.857Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177665",
-    "job_title": "RN - 2k Sign On Bonus -  Predictable Schedule - No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "MO - Saint Peters",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Peters/RN---2k-Sign-On-Bonus----Predictable-Schedule---No-Overnight-Shifts_R0177665-1",
-    "job_posted_at_datetime_utc": "2026-04-02T20:20:41.857Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "74c56239af628dec1f994c189d0c00729351363bedceb82125e06f4a05b6c68f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -20522,34 +20550,6 @@
     "job_posted_at": "2026-04-02T07:01:36.566Z"
   },
   {
-    "job_id": "workday-abbott-31145934",
-    "job_title": "Supervisor Complaint Handling",
-    "employer_name": "Abbott",
-    "job_city": "California - Alameda",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Supervisor-Complaint-Handling_31145934-1",
-    "job_posted_at_datetime_utc": "2026-04-02T07:01:36.566Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec46045d9caae572c699dac42dfa6d1c41366ba6b6c7076b31ac62fc85ae3d6a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:01:36.566Z"
-  },
-  {
     "job_id": "workday-abbott-31144895",
     "job_title": "Processing Panel Operator - 2nd shift, Mon-Fri",
     "employer_name": "Abbott",
@@ -20571,6 +20571,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:01:36.566Z"
+  },
+  {
+    "job_id": "workday-abbott-31145934",
+    "job_title": "Supervisor Complaint Handling",
+    "employer_name": "Abbott",
+    "job_city": "California - Alameda",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Supervisor-Complaint-Handling_31145934-1",
+    "job_posted_at_datetime_utc": "2026-04-02T07:01:36.566Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec46045d9caae572c699dac42dfa6d1c41366ba6b6c7076b31ac62fc85ae3d6a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -22091,34 +22119,6 @@
     "job_posted_at": "2026-04-01T07:03:22.981Z"
   },
   {
-    "job_id": "workday-guidehouse-37631",
-    "job_title": "Admitting Representative, Emergency Department – Part Time",
-    "employer_name": "Guidehouse",
-    "job_city": "CA, Ventura",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Admitting-Representative--Emergency-Department---Part-Time_37631",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:01.334Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "427bb330ab3b8c72a46c45637e5b3358b547ff969e64ccf532554f01ac1f7d8b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:01.334Z"
-  },
-  {
     "job_id": "workday-guidehouse-37795",
     "job_title": "Patient Account Representative",
     "employer_name": "Guidehouse",
@@ -22159,6 +22159,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4140b03f6796d07f0355d6baf306f1b09c5ab037f56fae67b6cc45053a594d1a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:01.334Z"
+  },
+  {
+    "job_id": "workday-guidehouse-37631",
+    "job_title": "Admitting Representative, Emergency Department – Part Time",
+    "employer_name": "Guidehouse",
+    "job_city": "CA, Ventura",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Admitting-Representative--Emergency-Department---Part-Time_37631",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:01.334Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "427bb330ab3b8c72a46c45637e5b3358b547ff969e64ccf532554f01ac1f7d8b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -22598,6 +22626,62 @@
     "job_posted_at": "2026-04-01T07:01:48.251Z"
   },
   {
+    "job_id": "workday-abbott-31145747",
+    "job_title": "Clinical Specialist, Endovascular - CO/WY/UT/MT",
+    "employer_name": "Abbott",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Denver/Clinical-Specialist--Endovascular---CO-WY-UT-MT_31145747-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:01:36.567Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "41b77f70ecaf2c13e3900c3ec0561230f9bae9f715175b5ee8a91cfdbb2970f6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:01:36.567Z"
+  },
+  {
+    "job_id": "workday-abbott-31146083",
+    "job_title": "Manufacutring Operator - Night Shift - Altavista, VA Plant",
+    "employer_name": "Abbott",
+    "job_city": "Virginia - Altavista",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Manufacutring-Operator---Night-Shift---Altavista--VA-Plant_31146083-2",
+    "job_posted_at_datetime_utc": "2026-04-01T07:01:36.567Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eac105193db333cf6f836d473f795bad899fe720a7e6aa39b40dff94b7ae34d3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:01:36.567Z"
+  },
+  {
     "job_id": "workday-abbott-31146225",
     "job_title": "(GMP) Maintenance - Supervisor - Casa Grande, AZ",
     "employer_name": "Abbott",
@@ -22666,62 +22750,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "13a90e415327b658898f4fc9635850dc752d0803f8843b35365f9303318422d1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:01:36.567Z"
-  },
-  {
-    "job_id": "workday-abbott-31145747",
-    "job_title": "Clinical Specialist, Endovascular - CO/WY/UT/MT",
-    "employer_name": "Abbott",
-    "job_city": "6 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Denver/Clinical-Specialist--Endovascular---CO-WY-UT-MT_31145747-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:01:36.567Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "41b77f70ecaf2c13e3900c3ec0561230f9bae9f715175b5ee8a91cfdbb2970f6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:01:36.567Z"
-  },
-  {
-    "job_id": "workday-abbott-31146083",
-    "job_title": "Manufacutring Operator - Night Shift - Altavista, VA Plant",
-    "employer_name": "Abbott",
-    "job_city": "Virginia - Altavista",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Manufacutring-Operator---Night-Shift---Altavista--VA-Plant_31146083-2",
-    "job_posted_at_datetime_utc": "2026-04-01T07:01:36.567Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eac105193db333cf6f836d473f795bad899fe720a7e6aa39b40dff94b7ae34d3",
     "tags": {
       "employment": "entry_level",
       "domains": [
