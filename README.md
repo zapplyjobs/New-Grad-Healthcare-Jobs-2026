@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-826-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-829-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-42-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-554-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-557-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,9 +69,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Registered Nurse RN | MN - Mankato | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Registered-Nurse-RN_R0177908-1) |
-| 🏢 **Takeda** | Plasma Center Nurse – RN | FL - Gainesville | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Gainesville/Plasma-Center-Nurse---RN_R0177909-1) |
-| 🏢 **Takeda** | Plasma Center Nurse - (RN) | VA - Harrisonburg | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Plasma-Center-Nurse----RN-_R0177900-1) |
+| 🏢 **Takeda** | Registered Nurse RN | MN - Mankato | 38m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Registered-Nurse-RN_R0177908-1) |
+| 🏢 **Takeda** | Plasma Center Nurse – RN | FL - Gainesville | 38m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Gainesville/Plasma-Center-Nurse---RN_R0177909-1) |
+| 🏢 **Takeda** | Plasma Center Nurse - (RN) | VA - Harrisonburg | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Plasma-Center-Nurse----RN-_R0177900-1) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Albany, NY | New York - Poughk... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Poughkeepsie/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-York--NY_31137792) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockville, IA; Ottumwa, IA | Iowa - Dubuque | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Iowa---Dubuque/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockville--IA_31130715) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Juneau, AK | Alaska - Juneau | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Alaska---Juneau/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairbanks--AK_31128000) |
@@ -104,9 +104,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | LPN - $2,500 Sign On Bonus | NE - Omaha | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/LPN----2-500-Sign-On-Bonus_R0177913-1) |
-| 🏢 **Takeda** | Licensed Pracitical Nurse LPN | MN - Mankato | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Licensed-Pracitical-Nurse-LPN_R0177911-1) |
-| 🏢 **Takeda** | Licensed Practical Nurse (LPN) | VA - Harrisonburg | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Licensed-Practical-Nurse--LPN-_R0177902-1) |
+| 🏢 **Takeda** | LPN - $2,500 Sign On Bonus | NE - Omaha | 38m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/LPN----2-500-Sign-On-Bonus_R0177913-1) |
+| 🏢 **Takeda** | Licensed Pracitical Nurse LPN | MN - Mankato | 38m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Licensed-Pracitical-Nurse-LPN_R0177911-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse (LPN) | VA - Harrisonburg | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Licensed-Practical-Nurse--LPN-_R0177902-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -132,10 +132,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Abbott** | Specimen Processor | Louisiana - Gretna | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Louisiana---Gretna/Specimen-Processor_31146181-1) |
-| 🏢 **Takeda** | On Site Paramedic | MN - Mankato | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0177910-1) |
-| 🏢 **Takeda** | Paramedic - $2,500 Sign On Bonus | NE - Omaha | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Paramedic----2-500-Sign-On-Bonus_R0177912-1) |
-| 🏢 **Takeda** | BioLife Nurse | MN - Moorhead | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/BioLife-Nurse_R0177907-1) |
+| 🏢 **Takeda** | Entry Level Phlebotomy | AZ - Glendale | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Glendale/Entry-Level-Phlebotomy_R0177916-1) |
+| 🏢 **Takeda** | Medical Screener - Spanish Speaking | AZ - Glendale | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Glendale/Medical-Screener---Spanish-Speaking_R0177914-1) |
+| 🏢 **Takeda** | Phlebotomist - Spanish Speaking | AZ - Glendale | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Glendale/Phlebotomist---Spanish-Speaking_R0177917-1) |
+| 🏢 **Abbott** | Specimen Processor | Louisiana - Gretna | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Louisiana---Gretna/Specimen-Processor_31146181-1) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Account Specialist (Atlanta, GA) - Johnson & Johnson MedTech, Electrophysiology | Atlanta | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Atlanta-Georgia-United-States/Associate-Clinical-Account-Specialist--Atlanta--GA----Johnson---Johnson-MedTech--Electrophysiology_R-063024) |
 | 🏢 **Intuitive** | Clinical Territory Associate | Allentown, PA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119214656) |
 | 🏢 **Leidos** | Military Family Life Counselor - (Adult) | San Diego, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Military-Family-Life-Counselor----Adult-_R-00165957) |
@@ -146,16 +146,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Guidepoint** | Client Success - Healthcare Corporate Specialist (NYC) | New York | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8342632002) |
 | 🏢 **Veolia Environnement SA** | Hazardous Waste Process Planner Chemist | Port Acres, TX | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000119188288) |
 | 🏢 **Guidehouse** | Clinical Documentation Integrity Specialist - Remote | Remote | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Documentation-Integrity-Specialist---Remote_37521) |
-| 🏢 **Abbott** | Associate Clinical Specialist - Phoenix, AZ | Arizona - Phoenix | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Associate-Clinical-Specialist---Phoenix--AZ_31146725-1) |
-| 🏢 **Abbott** | Clinical Specialist | Minnesota - Minne... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist_31142969-1) |
+| 🏢 **Abbott** | Associate Clinical Specialist - Phoenix, AZ | Arizona - Phoenix | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Associate-Clinical-Specialist---Phoenix--AZ_31146725-1) |
+| 🏢 **Abbott** | Clinical Specialist | Minnesota - Minne... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist_31142969-1) |
 | 🏢 **Intuitive** | Clinical Territory Associate | Baltimore, MD | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119180018) |
 | 🏢 **AbbVie** | Oncology Specialist - Connecticut | Stamford, CT | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012488046) |
 | 🏢 **AbbVie** | Oncology Specialist - Connecticut | Providence, RI | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012487816) |
 | 🏢 **AbbVie** | Oncology Specialist - Connecticut | Hartford, CT | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012487736) |
 | 🏢 **Intuitive** | Endoluminal Sales Representative | Nashville, TN | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119174826) |
 | 🏢 **Medtronic** | Cardiac Rhythm Management Clinical Specialist - Fort Wayne, IN | Fort Wayne | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fort-Wayne-Indiana-United-States-of-America/Cardiac-Rhythm-Management-Clinical-Specialist---Fort-Wayne--IN_R63603-1) |
-| 🏢 **Leidos** | Short Term or As Needed Coverage - MFLC Counselor - Des Moines, Iowa | Des Moines, WA | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Des-Moines-WA/Short-Term-or-As-Needed-Coverage---MFLC-Counselor---Des-Moines--Iowa_R-00180142) |
-| 🏢 **EVERSANA** | Copy Supervisor (oncology DTP experience is required) | Chicago, IL | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000119158877) |
+| 🏢 **Leidos** | Short Term or As Needed Coverage - MFLC Counselor - Des Moines, Iowa | Des Moines, WA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Des-Moines-WA/Short-Term-or-As-Needed-Coverage---MFLC-Counselor---Des-Moines--Iowa_R-00180142) |
+| 🏢 **EVERSANA** | Copy Supervisor (oncology DTP experience is required) | Chicago, IL | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000119158877) |
 | 🏢 **Medtronic** | Associate Clinical Specialist, CRM - Houston | Houston | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Associate-Clinical-Specialist--CRM---Houston_R63623) |
 | 🏢 **Guidehouse** | Patient Account Rep   Special Billing | AL, Birmingham | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Rep---Special-Billing_37629) |
 | 🏢 **FLIR Systems** | Laboratory Technician 2 | Knoxville, TN, TN | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Knoxville-TN/Laboratory-Technician-2_REQ34128) |
@@ -201,9 +201,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Hinge Health** | Physical Therapist, Pelvic Health (Flex) | Remote | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/1e4f194d-67e9-457c-89ce-387355f2e500/application) |
 | 🏢 **Hinge Health** | Health Economist | San Francisco-HQ | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/2c5c58a9-5176-4ca7-b6bc-a832a375ea2f/application) |
 | 🏢 **Hinge Health** | Physical Therapist (Flex) | Remote | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/7ff16616-1323-48a3-a9d0-408851d17179/application) |
-| 🏢 **Included Health** | Mental Health Therapist | New York, NY | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/4592a33b-3545-4615-8625-94c0645c582a/apply) |
-| 🏢 **Included Health** | Mental Health Therapist | Pennsylvania | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/49388cfa-e860-41d2-ab8a-b19d59e025b5/apply) |
 | 🏢 **Included Health** | Mental Health Therapist | Massachusetts | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/c628a50b-9412-43d8-af5e-82b0cbd1c97c/apply) |
+| 🏢 **Included Health** | Mental Health Therapist | Virginia | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/cf53b4dd-8e28-49cd-9845-fac2f05ee0f3/apply) |
+| 🏢 **Included Health** | Mental Health Therapist | Georgia | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply) |
 | 🏢 **Candid Health** | Medical Biller | Remote | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/6c2029b2-ea83-4cdd-95e7-a5e3c45234ac/application) |
 | 🏢 **Wellmark, Inc.** | Imaging Specialist | Des Moines, IA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000118241618) |
 | 🏢 **Benchling** | Software Engineer, Full Stack (Chemistry) | San Francisco, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/benchling/0229ae3c-438c-419b-a283-48450e041810/application) |
@@ -267,7 +267,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 826 current opportunities from 42 companies**
+**🎯 829 current opportunities from 42 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
