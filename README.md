@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-801-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-805-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-39-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-537-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-541-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Nurse | CO - Colorado Spr... | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Colorado-Springs---Sou/Plasma-Center-Nurse_R0177872-1) |
+| 🏢 **Takeda** | Plasma Center Nurse | CO - Colorado Spr... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Colorado-Springs---Sou/Plasma-Center-Nurse_R0177872-1) |
 | 🏢 **Takeda** | Plasma Center Nurse- 5K Sign On Bonus | IA - Cedar Falls | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Cedar-Falls/LPN---5K-Sign-On-Bonus_R0177868-1) |
 | 🏢 **Takeda** | Registered Nurse | IA - Cedar Falls | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Cedar-Falls/Registered-Nurse_R0177867) |
 | 🏢 **EVERSANA** | Home Infusion RN- Per Diem | Miami, FL | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000118947136) |
@@ -105,8 +105,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Licensed Practical Nurse *Sign on Bonus Eligible! | GA - Columbus | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Columbus/Licensed-Practical-Nurse--Sign-on-Bonus-Eligible-_R0177873-1) |
-| 🏢 **Takeda** | Plasma Center Medical Support LPN - (Bilingual - Spanish/English) | CO - Colorado Spr... | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Colorado-Springs---Sou/Plasma-Center-Medical-Support-LPN----Bilingual---Spanish-English-_R0177870-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse *Sign on Bonus Eligible! | GA - Columbus | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Columbus/Licensed-Practical-Nurse--Sign-on-Bonus-Eligible-_R0177873-1) |
+| 🏢 **Takeda** | Plasma Center Medical Support LPN - (Bilingual - Spanish/English) | CO - Colorado Spr... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Colorado-Springs---Sou/Plasma-Center-Medical-Support-LPN----Bilingual---Spanish-English-_R0177870-1) |
 | 🏢 **Takeda** | Licensed Practical Nurse - Sign-On Bonus Eligible | GA - Kennesaw | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Kennesaw/Licensed-Practical-Nurse---Sign-On-Bonus-Eligible_R0177726-1) |
 
 <p align="center">Apply for more jobs at</p>
@@ -133,28 +133,29 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Paramedic - EMT-P | SC - Greenville | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Greenville/Plasma-Center-Paramedic---EMT-P_R0177877) |
-| 🏢 **Abbott** | Clinical Specialist | Minnesota - Minne... | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist_31142969-1) |
-| 🏢 **Takeda** | Plasma Center Supervisor | MA - Attleboro | 34m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Attleboro/Plasma-Center-Supervisor_R0177875-1) |
-| 🏢 **Intuitive** | Clinical Territory Associate | Baltimore, MD | 41m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119180018) |
-| 🏢 **AbbVie** | Oncology Specialist - Connecticut | Stamford, CT | 51m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012488046) |
-| 🏢 **AbbVie** | Oncology Specialist - Connecticut | Providence, RI | 52m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012487816) |
-| 🏢 **AbbVie** | Oncology Specialist - Connecticut | Hartford, CT | 53m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012487736) |
-| 🏢 **Takeda** | Plasma Center Medical Support EMT-P - (Bilingual - Spanish/English) | CO - Colorado Spr... | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Colorado-Springs---Sou/Plasma-Center-Medical-Support-EMT-P----Bilingual---Spanish-English-_R0177874-1) |
-| 🏢 **Abbott** | Clinical Specialist, Vessel Closure in North Boston | Massachusetts - B... | 59m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Boston/Clinical-Specialist--Vessel-Closure-in-North-Boston_31146133-1) |
-| 🏢 **Abbott** | Clinical Associate | Texas - Tyler | 59m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Tyler/Clinical-Associate_31131441-1) |
+| 🏢 **Takeda** | Plasma Center Paramedic – EMT-P | FL - Gainesville | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Gainesville/Plasma-Center-Paramedic---EMT-P_R0177879-1) |
+| 🏢 **Takeda** | Plasma Center Paramedic - EMT-P | GA - Morrow | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Morrow/Plasma-Center-Paramedic---EMT-P_R0177878-1) |
+| 🏢 **Guidehouse** | Clinical Documentation Integrity Specialist - Remote | Remote | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Documentation-Integrity-Specialist---Remote_37521) |
+| 🏢 **Abbott** | Associate Clinical Specialist - Phoenix, AZ | Arizona - Phoenix | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Associate-Clinical-Specialist---Phoenix--AZ_31146725-1) |
+| 🏢 **Takeda** | Plasma Center Paramedic - EMT-P | SC - Greenville | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Greenville/Plasma-Center-Paramedic---EMT-P_R0177877) |
+| 🏢 **Abbott** | Clinical Specialist | Minnesota - Minne... | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist_31142969-1) |
+| 🏢 **Intuitive** | Clinical Territory Associate | Baltimore, MD | 56m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119180018) |
+| 🏢 **AbbVie** | Oncology Specialist - Connecticut | Stamford, CT | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012488046) |
+| 🏢 **AbbVie** | Oncology Specialist - Connecticut | Providence, RI | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012487816) |
+| 🏢 **AbbVie** | Oncology Specialist - Connecticut | Hartford, CT | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012487736) |
+| 🏢 **Abbott** | Clinical Specialist, Vessel Closure in North Boston | Massachusetts - B... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Boston/Clinical-Specialist--Vessel-Closure-in-North-Boston_31146133-1) |
 | 🏢 **Intuitive** | Endoluminal Sales Representative | Nashville, TN | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119174826) |
 | 🏢 **Medtronic** | Cardiac Rhythm Management Clinical Specialist - Fort Wayne, IN | Fort Wayne | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fort-Wayne-Indiana-United-States-of-America/Cardiac-Rhythm-Management-Clinical-Specialist---Fort-Wayne--IN_R63603-1) |
 | 🏢 **Leidos** | Short Term or As Needed Coverage - MFLC Counselor - Des Moines, Iowa | Des Moines, WA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Des-Moines-WA/Short-Term-or-As-Needed-Coverage---MFLC-Counselor---Des-Moines--Iowa_R-00180142) |
 | 🏢 **EVERSANA** | Copy Supervisor (oncology DTP experience is required) | Chicago, IL | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000119158877) |
 | 🏢 **Medtronic** | Associate Clinical Specialist, CRM - Houston | Houston | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Associate-Clinical-Specialist--CRM---Houston_R63623) |
 | 🏢 **Guidehouse** | Patient Account Rep   Special Billing | AL, Birmingham | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Rep---Special-Billing_37629) |
-| 🏢 **FLIR Systems** | Laboratory Technician 2 | Knoxville, TN, TN | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Knoxville-TN/Laboratory-Technician-2_REQ34128) |
+| 🏢 **FLIR Systems** | Laboratory Technician 2 | Knoxville, TN, TN | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Knoxville-TN/Laboratory-Technician-2_REQ34128) |
 | 🏢 **Thermo Fisher Scientific** | Scientist, Formulations | Collegeville | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/Scientist--Formulations_R-01348633) |
 | 🏢 **Thermo Fisher Scientific** | Paramedic | Austin | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Paramedic_R-01326587) |
-| 🏢 **Johnson & Johnson** | Oncology Sales Specialist - Los Angeles, CA - Johnson & Johnson Innovative Medicine | Los Angeles | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Oncology-Sales-Specialist---Los-Angeles--CA---Johnson---Johnson-Innovative-Medicine_R-062801) |
-| 🏢 **IDEXX** | Histology Technician (Per Diem/Casual) | Elmhurst, IL | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Elmhurst-IL/Histology-Technician--Per-Diem-Casual-_J-052266) |
-| 🏢 **Johnson & Johnson** | Associate / Area Clinical Consultant  – Chicago North - Johnson & Johnson MedTech, Heart Recovery | Chicago | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Chicago-Illinois-United-States/Associate---Area-Clinical-Consultant----Chicago-South---Johnson---Johnson-MedTech--Heart-Recovery_R-049526-1) |
+| 🏢 **Johnson & Johnson** | Oncology Sales Specialist - Los Angeles, CA - Johnson & Johnson Innovative Medicine | Los Angeles | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Oncology-Sales-Specialist---Los-Angeles--CA---Johnson---Johnson-Innovative-Medicine_R-062801) |
+| 🏢 **IDEXX** | Histology Technician (Per Diem/Casual) | Elmhurst, IL | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Elmhurst-IL/Histology-Technician--Per-Diem-Casual-_J-052266) |
+| 🏢 **Johnson & Johnson** | Associate / Area Clinical Consultant  – Chicago North - Johnson & Johnson MedTech, Heart Recovery | Chicago | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Chicago-Illinois-United-States/Associate---Area-Clinical-Consultant----Chicago-South---Johnson---Johnson-MedTech--Heart-Recovery_R-049526-1) |
 | 🏢 **Thermo Fisher Scientific** | Scientist, Biomarkers | Collegeville | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/Scientist--Biomarkers_R-01347270) |
 | 🏢 **Merck & Co.** | Oncology Sales Specialist - Boise, ID / Spokane, WA | 3 Locations | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Idaho---Boise/Oncology-Sales-Specialist---Boise--ID---Spokane--WA_R391205) |
 | 🏢 **Medtronic** | Prin. Clinical Specialist - Superficial Venous Interventions (SVI) - Ft. Lauderdale, FL | Fort Lauderdale | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fort-Lauderdale-Florida-United-States-of-America/Prin-Clinical-Specialist---Superficial-Venous-Interventions--SVI----Ft-Lauderdale--FL_R62820-2) |
@@ -163,8 +164,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Globus Medical** | Associate Spine Specialist (South Bay, CA) | California | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/California/Associate-Spine-Specialist--South-Bay--CA-_JR106399) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Greater Albany, NY) | New York | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/New-York/Associate-Spine-Specialist--Greater-Albany--NY-_JR106394) |
 | 🏢 **Johnson & Johnson** | Associate VELYS Clinical Specialist- Joints, North Central | 8 Locations | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Wisconsin-Any-City/Associate-VELYS-Clinical-Specialist--Joints--North-Central_R-068479-1) |
-| 🏢 **Guidehouse** | Patient Account Rep   Hospital Billing and Follow Up, Commercial | AL, Birmingham | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Rep---Hospital-Billing-and-Follow-Up--Commercial_35585) |
-| 🏢 **EVERSANA** | Nurse Navigator - Remote | Yardley, PA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000118942677) |
+| 🏢 **EVERSANA** | Nurse Navigator - Remote | Yardley, PA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000118942677) |
 | 🏢 **Exact Sciences** | Sample Processing Associate - 3rd Shift | WI - Madison | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Sample-Processing-Associate---3rd-Shift_R26-12976-1) |
 | 🏢 **Leidos** | Military Family Life Counselor (Child Development Center/Child Youth Center) | San Diego, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Military-Family-Life-Counselor--Child-Development-Center-Child-Youth-Center--_R-00180057) |
 | 🏢 **KBR** | Special Operations Physical Therapist (San Diego, CA) | San Diego | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/San-Diego-California/Special-Operations-Physical-Therapist--San-Diego--CA-_R2121412) |
@@ -265,7 +265,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 801 current opportunities from 39 companies**
+**🎯 805 current opportunities from 39 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
