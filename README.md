@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-809-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-41-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-541-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-807-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-39-blue?style=flat&logo=building)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-539-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,10 +69,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bridgewater, NJ; Willingboro, NJ | New Jersey - Pate... | 58m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Paterson/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Paterson--NJ_31142458) |
+| 🏢 **Takeda** | RN Nurse Health Screener | WI - Green Bay - ... | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Green-Bay---Isbell-St/RN-Nurse-Health-Screener_R0177982) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bridgewater, NJ; Willingboro, NJ | New Jersey - Pate... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Paterson/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Paterson--NJ_31142458) |
 | 🏢 **Takeda** | Plasma Center Nurse- LPN | IA - Waterloo | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Waterloo/Plasma-Center-Nurse--LPN_R0177966-1) |
 | 🏢 **Takeda** | Registered Nurse RN | MN - Mankato | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Registered-Nurse-RN_R0177908-1) |
-| 🏢 **Takeda** | Plasma Center Nurse – RN | FL - Gainesville | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Gainesville/Plasma-Center-Nurse---RN_R0177909-1) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Albany, NY | New York - Poughk... | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Poughkeepsie/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-York--NY_31137792) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockville, IA; Ottumwa, IA | Iowa - Dubuque | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Iowa---Dubuque/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockville--IA_31130715) |
 | 🏢 **EVERSANA** | Home Infusion RN- Per Diem | Miami, FL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000118947136) |
@@ -103,7 +103,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Takeda** | Licensed Practical Nurse – Day One Benefits | IA - Waterloo | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Waterloo/Licensed-Practical-Nurse---Day-One-Benefits_R0177964-1) |
-| 🏢 **Takeda** | Medical Support Specialist - LPN | TX - San Antonio ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---LPN_R0177954-1) |
+| 🏢 **Takeda** | Medical Support Specialist - LPN | TX - San Antonio ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---LPN_R0177954-1) |
 | 🏢 **Takeda** | LPN - $2,500 Sign On Bonus | NE - Omaha | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/LPN----2-500-Sign-On-Bonus_R0177913-1) |
 
 <p align="center">Apply for more jobs at</p>
@@ -128,13 +128,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **IDEXX** | Medical Laboratory Technician 3rd Shift Parasitology | North Grafton, MA | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/North-Grafton-MA/Medical-Laboratory-Technician-3rd-Shift-Parasitology_J-052566) |
-| 🏢 **KBR** | Special Operations Strength and Conditioning Specialist (1 SOW/Hurlburt Field, FL) | Hurlburt Field | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hurlburt-Field-Florida/Special-Operations-Strength-and-Conditioning-Specialist--1-SOW-Hurlburt-Field--FL-_R2121609) |
-| 🏢 **Takeda** | Medical Screener | NC - Charlotte | 39m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Charlotte/Medical-Screener_R0177974-1) |
-| 🏢 **Guidehouse** | Cash Poster - Payment Posting - Healthcare Claims | TX, San Antonio | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Cash-Poster---Payment-Posting---Healthcare-Claims_38219) |
+| 🏢 **Takeda** | EMT-P Health Screener | WI - Green Bay - ... | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Green-Bay---Isbell-St/EMT-P-Health-Screener_R0177983-1) |
+| 🏢 **IDEXX** | Medical Laboratory Technician 3rd Shift Parasitology | North Grafton, MA | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/North-Grafton-MA/Medical-Laboratory-Technician-3rd-Shift-Parasitology_J-052566) |
+| 🏢 **KBR** | Special Operations Strength and Conditioning Specialist (1 SOW/Hurlburt Field, FL) | Hurlburt Field | 45m | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hurlburt-Field-Florida/Special-Operations-Strength-and-Conditioning-Specialist--1-SOW-Hurlburt-Field--FL-_R2121609) |
+| 🏢 **Takeda** | Medical Screener | NC - Charlotte | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Charlotte/Medical-Screener_R0177974-1) |
+| 🏢 **Guidehouse** | Cash Poster - Payment Posting - Healthcare Claims | TX, San Antonio | 57m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Cash-Poster---Payment-Posting---Healthcare-Claims_38219) |
 | 🏢 **Personalis** | Clinical Lab Scientist 1 (3rd Shift) | Fremont, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7693930003) |
-| 🏢 **Guidehouse** | Medical Biller - Hospital Claims - Healthcare | TX, San Antonio | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Medical-Biller---Hospital-Claims---Healthcare_38216) |
 | 🏢 **Guidehouse** | Credit Balance Specialist - Healthcare Hospital Claims | TX, San Antonio | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Credit-Balance-Specialist---Healthcare-Hospital-Claims_38217) |
+| 🏢 **Guidehouse** | Medical Biller - Hospital Claims - Healthcare | TX, San Antonio | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Medical-Biller---Hospital-Claims---Healthcare_38216) |
 | 🏢 **Johnson & Johnson** | Marketing Specialist, Oncology Hematology - Guaynabo, PR | Guaynabo | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Guaynabo-Puerto-Rico-United-States-of-America/Marketing-Specialist--Oncology-Hematology---Guaynabo--PR_R-066966-1) |
 | 🏢 **Thermo Fisher Scientific** | Associate Scientist, Bioanalytical Methods | Wilmington | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-Delaware-USA/Associate-Scientist--Bioanalytical-Methods_R-01348720) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Consultant or Clinical Consultant (Buffalo, NY) - Johnson & Johnson MedTech – Heart Recovery | Buffalo | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Buffalo-New-York-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant--Buffalo--NY----Johnson---Johnson-MedTech---Heart-Recovery_R-068632-1) |
@@ -146,9 +147,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | Full Time Medical Historian | WI - Pewaukee | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Pewaukee/Full-Time-Medical-Historian_R0177949-1) |
 | 🏢 **Abbott** | Technical Call Center Medical Technologist | Texas - Irving | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Technical-Call-Center-Medical-Technologist_31142676-1) |
 | 🏢 **Morgan Stanley** | Investment Banking Healthcare Associate – New York | New York | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Investment-Banking-Healthcare-Associate---New-York_JR026862-1) |
-| 🏢 **Takeda** | Entry Level Phlebotomist ��� Paid Training | MI - Warren | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Warren/Entry-Level-Phlebotomist---Paid-Training_R0175855-1) |
-| 🏢 **Intuitive** | Endoluminal Territory Associate | Portland, ME | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119386423) |
-| 🏢 **Abbott** | Palletizer Operator - Altavista, VA Plant (3rd Shift) | Virginia - Altavista | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Palletizer-Operator---Altavista--VA-Plant--3rd-Shift-_31146697-1) |
+| 🏢 **Intuitive** | Endoluminal Territory Associate | Portland, ME | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119386423) |
+| 🏢 **Abbott** | Palletizer Operator - Altavista, VA Plant (3rd Shift) | Virginia - Altavista | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Palletizer-Operator---Altavista--VA-Plant--3rd-Shift-_31146697-1) |
 | 🏢 **Abbott** | Stockroom Clerk - 3rd Shift - Altavista Plant | Virginia - Altavista | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Stockroom-Clerk---3rd-Shift---Altavista-Plant_31146598-1) |
 | 🏢 **Leidos** | Military Family Life Counselor - (Adult) | San Diego, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Military-Family-Life-Counselor----Adult-_R-00165957) |
 | 🏢 **Astera Labs** | Hardware Lab Technician | San Jose | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4674410005) |
@@ -187,7 +187,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Exact Sciences** | Future Opportunities - Precision Oncology Sales & Sales Management | Remote | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---Remote/Future-Opportunities---Precision-Oncology-Sales---Sales-Management_R26-12974) |
 | 🏢 **Boeing** | Firefighter Emergency Medical Technician | Berkeley, MO | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Firefighter-Emergency-Medical-Technician_JR2026490971-1) |
 | 🏢 **Boeing** | Occupational Health Physician | Everett, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Occupational-Health-Physician_JR2026494181) |
-| 🏢 **DoorDash** | Specialist, MXO Drive Support | Tempe, AZ | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7646763) |
+| 🏢 **DoorDash** | Specialist, MXO Drive Support | Tempe, AZ | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7646763) |
 | 🏢 **Ro** | Ro Pharmacy Interview Day! Friday, April 10 & Saturday, April 11 | Romeoville, IL | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/e71c39dc-4053-47f2-9466-cb756d6cbd52/apply) |
 | 🏢 **Ro** | Compounding Pharmacy Technician - Boynton Beach, FL (Temp) | Boynton Beach, FL | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90/apply) |
 | 🏢 **EVERSANA** | Pharmacy Technician | Chesterfield, MO | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000118439602) |
@@ -206,8 +206,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Included Health** | Mental Health Therapist | Pennsylvania | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/49388cfa-e860-41d2-ab8a-b19d59e025b5/apply) |
 | 🏢 **Included Health** | Mental Health Therapist | Massachusetts | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/c628a50b-9412-43d8-af5e-82b0cbd1c97c/apply) |
 | 🏢 **Candid Health** | Medical Biller | Remote | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/6c2029b2-ea83-4cdd-95e7-a5e3c45234ac/application) |
-| 🏢 **Wellmark, Inc.** | Imaging Specialist | Des Moines, IA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000118241618) |
-| 🏢 **Benchling** | Software Engineer, Full Stack (Chemistry) | San Francisco, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/benchling/0229ae3c-438c-419b-a283-48450e041810/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -263,7 +261,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 809 current opportunities from 41 companies**
+**🎯 807 current opportunities from 39 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
