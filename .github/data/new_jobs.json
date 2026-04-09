@@ -3395,62 +3395,6 @@
     "job_posted_at": "2026-04-07T07:09:37.194Z"
   },
   {
-    "job_id": "workday-takeda-R0177912",
-    "job_title": "Paramedic - $2,500 Sign On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Paramedic----2-500-Sign-On-Bonus_R0177912-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:09:06.901Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ee54a108b64dec731d085f2f6d40db1ef712d898b84c8796c209225eb37220e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:09:06.901Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177908",
-    "job_title": "Registered Nurse RN",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mankato",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Registered-Nurse-RN_R0177908-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:09:06.901Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c823d6201baef74bbf134bac858e428422254e0dccc0cd03f1dfd1a314f3b924",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:09:06.901Z"
-  },
-  {
     "job_id": "workday-takeda-R0177917",
     "job_title": "Phlebotomist - Bilingual Spanish",
     "employer_name": "Takeda",
@@ -3900,7 +3844,7 @@
   },
   {
     "job_id": "workday-takeda-R0177869",
-    "job_title": "Paramedic/EMT-P �� 5K Sign on Bonus",
+    "job_title": "Paramedic/EMT-P – 5K Sign on Bonus",
     "employer_name": "Takeda",
     "job_city": "IA - Cedar Falls",
     "job_state": "",
@@ -3910,7 +3854,7 @@
     "job_posted_at_datetime_utc": "2026-04-07T07:09:06.901Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "822f825e4f940cce974d14a431fd1a140c5a1264ca7c1b5daad06206090852cf",
+    "fingerprint": "ab457934dc27ff356ba091e017e853fc34c593d66e975325edd7b610431bbbc4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4191,6 +4135,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d005706d3f7d72f1105c06fb87096b4fd1ef8b83d88c69e193c7f019ea0c078c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:09:06.901Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177912",
+    "job_title": "Paramedic - $2,500 Sign On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Paramedic----2-500-Sign-On-Bonus_R0177912-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:09:06.901Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7ee54a108b64dec731d085f2f6d40db1ef712d898b84c8796c209225eb37220e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:09:06.901Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177908",
+    "job_title": "Registered Nurse RN",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mankato",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Registered-Nurse-RN_R0177908-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:09:06.901Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c823d6201baef74bbf134bac858e428422254e0dccc0cd03f1dfd1a314f3b924",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6352,6 +6352,34 @@
     "job_posted_at": "2026-04-06T07:06:34.836Z"
   },
   {
+    "job_id": "workday-globus-medical-JR106393",
+    "job_title": "Associate Spine Specialist (Ft Myers + Naples, FL)",
+    "employer_name": "Globus Medical",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Florida/Associate-Spine-Specialist--Ft-Myers---Naples--FL-_JR106393",
+    "job_posted_at_datetime_utc": "2026-04-06T07:06:34.764Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0616c864f8f3a32920b50d1adff49154977d38fb5b89a9201ea9ee3fda60a636",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:06:34.764Z"
+  },
+  {
     "job_id": "workday-globus-medical-JR106399",
     "job_title": "Associate Spine Specialist (South Bay, CA)",
     "employer_name": "Globus Medical",
@@ -6392,34 +6420,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "876f57e97f7c883503be9aba620bc418ce073a5766550a10730b04e13f61efcf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:06:34.764Z"
-  },
-  {
-    "job_id": "workday-globus-medical-JR106393",
-    "job_title": "Associate Spine Specialist (Ft Myers + Naples, FL)",
-    "employer_name": "Globus Medical",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Florida/Associate-Spine-Specialist--Ft-Myers---Naples--FL-_JR106393",
-    "job_posted_at_datetime_utc": "2026-04-06T07:06:34.764Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0616c864f8f3a32920b50d1adff49154977d38fb5b89a9201ea9ee3fda60a636",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6490,63 +6490,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-06T07:06:05.676Z"
-  },
-  {
-    "job_id": "workday-abbott-31146496",
-    "job_title": "Boiler Operator, Energy Center - 2nd shift",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Boiler-Operator--Energy-Center---2nd-shift_31146496",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:12.422Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "17a5fa59db06a77b862d55562406c0052dfefa31f52ccbfe9c86b27a3dc8a7d9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:12.422Z"
-  },
-  {
-    "job_id": "workday-abbott-31143372",
-    "job_title": "Clinical Specialist, CRM - Georgia",
-    "employer_name": "Abbott",
-    "job_city": "Georgia - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Remote/Clinical-Specialist--CRM---Georgia_31143372",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:12.422Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b2cc0bf8bfb4f85c95549a785cd56df44cf30ac701b3e21c9c602dfb3734faea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:12.422Z"
   },
   {
     "job_id": "workday-abbott-31146397",
@@ -6626,6 +6569,63 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:12.422Z"
+  },
+  {
+    "job_id": "workday-abbott-31146496",
+    "job_title": "Boiler Operator, Energy Center - 2nd shift",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Boiler-Operator--Energy-Center---2nd-shift_31146496",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:12.422Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "17a5fa59db06a77b862d55562406c0052dfefa31f52ccbfe9c86b27a3dc8a7d9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:12.422Z"
+  },
+  {
+    "job_id": "workday-abbott-31143372",
+    "job_title": "Clinical Specialist, CRM - Georgia",
+    "employer_name": "Abbott",
+    "job_city": "Georgia - Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Remote/Clinical-Specialist--CRM---Georgia_31143372",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:12.422Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b2cc0bf8bfb4f85c95549a785cd56df44cf30ac701b3e21c9c602dfb3734faea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -15796,342 +15796,6 @@
     "job_posted_at": "2026-04-03T07:05:06.679Z"
   },
   {
-    "job_id": "workday-takeda-R0176252",
-    "job_title": "Licensed Practical Nurse - Immediate Benefits - Bilingual",
-    "employer_name": "Takeda",
-    "job_city": "CO - Thornton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Licensed-Practical-Nurse---Immediate-Benefits---Bilingual_R0176252-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d20b5bd65222b621a1b08d905c035e713793c65e8d2b0118b9cad6dd30eb7ba",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.678Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176185",
-    "job_title": "Licensed Practical Nurse",
-    "employer_name": "Takeda",
-    "job_city": "IA - Davenport",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/Licensed-Practical-Nurse_R0176185-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8b8de87617bfb8b5e3cb0b44c88986044eab9f6ca0f33f01d51b1a1cf5bd9c52",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.678Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176327",
-    "job_title": "Licensed Practical Nurse",
-    "employer_name": "Takeda",
-    "job_city": "WI - Greenfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Licensed-Practical-Nurse_R0176327-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9dc9d0e85841cebfcce1377da797b1dfbbb70ac0ce1d63a22a58ac204415c45d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.678Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176309",
-    "job_title": "Medical Historian/Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "IL - Bolingbrook",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Bolingbrook/Medical-Historian-Phlebotomist_R0176309-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8290a0d7d3f16b1e98ef0a147c6dfa0dfcef0d363909d9c0ad02cf1fd44a5b0f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.678Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176228",
-    "job_title": "Medical Historian",
-    "employer_name": "Takeda",
-    "job_city": "MO - Saint Louis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Louis/Medical-Historian_R0176228-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4b746851c05f0dfdcb229bd13b96ccacf2b80ce7b5bbf61a273ff7a86d40d88a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.678Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176264",
-    "job_title": "Medical Screener - Paid Training",
-    "employer_name": "Takeda",
-    "job_city": "IL - Bolingbrook",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Bolingbrook/Medical-Screener---Paid-Training_R0176264-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6ec21fd1659b995ced75ebc9a3849a3f7df529f98c93754d092e7cf7c68e55fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.678Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176371",
-    "job_title": "Medical Screener, Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Phoenix",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Medical-Screener--Phlebotomist_R0176371-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7db3fcba9729ce2e55a535d5aaa25d4daee40a669487117d369ae0f83a9d49ff",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.678Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176144",
-    "job_title": "Medical Screener/Phlebotomist – Paid Training!",
-    "employer_name": "Takeda",
-    "job_city": "CO - Aurora",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Medical-Screener-Phlebotomist---Paid-Training-_R0176144-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d8c9520f13230f70b0f7c3ea77dbeed95c3fcc624480c99ba7ede01eb80a95a9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.678Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176258",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "IL - Villa Park",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Villa-Park/Medical-Screener_R0176258",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2b6bf447a22cb00b921ef9e8cdf77a3257d97df2d9ea59154a1550a225764199",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.678Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176307",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "TN - Chattanooga",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Chattanooga/Medical-Screener_R0176307-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d52a0214f87fdc7cd452039e005f15aacb163cf751955d384a48dcfe64927c9c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.678Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176331",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "WI - Janesville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Medical-Screener_R0176331-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0aa49f841ff9c2232b1f21ea10e6ac2e4d91a3c26e6b68bd64c86194184c6324",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.678Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176332",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "IL - Joliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Medical-Screener_R0176332-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "780959e457388c7ccc03333ff097ebe7a41f37143811714142d471bb5570a6a7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:05:06.678Z"
-  },
-  {
     "job_id": "workday-takeda-R0176338",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
@@ -20277,6 +19941,342 @@
     "job_posted_at": "2026-04-03T07:05:06.678Z"
   },
   {
+    "job_id": "workday-takeda-R0176252",
+    "job_title": "Licensed Practical Nurse - Immediate Benefits - Bilingual",
+    "employer_name": "Takeda",
+    "job_city": "CO - Thornton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Licensed-Practical-Nurse---Immediate-Benefits---Bilingual_R0176252-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d20b5bd65222b621a1b08d905c035e713793c65e8d2b0118b9cad6dd30eb7ba",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.678Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176185",
+    "job_title": "Licensed Practical Nurse",
+    "employer_name": "Takeda",
+    "job_city": "IA - Davenport",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/Licensed-Practical-Nurse_R0176185-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8b8de87617bfb8b5e3cb0b44c88986044eab9f6ca0f33f01d51b1a1cf5bd9c52",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.678Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176327",
+    "job_title": "Licensed Practical Nurse",
+    "employer_name": "Takeda",
+    "job_city": "WI - Greenfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Licensed-Practical-Nurse_R0176327-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9dc9d0e85841cebfcce1377da797b1dfbbb70ac0ce1d63a22a58ac204415c45d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.678Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176309",
+    "job_title": "Medical Historian/Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "IL - Bolingbrook",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Bolingbrook/Medical-Historian-Phlebotomist_R0176309-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8290a0d7d3f16b1e98ef0a147c6dfa0dfcef0d363909d9c0ad02cf1fd44a5b0f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.678Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176228",
+    "job_title": "Medical Historian",
+    "employer_name": "Takeda",
+    "job_city": "MO - Saint Louis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Saint-Louis/Medical-Historian_R0176228-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4b746851c05f0dfdcb229bd13b96ccacf2b80ce7b5bbf61a273ff7a86d40d88a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.678Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176264",
+    "job_title": "Medical Screener - Paid Training",
+    "employer_name": "Takeda",
+    "job_city": "IL - Bolingbrook",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Bolingbrook/Medical-Screener---Paid-Training_R0176264-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6ec21fd1659b995ced75ebc9a3849a3f7df529f98c93754d092e7cf7c68e55fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.678Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176371",
+    "job_title": "Medical Screener, Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Phoenix",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Medical-Screener--Phlebotomist_R0176371-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7db3fcba9729ce2e55a535d5aaa25d4daee40a669487117d369ae0f83a9d49ff",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.678Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176144",
+    "job_title": "Medical Screener/Phlebotomist – Paid Training!",
+    "employer_name": "Takeda",
+    "job_city": "CO - Aurora",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Medical-Screener-Phlebotomist---Paid-Training-_R0176144-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d8c9520f13230f70b0f7c3ea77dbeed95c3fcc624480c99ba7ede01eb80a95a9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.678Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176258",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "IL - Villa Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Villa-Park/Medical-Screener_R0176258",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b6bf447a22cb00b921ef9e8cdf77a3257d97df2d9ea59154a1550a225764199",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.678Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176307",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "TN - Chattanooga",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Chattanooga/Medical-Screener_R0176307-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d52a0214f87fdc7cd452039e005f15aacb163cf751955d384a48dcfe64927c9c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.678Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176331",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "WI - Janesville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Medical-Screener_R0176331-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0aa49f841ff9c2232b1f21ea10e6ac2e4d91a3c26e6b68bd64c86194184c6324",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.678Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176332",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Medical-Screener_R0176332-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:05:06.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "780959e457388c7ccc03333ff097ebe7a41f37143811714142d471bb5570a6a7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:05:06.678Z"
+  },
+  {
     "job_id": "workday-takeda-R0176528",
     "job_title": "Part Time Registered Nurse, RN",
     "employer_name": "Takeda",
@@ -21145,6 +21145,62 @@
     "job_posted_at": "2026-04-03T07:04:51.520Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01345525",
+    "job_title": "Medical Associate (Per Diem)",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Medical-Associate--Per-Diem-_R-01345525",
+    "job_posted_at_datetime_utc": "2026-04-03T07:04:51.520Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "07cca5759c6e8d0234a0159459e6ce98e0d093d5761e55b4466f62724fba5b61",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:04:51.520Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01345529",
+    "job_title": "Medical Associate (Per Diem)",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Medical-Associate--Per-Diem-_R-01345529",
+    "job_posted_at_datetime_utc": "2026-04-03T07:04:51.520Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "07cca5759c6e8d0234a0159459e6ce98e0d093d5761e55b4466f62724fba5b61",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:04:51.520Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01346959",
     "job_title": "FSP - Scientist - Sample Management",
     "employer_name": "Thermo Fisher Scientific",
@@ -21242,62 +21298,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "db6da49de3e8a649457655d698a67b7e9a4e79a75a3932fb90b73f0a416701e1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:04:51.520Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01345525",
-    "job_title": "Medical Associate (Per Diem)",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Medical-Associate--Per-Diem-_R-01345525",
-    "job_posted_at_datetime_utc": "2026-04-03T07:04:51.520Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "07cca5759c6e8d0234a0159459e6ce98e0d093d5761e55b4466f62724fba5b61",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:04:51.520Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01345529",
-    "job_title": "Medical Associate (Per Diem)",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Medical-Associate--Per-Diem-_R-01345529",
-    "job_posted_at_datetime_utc": "2026-04-03T07:04:51.520Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "07cca5759c6e8d0234a0159459e6ce98e0d093d5761e55b4466f62724fba5b61",
     "tags": {
       "employment": "entry_level",
       "domains": [
