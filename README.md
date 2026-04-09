@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-822-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-823-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-31-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-538-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-539-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,9 +69,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Nurse - RN | IN - Elkhart | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Nurse---RN_R0178105-1) |
-| 🏢 **Takeda** | Plasma Center Nurse RN | GA - Morrow | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Morrow/Plasma-Center-Nurse-RN_R0178101) |
-| 🏢 **Takeda** | Plasma Center Nurse - LPN | IN - Elkhart | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Nurse---LPN_R0178103-1) |
+| 🏢 **Takeda** | Plasma Center Nurse - RN | IN - Elkhart | 39m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Nurse---RN_R0178105-1) |
+| 🏢 **Takeda** | Plasma Center Nurse RN | GA - Morrow | 39m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Morrow/Plasma-Center-Nurse-RN_R0178101) |
+| 🏢 **Takeda** | Plasma Center Nurse - LPN | IN - Elkhart | 39m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Nurse---LPN_R0178103-1) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Honolulu, HI | Hawaii - Honolulu | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Hawaii---Honolulu/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Honolulu--HI_31146276) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockland, MI | Michigan - Traver... | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Traverse-City/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockland--MI_31146063) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND | North Dakota - Fargo | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064) |
@@ -116,27 +116,27 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **AbbVie** | Clinical Research Associate I | Salt Lake City, UT | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012538487) |
-| 🏢 **Takeda** | Lab Sample Receiving Technician - 2nd Shift | GA - Social Circl... | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Social-Circle---Baxter-Pkwy/Lab-Sample-Receiving-Technician---2nd-Shift_R0178106) |
-| 🏢 **AbbVie** | Associate Scientist I, Analytical Development | San Diego, CA | 53m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012537726) |
+| 🏢 **Takeda** | Part Time Entry Level Phlebotomist - Rochester-Spencerport  NY | NY - Rochester | 13m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Rochester/Part-Time-Entry-Level-Phlebotomist---Rochester-Spencerport--NY_R0178109-1) |
+| 🏢 **AbbVie** | Clinical Research Associate I | Salt Lake City, UT | 35m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012538487) |
+| 🏢 **Takeda** | Lab Sample Receiving Technician - 2nd Shift | GA - Social Circl... | 39m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Social-Circle---Baxter-Pkwy/Lab-Sample-Receiving-Technician---2nd-Shift_R0178106) |
+| 🏢 **AbbVie** | Associate Scientist I, Analytical Development | San Diego, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012537726) |
 | 🏢 **Takeda** | Entry Level Phlebotomist/Medical Screener | AL - Birmingham | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AL---Birmingham/Entry-Level-Phlebotomist-Medical-Screener_R0178094-1) |
 | 🏢 **Thermo Fisher Scientific** | MSAT Scientist (Technology Transfer) | Greenville | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/MSAT-Scientist--Technology-Transfer-_R-01348283) |
 | 🏢 **Entegris** | Scientist I, Research Associate | San Luis Obispo, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Scientist-I--Research-Associate_REQ-11212) |
-| 🏢 **Takeda** | Bilingual Paramedic (EMT P) | TX - Beaumont | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Beaumont/Bilingual-Paramedic--EMT-P-_R0178088-1) |
-| 🏢 **IDEXX** | Veterinary Laboratory Technician | Langhorne, PA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Langhorne-PA/Veterinary-Laboratory-Technician_J-051605) |
+| 🏢 **IDEXX** | Veterinary Laboratory Technician | Langhorne, PA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Langhorne-PA/Veterinary-Laboratory-Technician_J-051605) |
 | 🏢 **Intuitive** | Clinical Territory Associate - Future Opportunity | Austin, TX | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119677142) |
 | 🏢 **Merck & Co.** | Companion Animal Territory Representative - Johnson City/Kingsport, TN | REMOTE - REMOTE | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---REMOTE---REMOTE/Companion-Animal-Territory-Representative---Johnson-City-Kingsport--TN_R392706-1) |
 | 🏢 **Merck & Co.** | Scientist, Pharmacokinetics | Pennsylvania - We... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Scientist--Pharmacokinetics_R393012-2) |
-| 🏢 **Johnson & Johnson** | Associate Clinical Consultant or Clinical Consultant (Raleigh, NC) - Johnson & Johnson MedTech – Heart Recovery | Raleigh | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raleigh-North-Carolina-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant--Raleigh--NC----Johnson---Johnson-MedTech---Heart-Recovery_R-068426-1) |
-| 🏢 **IDEXX** | R&D Verification and Validation Laboratory Technician | Westbrook, ME | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/R-D-Verification-and-Validation-Laboratory-Technician_J-052140) |
+| 🏢 **Johnson & Johnson** | Associate Clinical Consultant or Clinical Consultant (Raleigh, NC) - Johnson & Johnson MedTech – Heart Recovery | Raleigh | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raleigh-North-Carolina-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant--Raleigh--NC----Johnson---Johnson-MedTech---Heart-Recovery_R-068426-1) |
+| 🏢 **IDEXX** | R&D Verification and Validation Laboratory Technician | Westbrook, ME | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/R-D-Verification-and-Validation-Laboratory-Technician_J-052140) |
 | 🏢 **Johnson & Johnson** | Oncology Clinical Educator, Solid Tumors – Upstate NY | 3 Locations | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Syracuse-New-York-United-States/Oncology-Clinical-Educator--Solid-Tumors---Upstate-NY_R-068744-1) |
 | 🏢 **ResMed** | Advanced Specialist, Regulatory Product Strategy & Delivery (Remote) | San Diego, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Advanced-Specialist--Regulatory-Product-Strategy---Delivery--Remote-_JR_050050) |
-| 🏢 **AbbVie** | Associate I, Clinical Pharmacology Scientific Support & Reporting | North Chicago, IL | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012529561) |
+| 🏢 **AbbVie** | Associate I, Clinical Pharmacology Scientific Support & Reporting | North Chicago, IL | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012529561) |
 | 🏢 **EVERSANA** | Medical Information Specialist | Overland Park, KS | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000119613294) |
 | 🏢 **Medtronic** | Patient Access Support Specialist | Minneapolis | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Patient-Access-Support-Specialist_R63730-1) |
-| 🏢 **Philips** | DMS Clinical Support Specialist | Remote Based, Uni... | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/DMS-Clinical-Support-Specialist_573486) |
-| 🏢 **Johnson & Johnson** | Associate Area Manager or Area Manager (Atlanta West) Johnson & Johnson MedTech, Heart Recovery | Atlanta | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Atlanta-Georgia-United-States/Associate-Area-Manager-Area-Manager---Atlanta-West---Johnson---Johnson-MedTech--Heart-Recovery_R-065040-2) |
-| 🏢 **Abbott** | CAD Technician - Sturgis, MI Plant | Michigan - Sturgis | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Sturgis/CAD-Technician---Sturgis--MI-Plant_31146717-1) |
+| 🏢 **Philips** | DMS Clinical Support Specialist | Remote Based, Uni... | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/DMS-Clinical-Support-Specialist_573486) |
+| 🏢 **Johnson & Johnson** | Associate Area Manager or Area Manager (Atlanta West) Johnson & Johnson MedTech, Heart Recovery | Atlanta | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Atlanta-Georgia-United-States/Associate-Area-Manager-Area-Manager---Atlanta-West---Johnson---Johnson-MedTech--Heart-Recovery_R-065040-2) |
+| 🏢 **Abbott** | CAD Technician - Sturgis, MI Plant | Michigan - Sturgis | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Sturgis/CAD-Technician---Sturgis--MI-Plant_31146717-1) |
 | 🏢 **Medtronic** | Clinical Specialist- Pelvic Health - Macon, GA | Macon | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Macon-Georgia-United-States-of-America/Clinical-Specialist--Pelvic-Health---Macon--GA_R62049-1) |
 | 🏢 **Thermo Fisher Scientific** | Quality Engineer - Clinical Labeling | Bohemia | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bohemia-New-York-USA/Quality-Engineer---Clinical-Labeling_R-01340356) |
 | 🏢 **IDEXX** | Microbiology Laboratory Technician | West Sacramento, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/Microbiology-Laboratory-Technician_J-051990) |
@@ -235,7 +235,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 822 current opportunities from 31 companies**
+**🎯 823 current opportunities from 31 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
