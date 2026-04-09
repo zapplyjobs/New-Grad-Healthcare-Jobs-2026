@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-812-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-813-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-32-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-533-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-534-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,11 +69,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Honolulu, HI | Hawaii - Honolulu | 58m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Hawaii---Honolulu/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Honolulu--HI_31146276) |
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockland, MI | Michigan - Traver... | 58m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Traverse-City/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockland--MI_31146063) |
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND | North Dakota - Fargo | 58m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064) |
-| 🏢 **Takeda** | Paramedic – No Overnight Shifts | IA - Dubuque | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Paramedic---No-Overnight-Shifts_R0178052-1) |
-| 🏢 **Johnson & Johnson** | Field Clinical Specialist - Shockwave Medical (Northern Virginia) | 4 Locations | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Fairfax-Virginia-United-States/Field-Clinical-Specialist---Shockwave-Medical--Northern-Virginia-_R-068431-1) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Honolulu, HI | Hawaii - Honolulu | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Hawaii---Honolulu/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Honolulu--HI_31146276) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockland, MI | Michigan - Traver... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Traverse-City/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockland--MI_31146063) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND | North Dakota - Fargo | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064) |
+| 🏢 **Takeda** | Paramedic – No Overnight Shifts | IA - Dubuque | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Paramedic---No-Overnight-Shifts_R0178052-1) |
+| 🏢 **Johnson & Johnson** | Field Clinical Specialist - Shockwave Medical (Northern Virginia) | 4 Locations | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Fairfax-Virginia-United-States/Field-Clinical-Specialist---Shockwave-Medical--Northern-Virginia-_R-068431-1) |
 | 🏢 **Takeda** | Full Time or Part Time Nurse, RN | AZ - Tucson - Auto | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Tucson---Auto/Full-Time-or-Part-Time-Nurse--RN_R0178024) |
 | 🏢 **Takeda** | Plasma Center Nurse LPN | SC - Spartanburg | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Plasma-Center-Nurse-LPN_R0178023-1) |
 | 🏢 **EVERSANA** | Home Infusion RN- Per Diem | Miami, FL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000118947136) |
@@ -102,7 +102,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Licensed Practical Nurse - Excellent Benefits Day One | IA - Dubuque | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Licensed-Practical-Nurse---Excellent-Benefits-Day-One_R0178050) |
+| 🏢 **Takeda** | Licensed Practical Nurse - Excellent Benefits Day One | IA - Dubuque | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Licensed-Practical-Nurse---Excellent-Benefits-Day-One_R0178050) |
 | 🏢 **Takeda** | Part Time or Full Time Nurse, LPN | AZ - Tucson - Auto | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Tucson---Auto/Part-Time-or-Full-Time-Nurse--LPN_R0178028-1) |
 | 🏢 **Takeda** | LPN Nurse Health Screener | WI - Green Bay - ... | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Green-Bay---Isbell-St/LPN-Nurse-Health-Screener_R0177985-1) |
 
@@ -116,31 +116,32 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 🏢 **Intuitive** | Clinical Territory Associate - Future Opportunity | Austin, TX | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119677142) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Consultant or Clinical Consultant (Raleigh, NC) - Johnson & Johnson MedTech – Heart Recovery | Raleigh | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raleigh-North-Carolina-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant--Raleigh--NC----Johnson---Johnson-MedTech---Heart-Recovery_R-068426-1) |
 | 🏢 **IDEXX** | R&D Verification and Validation Laboratory Technician | Westbrook, ME | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/R-D-Verification-and-Validation-Laboratory-Technician_J-052140) |
 | 🏢 **Johnson & Johnson** | Oncology Clinical Educator, Solid Tumors – Upstate NY | 3 Locations | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Syracuse-New-York-United-States/Oncology-Clinical-Educator--Solid-Tumors---Upstate-NY_R-068744-1) |
 | 🏢 **Takeda** | Plasma Center Phlebotomist | GA - Warner Robins | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Warner-Robins/Plasma-Center-Phlebotomist_R0178063-1) |
-| 🏢 **ResMed** | Advanced Specialist, Regulatory Product Strategy & Delivery (Remote) | San Diego, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Advanced-Specialist--Regulatory-Product-Strategy---Delivery--Remote-_JR_050050) |
+| 🏢 **ResMed** | Advanced Specialist, Regulatory Product Strategy & Delivery (Remote) | San Diego, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Advanced-Specialist--Regulatory-Product-Strategy---Delivery--Remote-_JR_050050) |
 | 🏢 **AbbVie** | Associate I, Clinical Pharmacology Scientific Support & Reporting | North Chicago, IL | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012529561) |
-| 🏢 **Takeda** | Medical Screener | IA - Dubuque | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Medical-Screener_R0178049-1) |
-| 🏢 **Takeda** | Plasma Care Advocate | IA - Dubuque | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Plasma-Care-Advocate_R0178048-1) |
-| 🏢 **EVERSANA** | Medical Information Specialist | Overland Park, KS | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000119613294) |
+| 🏢 **Takeda** | Medical Screener | IA - Dubuque | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Medical-Screener_R0178049-1) |
+| 🏢 **Takeda** | Plasma Care Advocate | IA - Dubuque | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Plasma-Care-Advocate_R0178048-1) |
+| 🏢 **EVERSANA** | Medical Information Specialist | Overland Park, KS | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000119613294) |
 | 🏢 **Medtronic** | Patient Access Support Specialist | Minneapolis | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Patient-Access-Support-Specialist_R63730-1) |
 | 🏢 **Philips** | DMS Clinical Support Specialist | Remote Based, Uni... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/DMS-Clinical-Support-Specialist_573486) |
 | 🏢 **Johnson & Johnson** | Associate Area Manager or Area Manager (Atlanta West) Johnson & Johnson MedTech, Heart Recovery | Atlanta | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Atlanta-Georgia-United-States/Associate-Area-Manager-Area-Manager---Atlanta-West---Johnson---Johnson-MedTech--Heart-Recovery_R-065040-2) |
 | 🏢 **Abbott** | CAD Technician - Sturgis, MI Plant | Michigan - Sturgis | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Sturgis/CAD-Technician---Sturgis--MI-Plant_31146717-1) |
-| 🏢 **Medtronic** | Clinical Specialist- Pelvic Health - Macon, GA | Macon | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Macon-Georgia-United-States-of-America/Clinical-Specialist--Pelvic-Health---Macon--GA_R62049-1) |
+| 🏢 **Medtronic** | Clinical Specialist- Pelvic Health - Macon, GA | Macon | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Macon-Georgia-United-States-of-America/Clinical-Specialist--Pelvic-Health---Macon--GA_R62049-1) |
 | 🏢 **Thermo Fisher Scientific** | Quality Engineer - Clinical Labeling | Bohemia | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bohemia-New-York-USA/Quality-Engineer---Clinical-Labeling_R-01340356) |
 | 🏢 **AbbVie** | Reporting Specialist I | Tempe, AZ | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012523521) |
 | 🏢 **IDEXX** | Microbiology Laboratory Technician | West Sacramento, CA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/Microbiology-Laboratory-Technician_J-051990) |
-| 🏢 **Abbott** | Associate Clinical Specialist, CRM - Tyler, TX | Texas - Tyler | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Tyler/Associate-Clinical-Specialist--CRM---Tyler--TX_31147046-2) |
-| 🏢 **Thermo Fisher Scientific** | FSP Medical Writer (NA) | Remote | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/FSP-Medical-Writer--NA-_R-01348222) |
+| 🏢 **Abbott** | Associate Clinical Specialist, CRM - Tyler, TX | Texas - Tyler | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Tyler/Associate-Clinical-Specialist--CRM---Tyler--TX_31147046-2) |
+| 🏢 **Thermo Fisher Scientific** | FSP Medical Writer (NA) | Remote | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/FSP-Medical-Writer--NA-_R-01348222) |
 | 🏢 **Abbott** | Clinical Specialist, CRM - Philadelphia, PA | Pennsylvania - Ph... | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Pennsylvania---Philadelphia/Clinical-Specialist--CRM---Philadelphia--PA_31136985-1) |
 | 🏢 **Intuitive** | Clinical Territory Associate - Future Opportunity | Lake Success, NY | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119476669) |
 | 🏢 **Thermo Fisher Scientific** | Project Manager Associate, Client Services | Indianapolis | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Indianapolis-Indiana-USA/Project-Manager-Associate--Client-Services_R-01347517-1) |
 | 🏢 **Philips** | Field Medical Affairs Specialist, West Zone | Remote Based, Uni... | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Field-Medical-Affairs-Specialist--West-Zone_577394) |
 | 🏢 **Philips** | Field Medical Affairs Specialist, East Zone | Remote Based, Uni... | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Field-Medical-Affairs-Specialist--East-Zone_578247-1) |
-| 🏢 **KBR** | Special Operations Clinical Psychologist (Dam Neck, VA) | Virginia Beach | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Virginia-Beach-Virginia/Special-Operations-Clinical-Psychologist--Dam-Neck--VA-_R2121616) |
+| 🏢 **KBR** | Special Operations Clinical Psychologist (Dam Neck, VA) | Virginia Beach | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Virginia-Beach-Virginia/Special-Operations-Clinical-Psychologist--Dam-Neck--VA-_R2121616) |
 | 🏢 **Medtronic** | Associate Clinical Specialist, Cardiac Rhythm Management - Madison, WI | 2 Locations | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Madison-Wisconsin-United-States-of-America/Associate-Clinical-Specialist--Cardiac-Rhythm-Management_R60229-1) |
 | 🏢 **AbbVie** | Associate Scientist II, In Vitro Pharmacology | San Diego, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012515686) |
 | 🏢 **IDEXX** | Medical Laboratory Technician 3rd Shift Parasitology | North Grafton, MA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/North-Grafton-MA/Medical-Laboratory-Technician-3rd-Shift-Parasitology_J-052566) |
@@ -154,7 +155,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Morgan Stanley** | Investment Banking Healthcare Associate – New York | New York | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Investment-Banking-Healthcare-Associate---New-York_JR026862-1) |
 | 🏢 **Intuitive** | Endoluminal Territory Associate | Portland, ME | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119386423) |
 | 🏢 **Astera Labs** | Hardware Lab Technician | San Jose | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4674410005) |
-| 🏢 **Intuitive** | Clinical Territory Associate | Allentown, PA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119214656) |
 | 🏢 **NXP** | EHS Industrial Hygiene and Safety Professional | Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/EHS-Industrial-Hygiene-and-Safety-Professional_R-10062655) |
 | 🏢 **Guidepoint** | Client Success - Healthcare Corporate Specialist (NYC) | New York | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8342632002) |
 | 🏢 **Veolia Environnement SA** | Hazardous Waste Process Planner Chemist | Port Acres, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000119188288) |
@@ -236,7 +236,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 812 current opportunities from 32 companies**
+**🎯 813 current opportunities from 32 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
