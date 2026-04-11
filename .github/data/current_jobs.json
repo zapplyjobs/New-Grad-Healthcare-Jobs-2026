@@ -1916,6 +1916,146 @@
     "job_posted_at": "2026-04-09T13:56:20.088Z"
   },
   {
+    "job_id": "workday-takeda-R0178115",
+    "job_title": "Licensed Nurse, LPN or LVN - Full Time",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Phoenix",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Licensed-Nurse--LPN-or-LVN---Full-Time_R0178115",
+    "job_posted_at_datetime_utc": "2026-04-09T07:50:43.142Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "06959dfac25ba65250b645c260dac8cc49f4182344501cb175870e56b3fc548f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:50:43.142Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178114",
+    "job_title": "Paramedic, EMT-P – Full Time",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Phoenix",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Paramedic--EMT-P---Full-Time_R0178114-1",
+    "job_posted_at_datetime_utc": "2026-04-09T07:50:43.142Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bd0047725afb258f7bf400b211e63b2494242cb6b538d8e1c0b5cd7090b8b64d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:50:43.142Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178113",
+    "job_title": "Part Time Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178113-1",
+    "job_posted_at_datetime_utc": "2026-04-09T07:50:43.142Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:50:43.142Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178116",
+    "job_title": "Registered Nurse, RN",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Phoenix",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Registered-Nurse--RN_R0178116-1",
+    "job_posted_at_datetime_utc": "2026-04-09T07:50:43.142Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf42f4dcff9624da05665bd91c214ce4cabff6d18426677b82a5423ec26e492b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:50:43.142Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178112",
+    "job_title": "Registered Nurse RN",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Registered-Nurse-RN_R0178112",
+    "job_posted_at_datetime_utc": "2026-04-09T07:50:43.142Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e8a19e3d0be7c618fa02233bd6be42c4a2e5e588b2c96157b534776deea59306",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:50:43.142Z"
+  },
+  {
     "job_id": "workday-takeda-R0178084",
     "job_title": "Entry Level Phlebotomist",
     "employer_name": "Takeda",
@@ -2908,146 +3048,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ad0e3a0bf0855ffeab8afabbc163b5528d097c8c0db0c793fd9442c2378dc26e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:50:43.142Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178115",
-    "job_title": "Licensed Nurse, LPN or LVN - Full Time",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Phoenix",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Licensed-Nurse--LPN-or-LVN---Full-Time_R0178115",
-    "job_posted_at_datetime_utc": "2026-04-09T07:50:43.142Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "06959dfac25ba65250b645c260dac8cc49f4182344501cb175870e56b3fc548f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:50:43.142Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178114",
-    "job_title": "Paramedic, EMT-P – Full Time",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Phoenix",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Paramedic--EMT-P---Full-Time_R0178114-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:50:43.142Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bd0047725afb258f7bf400b211e63b2494242cb6b538d8e1c0b5cd7090b8b64d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:50:43.142Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178113",
-    "job_title": "Part Time Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178113-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:50:43.142Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:50:43.142Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178116",
-    "job_title": "Registered Nurse, RN",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Phoenix",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Registered-Nurse--RN_R0178116-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:50:43.142Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf42f4dcff9624da05665bd91c214ce4cabff6d18426677b82a5423ec26e492b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:50:43.142Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178112",
-    "job_title": "Registered Nurse RN",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Registered-Nurse-RN_R0178112",
-    "job_posted_at_datetime_utc": "2026-04-09T07:50:43.142Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e8a19e3d0be7c618fa02233bd6be42c4a2e5e588b2c96157b534776deea59306",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4131,34 +4131,6 @@
     "job_posted_at": "2026-04-09T07:38:31.683Z"
   },
   {
-    "job_id": "workday-idexx-J-050775",
-    "job_title": "Research & Development Clinical Pathologist",
-    "employer_name": "IDEXX",
-    "job_city": "Westbrook",
-    "job_state": "ME",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Research---Development-Clinical-Pathologist_J-050775",
-    "job_posted_at_datetime_utc": "2026-04-09T07:37:38.319Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "acf908ae90834ae3d06987f3499a607f0550e94fcd4e1ab6dae663836ec8406e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:37:38.319Z"
-  },
-  {
     "job_id": "workday-idexx-J-051605",
     "job_title": "Veterinary Laboratory Technician",
     "employer_name": "IDEXX",
@@ -4208,6 +4180,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:37:38.319Z"
+  },
+  {
+    "job_id": "workday-idexx-J-050775",
+    "job_title": "Research & Development Clinical Pathologist",
+    "employer_name": "IDEXX",
+    "job_city": "Westbrook",
+    "job_state": "ME",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Research---Development-Clinical-Pathologist_J-050775",
+    "job_posted_at_datetime_utc": "2026-04-09T07:37:38.319Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "acf908ae90834ae3d06987f3499a607f0550e94fcd4e1ab6dae663836ec8406e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -4727,34 +4727,6 @@
     "job_posted_at": "2026-04-08T07:37:38.319Z"
   },
   {
-    "job_id": "workday-medtronic-R63576",
-    "job_title": "Clinical Specialist - Cardiac Rhythm Management (West Virginia/Pennsylvania)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-West-Virginia-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management--West-Virginia-Pennsylvania-_R63576-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:59.497Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "db4fa58fbe8277d60ab217117695da571a3c8ab4f9c3b053f2f179ee3ce03383",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:59.497Z"
-  },
-  {
     "job_id": "workday-medtronic-R63680",
     "job_title": "Assoc Clinical Specialist CRM - Oklahoma City",
     "employer_name": "Medtronic",
@@ -4795,6 +4767,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d214944409b56d2b27e2786166ff49588af4611e5169a83bb2b0d74fe4ce9941",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:59.497Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63576",
+    "job_title": "Clinical Specialist - Cardiac Rhythm Management (West Virginia/Pennsylvania)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-West-Virginia-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management--West-Virginia-Pennsylvania-_R63576-1",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:59.497Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "db4fa58fbe8277d60ab217117695da571a3c8ab4f9c3b053f2f179ee3ce03383",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9440,34 +9440,6 @@
     "job_posted_at": "2026-04-06T07:08:21.069Z"
   },
   {
-    "job_id": "workday-medtronic-R59398",
-    "job_title": "Executive Clinical Sales Rep- Robotic Surgical Technologies (Texas)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Robotic-Program-Manager---Robotic-Surgical-Technologies--Texas-_R59398-2",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:23.092Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69d964ff3113c6f42c5bb93874e78271ef4f90cb3a3d565c79b0a60be79f24ad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:23.092Z"
-  },
-  {
     "job_id": "workday-medtronic-R62331",
     "job_title": "Assoc Clinical Specialist",
     "employer_name": "Medtronic",
@@ -9545,6 +9517,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:23.092Z"
+  },
+  {
+    "job_id": "workday-medtronic-R59398",
+    "job_title": "Executive Clinical Sales Rep- Robotic Surgical Technologies (Texas)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Robotic-Program-Manager---Robotic-Surgical-Technologies--Texas-_R59398-2",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:23.092Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69d964ff3113c6f42c5bb93874e78271ef4f90cb3a3d565c79b0a60be79f24ad",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -9776,18 +9776,18 @@
     "job_posted_at": "2026-04-06T07:06:59.708Z"
   },
   {
-    "job_id": "workday-guidehouse-38101",
-    "job_title": "Hospital Revenue Cycle  - Supervisors, Medical Billers, Cash Posters, Credit Balance Specialists",
+    "job_id": "workday-guidehouse-35585",
+    "job_title": "Patient Account Rep   Hospital Billing and Follow Up, Commercial",
     "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
+    "job_city": "AL, Birmingham",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Hospital-Revenue-Cycle----Supervisors--Medical-Billers--Cash-Posters--Credit-Balance-Specialists_38101",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Rep---Hospital-Billing-and-Follow-Up--Commercial_35585",
     "job_posted_at_datetime_utc": "2026-04-06T07:06:39.230Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "80acb031b4d7872c2688d2ca0a330fdf60fd772f1be699eb636094f1f8637be0",
+    "fingerprint": "53f855fc8023718c9758cd3e5f43f488f9d4c389e5138cd91f8b430eed547baf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9804,18 +9804,18 @@
     "job_posted_at": "2026-04-06T07:06:39.230Z"
   },
   {
-    "job_id": "workday-guidehouse-35585",
-    "job_title": "Patient Account Rep   Hospital Billing and Follow Up, Commercial",
+    "job_id": "workday-guidehouse-38101",
+    "job_title": "Hospital Revenue Cycle  - Supervisors, Medical Billers, Cash Posters, Credit Balance Specialists",
     "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
+    "job_city": "TX, San Antonio",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Rep---Hospital-Billing-and-Follow-Up--Commercial_35585",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Hospital-Revenue-Cycle----Supervisors--Medical-Billers--Cash-Posters--Credit-Balance-Specialists_38101",
     "job_posted_at_datetime_utc": "2026-04-06T07:06:39.230Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "53f855fc8023718c9758cd3e5f43f488f9d4c389e5138cd91f8b430eed547baf",
+    "fingerprint": "80acb031b4d7872c2688d2ca0a330fdf60fd772f1be699eb636094f1f8637be0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10115,6 +10115,34 @@
     "job_posted_at": "2026-04-06T07:06:05.676Z"
   },
   {
+    "job_id": "workday-abbott-31146397",
+    "job_title": "Operator I",
+    "employer_name": "Abbott",
+    "job_city": "Texas - Plano",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Plano/Operator-I_31146397-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:12.422Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4d2aeda9cddd16329a3dbd1dc614b282f7f8d9223fd03349d32aa9e39355728",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:12.422Z"
+  },
+  {
     "job_id": "workday-abbott-31142061",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -10221,34 +10249,6 @@
         "remote"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:12.422Z"
-  },
-  {
-    "job_id": "workday-abbott-31146397",
-    "job_title": "Operator I",
-    "employer_name": "Abbott",
-    "job_city": "Texas - Plano",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Plano/Operator-I_31146397-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:12.422Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4d2aeda9cddd16329a3dbd1dc614b282f7f8d9223fd03349d32aa9e39355728",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
