@@ -1,7 +1,7 @@
 {
   "registered_nurse": {
     "title": "Registered Nurse",
-    "emoji": "🏥",
+    "emoji": "\ud83c\udfe5",
     "keywords": [
       "registered nurse",
       "rn",
@@ -19,7 +19,7 @@
   },
   "nurse_practitioner": {
     "title": "Nurse Practitioner",
-    "emoji": "⚕️",
+    "emoji": "\u2695\ufe0f",
     "keywords": [
       "nurse practitioner",
       "np",
@@ -36,7 +36,7 @@
   },
   "licensed_practical_nurse": {
     "title": "Licensed Practical Nurse",
-    "emoji": "💉",
+    "emoji": "\ud83d\udc89",
     "keywords": [
       "licensed practical nurse",
       "lpn",
@@ -48,7 +48,7 @@
   },
   "specialized_care": {
     "title": "Specialized Care",
-    "emoji": "🩺",
+    "emoji": "\ud83e\ude7a",
     "keywords": [
       "certified nursing assistant",
       "cna",
@@ -68,7 +68,7 @@
   },
   "medical_support": {
     "title": "Medical Support",
-    "emoji": "👨‍⚕️",
+    "emoji": "\ud83d\udc68\u200d\u2695\ufe0f",
     "keywords": [
       "nurse intern",
       "nursing intern",
@@ -83,9 +83,108 @@
       "transition to practice"
     ]
   },
+  "clinical_research_and_trials": {
+    "title": "Clinical Research & Trials",
+    "emoji": "\ud83d\udd2c",
+    "keywords": [
+      "clinical research associate",
+      "~cra",
+      "clinical research",
+      "clinical trial",
+      "medical science liaison",
+      "~msl",
+      "clinical educator",
+      "regulatory affairs",
+      "pharmacovigilance",
+      "clinical project manager",
+      "clinical data manager"
+    ]
+  },
+  "laboratory_science": {
+    "title": "Laboratory Science & Research",
+    "emoji": "\ud83e\uddea",
+    "keywords": [
+      "scientist",
+      "research associate",
+      "formulation",
+      "chemist",
+      "microbiologist",
+      "laboratory technician",
+      "lab technician",
+      "clinical lab scientist",
+      "medical laboratory technician",
+      "cardiac technician",
+      "verification and validation",
+      "sample management",
+      "histotechnologist",
+      "cytogenetic",
+      "molecular biologist",
+      "lab assistant"
+    ]
+  },
+  "medical_sales_and_affairs": {
+    "title": "Medical Sales & Field Specialists",
+    "emoji": "\ud83d\udcbc",
+    "keywords": [
+      "clinical specialist",
+      "oncology specialist",
+      "spine specialist",
+      "territory associate",
+      "territory representative",
+      "cardiovascular program",
+      "field medical",
+      "medical information specialist",
+      "medical affairs",
+      "customer representative",
+      "medical screener",
+      "clinical support specialist",
+      "product specialist",
+      "associate area manager",
+      "program specialist"
+    ]
+  },
+  "healthcare_admin_and_operations": {
+    "title": "Healthcare Admin & Operations",
+    "emoji": "\ud83d\udccb",
+    "keywords": [
+      "revenue cycle",
+      "hospital admissions",
+      "patient access coordinator",
+      "patient access rep",
+      "claims",
+      "cash poster",
+      "payment posting",
+      "denials",
+      "appeals",
+      "medical billing",
+      "coding specialist",
+      "medical coder",
+      "healthcare analyst",
+      "health informatics",
+      "clinical data analyst",
+      "authorization specialist",
+      "prior authorization"
+    ]
+  },
+  "counseling_and_behavioral_health": {
+    "title": "Counseling & Behavioral Health",
+    "emoji": "\ud83e\udde0",
+    "keywords": [
+      "counselor",
+      "clinical psychologist",
+      "clinical social worker",
+      "behavioral health",
+      "military family life counselor",
+      "mflc",
+      "therapist",
+      "mental health",
+      "psychiatric technician",
+      "substance abuse counselor"
+    ]
+  },
   "general_healthcare": {
     "title": "Healthcare & Clinical",
-    "emoji": "🏥",
+    "emoji": "\ud83c\udfe5",
     "keywords": [
       "medical technologist",
       "mri technologist",
