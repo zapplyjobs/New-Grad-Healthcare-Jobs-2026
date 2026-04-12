@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-379-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-380-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-29-blue?style=flat&logo=building)
 ![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-140-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -157,10 +157,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Exact Sciences** | Regional Oncology Specialist - West Virginia |  | WV Charleston | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WV---Charleston/Regional-Oncology-Specialist---West-Virginia_R26-12494) |
-| 🏢 **Exact Sciences** | Regional Oncology Specialist - Cleveland, OH |  | OH Cleveland | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---OH---Cleveland/Regional-Oncology-Specialist---Cleveland--OH_R26-12843) |
+| 🏢 **Exact Sciences** | Regional Oncology Specialist - West Virginia |  | WV Charleston | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WV---Charleston/Regional-Oncology-Specialist---West-Virginia_R26-12494) |
+| 🏢 **Exact Sciences** | Regional Oncology Specialist - Cleveland, OH |  | OH Cleveland | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---OH---Cleveland/Regional-Oncology-Specialist---Cleveland--OH_R26-12843) |
 | 🏢 **Abbott** | Clinical Specialist, CRM - Hollywood, FL |  | Florida - Hollywood | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Hollywood/Clinical-Specialist--CRM---Hollywood--FL_31147235-1) |
-| 🏢 **Abbott** | Associate Clinical Specialist - Phoenix, AZ |  | Arizona - Phoenix | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Associate-Clinical-Specialist---Phoenix--AZ_31146419-1) |
+| 🏢 **Abbott** | Associate Clinical Specialist - Phoenix, AZ |  | Arizona - Phoenix + 1 more | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Associate-Clinical-Specialist---Phoenix--AZ_31146419-1) |
 | 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Houston, TX |  | Houston | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Clinical-Specialist--Pain-Interventions---Houston--TX_R64101-1) |
 | 🏢 **Takeda** | Medical Screener |  | FL - Tampa + 8 more | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tampa/Medical-Screener_R0178228-1) |
 | 🏢 **Abbott** | Clinical Specialist, Vessel Closure - Tulsa, OK/Wichita, KS |  | United States Okl... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Oklahoma---Tulsa/Clinical-Specialist--Vessel-Closure---Tulsa--OK_31142960-2) |
@@ -198,7 +198,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **athenahealth** | Associate, Revenue Cycle Case & Escalation Management – Posting |  | Boston, MA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Associate--Revenue-Cycle-Case---Escalation-Management---Claim-Resolution--_R14453) |
+| 🏢 **athenahealth** | Associate, Revenue Cycle Case & Escalation Management – Posting |  | Boston, MA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Associate--Revenue-Cycle-Case---Escalation-Management---Claim-Resolution--_R14453) |
 | 🏢 **Guidehouse** | Hospital Admissions Representative- Full time - Onsite |  | CA, Los Angeles | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Los-Angeles/Hospital-Admissions-Representative--Full-time---Onsite_36345) |
 | 🏢 **Guidehouse** | Project Supervisor - Hospital A/R - PFS - Revenue Cycle |  | TX, San Antonio + 1 more | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Project-Supervisor---Hospital-A-R---PFS---Revenue-Cycle_38221) |
 | 🏢 **Guidehouse** | Cash Poster - Payment Posting - Healthcare Claims |  | TX, San Antonio + 1 more | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Cash-Poster---Payment-Posting---Healthcare-Claims_38219) |
@@ -262,8 +262,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intuitive** | Endoluminal Sales Representative |  | Nashville, TN | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119174826) |
 | 🏢 **EVERSANA** | Copy Supervisor (oncology DTP experience is required) |  | Chicago, IL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000119158877) |
 | 🏢 **AbbVie** | Hematology Clinical Account Specialist - Pittsburgh, PA |  | Pittsburgh, PA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012484576) |
-| 🏢 **Guidehouse** | Clinical Documentation Integrity Specialist - Remote |  | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Documentation-Integrity-Specialist---Remote_37521) |
 | 🏢 **Guidehouse** | Patient Account Rep   Special Billing |  | AL, Birmingham | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Rep---Special-Billing_37629) |
+| 🏢 **Guidehouse** | Clinical Documentation Integrity Specialist - Remote |  | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Documentation-Integrity-Specialist---Remote_37521) |
 | 🏢 **IDEXX** | Histology Technician (Per Diem/Casual) |  | Elmhurst, IL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Elmhurst-IL/Histology-Technician--Per-Diem-Casual-_J-052266) |
 | 🏢 **Merck & Co.** | Assoc. Dir , Market Research |  | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Assoc-Dir---Market-Research_R392641-1) |
 | 🏢 **Guidehouse** | Patient Account Representative |  | TX, San Antonio | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Access-Representative_38113) |
@@ -329,7 +329,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 379 current opportunities from 29 companies**
+**🎯 380 current opportunities from 29 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
