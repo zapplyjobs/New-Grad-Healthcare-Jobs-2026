@@ -126,7 +126,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Takeda** | Site Microbiologist |  | Brooklyn Park, MN | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Brooklyn-Park-MN/Site-Microbiologist_R0171761) |
+| 🏢 **Takeda** | Site Microbiologist |  | Brooklyn Park, MN | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Brooklyn-Park-MN/Site-Microbiologist_R0171761) |
 | 🏢 **Thermo Fisher Scientific** | Formulation Scientist I |  | Milwaukee | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Milwaukee-Wisconsin-USA/Formulation-Scientist-I_R-01347009) |
 | 🏢 **IDEXX** | Medical Laboratory Technician (Nights) |  | Portland, OR | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Portland-OR/Medical-Laboratory-Technician-Part-Time-Early-Mornings_J-051228) |
 | 🏢 **AbbVie** | Associate Scientist II/Scientist I, Process Chemistry Separations |  | North Chicago, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012554846) |
@@ -262,8 +262,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intuitive** | Endoluminal Sales Representative |  | Nashville, TN | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119174826) |
 | 🏢 **EVERSANA** | Copy Supervisor (oncology DTP experience is required) |  | Chicago, IL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000119158877) |
 | 🏢 **AbbVie** | Hematology Clinical Account Specialist - Pittsburgh, PA |  | Pittsburgh, PA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012484576) |
-| 🏢 **Guidehouse** | Patient Account Rep   Special Billing |  | AL, Birmingham | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Rep---Special-Billing_37629) |
 | 🏢 **Guidehouse** | Clinical Documentation Integrity Specialist - Remote |  | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Documentation-Integrity-Specialist---Remote_37521) |
+| 🏢 **Guidehouse** | Patient Account Rep   Special Billing |  | AL, Birmingham | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Rep---Special-Billing_37629) |
 | 🏢 **IDEXX** | Histology Technician (Per Diem/Casual) |  | Elmhurst, IL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Elmhurst-IL/Histology-Technician--Per-Diem-Casual-_J-052266) |
 | 🏢 **Merck & Co.** | Assoc. Dir , Market Research |  | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Assoc-Dir---Market-Research_R392641-1) |
 | 🏢 **Guidehouse** | Patient Account Representative |  | TX, San Antonio | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Access-Representative_38113) |
