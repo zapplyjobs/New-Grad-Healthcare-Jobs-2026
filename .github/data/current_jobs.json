@@ -1547,6 +1547,34 @@
     "job_posted_at": "2026-04-10T12:53:40.590Z"
   },
   {
+    "job_id": "workday-takeda-R0178127",
+    "job_title": "On Site Paramedic",
+    "employer_name": "Takeda",
+    "job_city": "MN - Moorhead",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/On-Site-Paramedic_R0178127-1",
+    "job_posted_at_datetime_utc": "2026-04-10T05:05:51.253Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "72379921dac7e5a5120648ed003bcae47568c6aa4195bc5817e4857275811fbd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T05:05:51.253Z"
+  },
+  {
     "job_id": "workday-takeda-R0178051",
     "job_title": "Plasma Center Nurse- RN- $5K Sign on Bonus!",
     "employer_name": "Takeda",
@@ -1587,34 +1615,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "da005eb0d3f0b387c41c8a97cede2260b7d48da0e39d2022d46adfb823d40995",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T05:05:51.253Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178127",
-    "job_title": "On Site Paramedic",
-    "employer_name": "Takeda",
-    "job_city": "MN - Moorhead",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/On-Site-Paramedic_R0178127-1",
-    "job_posted_at_datetime_utc": "2026-04-10T05:05:51.253Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "72379921dac7e5a5120648ed003bcae47568c6aa4195bc5817e4857275811fbd",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3205,6 +3205,62 @@
     "job_posted_at": "2026-04-09T07:48:28.335Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-068426",
+    "job_title": "Associate Clinical Consultant or Clinical Consultant (Raleigh, NC) - Johnson & Johnson MedTech – Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Raleigh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raleigh-North-Carolina-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant--Raleigh--NC----Johnson---Johnson-MedTech---Heart-Recovery_R-068426-1",
+    "job_posted_at_datetime_utc": "2026-04-09T07:48:27.311Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "affa83f3f418ef698bcfc4c3b5770ed8261ecfb385f97e406a31ec383284d093",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:48:27.311Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068744",
+    "job_title": "Oncology Clinical Educator, Solid Tumors – Upstate NY",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Syracuse-New-York-United-States/Oncology-Clinical-Educator--Solid-Tumors---Upstate-NY_R-068744-1",
+    "job_posted_at_datetime_utc": "2026-04-09T07:48:27.311Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6479f700c5cc7260fcde60baf7310802c43d28c7c0e14a6322b97105fb4cfc91",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:48:27.311Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-068431",
     "job_title": "Field Clinical Specialist - Shockwave Medical (Northern Virginia)",
     "employer_name": "Johnson & Johnson",
@@ -3282,62 +3338,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:48:27.311Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068426",
-    "job_title": "Associate Clinical Consultant or Clinical Consultant (Raleigh, NC) - Johnson & Johnson MedTech – Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Raleigh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raleigh-North-Carolina-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant--Raleigh--NC----Johnson---Johnson-MedTech---Heart-Recovery_R-068426-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:48:27.311Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "affa83f3f418ef698bcfc4c3b5770ed8261ecfb385f97e406a31ec383284d093",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:48:27.311Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068744",
-    "job_title": "Oncology Clinical Educator, Solid Tumors – Upstate NY",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Syracuse-New-York-United-States/Oncology-Clinical-Educator--Solid-Tumors---Upstate-NY_R-068744-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:48:27.311Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6479f700c5cc7260fcde60baf7310802c43d28c7c0e14a6322b97105fb4cfc91",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5112,34 +5112,6 @@
     "job_posted_at": "2026-04-08T07:10:15.612Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-068842",
-    "job_title": "Pharmacy Technician",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Pittsburgh-Pennsylvania-United-States-of-America/Pharmacy-Technician_R-068842-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2313b2de8521b7d4042fca6e619cf083741fd329683dc012c5d3f9fe8c610027",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:09.203Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-066966",
     "job_title": "Marketing Specialist, Oncology Hematology - Guaynabo, PR",
     "employer_name": "Johnson & Johnson",
@@ -5275,6 +5247,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:09.203Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068842",
+    "job_title": "Pharmacy Technician",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Pittsburgh-Pennsylvania-United-States-of-America/Pharmacy-Technician_R-068842-1",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2313b2de8521b7d4042fca6e619cf083741fd329683dc012c5d3f9fe8c610027",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7532,6 +7532,35 @@
     "job_posted_at": "2026-04-07T07:06:46.929Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-063024",
+    "job_title": "Associate Clinical Account Specialist (Atlanta, GA) - Johnson & Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Atlanta-Georgia-United-States/Associate-Clinical-Account-Specialist--Atlanta--GA----Johnson---Johnson-MedTech--Electrophysiology_R-063024",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "70da7e567103e71f02d978fc54f73acc476fca4ddc1500152aae123f1430bd16",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-056560",
     "job_title": "Advanced Surgical Consultant - Boston Central, MA - Johnson & Johnson MedTech - Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -7600,35 +7629,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "bfee1a02d743ae06ab41e18e8fabb20ef347be3e2bda044d3e19b98d776674db",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-063024",
-    "job_title": "Associate Clinical Account Specialist (Atlanta, GA) - Johnson & Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Atlanta-Georgia-United-States/Associate-Clinical-Account-Specialist--Atlanta--GA----Johnson---Johnson-MedTech--Electrophysiology_R-063024",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "70da7e567103e71f02d978fc54f73acc476fca4ddc1500152aae123f1430bd16",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8376,258 +8376,6 @@
     "job_posted_at": "2026-04-07T07:01:45.129Z"
   },
   {
-    "job_id": "workday-takeda-R0177917",
-    "job_title": "Phlebotomist - Bilingual Spanish",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Glendale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Glendale/Phlebotomist---Spanish-Speaking_R0177917-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3adea93c31f2ace3080856421d992e6d7c358b3008c0c227390053927a10d42e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177914",
-    "job_title": "Medical Screener - Bilingual Spanish",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Glendale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Glendale/Medical-Screener---Spanish-Speaking_R0177914-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "39fb45599cce2d304ab42a07c968c81f7495d2f406952481666f57afa79eb22d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177909",
-    "job_title": "Plasma Center Nurse – RN",
-    "employer_name": "Takeda",
-    "job_city": "FL - Gainesville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Gainesville/Plasma-Center-Nurse---RN_R0177909-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1b3d23c05a26d7e72188f0ddde3e05364269fc56a64a91f294a096ca2cb17e71",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177904",
-    "job_title": "Plasma Center Paramedic - EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "VA - Harrisonburg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Plasma-Center-Paramedic---EMT-P_R0177904-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cb8f358d7a06c502598b1a2b4c83dabc5083df4ed9cadabef32e301b97113306",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177902",
-    "job_title": "Licensed Practical Nurse (LPN)",
-    "employer_name": "Takeda",
-    "job_city": "VA - Harrisonburg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Licensed-Practical-Nurse--LPN-_R0177902-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "60cd33549ae3b02b6caa9318bf7a8f654b9478716f73e9ecde1d6093167b2b51",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177900",
-    "job_title": "Plasma Center Nurse - (RN)",
-    "employer_name": "Takeda",
-    "job_city": "VA - Harrisonburg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Plasma-Center-Nurse----RN-_R0177900-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0bc0e9a8419effd0e81d410ab3110b678f3c0a05e1c86179bc3e17d013deb228",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177755",
-    "job_title": "Center Supervisor",
-    "employer_name": "Takeda",
-    "job_city": "NJ - Egg Harbor",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Egg-Harbor/Center-Supervisor_R0177755-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "16971a97f41660491c6f99e27c316045469c028aea1886c0032360b5cab81417",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177897",
-    "job_title": "Plasma Center Nurse - EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "NC - Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Charlotte/Plasma-Center-Nurse---EMT-P_R0177897-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "516fdc011690edef97f48a515791c29230d81adf606de58a66ceb37ec6a9aa98",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177896",
-    "job_title": "Plasma Center Nurse - LPN",
-    "employer_name": "Takeda",
-    "job_city": "NC - Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Charlotte/Plasma-Center-Nurse---LPN_R0177896-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fb045ce2cf525546063d93cf7056dca8ae99808af55ece3e969c9a58858e698d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:01:45.129Z"
-  },
-  {
     "job_id": "workday-takeda-R0177882",
     "job_title": "Phlebotomist/Medical Screener",
     "employer_name": "Takeda",
@@ -9076,6 +8824,258 @@
     "job_posted_at": "2026-04-07T07:01:45.129Z"
   },
   {
+    "job_id": "workday-takeda-R0177917",
+    "job_title": "Phlebotomist - Bilingual Spanish",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Glendale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Glendale/Phlebotomist---Spanish-Speaking_R0177917-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3adea93c31f2ace3080856421d992e6d7c358b3008c0c227390053927a10d42e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177914",
+    "job_title": "Medical Screener - Bilingual Spanish",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Glendale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Glendale/Medical-Screener---Spanish-Speaking_R0177914-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "39fb45599cce2d304ab42a07c968c81f7495d2f406952481666f57afa79eb22d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177909",
+    "job_title": "Plasma Center Nurse – RN",
+    "employer_name": "Takeda",
+    "job_city": "FL - Gainesville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Gainesville/Plasma-Center-Nurse---RN_R0177909-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1b3d23c05a26d7e72188f0ddde3e05364269fc56a64a91f294a096ca2cb17e71",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177904",
+    "job_title": "Plasma Center Paramedic - EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "VA - Harrisonburg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Plasma-Center-Paramedic---EMT-P_R0177904-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cb8f358d7a06c502598b1a2b4c83dabc5083df4ed9cadabef32e301b97113306",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177902",
+    "job_title": "Licensed Practical Nurse (LPN)",
+    "employer_name": "Takeda",
+    "job_city": "VA - Harrisonburg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Licensed-Practical-Nurse--LPN-_R0177902-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "60cd33549ae3b02b6caa9318bf7a8f654b9478716f73e9ecde1d6093167b2b51",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177900",
+    "job_title": "Plasma Center Nurse - (RN)",
+    "employer_name": "Takeda",
+    "job_city": "VA - Harrisonburg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Harrisonburg/Plasma-Center-Nurse----RN-_R0177900-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0bc0e9a8419effd0e81d410ab3110b678f3c0a05e1c86179bc3e17d013deb228",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177755",
+    "job_title": "Center Supervisor",
+    "employer_name": "Takeda",
+    "job_city": "NJ - Egg Harbor",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Egg-Harbor/Center-Supervisor_R0177755-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "16971a97f41660491c6f99e27c316045469c028aea1886c0032360b5cab81417",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177897",
+    "job_title": "Plasma Center Nurse - EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "NC - Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Charlotte/Plasma-Center-Nurse---EMT-P_R0177897-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "516fdc011690edef97f48a515791c29230d81adf606de58a66ceb37ec6a9aa98",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177896",
+    "job_title": "Plasma Center Nurse - LPN",
+    "employer_name": "Takeda",
+    "job_city": "NC - Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Charlotte/Plasma-Center-Nurse---LPN_R0177896-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fb045ce2cf525546063d93cf7056dca8ae99808af55ece3e969c9a58858e698d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:45.129Z"
+  },
+  {
     "job_id": "workday-abbott-31146725",
     "job_title": "Associate Clinical Specialist - Phoenix, AZ",
     "employer_name": "Abbott",
@@ -9476,62 +9476,6 @@
     "job_posted_at": "2026-04-06T07:08:21.069Z"
   },
   {
-    "job_id": "workday-medtronic-R62331",
-    "job_title": "Assoc Clinical Specialist",
-    "employer_name": "Medtronic",
-    "job_city": "San Juan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Juan-Puerto-Rico-United-States-of-America/Assoc-Clinical-Specialist_R62331-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:23.092Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "47c40476435e02f269b597d78aedc9d5d2544e66cffd2fcaa77ebf3fa1df7b5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:23.092Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63573",
-    "job_title": "Cardiac Rhythm Management Clinical Specialist - Memphis, TN",
-    "employer_name": "Medtronic",
-    "job_city": "Memphis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Cardiac-Rhythm-Management-Clinical-Specialist---Memphis--TN_R63573-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:23.092Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4395e68d26b6330641fdf3e3d7d6c4c97d717ebd038d9994439a5faca8ef271",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:23.092Z"
-  },
-  {
     "job_id": "workday-medtronic-R62820",
     "job_title": "Prin. Clinical Specialist - Superficial Venous Interventions (SVI) - Ft. Lauderdale, FL",
     "employer_name": "Medtronic",
@@ -9581,6 +9525,62 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:23.092Z"
+  },
+  {
+    "job_id": "workday-medtronic-R62331",
+    "job_title": "Assoc Clinical Specialist",
+    "employer_name": "Medtronic",
+    "job_city": "San Juan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Juan-Puerto-Rico-United-States-of-America/Assoc-Clinical-Specialist_R62331-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:23.092Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "47c40476435e02f269b597d78aedc9d5d2544e66cffd2fcaa77ebf3fa1df7b5f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:23.092Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63573",
+    "job_title": "Cardiac Rhythm Management Clinical Specialist - Memphis, TN",
+    "employer_name": "Medtronic",
+    "job_city": "Memphis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Cardiac-Rhythm-Management-Clinical-Specialist---Memphis--TN_R63573-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:23.092Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4395e68d26b6330641fdf3e3d7d6c4c97d717ebd038d9994439a5faca8ef271",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -10377,6 +10377,118 @@
     "job_posted_at": "2026-04-06T07:02:16.743Z"
   },
   {
+    "job_id": "workday-takeda-R0177813",
+    "job_title": "Plasma Center Paramedic - EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "FL - Largo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Plasma-Center-Paramedic---EMT-P_R0177813-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0bed51666de25afa16690798ff551d7d6afa0f6a40ae9263390cd03dae661ea9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177808",
+    "job_title": "Plasma Center Nurse - RN",
+    "employer_name": "Takeda",
+    "job_city": "FL - Largo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Plasma-Center-Nurse---RN_R0177808-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "142f80f31b248bd677d9b4e04c677a229e01d55866f809b5483c25ef50ecaec7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177793",
+    "job_title": "Plasma Center Nurse - LPN",
+    "employer_name": "Takeda",
+    "job_city": "FL - Largo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Plasma-Center-Nurse---LPN_R0177793-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "56c1cb98481f5c572a1f5454982a923bbd80d6d204ba103c080df0189f7d47f3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177824",
+    "job_title": "Medical Historian",
+    "employer_name": "Takeda",
+    "job_city": "NV - Las Vegas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Medical-Historian_R0177824-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fab7b0f3fd7daac976725c663fddc4dc9e75a55acbd0a2c2ebe8e097fdb28ac7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:01:45.129Z"
+  },
+  {
     "job_id": "workday-takeda-R0177825",
     "job_title": "Medical Screener – Auto Mall Location",
     "employer_name": "Takeda",
@@ -10501,118 +10613,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "47fc51ee96bbd5ae244be8b0f1853fca40ab462c3c44cd83746c9eb23a45329f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177813",
-    "job_title": "Plasma Center Paramedic - EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "FL - Largo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Plasma-Center-Paramedic---EMT-P_R0177813-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0bed51666de25afa16690798ff551d7d6afa0f6a40ae9263390cd03dae661ea9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177808",
-    "job_title": "Plasma Center Nurse - RN",
-    "employer_name": "Takeda",
-    "job_city": "FL - Largo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Plasma-Center-Nurse---RN_R0177808-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "142f80f31b248bd677d9b4e04c677a229e01d55866f809b5483c25ef50ecaec7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177793",
-    "job_title": "Plasma Center Nurse - LPN",
-    "employer_name": "Takeda",
-    "job_city": "FL - Largo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Plasma-Center-Nurse---LPN_R0177793-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "56c1cb98481f5c572a1f5454982a923bbd80d6d204ba103c080df0189f7d47f3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177824",
-    "job_title": "Medical Historian",
-    "employer_name": "Takeda",
-    "job_city": "NV - Las Vegas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Medical-Historian_R0177824-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fab7b0f3fd7daac976725c663fddc4dc9e75a55acbd0a2c2ebe8e097fdb28ac7",
     "tags": {
       "employment": "entry_level",
       "domains": [
