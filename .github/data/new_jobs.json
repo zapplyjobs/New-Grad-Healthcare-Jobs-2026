@@ -511,6 +511,34 @@
     "job_posted_at": "2026-04-10T07:03:34.286Z"
   },
   {
+    "job_id": "workday-takeda-R0178228",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tampa/Medical-Screener_R0178228-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:02:45.418Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "adc81e8d5653da874f6227f9bf6ca8b41e6b23debfaf450ff64e447026245001",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:02:45.418Z"
+  },
+  {
     "job_id": "workday-takeda-R0177082",
     "job_title": "Center Supervisor- $2000 Sign on Bonus!",
     "employer_name": "Takeda",
@@ -959,34 +987,6 @@
     "job_posted_at": "2026-04-10T07:02:45.418Z"
   },
   {
-    "job_id": "workday-takeda-R0178228",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tampa/Medical-Screener_R0178228-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:02:45.418Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "adc81e8d5653da874f6227f9bf6ca8b41e6b23debfaf450ff64e447026245001",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:02:45.418Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01347009",
     "job_title": "Formulation Scientist I",
     "employer_name": "Thermo Fisher Scientific",
@@ -1295,62 +1295,6 @@
     "job_posted_at": "2026-04-10T07:00:33.745Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-056576",
-    "job_title": "Advanced Surgical Consultant - Hackensack, NJ - Johnson & Johnson MedTech - Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Hackensack",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Hackensack-New-Jersey-United-States/Advanced-Surgical-Consultant---Hackensack--NJ---Johnson---Johnson-MedTech---Heart-Recovery_R-056576-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:33.081Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8c4412d34589b0aca4873b9699d05d546a06d9ed73b24beca9c8bb83fbf10239",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:00:33.081Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-056568",
-    "job_title": "Advanced Surgical Consultant - Dallas/Fort Worth, TX - Johnson & Johnson MedTech, Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Dallas Texas United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Dallas-Texas-United-States/Advanced-Surgical-Consultant---Dallas-Fort-Worth--TX---Johnson---Johnson-MedTech--Heart-Recovery_R-056568-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:33.081Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9145c038bc6d176e15e521f693224c3f6c34b3d8a575679ada86356a44a1f91b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:00:33.081Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-062247",
     "job_title": "Associate Clinical Consultant or Clinical Consultant - Fayetteville/Pinehurst, NC - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -1428,6 +1372,62 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:00:33.081Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-056576",
+    "job_title": "Advanced Surgical Consultant - Hackensack, NJ - Johnson & Johnson MedTech - Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Hackensack",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Hackensack-New-Jersey-United-States/Advanced-Surgical-Consultant---Hackensack--NJ---Johnson---Johnson-MedTech---Heart-Recovery_R-056576-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:33.081Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8c4412d34589b0aca4873b9699d05d546a06d9ed73b24beca9c8bb83fbf10239",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:00:33.081Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-056568",
+    "job_title": "Advanced Surgical Consultant - Dallas/Fort Worth, TX - Johnson & Johnson MedTech, Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Dallas Texas United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Dallas-Texas-United-States/Advanced-Surgical-Consultant---Dallas-Fort-Worth--TX---Johnson---Johnson-MedTech--Heart-Recovery_R-056568-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:33.081Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9145c038bc6d176e15e521f693224c3f6c34b3d8a575679ada86356a44a1f91b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -1547,6 +1547,34 @@
     "job_posted_at": "2026-04-10T07:00:26.743Z"
   },
   {
+    "job_id": "workday-takeda-R0178051",
+    "job_title": "Plasma Center Nurse- RN- $5K Sign on Bonus!",
+    "employer_name": "Takeda",
+    "job_city": "IA - Dubuque",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Plasma-Center-Nurse--RN_R0178051-1",
+    "job_posted_at_datetime_utc": "2026-04-10T05:05:51.253Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "451600e14e64c551e69e88a0bd180ff7aa7ec571b94a69c4aad0f5f376f809be",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T05:05:51.253Z"
+  },
+  {
     "job_id": "workday-takeda-R0178129",
     "job_title": "Licensed Pracitical Nurse LPN",
     "employer_name": "Takeda",
@@ -1587,34 +1615,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "72379921dac7e5a5120648ed003bcae47568c6aa4195bc5817e4857275811fbd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T05:05:51.253Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178051",
-    "job_title": "Plasma Center Nurse- RN- $5K Sign on Bonus!",
-    "employer_name": "Takeda",
-    "job_city": "IA - Dubuque",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Plasma-Center-Nurse--RN_R0178051-1",
-    "job_posted_at_datetime_utc": "2026-04-10T05:05:51.253Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "451600e14e64c551e69e88a0bd180ff7aa7ec571b94a69c4aad0f5f376f809be",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1803,18 +1803,18 @@
     "job_posted_at": "2026-04-09T14:44:25.828Z"
   },
   {
-    "job_id": "workday-takeda-R0178050",
-    "job_title": "Licensed Practical Nurse - Excellent Benefits Day One- $5K Sign on Bonus!",
+    "job_id": "workday-takeda-R0178052",
+    "job_title": "Paramedic – No Overnight Shifts- $5K Sign on Bonus!",
     "employer_name": "Takeda",
     "job_city": "IA - Dubuque",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Licensed-Practical-Nurse---Excellent-Benefits-Day-One_R0178050",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Paramedic---No-Overnight-Shifts_R0178052-1",
     "job_posted_at_datetime_utc": "2026-04-09T14:24:43.156Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "cb56e8abe1823ef3b5e5aac26285c5bbf6269f0fe7e5a8049ffa3d653256eeb5",
+    "fingerprint": "9e69d737f21230e14d8893fca331c5a8ac51d7d731f379f26e15c2e3bb44d388",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1831,18 +1831,18 @@
     "job_posted_at": "2026-04-09T14:24:43.156Z"
   },
   {
-    "job_id": "workday-takeda-R0178052",
-    "job_title": "Paramedic – No Overnight Shifts- $5K Sign on Bonus!",
+    "job_id": "workday-takeda-R0178050",
+    "job_title": "Licensed Practical Nurse - Excellent Benefits Day One- $5K Sign on Bonus!",
     "employer_name": "Takeda",
     "job_city": "IA - Dubuque",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Paramedic---No-Overnight-Shifts_R0178052-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Dubuque/Licensed-Practical-Nurse---Excellent-Benefits-Day-One_R0178050",
     "job_posted_at_datetime_utc": "2026-04-09T14:24:43.156Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9e69d737f21230e14d8893fca331c5a8ac51d7d731f379f26e15c2e3bb44d388",
+    "fingerprint": "cb56e8abe1823ef3b5e5aac26285c5bbf6269f0fe7e5a8049ffa3d653256eeb5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3654,6 +3654,34 @@
     "job_posted_at": "2026-04-09T07:02:45.418Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01348283",
+    "job_title": "MSAT Scientist (Technology Transfer)",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/MSAT-Scientist--Technology-Transfer-_R-01348283",
+    "job_posted_at_datetime_utc": "2026-04-09T07:02:31.143Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1b89cb4d4270b574fee1e210b4afd5d2ad9959ef21cf7ca116d0b51d3787c89",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:02:31.143Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01347523",
     "job_title": "Equipment Operator, Onsert - 3rd Shift",
     "employer_name": "Thermo Fisher Scientific",
@@ -3729,34 +3757,6 @@
       "summary_line": "Work Schedule First Shift (Days) Environmental Conditions Adherence to all Good Manufacturing Practices (GMP) Safety Standards, Office Job Description Quality Engineer - Clinical Labeling Division / S…",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-09T07:02:31.143Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01348283",
-    "job_title": "MSAT Scientist (Technology Transfer)",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/MSAT-Scientist--Technology-Transfer-_R-01348283",
-    "job_posted_at_datetime_utc": "2026-04-09T07:02:31.143Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1b89cb4d4270b574fee1e210b4afd5d2ad9959ef21cf7ca116d0b51d3787c89",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-09T07:02:31.143Z"
   },
   {
@@ -4013,90 +4013,6 @@
     "job_posted_at": "2026-04-09T07:00:33.745Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-068945",
-    "job_title": "Transcend: Deploy CE Experienced Analyst",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-068945-2",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:33.082Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e90a3901ddbcb66d3d0ed2883e43d1c2b0d28d45c0545e4d818d9a1a44348cb6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:00:33.082Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068426",
-    "job_title": "Associate Clinical Consultant or Clinical Consultant (Raleigh, NC) - Johnson & Johnson MedTech – Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Raleigh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raleigh-North-Carolina-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant--Raleigh--NC----Johnson---Johnson-MedTech---Heart-Recovery_R-068426-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:33.082Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "affa83f3f418ef698bcfc4c3b5770ed8261ecfb385f97e406a31ec383284d093",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:00:33.082Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068744",
-    "job_title": "Oncology Clinical Educator, Solid Tumors – Upstate NY",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Syracuse-New-York-United-States/Oncology-Clinical-Educator--Solid-Tumors---Upstate-NY_R-068744-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:33.082Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6479f700c5cc7260fcde60baf7310802c43d28c7c0e14a6322b97105fb4cfc91",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:00:33.082Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-068431",
     "job_title": "Field Clinical Specialist - Shockwave Medical (Northern Virginia)",
     "employer_name": "Johnson & Johnson",
@@ -4174,6 +4090,90 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:00:33.082Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068945",
+    "job_title": "Transcend: Deploy CE Experienced Analyst",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-068945-2",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:33.082Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e90a3901ddbcb66d3d0ed2883e43d1c2b0d28d45c0545e4d818d9a1a44348cb6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:00:33.082Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068426",
+    "job_title": "Associate Clinical Consultant or Clinical Consultant (Raleigh, NC) - Johnson & Johnson MedTech – Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Raleigh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raleigh-North-Carolina-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant--Raleigh--NC----Johnson---Johnson-MedTech---Heart-Recovery_R-068426-1",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:33.082Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "affa83f3f418ef698bcfc4c3b5770ed8261ecfb385f97e406a31ec383284d093",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:00:33.082Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068744",
+    "job_title": "Oncology Clinical Educator, Solid Tumors – Upstate NY",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Syracuse-New-York-United-States/Oncology-Clinical-Educator--Solid-Tumors---Upstate-NY_R-068744-1",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:33.082Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6479f700c5cc7260fcde60baf7310802c43d28c7c0e14a6322b97105fb4cfc91",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -4974,6 +4974,62 @@
     "job_posted_at": "2026-04-08T07:02:16.743Z"
   },
   {
+    "job_id": "workday-takeda-R0177949",
+    "job_title": "Full Time Medical Historian",
+    "employer_name": "Takeda",
+    "job_city": "WI - Pewaukee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Pewaukee/Full-Time-Medical-Historian_R0177949-1",
+    "job_posted_at_datetime_utc": "2026-04-08T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "80bd27a2e7bf9caa7ed7f7706701984c0a8a5944006e7964eb42ba98be411394",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177230",
+    "job_title": "Executive Coordinator, Global Oncology Commercial",
+    "employer_name": "Takeda",
+    "job_city": "MA - Cambridge",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge/Executive-Coordinator--Global-Oncology-Commercial_R0177230",
+    "job_posted_at_datetime_utc": "2026-04-08T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a841113871b09c669b4bfce87ef3929352bd7dfbb64e18a65f6b7512fb6a55a6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:01:45.129Z"
+  },
+  {
     "job_id": "workday-takeda-R0178024",
     "job_title": "Full Time or Part Time Nurse, RN",
     "employer_name": "Takeda",
@@ -5042,62 +5098,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "96a01bf53591a50f4a550955b6c18531242dda7f951edd542cbbaca018d9308e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177949",
-    "job_title": "Full Time Medical Historian",
-    "employer_name": "Takeda",
-    "job_city": "WI - Pewaukee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Pewaukee/Full-Time-Medical-Historian_R0177949-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "80bd27a2e7bf9caa7ed7f7706701984c0a8a5944006e7964eb42ba98be411394",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177230",
-    "job_title": "Executive Coordinator, Global Oncology Commercial",
-    "employer_name": "Takeda",
-    "job_city": "MA - Cambridge",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge/Executive-Coordinator--Global-Oncology-Commercial_R0177230",
-    "job_posted_at_datetime_utc": "2026-04-08T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a841113871b09c669b4bfce87ef3929352bd7dfbb64e18a65f6b7512fb6a55a6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6461,6 +6461,34 @@
     "job_posted_at": "2026-04-08T07:00:33.745Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-068842",
+    "job_title": "Pharmacy Technician",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Pittsburgh-Pennsylvania-United-States-of-America/Pharmacy-Technician_R-068842-1",
+    "job_posted_at_datetime_utc": "2026-04-08T07:00:33.083Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2313b2de8521b7d4042fca6e619cf083741fd329683dc012c5d3f9fe8c610027",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:00:33.083Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-066966",
     "job_title": "Marketing Specialist, Oncology Hematology - Guaynabo, PR",
     "employer_name": "Johnson & Johnson",
@@ -6596,34 +6624,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:00:33.083Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068842",
-    "job_title": "Pharmacy Technician",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Pittsburgh-Pennsylvania-United-States-of-America/Pharmacy-Technician_R-068842-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:33.083Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2313b2de8521b7d4042fca6e619cf083741fd329683dc012c5d3f9fe8c610027",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7560,90 +7560,6 @@
     "job_posted_at": "2026-04-07T07:04:35.037Z"
   },
   {
-    "job_id": "workday-abbott-31142969",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Minnesota - Minneapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist_31142969-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:34.288Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e6f3d2011e7c73eaf37c41585909239fa15341064ba2a5f75df79c82e8dd4933",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:03:34.288Z"
-  },
-  {
-    "job_id": "workday-abbott-31146133",
-    "job_title": "Clinical Specialist, Vessel Closure in North Boston",
-    "employer_name": "Abbott",
-    "job_city": "Massachusetts - Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Boston/Clinical-Specialist--Vessel-Closure-in-North-Boston_31146133-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:34.288Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2793a4516277294526a223448f7b16d46d5234cb4a160bd44893f7aaca45f683",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:03:34.288Z"
-  },
-  {
-    "job_id": "workday-abbott-31131441",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "Texas - Tyler",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Tyler/Clinical-Associate_31131441-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:34.288Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "82f84440678c041c8f3ee960d5e0f18373975905a658f52b39a3918b8dbd5ffc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:03:34.288Z"
-  },
-  {
     "job_id": "workday-abbott-31146316",
     "job_title": "Operator 1",
     "employer_name": "Abbott",
@@ -7840,6 +7756,90 @@
     "job_posted_at": "2026-04-07T07:03:34.288Z"
   },
   {
+    "job_id": "workday-abbott-31142969",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Minnesota - Minneapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist_31142969-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:34.288Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e6f3d2011e7c73eaf37c41585909239fa15341064ba2a5f75df79c82e8dd4933",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:03:34.288Z"
+  },
+  {
+    "job_id": "workday-abbott-31146133",
+    "job_title": "Clinical Specialist, Vessel Closure in North Boston",
+    "employer_name": "Abbott",
+    "job_city": "Massachusetts - Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Boston/Clinical-Specialist--Vessel-Closure-in-North-Boston_31146133-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:34.288Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2793a4516277294526a223448f7b16d46d5234cb4a160bd44893f7aaca45f683",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:03:34.288Z"
+  },
+  {
+    "job_id": "workday-abbott-31131441",
+    "job_title": "Clinical Associate",
+    "employer_name": "Abbott",
+    "job_city": "Texas - Tyler",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Tyler/Clinical-Associate_31131441-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:34.288Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "82f84440678c041c8f3ee960d5e0f18373975905a658f52b39a3918b8dbd5ffc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:03:34.288Z"
+  },
+  {
     "job_id": "workday-takeda-R0175425",
     "job_title": "Medical Support Specialist - EMT-P",
     "employer_name": "Takeda",
@@ -7992,6 +7992,90 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "deeea64d02733f45d9093eaa4b431fe1892983137b9555bbbd6afb649333f47b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177916",
+    "job_title": "Entry Level Phlebotomy",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Glendale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Glendale/Entry-Level-Phlebotomy_R0177916-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1288fc99078e9356905fe7cd43327f9c94cea52baf60516b56e24089e625ed7d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177913",
+    "job_title": "LPN - $2,500 Sign On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/LPN----2-500-Sign-On-Bonus_R0177913-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "01cae8c7dde9fb2fc0b360d478b8fd53ba987a9e39e1dad057dc5bfa23eede6b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:45.129Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177912",
+    "job_title": "Paramedic - $2,500 Sign On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Paramedic----2-500-Sign-On-Bonus_R0177912-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7ee54a108b64dec731d085f2f6d40db1ef712d898b84c8796c209225eb37220e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8608,90 +8692,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c674bae9281016a51f35d569bdd99dc0c6ffe3b9759cb65cf01ace4eaf2fb653",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177916",
-    "job_title": "Entry Level Phlebotomy",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Glendale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Glendale/Entry-Level-Phlebotomy_R0177916-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1288fc99078e9356905fe7cd43327f9c94cea52baf60516b56e24089e625ed7d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177913",
-    "job_title": "LPN - $2,500 Sign On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/LPN----2-500-Sign-On-Bonus_R0177913-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "01cae8c7dde9fb2fc0b360d478b8fd53ba987a9e39e1dad057dc5bfa23eede6b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:01:45.129Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177912",
-    "job_title": "Paramedic - $2,500 Sign On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Paramedic----2-500-Sign-On-Bonus_R0177912-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:45.129Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ee54a108b64dec731d085f2f6d40db1ef712d898b84c8796c209225eb37220e",
     "tags": {
       "employment": "entry_level",
       "domains": [
