@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-338-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-29-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-125-red?style=flat&logo=star)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-345-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-30-blue?style=flat&logo=building)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-128-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,6 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
+| 🏢 **Disney** | Guest Registered Nurse Coordinator |  | Lake Buena Vista, FL | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Guest-Registered-Nurse-Coordinator_10144089) |
 | 🏢 **Abbott** | Clinical Specialist, Peripheral - MD/Southern DE |  | Maryland - Baltimore | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maryland---Baltimore/Senior-Clinical-Specialist--Peripheral---MD-Southern-DE_31137028-1) |
 | 🏢 **Guidehouse** | Clinical Denials and Appeals  RN |  | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-and-Appeals--RN_37704) |
 | 🏢 **Guidehouse** | Clinical Denials/Appeals RN |  | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-Appeals-RN_38029) |
@@ -104,7 +105,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Medtronic** | Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Northeast) |  | 4 Locations | 22m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Northeast-_R61783-1) |
+| 🏢 **Medtronic** | Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Northeast) |  | 4 Locations | 37m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Northeast-_R61783-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -205,10 +206,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
+| 🏢 **Guidehouse** | Cash Poster - Payment Posting - Healthcare Claims |  | TX, San Antonio + 2 more | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Cash-Poster---Payment-Posting---Healthcare-Claims_38106-1) |
+| 🏢 **Guidehouse** | Credit Balance Specialist - Healthcare Hospital Claims |  | TX, San Antonio + 2 more | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Credit-Balance-Specialist---Healthcare-Hospital-Claims_38116) |
+| 🏢 **Guidehouse** | Medical Biller - Hospital Claims - Healthcare |  | TX, San Antonio + 2 more | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Medical-Biller---Hospital-Claims---Healthcare_38125) |
 | 🏢 **athenahealth** | Associate, Revenue Cycle Case & Escalation Management – Posting |  | Boston, MA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Associate--Revenue-Cycle-Case---Escalation-Management---Claim-Resolution--_R14453) |
-| 🏢 **Guidehouse** | Hospital Admissions Representative- Full time - Onsite |  | CA, Los Angeles | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Los-Angeles/Hospital-Admissions-Representative--Full-time---Onsite_36345) |
-| 🏢 **Guidehouse** | Project Supervisor - Hospital A/R - PFS - Revenue Cycle |  | TX, San Antonio + 1 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Project-Supervisor---Hospital-A-R---PFS---Revenue-Cycle_38221) |
-| 🏢 **Guidehouse** | Cash Poster - Payment Posting - Healthcare Claims |  | TX, San Antonio + 1 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Cash-Poster---Payment-Posting---Healthcare-Claims_38219) |
 | 🏢 **iRhythm** | Supervisor, Revenue Cycle Management |  | US | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Remote---US/Supervisor--Revenue-Cycle-Management_JR1273) |
 
 <p align="center">Apply for more jobs at</p>
@@ -224,8 +225,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | Military Family Life Counselor |  | Jber, AK | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Jber-AK/Military-Family-Life-Counselor_R-00180502) |
 | 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (1st SFG, JBLM, WA) |  | McChord, Washington | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Joint-Base-Lewis-McChord-Washington/Special-Operations-Licensed-Clinical-Social-Worker--1st-SFG--JBLM--WA-_R2120671) |
 | 🏢 **KBR** | Special Operations Clinical Psychologist (Dam Neck, VA) |  | Virginia Beach | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Virginia-Beach-Virginia/Special-Operations-Clinical-Psychologist--Dam-Neck--VA-_R2121616) |
+| 🏢 **Leidos** | MFLC Counselor Short Term or As-Needed Coverage, Fort Cavazos, TX |  | Killeen, TX | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Killeen-TX/MFLC-Counselor-Short-Term-or-As-Needed-Coverage--Fort-Cavazos--TX_R-00176691) |
 | 🏢 **Leidos** | Short Term or As Needed Coverage - MFLC Counselor - Des Moines, Iowa |  | Des Moines, WA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Des-Moines-WA/Short-Term-or-As-Needed-Coverage---MFLC-Counselor---Des-Moines--Iowa_R-00180142) |
-| 🏢 **Leidos** | Military Family Life Counselor - (Adult) |  | San Diego, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Military-Family-Life-Counselor----Adult-_R-00180202) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -237,22 +238,23 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Technician |  | MD - Towson + 3 more | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Towson/Plasma-Center-Technician_R0178281-1) |
-| 🏢 **Johnson & Johnson** | Transcend: Deploy CE Experienced Analyst |  | Titusville + 1 more | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-066222-1) |
-| 🏢 **Dandy** | Dental Field Trainer - Near Major Airport |  | USA - Remote | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/b3e9f989-e008-4da0-ab95-d1d929dadf52/application) |
-| 🏢 **Dandy** | Dental Field Trainer - West Coast |  | USA - Remote | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/48dac57e-d572-4a6b-a91a-b471b26dd0fc/application) |
-| 🏢 **Dandy** | Dental Field Trainer - Northeast |  | USA - Remote | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/dbd4c81b-e4d4-40cd-a172-22fdac70754f/application) |
-| 🏢 **Medtronic** | Field Inventory Analyst - Lansing, MI |  | Lansing | 56m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lansing-Michigan-United-States-of-America/Field-Inventory-Analyst---Lansing--MI_R60473-2) |
+| 🏢 **Takeda** | Entry Level Phlebotomist (On-the-Job Training) |  | MD - Towson + 1 more | 7m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Towson/Entry-Level-Phlebotomist--On-the-Job-Training-_R0178283-1) |
+| 🏢 **Guidehouse** | Patient Access Trainer |  | CA, Ventura | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Patient-Access-Trainer_38294) |
+| 🏢 **Johnson & Johnson** | Territory Assistant - Philadelphia and South Jersey -Johnson & Johnson MedTech, Orthopaedics |  | 2 Locations | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Philadelphia-Pennsylvania-United-States/Territory-Assistant---Philadelphia-and-South-Jersey--Johnson---Johnson-MedTech--Orthopaedics_R-063605-1) |
+| 🏢 **Takeda** | Plasma Center Technician |  | MD - Towson + 3 more | 35m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Towson/Plasma-Center-Technician_R0178281-1) |
+| 🏢 **Johnson & Johnson** | Transcend: Deploy CE Experienced Analyst |  | Titusville + 1 more | 38m | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-066222-1) |
+| 🏢 **Dandy** | Dental Field Trainer - Near Major Airport |  | USA - Remote | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/b3e9f989-e008-4da0-ab95-d1d929dadf52/application) |
+| 🏢 **Dandy** | Dental Field Trainer - West Coast |  | USA - Remote | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/48dac57e-d572-4a6b-a91a-b471b26dd0fc/application) |
+| 🏢 **Dandy** | Dental Field Trainer - Northeast |  | USA - Remote | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/dbd4c81b-e4d4-40cd-a172-22fdac70754f/application) |
+| 🏢 **Medtronic** | Field Inventory Analyst - Lansing, MI |  | Lansing | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lansing-Michigan-United-States-of-America/Field-Inventory-Analyst---Lansing--MI_R60473-2) |
 | 🏢 **Takeda** | Center Supervisor- $2000 Sign on Bonus! |  | CO - Aurora | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Center-Supervisor---2000-Sign-on-Bonus-_R0177082-1) |
-| 🏢 **Takeda** | Experienced Phlebotomist |  | NC - Fayetteville... + 1 more | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Fayetteville---Morgan/Experienced-Phlebotomist_R0178218-1) |
-| 🏢 **Johnson & Johnson** | Associate Clinical Consultant or Clinical Consultant - Fayetteville/Pinehurst, NC - Johnson & Johnson MedTech, Heart Recovery |  | Fayetteville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Fayetteville-North-Carolina-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant---Fayetteville--NC---Wilmington--NC---Johnson---Johnson-MedTech--Heart-Recovery_R-062247) |
-| 🏢 **Johnson & Johnson** | Associate Clinical Consultant or Clinical Consultant - Gainesville, FL - Johnson & Johnson MedTech, Heart Recovery |  | Gainesville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Gainesville-Florida-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant---Gainesville--FL---Johnson---Johnson-MedTech--Heart-Recovery_R-061687-1) |
-| 🏢 **AbbVie** | Associate I, Clinical Pharmacology Scientific Support & Reporting |  | North Chicago, IL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012529561) |
+| 🏢 **Johnson & Johnson** | Advanced Surgical Consultant - Hackensack, NJ - Johnson & Johnson MedTech - Heart Recovery |  | Hackensack | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Hackensack-New-Jersey-United-States/Advanced-Surgical-Consultant---Hackensack--NJ---Johnson---Johnson-MedTech---Heart-Recovery_R-056576-1) |
+| 🏢 **AbbVie** | Associate I, Clinical Pharmacology Scientific Support & Reporting |  | North Chicago, IL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012529561) |
 | 🏢 **Medtronic** | Patient Access Support Specialist |  | Minneapolis | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Patient-Access-Support-Specialist_R63730-1) |
 | 🏢 **Exact Sciences** | Future Field Based Opportunities - Precision Oncology Sales & Sales Management |  | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---Remote/Future-Opportunities---Precision-Oncology-Sales---Sales-Management_R26-12974) |
-| 🏢 **Abbott** | CAD Technician - Sturgis, MI Plant |  | Michigan - Sturgis | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Sturgis/CAD-Technician---Sturgis--MI-Plant_31146717-1) |
 | 🏢 **Abbott** | Packaging Equipment Operator - RPB - Night Shift - Casa Grande, AZ |  | Arizona - Casa Gr... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Casa-Grande/Packaging-Equipment-Operator---RPB---Night-Shift---Casa-Grande--AZ_31147079-1) |
 | 🏢 **Abbott** | Technician Quality |  | Illinois - Des Pl... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Des-Plaines/Technician-Quality_31145809-1) |
+| 🏢 **Abbott** | CAD Technician - Sturgis, MI Plant |  | Michigan - Sturgis | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Sturgis/CAD-Technician---Sturgis--MI-Plant_31146717-1) |
 | 🏢 **Thermo Fisher Scientific** | Equipment Operator, Onsert - 3rd Shift |  | Bohemia | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bohemia-New-York-USA/Equipment-Operator--Onsert---3rd-Shift_R-01347523) |
 | 🏢 **Thermo Fisher Scientific** | Quality Engineer - Clinical Labeling |  | Bohemia | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bohemia-New-York-USA/Quality-Engineer---Clinical-Labeling_R-01340356) |
 | 🏢 **Thermo Fisher Scientific** | QC Finished Product Supervisor |  | High Point | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/High-Point-North-Carolina-USA/QC-Finished-Product-Supervisor_R-01348124-1) |
@@ -276,7 +278,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Guidehouse** | Clinical Documentation Integrity Specialist - Remote |  | Remote | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Documentation-Integrity-Specialist---Remote_37521) |
 | 🏢 **Guidehouse** | Patient Account Rep   Special Billing |  | AL, Birmingham | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Rep---Special-Billing_37629) |
 | 🏢 **IDEXX** | Histology Technician (Per Diem/Casual) |  | Elmhurst, IL | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Elmhurst-IL/Histology-Technician--Per-Diem-Casual-_J-052266) |
-| 🏢 **Guidehouse** | Patient Account Representative |  | TX, San Antonio | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Access-Representative_38113) |
 | 🏢 **EVERSANA** | Nurse Navigator - Remote |  | Yardley, PA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000118942677) |
 | 🏢 **Caterpillar** | Nurse (2nd Shift) |  | North Little Rock | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/North-Little-Rock-Arkansas/Nurse_R0000360146-1) |
 
@@ -334,7 +335,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 338 current opportunities from 29 companies**
+**🎯 345 current opportunities from 30 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
