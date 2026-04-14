@@ -1939,34 +1939,6 @@
     "job_posted_at": "2026-04-10T07:03:34.287Z"
   },
   {
-    "job_id": "workday-abbott-31147235",
-    "job_title": "Clinical Specialist, CRM - Hollywood, FL",
-    "employer_name": "Abbott",
-    "job_city": "Florida - Hollywood",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Hollywood/Clinical-Specialist--CRM---Hollywood--FL_31147235-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:34.286Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e00775485ae09e6fa9500454892ba21b35cfbecfe8391411133e3f44983c4fe3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:03:34.286Z"
-  },
-  {
     "job_id": "workday-abbott-31142960",
     "job_title": "Clinical Specialist, Vessel Closure - Tulsa, OK/Wichita, KS",
     "employer_name": "Abbott",
@@ -2007,6 +1979,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "01f2997f47ae6d3e67aa78e50a5001a61b474c9c6160c85e485db11090fc3e0c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:03:34.286Z"
+  },
+  {
+    "job_id": "workday-abbott-31147235",
+    "job_title": "Clinical Specialist, CRM - Hollywood, FL",
+    "employer_name": "Abbott",
+    "job_city": "Florida - Hollywood",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Hollywood/Clinical-Specialist--CRM---Hollywood--FL_31147235-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:34.286Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e00775485ae09e6fa9500454892ba21b35cfbecfe8391411133e3f44983c4fe3",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2217,118 +2217,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-10T07:01:11.864Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178174",
-    "job_title": "Plasma Center Nurse EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "FL - Jacksonville - Norm",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville---Norm/Plasma-Center-Nurse-EMT-P_R0178174",
-    "job_posted_at_datetime_utc": "2026-04-10T07:01:05.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cb20bcab9238be62377d8372e1dea0cbdbfdd350ccf02230f6dd8477fcf2ff56",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:01:05.797Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178170",
-    "job_title": "RN – 3k Sign On - Day One Medical Benefits",
-    "employer_name": "Takeda",
-    "job_city": "MO - Springfield - Erie St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---Erie-St/RN---3k-Sign-On---Day-One-Medical-Benefits_R0178170-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:01:05.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fc0b83fbd46d693496195ae12d76c6b80e39688cd575449f8945761aa9ba381a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:01:05.797Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178169",
-    "job_title": "Paramedic – 3k Sign On Bonus - No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "MO - Springfield - Erie St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---Erie-St/Paramedic---3k-Sign-On-Bonus---No-Overnight-Shifts_R0178169",
-    "job_posted_at_datetime_utc": "2026-04-10T07:01:05.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "931a21b0e8588f09f5187e5d26929b33fba37b7d67e5fd2ce93149cd22312d35",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:01:05.797Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178167",
-    "job_title": "Licensed Practical Nurse – 3k Sign On - Day One Medical Benefits",
-    "employer_name": "Takeda",
-    "job_city": "MO - Springfield - Erie St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---Erie-St/Licensed-Practical-Nurse---3k-Sign-On---Day-One-Medical-Benefits_R0178167-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:01:05.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "689969300986534d5402c8a737b635268c2fbb74de606dee88b8f3f26739a95f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:01:05.797Z"
   },
   {
     "job_id": "workday-takeda-R0178228",
@@ -2695,6 +2583,118 @@
     "job_posted_at": "2026-04-10T07:01:05.797Z"
   },
   {
+    "job_id": "workday-takeda-R0178174",
+    "job_title": "Plasma Center Nurse EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "FL - Jacksonville - Norm",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville---Norm/Plasma-Center-Nurse-EMT-P_R0178174",
+    "job_posted_at_datetime_utc": "2026-04-10T07:01:05.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cb20bcab9238be62377d8372e1dea0cbdbfdd350ccf02230f6dd8477fcf2ff56",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:01:05.797Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178170",
+    "job_title": "RN – 3k Sign On - Day One Medical Benefits",
+    "employer_name": "Takeda",
+    "job_city": "MO - Springfield - Erie St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---Erie-St/RN---3k-Sign-On---Day-One-Medical-Benefits_R0178170-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:01:05.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc0b83fbd46d693496195ae12d76c6b80e39688cd575449f8945761aa9ba381a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:01:05.797Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178169",
+    "job_title": "Paramedic – 3k Sign On Bonus - No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "MO - Springfield - Erie St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---Erie-St/Paramedic---3k-Sign-On-Bonus---No-Overnight-Shifts_R0178169",
+    "job_posted_at_datetime_utc": "2026-04-10T07:01:05.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "931a21b0e8588f09f5187e5d26929b33fba37b7d67e5fd2ce93149cd22312d35",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:01:05.797Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178167",
+    "job_title": "Licensed Practical Nurse – 3k Sign On - Day One Medical Benefits",
+    "employer_name": "Takeda",
+    "job_city": "MO - Springfield - Erie St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---Erie-St/Licensed-Practical-Nurse---3k-Sign-On---Day-One-Medical-Benefits_R0178167-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:01:05.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "689969300986534d5402c8a737b635268c2fbb74de606dee88b8f3f26739a95f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:01:05.797Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01345262",
     "job_title": "Supervisor - Sample Management",
     "employer_name": "Thermo Fisher Scientific",
@@ -2835,6 +2835,62 @@
     "job_posted_at": "2026-04-10T07:00:33.745Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-056576",
+    "job_title": "Advanced Surgical Consultant - Hackensack, NJ - Johnson & Johnson MedTech - Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Hackensack",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Hackensack-New-Jersey-United-States/Advanced-Surgical-Consultant---Hackensack--NJ---Johnson---Johnson-MedTech---Heart-Recovery_R-056576-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:33.081Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8c4412d34589b0aca4873b9699d05d546a06d9ed73b24beca9c8bb83fbf10239",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:00:33.081Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-056568",
+    "job_title": "Advanced Surgical Consultant - Dallas/Fort Worth, TX - Johnson & Johnson MedTech, Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Dallas Texas United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Dallas-Texas-United-States/Advanced-Surgical-Consultant---Dallas-Fort-Worth--TX---Johnson---Johnson-MedTech--Heart-Recovery_R-056568-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:33.081Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9145c038bc6d176e15e521f693224c3f6c34b3d8a575679ada86356a44a1f91b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:00:33.081Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-062247",
     "job_title": "Associate Clinical Consultant or Clinical Consultant - Fayetteville/Pinehurst, NC - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -2912,62 +2968,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:00:33.081Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-056576",
-    "job_title": "Advanced Surgical Consultant - Hackensack, NJ - Johnson & Johnson MedTech - Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Hackensack",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Hackensack-New-Jersey-United-States/Advanced-Surgical-Consultant---Hackensack--NJ---Johnson---Johnson-MedTech---Heart-Recovery_R-056576-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:33.081Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8c4412d34589b0aca4873b9699d05d546a06d9ed73b24beca9c8bb83fbf10239",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:00:33.081Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-056568",
-    "job_title": "Advanced Surgical Consultant - Dallas/Fort Worth, TX - Johnson & Johnson MedTech, Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Dallas Texas United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Dallas-Texas-United-States/Advanced-Surgical-Consultant---Dallas-Fort-Worth--TX---Johnson---Johnson-MedTech--Heart-Recovery_R-056568-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:33.081Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9145c038bc6d176e15e521f693224c3f6c34b3d8a575679ada86356a44a1f91b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -3540,34 +3540,6 @@
     "job_posted_at": "2026-04-09T07:04:09.260Z"
   },
   {
-    "job_id": "workday-abbott-31147187",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Chicago, IL",
-    "employer_name": "Abbott",
-    "job_city": "Illinois - Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Chicago/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Chicago--IL_31147187",
-    "job_posted_at_datetime_utc": "2026-04-09T07:03:34.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ffab119b070a868b22999b8fe84526afa10610e2d9006172cfd2c2cec20dc824",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:03:34.287Z"
-  },
-  {
     "job_id": "workday-abbott-31146717",
     "job_title": "CAD Technician - Sturgis, MI Plant",
     "employer_name": "Abbott",
@@ -3944,6 +3916,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "06a39e455396dbc794c5e373306e3cafb5a6319c6934dacab43259c2de3a43d3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:03:34.287Z"
+  },
+  {
+    "job_id": "workday-abbott-31147187",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Chicago, IL",
+    "employer_name": "Abbott",
+    "job_city": "Illinois - Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Chicago/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Chicago--IL_31147187",
+    "job_posted_at_datetime_utc": "2026-04-09T07:03:34.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ffab119b070a868b22999b8fe84526afa10610e2d9006172cfd2c2cec20dc824",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5334,34 +5334,6 @@
     "job_posted_at": "2026-04-09T07:01:03.243Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01348124",
-    "job_title": "QC Finished Product Supervisor",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "High Point",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/High-Point-North-Carolina-USA/QC-Finished-Product-Supervisor_R-01348124-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:51.823Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "107da180f50a4a800238066bd83a241e61de0e32e2af2a4f4a25d5575e8f47e6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:00:51.823Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01348283",
     "job_title": "MSAT Scientist (Technology Transfer)",
     "employer_name": "Thermo Fisher Scientific",
@@ -5469,6 +5441,34 @@
     "job_posted_at": "2026-04-09T07:00:51.823Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01348124",
+    "job_title": "QC Finished Product Supervisor",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "High Point",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/High-Point-North-Carolina-USA/QC-Finished-Product-Supervisor_R-01348124-1",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:51.823Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "107da180f50a4a800238066bd83a241e61de0e32e2af2a4f4a25d5575e8f47e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:00:51.823Z"
+  },
+  {
     "job_id": "workday-globus-medical-JR106191",
     "job_title": "Complaint Coordinator",
     "employer_name": "Globus Medical",
@@ -5523,62 +5523,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-09T07:00:33.745Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-065040",
-    "job_title": "Associate Area Manager or Area Manager (Atlanta West) Johnson & Johnson MedTech, Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Atlanta-Georgia-United-States/Associate-Area-Manager-Area-Manager---Atlanta-West---Johnson---Johnson-MedTech--Heart-Recovery_R-065040-2",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:33.082Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8b33351c815e3542f008b0fe596d81d0ced42b52c7b6003766499846a8ef34c6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:00:33.082Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-064888",
-    "job_title": "Pr Data Steward, Scientific/CMC",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Spring House",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Pr-Data-Steward--Scientific-CMC_R-064888",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:33.082Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d6d3d21398dfcea48233b1614395e31a556f5faada176713ed9a003721f731bb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:00:33.082Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-068945",
@@ -5686,6 +5630,62 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:00:33.082Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-065040",
+    "job_title": "Associate Area Manager or Area Manager (Atlanta West) Johnson & Johnson MedTech, Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Atlanta-Georgia-United-States/Associate-Area-Manager-Area-Manager---Atlanta-West---Johnson---Johnson-MedTech--Heart-Recovery_R-065040-2",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:33.082Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8b33351c815e3542f008b0fe596d81d0ced42b52c7b6003766499846a8ef34c6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:00:33.082Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-064888",
+    "job_title": "Pr Data Steward, Scientific/CMC",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Spring House",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Pr-Data-Steward--Scientific-CMC_R-064888",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:33.082Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d6d3d21398dfcea48233b1614395e31a556f5faada176713ed9a003721f731bb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -6317,6 +6317,62 @@
     "job_posted_at": "2026-04-08T07:03:45.404Z"
   },
   {
+    "job_id": "workday-abbott-31146697",
+    "job_title": "Palletizer Operator - Altavista, VA Plant (3rd Shift)",
+    "employer_name": "Abbott",
+    "job_city": "Virginia - Altavista",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Palletizer-Operator---Altavista--VA-Plant--3rd-Shift-_31146697-1",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:34.288Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b4fdb09ceec705fa51445b8fa2447f19a553b193f3b40930e4779d07fc60d800",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:03:34.288Z"
+  },
+  {
+    "job_id": "workday-abbott-31146598",
+    "job_title": "Stockroom Clerk - 3rd Shift - Altavista Plant",
+    "employer_name": "Abbott",
+    "job_city": "Virginia - Altavista",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Stockroom-Clerk---3rd-Shift---Altavista-Plant_31146598-1",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:34.288Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "16d070aca67445133e35f951a0bce33b2e8f9e3f1b5fa39128e98390666842f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:03:34.288Z"
+  },
+  {
     "job_id": "workday-abbott-31147046",
     "job_title": "Associate Clinical Specialist, CRM - Tyler, TX",
     "employer_name": "Abbott",
@@ -6423,62 +6479,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:03:34.288Z"
-  },
-  {
-    "job_id": "workday-abbott-31146697",
-    "job_title": "Palletizer Operator - Altavista, VA Plant (3rd Shift)",
-    "employer_name": "Abbott",
-    "job_city": "Virginia - Altavista",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Palletizer-Operator---Altavista--VA-Plant--3rd-Shift-_31146697-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:34.288Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b4fdb09ceec705fa51445b8fa2447f19a553b193f3b40930e4779d07fc60d800",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:03:34.288Z"
-  },
-  {
-    "job_id": "workday-abbott-31146598",
-    "job_title": "Stockroom Clerk - 3rd Shift - Altavista Plant",
-    "employer_name": "Abbott",
-    "job_city": "Virginia - Altavista",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Stockroom-Clerk---3rd-Shift---Altavista-Plant_31146598-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:34.288Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "16d070aca67445133e35f951a0bce33b2e8f9e3f1b5fa39128e98390666842f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
