@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-320-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-321-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-33-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-110-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-109-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,15 +69,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
+| 🏢 **Takeda** | Plasma Center Nurse - Licensed Vocational Nurse |  | TX - Austin | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Plasma-Center-Nurse---Licensed-Vocational-Nurse_R0178380) |
 | 🏢 **Takeda** | Plasma Center Nurse – RN |  | MI - Warren + 2 more | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Warren/Plasma-Center-Nurse---RN_R0175857-1) |
 | 🏢 **Takeda** | Plasma Center Nurse - Bilingual (LPN) |  | FL - Tampa | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tampa/Plasma-Center-Nurse---Bilingual--LPN-_R0178330-1) |
 | 🏢 **Johnson & Johnson** | Medical Science Liaison – Genitourinary Oncology - Southern California (San Diego, CA) |  | San Diego | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/San-Diego-California-United-States-of-America/Medical-Science-Liaison---Genitourinary-Oncology---Southern-California--San-Diego--CA-_R-069241-1) |
-| 🏢 **General Motors** | Occupational Health Registered Nurse (2nd Shift) |  | Wentzville | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Wentzville-Missouri-United-States-of-America/Occupational-Health-Registered-Nurse--2nd-Shift-_JR-202523647) |
-| 🏢 **Takeda** | LPN – Plasma Center Nurse (Part-Time   New Grads Welcome   30hrs) |  | IA - Davenport | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/LPN---Plasma-Center-Nurse--Part-Time---New-Grads-Welcome---30hrs-_R0178285-1) |
+| 🏢 **General Motors** | Occupational Health Registered Nurse (2nd Shift) |  | Wentzville | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Wentzville-Missouri-United-States-of-America/Occupational-Health-Registered-Nurse--2nd-Shift-_JR-202523647) |
 | 🏢 **Disney** | Guest Registered Nurse Coordinator |  | Lake Buena Vista, FL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Guest-Registered-Nurse-Coordinator_10144089) |
 | 🏢 **Abbott** | Clinical Specialist, Peripheral - MD/Southern DE |  | Maryland - Baltimore | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maryland---Baltimore/Senior-Clinical-Specialist--Peripheral---MD-Southern-DE_31137028-1) |
-| 🏢 **Guidehouse** | Clinical Denials and Appeals  RN |  | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-and-Appeals--RN_37704) |
-| 🏢 **Guidehouse** | Clinical Denials/Appeals RN |  | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-Appeals-RN_38029) |
+| 🏢 **Guidehouse** | Clinical Denials and Appeals  RN |  | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-and-Appeals--RN_37704) |
+| 🏢 **Guidehouse** | Clinical Denials/Appeals RN |  | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-Appeals-RN_38029) |
 | 🏢 **Abbott** | Associate Clinical Specialist - Riverside/San Bernardino County |  | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Riverside/Clinical-Specialist---Riverside--CA_31141269-2) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bremen, GA |  | Georgia - Atlanta | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Bremen--GA_31147362) |
 | 🏢 **Johnson & Johnson** | Field Clinical Specialist - Shockwave Medical (Northern Virginia) |  | 4 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Fairfax-Virginia-United-States/Field-Clinical-Specialist---Shockwave-Medical--Northern-Virginia-_R-068431-1) |
@@ -123,7 +123,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Biogen** | Clinical Trials Redaction/Regulatory Response Specialist |  | Remote | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Clinical-Trials-Redaction-Regulatory-Response-Specialist_REQ23061) |
 | 🏢 **Johnson & Johnson** | Medical Science Liaison, GU Oncology -  Virginia & West Virginia |  | 3 Locations | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Arlington-Virginia-United-States/Medical-Science-Liaison--GU-Oncology----Virginia---West-Virginia_R-069131-1) |
 | 🏢 **Johnson & Johnson** | Medical Science Liaison - GU Oncology - (N. Texas & Oklahoma) |  | Dallas Texas Unit... | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dallas-Texas-United-States/Medical-Science-Liaison---GU-Oncology----N-Texas---Oklahoma-_R-068876-1) |
-| 🏢 **Johnson & Johnson** | Medical Science Liaison - GU Oncology - (MN/SD/ND) |  | 2 Locations | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Rochester-Minnesota-United-States/Medical-Science-Liaison---GU-Oncology----MN-SD-ND-_R-068856-1) |
+| 🏢 **Johnson & Johnson** | Medical Science Liaison - GU Oncology - (MN/SD/ND) |  | 2 Locations | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Rochester-Minnesota-United-States/Medical-Science-Liaison---GU-Oncology----MN-SD-ND-_R-068856-1) |
 | 🏢 **AbbVie** | Clinical Research Associate I (Northeast) |  | Jersey City, NJ | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012559596) |
 | 🏢 **Biogen** | Payment Specialist - Clinical Trial Financial Operations |  | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Payment-Specialist---Clinical-Trial-Financial-Operations_REQ22810) |
 | 🏢 **Abbott** | Clinical Research, Associate I |  | California - Alameda | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Clinical-Research--Associate-I_31144409-1) |
@@ -139,8 +139,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Thermo Fisher Scientific** | Field Applications Scientist, Proteomics (Remote - MD/DC) |  | District of Columbia | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/Field-Applications-Scientist--Proteomics--Remote---MD-DC-_R-01347202) |
-| 🏢 **Fidelity Investments** | Crypto Research Associate, Finance |  | Chicago, IL | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Chicago-IL/Crypto-Research-Associate--Finance_2126529) |
+| 🏢 **Thermo Fisher Scientific** | Field Applications Scientist, Proteomics (Remote - MD/DC) |  | District of Columbia | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/Field-Applications-Scientist--Proteomics--Remote---MD-DC-_R-01347202) |
+| 🏢 **Fidelity Investments** | Crypto Research Associate, Finance |  | Chicago, IL | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Chicago-IL/Crypto-Research-Associate--Finance_2126529) |
 | 🏢 **Johnson & Johnson** | Associate Scientist II, In Vitro Display |  | Cambridge | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cambridge-Massachusetts-United-States-of-America/Associate-Scientist-II--In-Vitro-Display_R-061720-1) |
 | 🏢 **Boeing** | Experienced Test & Evaluation Lab Technician  (Metrology & Calibration) | ✅ Sponsor | Berkeley, MO | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Test---Evaluation-Lab-Technician---Metrology---Calibration-_JR2026501709-1) |
 | 🏢 **Dandy** | Customer Experience - Dental Lab Technician (Anterior Crown and Bridge) |  | USA - Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/da84a173-6133-419b-8074-dcb09f203f56/application) |
@@ -157,8 +157,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **iRhythm** | Cardiac Technician, San Francisco |  | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/San-Francisco-CA/Cardiac-Technician_JR997) |
 | 🏢 **AbbVie** | Associate Scientist II, In Vitro Pharmacology |  | San Diego, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012515686) |
 | 🏢 **Personalis** | Clinical Lab Scientist 1 (3rd Shift) |  | Fremont, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7693930003) |
-| 🏢 **Abbott** | Scientist 1, Applied Research |  | California - San ... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Scientist-1--Applied-Research_31145965-2) |
 | 🏢 **Abbott** | Assistant Chemist - 2nd shift |  | Ohio - Columbus | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Assistant-Chemist---2nd-shift_31147003-1) |
+| 🏢 **Abbott** | Scientist 1, Applied Research |  | California - San ... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Scientist-1--Applied-Research_31145965-2) |
 | 🏢 **Johnson & Johnson** | Compound Logistics Scientist |  | San Diego | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/San-Diego-California-United-States-of-America/Compound-Logistics-Scientist_R-068918-1) |
 | 🏢 **Astera Labs** | Hardware Lab Technician | ✅ Sponsor | San Jose | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4674410005) |
 | 🏢 **Veolia Environnement SA** | Hazardous Waste Process Planner Chemist |  | Port Acres, TX | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000119188288) |
@@ -173,10 +173,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Abbott** | Clinical Specialist |  | Missouri - St. Louis | 32m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---St-Louis/Clinical-Specialist_31144820) |
-| 🏢 **Takeda** | Head, Global Clinical Science & Medical Affairs for Marketed Products |  | MA - Cambridge - ... | 39m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge---Kendall-Square---500/Head--Global-Clinical-Science---Medical-Affairs-for-Marketed-Products_R0177318-1) |
+| 🏢 **Medtronic** | Assoc Clinical Specialist CRM - Tampa |  | Tampa | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Assoc-Clinical-Specialist-CRM---Tampa_R64225-1) |
+| 🏢 **Abbott** | Clinical Specialist |  | Missouri - St. Louis | 47m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---St-Louis/Clinical-Specialist_31144820) |
+| 🏢 **Takeda** | Head, Global Clinical Science & Medical Affairs for Marketed Products |  | MA - Cambridge - ... | 54m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge---Kendall-Square---500/Head--Global-Clinical-Science---Medical-Affairs-for-Marketed-Products_R0177318-1) |
 | 🏢 **AbbVie** | Oncology Specialist - Tampa, FL |  | Naples, FL + 1 more | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012591305) |
-| 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA |  | 2 Locations | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1) |
+| 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA |  | 2 Locations | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1) |
 | 🏢 **Abbott** | Clinical Specialist I, CPT - Abilene, TX |  | Texas - Abilene | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Abilene/Clinical-Specialist-I--CPT---Abilene--TX_31147339-2) |
 | 🏢 **Abbott** | Clinical Specialist, Coronary - San Diego, CA |  | California - San ... | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Senior-Clinical-Specialist--Coronary---San-Diego--CA_31143741-1) |
 | 🏢 **Intuitive** | Cardiovascular Program Specialist |  | Denver, CO | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000120030187) |
@@ -185,7 +186,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Exact Sciences** | Regional Oncology Specialist - Cincinnati, OH |  | OH Cincinnati | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---OH---Cincinnati/Regional-Oncology-Specialist---Cincinnati--OH_R26-12493) |
 | 🏢 **Exact Sciences** | Regional Oncology Specialist - Cleveland, OH |  | OH Cleveland | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---OH---Cleveland/Regional-Oncology-Specialist---Cleveland--OH_R26-12843) |
 | 🏢 **Medtronic** | Assoc Clinical Specialist CST |  | San Juan | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Juan-Puerto-Rico-United-States-of-America/Assoc-Clinical-Specialist-CST_R62552-1) |
-| 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Houston, TX |  | Houston | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Clinical-Specialist--Pain-Interventions---Houston--TX_R64101-1) |
 | 🏢 **Takeda** | Medical Screener |  | FL - Tampa + 7 more | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tampa/Medical-Screener_R0178228-1) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Huntington, WV) |  | West Virginia | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/West-Virginia/Associate-Spine-Specialist--Huntington--WV-_JR106426) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Toledo, OH) |  | Ohio | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Ohio/Associate-Spine-Specialist--Toledo--OH-_JR106449) |
@@ -242,18 +242,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Globus Medical** | Associate Interventional Specialist (Central NJ) |  | New Jersey | 8m | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/New-Jersey/Associate-Interventional-Specialist--Central-NJ-_JR106448) |
-| 🏢 **Oscar Health** | Care Navigation Guide |  | Arizona + 3 more | 42m | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7815005?gh_jid=7815005) |
-| 🏢 **Caterpillar** | Nurse |  | Morton | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Morton-Illinois/Nurse_R0000362457) |
+| 🏢 **Globus Medical** | Associate Interventional Specialist (Central NJ) |  | New Jersey | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/New-Jersey/Associate-Interventional-Specialist--Central-NJ-_JR106448) |
+| 🏢 **Oscar Health** | Care Navigation Guide |  | Arizona + 3 more | 57m | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7815005?gh_jid=7815005) |
+| 🏢 **Caterpillar** | Nurse |  | Morton | 58m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Morton-Illinois/Nurse_R0000362457) |
 | 🏢 **Takeda** | Manager Trainee - Operations (Travel Program; Relocation Required) |  | Virtual, GA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Georgia---Virtual/Manager-Trainee---Operations--Travel-Program--Relocation-Required-_R0178311-1) |
-| 🏢 **Takeda** | Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation |  | Boston, MA | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831) |
+| 🏢 **Takeda** | Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation |  | Boston, MA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831) |
 | 🏢 **Oscar Health** | Associate, Care Navigation Programs |  | Atlanta + 3 more | 17h | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7813060?gh_jid=7813060) |
 | 🏢 **AbbVie** | Oncology Diagnostic Liaison - Michigan/Tennessee |  | Nashville, TN + 1 more | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012580496) |
 | 🏢 **Takeda** | IG Community Support Advocate I |  | Virtual, IL | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/IG-Community-Support-Advocate-I_R0169536) |
 | 🏢 **AbbVie** | Omnichannel Marketing Partner, Oncology |  | Mettawa, IL | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012579716) |
 | 🏢 **EVERSANA** | Medical Information Representative |  | Overland Park, KS | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000120526698) |
 | 🏢 **Johnson & Johnson** | Executive Area Business Specialist, Immunology (Syracuse NY) - Johnson & Johnson Innovative Medicine |  | 4 Locations | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Syracuse-New-York-United-States/Executive-Area-Business-Specialist--Immunology--Syracuse-NY----Johnson---Johnson-Innovative-Medicine_R-060264-1) |
-| 🏢 **AbbVie** | Oncology Account Executive - Jacksonville, FL |  | Jacksonville, FL | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012575576) |
+| 🏢 **AbbVie** | Oncology Account Executive - Jacksonville, FL |  | Jacksonville, FL | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012575576) |
 | 🏢 **Johnson & Johnson** | Executive Oncology Sales Specialist, CAR-T - Sacramento and Portland - Johnson & Johnson Innovative Medicine |  | 2 Locations | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Sacramento-California-United-States-of-America/Executive-Oncology-Sales-Specialist--CAR-T---Sacramento-and-Portland---Johnson---Johnson-Innovative-Medicine_R-067052-1) |
 | 🏢 **Johnson & Johnson** | Oncology Sales Specialist - Ann Arbor, MI - Johnson & Johnson Innovative Medicine |  | Ann Arbor | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Ann-Arbor-Michigan-United-States/Oncology-Sales-Specialist---Ann-Arbor--MI---Johnson---Johnson-Innovative-Medicine_R-052327-1) |
 | 🏢 **Guidehouse** | Patient Access Trainer |  | CA, Ventura | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Patient-Access-Trainer_38294) |
@@ -281,7 +281,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **NXP** | EHS Industrial Hygiene and Safety Professional |  | Austin | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/EHS-Industrial-Hygiene-and-Safety-Professional_R-10062655) |
 | 🏢 **Guidepoint** | Client Success - Healthcare Corporate Specialist (NYC) |  | New York | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8342632002) |
 | 🏢 **Intuitive** | Endoluminal Sales Representative |  | Nashville, TN | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119174826) |
-| 🏢 **EVERSANA** | Copy Supervisor (oncology DTP experience is required) |  | Chicago, IL | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000119158877) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -337,7 +336,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 320 current opportunities from 33 companies**
+**🎯 321 current opportunities from 33 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
