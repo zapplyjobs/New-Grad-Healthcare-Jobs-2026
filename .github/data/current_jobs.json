@@ -5665,34 +5665,6 @@
     "job_posted_at": "2026-04-09T07:01:58.822Z"
   },
   {
-    "job_id": "workday-merck-&-co.-R391961",
-    "job_title": "HIV Customer Representative - Allentown, PA",
-    "employer_name": "Merck & Co.",
-    "job_city": "Pennsylvania - Harrisburg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---Harrisburg/HIV-Customer-Representative---Allentown--PA_R391961",
-    "job_posted_at_datetime_utc": "2026-04-09T07:01:42.167Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eba426645b3c32c0b35cd317f1f9e4da6a59f05829b0c139d7f553d5a815252a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:01:42.167Z"
-  },
-  {
     "job_id": "workday-merck-&-co.-R392706",
     "job_title": "Companion Animal Territory Representative - Johnson City/Kingsport, TN",
     "employer_name": "Merck & Co.",
@@ -5743,6 +5715,34 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:01:42.167Z"
+  },
+  {
+    "job_id": "workday-merck-&-co.-R391961",
+    "job_title": "HIV Customer Representative - Allentown, PA",
+    "employer_name": "Merck & Co.",
+    "job_city": "Pennsylvania - Harrisburg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---Harrisburg/HIV-Customer-Representative---Allentown--PA_R391961",
+    "job_posted_at_datetime_utc": "2026-04-09T07:01:42.167Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eba426645b3c32c0b35cd317f1f9e4da6a59f05829b0c139d7f553d5a815252a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7010,6 +7010,34 @@
     "job_posted_at": "2026-04-09T07:01:03.243Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01348283",
+    "job_title": "MSAT Scientist (Technology Transfer)",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/MSAT-Scientist--Technology-Transfer-_R-01348283",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:51.823Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1b89cb4d4270b574fee1e210b4afd5d2ad9959ef21cf7ca116d0b51d3787c89",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:00:51.823Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01347523",
     "job_title": "Equipment Operator, Onsert - 3rd Shift",
     "employer_name": "Thermo Fisher Scientific",
@@ -7110,34 +7138,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:00:51.823Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01348283",
-    "job_title": "MSAT Scientist (Technology Transfer)",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/MSAT-Scientist--Technology-Transfer-_R-01348283",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:51.823Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1b89cb4d4270b574fee1e210b4afd5d2ad9959ef21cf7ca116d0b51d3787c89",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -9341,90 +9341,6 @@
     "job_posted_at": "2026-04-08T07:00:51.824Z"
   },
   {
-    "job_id": "workday-guidehouse-38221",
-    "job_title": "Project Supervisor - Hospital A/R - PFS - Revenue Cycle",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Project-Supervisor---Hospital-A-R---PFS---Revenue-Cycle_38221",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:34.668Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cdd9402e4a69b9a782b30a38270f5a1b5043ee15b19f9f8334a7e67fbe8c0521",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:00:34.668Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38219",
-    "job_title": "Cash Poster - Payment Posting - Healthcare Claims",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Cash-Poster---Payment-Posting---Healthcare-Claims_38219",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:34.668Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1e72f18a25ace877f9a3b7627d91d38636b069b351a788ef891c819f4099e043",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:00:34.668Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38217",
-    "job_title": "Credit Balance Specialist - Healthcare Hospital Claims",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Credit-Balance-Specialist---Healthcare-Hospital-Claims_38217",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:34.668Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e5a5ae61d1266b0234fe60635b90d16847cd033c1b87497a30dd8f23e0e0c08f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:00:34.668Z"
-  },
-  {
     "job_id": "workday-guidehouse-38216",
     "job_title": "Medical Biller - Hospital Claims - Healthcare",
     "employer_name": "Guidehouse",
@@ -9549,6 +9465,90 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1e72f18a25ace877f9a3b7627d91d38636b069b351a788ef891c819f4099e043",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:00:34.668Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38221",
+    "job_title": "Project Supervisor - Hospital A/R - PFS - Revenue Cycle",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Project-Supervisor---Hospital-A-R---PFS---Revenue-Cycle_38221",
+    "job_posted_at_datetime_utc": "2026-04-08T07:00:34.668Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cdd9402e4a69b9a782b30a38270f5a1b5043ee15b19f9f8334a7e67fbe8c0521",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:00:34.668Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38219",
+    "job_title": "Cash Poster - Payment Posting - Healthcare Claims",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Cash-Poster---Payment-Posting---Healthcare-Claims_38219",
+    "job_posted_at_datetime_utc": "2026-04-08T07:00:34.668Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1e72f18a25ace877f9a3b7627d91d38636b069b351a788ef891c819f4099e043",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:00:34.668Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38217",
+    "job_title": "Credit Balance Specialist - Healthcare Hospital Claims",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Credit-Balance-Specialist---Healthcare-Hospital-Claims_38217",
+    "job_posted_at_datetime_utc": "2026-04-08T07:00:34.668Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e5a5ae61d1266b0234fe60635b90d16847cd033c1b87497a30dd8f23e0e0c08f",
     "tags": {
       "employment": "entry_level",
       "domains": [
