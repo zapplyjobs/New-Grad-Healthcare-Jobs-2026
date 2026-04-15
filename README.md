@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-278-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-33-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-90-red?style=flat&logo=star)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-281-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-35-blue?style=flat&logo=building)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-94-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -173,33 +173,32 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Abbott** | Clinical Specialist, Endovascular - Dallas, TX |  | Texas - Dallas | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Dallas/Clinical-Specialist--Endovascular---Dallas--TX_31147481) |
-| 🏢 **Abbott** | Clinical Specialist, Coronary - Newark, NJ |  | New Jersey - Newark | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Newark/Clinical-Specialist--Coronary---Newark--NJ_31147495-1) |
+| 🏢 **Abbott** | Clinical Specialist, Endovascular - Dallas, TX |  | Texas - Dallas | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Dallas/Clinical-Specialist--Endovascular---Dallas--TX_31147481) |
+| 🏢 **Abbott** | Clinical Specialist, Coronary - Newark, NJ |  | New Jersey - Newark | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Newark/Clinical-Specialist--Coronary---Newark--NJ_31147495-1) |
 | 🏢 **Abbott** | Clinical Specialist, Vessel Closure - Phoenix, AZ |  | Arizona - Phoenix | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist--Vessel-Closure---Phoenix--AZ_31147606-1) |
-| 🏢 **Medtronic** | Associate Clinical Specialist CRM - Houston |  | Houston | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Associate-Clinical-Specialist-CRM---Houston_R64337-1) |
+| 🏢 **Medtronic** | Associate Clinical Specialist CRM - Houston |  | Houston | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Associate-Clinical-Specialist-CRM---Houston_R64337-1) |
 | 🏢 **Medtronic** | Cardiac Rhythm Clinical Specialist - Shreveport, LA |  | Shreveport | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Shreveport-Louisiana-United-States-of-America/Cardiac-Rhythm-Clinical-Specialist---Shreveport--LA_R64357-1) |
-| 🏢 **Medtronic** | Clinical Specialist, CRM - Rochester, NY |  | Rochester | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Rochester-New-York-United-States-of-America/Clinical-Specialist--CRM---Buffalo-Rochester--NY_R59617-1) |
+| 🏢 **Medtronic** | Clinical Specialist, CRM - Rochester, NY |  | Rochester | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Rochester-New-York-United-States-of-America/Clinical-Specialist--CRM---Buffalo-Rochester--NY_R59617-1) |
 | 🏢 **Johnson & Johnson** | Field Clinical Specialist - Shockwave  - Phoenix or Tucson, AZ - Remote |  | Phoenix Arizona U... | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Phoenix-Arizona-United-States/Field-Clinical-Specialist---Shockwave----Phoenix-or-Tucson--AZ---Remote_R-069909-1) |
-| 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral Image Guided Devices (Washington, DC) |  | Washington | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Devices--Washington--DC-_580988-1) |
+| 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral Image Guided Devices (Washington, DC) |  | Washington | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Devices--Washington--DC-_580988-1) |
 | 🏢 **Takeda** | Head, Global Clinical Science & Medical Affairs for Marketed Products |  | MA - Cambridge - ... | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge---Kendall-Square---500/Head--Global-Clinical-Science---Medical-Affairs-for-Marketed-Products_R0177318-1) |
 | 🏢 **AbbVie** | Oncology Specialist - Tampa, FL |  | Naples, FL + 1 more | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012591305) |
 | 🏢 **Intuitive** | Cardiovascular Program Specialist |  | Denver, CO | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000120030187) |
 | 🏢 **AbbVie** | Oncology Specialist - Nashville, Tennessee |  | Nashville, TN | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012548726) |
+| 🏢 **Exact Sciences** | Regional Oncology Specialist - Cleveland, OH |  | OH Cleveland | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---OH---Cleveland/Regional-Oncology-Specialist---Cleveland--OH_R26-12843) |
 | 🏢 **Exact Sciences** | Regional Oncology Specialist - West Virginia |  | WV Charleston | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WV---Charleston/Regional-Oncology-Specialist---West-Virginia_R26-12494) |
 | 🏢 **Exact Sciences** | Regional Oncology Specialist - Cincinnati, OH |  | OH Cincinnati | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---OH---Cincinnati/Regional-Oncology-Specialist---Cincinnati--OH_R26-12493) |
-| 🏢 **Exact Sciences** | Regional Oncology Specialist - Cleveland, OH |  | OH Cleveland | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---OH---Cleveland/Regional-Oncology-Specialist---Cleveland--OH_R26-12843) |
-| 🏢 **Takeda** | Medical Screener |  | SC - Greenville + 6 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Greenville/Medical-Screener_R0178189-1) |
+| 🏢 **Takeda** | Medical Screener |  | FL - Tampa + 6 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Tampa/Medical-Screener_R0178228-1) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Huntington, WV) |  | West Virginia | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/West-Virginia/Associate-Spine-Specialist--Huntington--WV-_JR106426) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Toledo, OH) |  | Ohio | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Ohio/Associate-Spine-Specialist--Toledo--OH-_JR106449) |
 | 🏢 **Johnson & Johnson** | Associate Area Manager OKC |  | Oklahoma City | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Oklahoma-City-Oklahoma-United-States/Associate-Area-Manager-OKC_R-065675-1) |
 | 🏢 **Intuitive** | Clinical Territory Associate - Future Opportunity |  | Austin, TX + 1 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119677142) |
-| 🏢 **EVERSANA** | Medical Information Specialist |  | Overland Park, KS | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000119613294) |
-| 🏢 **Merck & Co.** | HIV Customer Representative - Allentown, PA |  | Pennsylvania - Ha... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---Harrisburg/HIV-Customer-Representative---Allentown--PA_R391961) |
+| 🏢 **EVERSANA** | Medical Information Specialist |  | Overland Park, KS | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000119613294) |
 | 🏢 **Merck & Co.** | Companion Animal Territory Representative - Johnson City/Kingsport, TN |  | REMOTE - REMOTE | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---REMOTE---REMOTE/Companion-Animal-Territory-Representative---Johnson-City-Kingsport--TN_R392706-1) |
+| 🏢 **Merck & Co.** | HIV Customer Representative - Allentown, PA |  | Pennsylvania - Ha... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---Harrisburg/HIV-Customer-Representative---Allentown--PA_R391961) |
 | 🏢 **Philips** | DMS Clinical Support Specialist |  | Remote Based, Uni... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/DMS-Clinical-Support-Specialist_573486) |
 | 🏢 **Takeda** | Entry Level Phlebotomist/Medical Screener |  | AL - Birmingham | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AL---Birmingham/Entry-Level-Phlebotomist-Medical-Screener_R0178094-1) |
 | 🏢 **Johnson & Johnson** | Associate Area Manager or Area Manager (Atlanta West) Johnson & Johnson MedTech, Heart Recovery |  | Atlanta | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Atlanta-Georgia-United-States/Associate-Area-Manager-Area-Manager---Atlanta-West---Johnson---Johnson-MedTech--Heart-Recovery_R-065040-2) |
-| 🏢 **Intuitive** | Endoluminal Territory Associate |  | Portland, ME | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119386423) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -242,6 +241,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
+| 🏢 **Johnson Controls** | Client Services Coordinator 1 |  | Tennessee-United ... | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Nashville-Tennessee-United-States-of-America/Client-Services-Coordinator-1_WD30266521) |
+| 🏢 **Wellmark, Inc.** | Health Services Coding Analyst (CPC Required) |  | Sioux Falls, SD + 2 more | 19m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000120979937) |
 | 🏢 **Takeda** | Plasma Center Technician-AM/PM Flex |  | CO - Colorado Spr... | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Colorado-Springs/Plasma-Center-Technician-AM-PM-Flex_R0178388-1) |
 | 🏢 **Takeda** | EMT-P Health Screener |  | WI - Green Bay - ... | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Green-Bay---Isbell-St/EMT-P-Health-Screener_R0178422-1) |
 | 🏢 **Takeda** | Medical Support Specialist (EMT-P, AEMT, EMT-I) – Immediate Benefits!   Appleton Eisen |  | WI - Appleton - E... | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Medical-Support-Specialist--EMT-P--AEMT--EMT-I----Immediate-Benefits----Appleton-Eisen_R0178418-1) |
@@ -329,7 +330,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 278 current opportunities from 33 companies**
+**🎯 281 current opportunities from 35 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
