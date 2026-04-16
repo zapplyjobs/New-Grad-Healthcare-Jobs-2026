@@ -4120,34 +4120,6 @@
     "job_posted_at": "2026-04-13T07:20:29.080Z"
   },
   {
-    "job_id": "workday-abbott-31137028",
-    "job_title": "Clinical Specialist, Peripheral - MD/Southern DE",
-    "employer_name": "Abbott",
-    "job_city": "Maryland - Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maryland---Baltimore/Senior-Clinical-Specialist--Peripheral---MD-Southern-DE_31137028-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:18.228Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f76096c48b77b9704b20e8f3836b2dbc491fce966ca5b3d204473baf509d4c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:20:18.228Z"
-  },
-  {
     "job_id": "workday-abbott-31147339",
     "job_title": "Clinical Specialist I, CPT - Abilene, TX",
     "employer_name": "Abbott",
@@ -4230,6 +4202,90 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-13T07:20:18.228Z"
+  },
+  {
+    "job_id": "workday-abbott-31137028",
+    "job_title": "Clinical Specialist, Peripheral - MD/Southern DE",
+    "employer_name": "Abbott",
+    "job_city": "Maryland - Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maryland---Baltimore/Senior-Clinical-Specialist--Peripheral---MD-Southern-DE_31137028-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:18.228Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f76096c48b77b9704b20e8f3836b2dbc491fce966ca5b3d204473baf509d4c5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:20:18.228Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177831",
+    "job_title": "Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
+    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:02:06.023Z"
+  },
+  {
+    "job_id": "workday-takeda-R0169536",
+    "job_title": "IG Community Support Advocate I",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/IG-Community-Support-Advocate-I_R0169536",
+    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02431d27159969cc981416579f1bacb46cbb4af1751cfddae1135ca3ef2a055b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:02:06.023Z"
   },
   {
     "job_id": "workday-takeda-R0178307",
@@ -4440,62 +4496,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "81a826c53d47583035be069032abec637a5d367445687a1d36597d8a1e2c625d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:02:06.023Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177831",
-    "job_title": "Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
-    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:02:06.023Z"
-  },
-  {
-    "job_id": "workday-takeda-R0169536",
-    "job_title": "IG Community Support Advocate I",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/IG-Community-Support-Advocate-I_R0169536",
-    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02431d27159969cc981416579f1bacb46cbb4af1751cfddae1135ca3ef2a055b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4764,6 +4764,90 @@
     "job_posted_at": "2026-04-13T07:00:25.014Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-061720",
+    "job_title": "Associate Scientist II, In Vitro Display",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Cambridge",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cambridge-Massachusetts-United-States-of-America/Associate-Scientist-II--In-Vitro-Display_R-061720-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:19.016Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d0a0994d7656cffa985b4f46c4e6a5000584ca3836c3a71f4119d52536cbf991",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:00:19.016Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-069131",
+    "job_title": "Medical Science Liaison, GU Oncology -  Virginia & West Virginia",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Arlington-Virginia-United-States/Medical-Science-Liaison--GU-Oncology----Virginia---West-Virginia_R-069131-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:19.016Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f85b86e673fc0f94f5df6755e82f72c2a5a631ea4e0e9f6840fcdb9f90166b83",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:00:19.016Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-069241",
+    "job_title": "Medical Science Liaison – Genitourinary Oncology - Southern California (San Diego, CA)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "San Diego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/San-Diego-California-United-States-of-America/Medical-Science-Liaison---Genitourinary-Oncology---Southern-California--San-Diego--CA-_R-069241-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:19.016Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "81b54c17a37e13598e4e0aa648c58d58680fd56767c187ee72bfe230baf38053",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:00:19.016Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-067052",
     "job_title": "Executive Oncology Sales Specialist, CAR-T - Sacramento and Portland - Johnson & Johnson Innovative Medicine",
     "employer_name": "Johnson & Johnson",
@@ -4861,90 +4945,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f48fdb24767fa5ea6dde88369c8f93f7138b18cdcbc660713a2e05e564b67ee2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:19.016Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-061720",
-    "job_title": "Associate Scientist II, In Vitro Display",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Cambridge",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cambridge-Massachusetts-United-States-of-America/Associate-Scientist-II--In-Vitro-Display_R-061720-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:19.016Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d0a0994d7656cffa985b4f46c4e6a5000584ca3836c3a71f4119d52536cbf991",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:19.016Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-069131",
-    "job_title": "Medical Science Liaison, GU Oncology -  Virginia & West Virginia",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Arlington-Virginia-United-States/Medical-Science-Liaison--GU-Oncology----Virginia---West-Virginia_R-069131-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:19.016Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f85b86e673fc0f94f5df6755e82f72c2a5a631ea4e0e9f6840fcdb9f90166b83",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:19.016Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-069241",
-    "job_title": "Medical Science Liaison – Genitourinary Oncology - Southern California (San Diego, CA)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/San-Diego-California-United-States-of-America/Medical-Science-Liaison---Genitourinary-Oncology---Southern-California--San-Diego--CA-_R-069241-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:19.016Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "81b54c17a37e13598e4e0aa648c58d58680fd56767c187ee72bfe230baf38053",
     "tags": {
       "employment": "entry_level",
       "domains": [
