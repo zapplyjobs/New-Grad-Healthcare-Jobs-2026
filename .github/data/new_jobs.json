@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-general-motors-JR-202606428",
+    "job_title": "Ergonomist",
+    "employer_name": "General Motors",
+    "job_city": "Flint",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Flint-Michigan-United-States-of-America/Ergonomist_JR-202606428",
+    "job_posted_at_datetime_utc": "2026-04-16T12:33:42.511Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2d01e05f672a53b4d655f97b716c4bb687b67f18fd4620541cc6bc92e6355c41",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T12:33:42.511Z"
+  },
+  {
     "job_id": "sr-EVERSANA1-744000121171927",
     "job_title": "Oncology Sales Representative - Los Angeles",
     "employer_name": "EVERSANA",
@@ -2635,18 +2663,18 @@
     "job_posted_at": "2026-04-14T07:22:10.428Z"
   },
   {
-    "job_id": "workday-abbott-31144820",
-    "job_title": "Clinical Specialist",
+    "job_id": "workday-abbott-31147623",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings",
     "employer_name": "Abbott",
-    "job_city": "Missouri - St. Louis",
+    "job_city": "Virginia - Roanoke",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---St-Louis/Clinical-Specialist_31144820",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623",
     "job_posted_at_datetime_utc": "2026-04-14T07:21:48.418Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "dfd064d74d4371f0b058006eb105c7392aa2d36b7b68c72d43dc5c80fac1a215",
+    "fingerprint": "42a278b5b2db959eeb466e187f22b38689e7662044574f8ec2a67f12035a0f06",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2663,18 +2691,18 @@
     "job_posted_at": "2026-04-14T07:21:48.418Z"
   },
   {
-    "job_id": "workday-abbott-31147623",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings",
+    "job_id": "workday-abbott-31144820",
+    "job_title": "Clinical Specialist",
     "employer_name": "Abbott",
-    "job_city": "Virginia - Roanoke",
+    "job_city": "Missouri - St. Louis",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---St-Louis/Clinical-Specialist_31144820",
     "job_posted_at_datetime_utc": "2026-04-14T07:21:48.418Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "42a278b5b2db959eeb466e187f22b38689e7662044574f8ec2a67f12035a0f06",
+    "fingerprint": "dfd064d74d4371f0b058006eb105c7392aa2d36b7b68c72d43dc5c80fac1a215",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2887,34 +2915,6 @@
     "job_posted_at": "2026-04-14T07:02:35.747Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01347734",
-    "job_title": "Clinical Research Coordinator",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Chicago-Illinois-USA/Clinical-Research-Coordinator_R-01347734-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:02:20.891Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bee629932624a6c0b343ed13bbf11e4b665e192bbb2180a6b1a2223d6effce67",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:02:20.891Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01349057",
     "job_title": "FSP - Scientist - Synthetic Molecule Analytical Chemistry",
     "employer_name": "Thermo Fisher Scientific",
@@ -2955,6 +2955,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "bfe4d27bd0bff791fd49d2de138e05b3d6917663511d015a74a9bae9d7e73be4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:02:20.891Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01347734",
+    "job_title": "Clinical Research Coordinator",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Chicago-Illinois-USA/Clinical-Research-Coordinator_R-01347734-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:02:20.891Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bee629932624a6c0b343ed13bbf11e4b665e192bbb2180a6b1a2223d6effce67",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6343,6 +6371,34 @@
     "job_posted_at": "2026-04-10T07:00:31.101Z"
   },
   {
+    "job_id": "workday-medtronic-R64101",
+    "job_title": "Clinical Specialist, Pain Interventions - Houston, TX",
+    "employer_name": "Medtronic",
+    "job_city": "Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Clinical-Specialist--Pain-Interventions---Houston--TX_R64101-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:31.100Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b9890854212c2964967d69c3932e449e2315c95bc62c265c070e9c3435bc88ae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:00:31.100Z"
+  },
+  {
     "job_id": "workday-medtronic-R63536",
     "job_title": "Clinical Specialist - Cardiac Rhythm Management (CRM)",
     "employer_name": "Medtronic",
@@ -6383,34 +6439,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1489c85b3c3b4246952fec9804e101441716b2746d35d8b439ff617081f659f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:00:31.100Z"
-  },
-  {
-    "job_id": "workday-medtronic-R64101",
-    "job_title": "Clinical Specialist, Pain Interventions - Houston, TX",
-    "employer_name": "Medtronic",
-    "job_city": "Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Clinical-Specialist--Pain-Interventions---Houston--TX_R64101-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:31.100Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b9890854212c2964967d69c3932e449e2315c95bc62c265c070e9c3435bc88ae",
     "tags": {
       "employment": "entry_level",
       "domains": [
