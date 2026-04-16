@@ -1,5 +1,34 @@
 [
   {
+    "job_id": "workday-guidehouse-38582",
+    "job_title": "Clinical Denials and Appeals RN",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-and-Appeals-RN_38582",
+    "job_posted_at_datetime_utc": "2026-04-16T21:50:00.787Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "167b3034b8fe2dc91a6a6b6ef87e2a9b6d9a59d985b711d850048958cd62d8ae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T21:50:00.787Z"
+  },
+  {
     "job_id": "workday-idexx-J-052623",
     "job_title": "Microbiology Laboratory Technician – 2nd Shift",
     "employer_name": "IDEXX",
@@ -141,34 +170,6 @@
     "job_posted_at": "2026-04-16T20:48:09.280Z"
   },
   {
-    "job_id": "workday-abbott-31138237",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
-    "employer_name": "Abbott",
-    "job_city": "North Carolina - Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
-    "job_posted_at_datetime_utc": "2026-04-16T20:46:40.328Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T20:46:40.328Z"
-  },
-  {
     "job_id": "workday-abbott-31147849",
     "job_title": "Clinical Specialist I, CPT - Calabasas, CA",
     "employer_name": "Abbott",
@@ -189,6 +190,34 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T20:46:40.328Z"
+  },
+  {
+    "job_id": "workday-abbott-31138237",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
+    "job_posted_at_datetime_utc": "2026-04-16T20:46:40.328Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "unknown",
       "special": []
@@ -4564,6 +4593,34 @@
     "job_posted_at": "2026-04-14T07:21:48.417Z"
   },
   {
+    "job_id": "workday-takeda-R0178311",
+    "job_title": "Manager Trainee - Operations (Travel Program; Relocation Required)",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Georgia---Virtual/Manager-Trainee---Operations--Travel-Program--Relocation-Required-_R0178311-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:02:35.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4364e1993805bbcf95587f6d62a92a9aaac920460c437cf4485c4f4c68fe869b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:02:35.747Z"
+  },
+  {
     "job_id": "workday-takeda-R0178380",
     "job_title": "Plasma Center Nurse - Licensed Vocational Nurse",
     "employer_name": "Takeda",
@@ -4632,34 +4689,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "78f902650cfaa83a1ed76374c13b624e4b7f77f9bb0fbff677de82165904f136",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:02:35.747Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178311",
-    "job_title": "Manager Trainee - Operations (Travel Program; Relocation Required)",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Georgia---Virtual/Manager-Trainee---Operations--Travel-Program--Relocation-Required-_R0178311-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:02:35.747Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4364e1993805bbcf95587f6d62a92a9aaac920460c437cf4485c4f4c68fe869b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6081,6 +6110,118 @@
     "job_posted_at": "2026-04-13T07:20:18.228Z"
   },
   {
+    "job_id": "workday-takeda-R0177831",
+    "job_title": "Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
+    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:02:06.023Z"
+  },
+  {
+    "job_id": "workday-takeda-R0169536",
+    "job_title": "IG Community Support Advocate I",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/IG-Community-Support-Advocate-I_R0169536",
+    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02431d27159969cc981416579f1bacb46cbb4af1751cfddae1135ca3ef2a055b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:02:06.023Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178307",
+    "job_title": "Associate Scientist, Biochemical Lead Profiling",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Associate-Scientist--Biochemical-Lead-Profiling_R0178307",
+    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7f7cec4c213ac5e323a7469af5b851f6de40c6662e33f6f0d3c8d3887ca086ab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:02:06.023Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178298",
+    "job_title": "New Grad LPN / EMT-P Full-Time (40 Hours   Training Provided)",
+    "employer_name": "Takeda",
+    "job_city": "IA - Davenport",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/New-Grad-LPN---EMT-P-Full-Time--40-Hours---Training-Provided-_R0178298-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f3f7dcfc4674053349699ed6a7e17e9bc2a31968dd4c3e24e32f4ce11daf1468",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:02:06.023Z"
+  },
+  {
     "job_id": "workday-takeda-R0178289",
     "job_title": "EMT-P – Part-Time (30 Hours   Training Provided   New Grads Welcome)",
     "employer_name": "Takeda",
@@ -6233,118 +6374,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "81a826c53d47583035be069032abec637a5d367445687a1d36597d8a1e2c625d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:02:06.023Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177831",
-    "job_title": "Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
-    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:02:06.023Z"
-  },
-  {
-    "job_id": "workday-takeda-R0169536",
-    "job_title": "IG Community Support Advocate I",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/IG-Community-Support-Advocate-I_R0169536",
-    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02431d27159969cc981416579f1bacb46cbb4af1751cfddae1135ca3ef2a055b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:02:06.023Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178307",
-    "job_title": "Associate Scientist, Biochemical Lead Profiling",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Associate-Scientist--Biochemical-Lead-Profiling_R0178307",
-    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7f7cec4c213ac5e323a7469af5b851f6de40c6662e33f6f0d3c8d3887ca086ab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:02:06.023Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178298",
-    "job_title": "New Grad LPN / EMT-P Full-Time (40 Hours   Training Provided)",
-    "employer_name": "Takeda",
-    "job_city": "IA - Davenport",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/New-Grad-LPN---EMT-P-Full-Time--40-Hours---Training-Provided-_R0178298-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f3f7dcfc4674053349699ed6a7e17e9bc2a31968dd4c3e24e32f4ce11daf1468",
     "tags": {
       "employment": "entry_level",
       "domains": [
