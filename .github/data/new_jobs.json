@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "workday-medtronic-R63300",
+    "job_title": "Clinical Specialist, Cardiac Rhythm Management (CRM) - Mason City, IA",
+    "employer_name": "Medtronic",
+    "job_city": "State of Iowa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Iowa-United-States-of-America/Clinical-Specialist--Cardiac-Rhythm-Management--CRM----Mason-City--IA_R63300-1",
+    "job_posted_at_datetime_utc": "2026-04-17T19:22:25.133Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "90c491de58f0958f99a6b42f731e929243ec4c86453f386d99827d2f8d4fd405",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T19:22:25.133Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64625",
+    "job_title": "Clinical Specialist - Cardiac Rhythm Management - Milwaukee, WI",
+    "employer_name": "Medtronic",
+    "job_city": "Milwaukee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Milwaukee-Wisconsin-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management---Milwaukee--WI_R64625-1",
+    "job_posted_at_datetime_utc": "2026-04-17T19:22:25.133Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f15f83b032300e13210935210a0d91e61c65d12dda8b013355936cb13c89b9a0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T19:22:25.133Z"
+  },
+  {
     "job_id": "workday-abbott-31148024",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Louisville, KY",
     "employer_name": "Abbott",
@@ -2164,34 +2220,6 @@
     "job_posted_at": "2026-04-16T17:00:55.223Z"
   },
   {
-    "job_id": "workday-takeda-R0178598",
-    "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IN - Fort Wayne - Coldwater Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--LPN----Weekday---Weekend-Availability---Immediate-Benefits_R0178598",
-    "job_posted_at_datetime_utc": "2026-04-16T16:49:04.285Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "33fab2c7a7cdfe220c3ce06197435beb6b59d52b6167ec011225703e425e466d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:49:04.285Z"
-  },
-  {
     "job_id": "workday-takeda-R0178586",
     "job_title": "Medical Support Specialist - EMT-P",
     "employer_name": "Takeda",
@@ -2246,6 +2274,90 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-16T16:49:04.285Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178598",
+    "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IN - Fort Wayne - Coldwater Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--LPN----Weekday---Weekend-Availability---Immediate-Benefits_R0178598",
+    "job_posted_at_datetime_utc": "2026-04-16T16:49:04.285Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "33fab2c7a7cdfe220c3ce06197435beb6b59d52b6167ec011225703e425e466d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:49:04.285Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178590",
+    "job_title": "Medical Screener/Phlebotomist ($16 an hour) Part-Time with Benefits",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Medical-Screener-Phlebotomist---16-an-hour--Part-Time-with-Benefits_R0178590-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "34f4ca8de94bb8ec5b930da6887b1bd853a79e4666ce207d68bad0e9ae537651",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:36:47.203Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178585",
+    "job_title": "Medical Support Specialist - LPN",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio - Deza",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---LPN_R0178585-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "da35f0d6152a2227fe6cea9afe71b9d48146a1f0369c3184c75d9812bac25d59",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:36:47.203Z"
   },
   {
     "job_id": "workday-takeda-R0178596",
@@ -2360,62 +2472,6 @@
     "job_posted_at": "2026-04-16T16:36:47.203Z"
   },
   {
-    "job_id": "workday-takeda-R0178590",
-    "job_title": "Medical Screener/Phlebotomist ($16 an hour) Part-Time with Benefits",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Medical-Screener-Phlebotomist---16-an-hour--Part-Time-with-Benefits_R0178590-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "34f4ca8de94bb8ec5b930da6887b1bd853a79e4666ce207d68bad0e9ae537651",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:36:47.203Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178585",
-    "job_title": "Medical Support Specialist - LPN",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio - Deza",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---LPN_R0178585-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "da35f0d6152a2227fe6cea9afe71b9d48146a1f0369c3184c75d9812bac25d59",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:36:47.203Z"
-  },
-  {
     "job_id": "workday-abbott-31145518",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -2442,62 +2498,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-16T16:32:52.034Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178580",
-    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "IN - Kokomo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0178580-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "96c12366f83185c065ee84ddccfa38092623cfc02c6a52e301382ac89041740f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:24:33.999Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178578",
-    "job_title": "Bilingual (Spanish/English) Nurse – LPN/LVN",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Nurse---LPN-LVN_R0178578-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b552051bdad90bdcb93a3411902e0def5ce1f5aa598a3012310e6be34a76887a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:24:33.999Z"
   },
   {
     "job_id": "workday-takeda-R0178583",
@@ -2568,6 +2568,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4565a846bc7f7d728437f8c96bbd4e1fa3b08bb2cf45917d6ecdece543c346c9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:24:33.999Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178580",
+    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "IN - Kokomo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0178580-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "96c12366f83185c065ee84ddccfa38092623cfc02c6a52e301382ac89041740f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:24:33.999Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178578",
+    "job_title": "Bilingual (Spanish/English) Nurse – LPN/LVN",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Nurse---LPN-LVN_R0178578-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b552051bdad90bdcb93a3411902e0def5ce1f5aa598a3012310e6be34a76887a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4812,34 +4868,6 @@
     "job_posted_at": "2026-04-15T07:01:40.788Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01338055",
-    "job_title": "Animal Laboratory Technician",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Benson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Benson-Vermont-USA/Animal-Laboratory-Technician_R-01338055",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:40.787Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7b8864814328724f9b2660e27a2ab2e35dd621d37d38d0a8e933c956ead32aca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:40.787Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01344169",
     "job_title": "Associate Scientist - Molecular Genomics",
     "employer_name": "Thermo Fisher Scientific",
@@ -4936,6 +4964,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "07d83ec2f1f7a2214a45c5e55a288d9ecbc8fd521a503ecc1fe64dbf76eeb4f0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:40.787Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01338055",
+    "job_title": "Animal Laboratory Technician",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Benson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Benson-Vermont-USA/Animal-Laboratory-Technician_R-01338055",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:40.787Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7b8864814328724f9b2660e27a2ab2e35dd621d37d38d0a8e933c956ead32aca",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6259,62 +6315,6 @@
     "job_posted_at": "2026-04-14T07:01:04.465Z"
   },
   {
-    "job_id": "workday-medtronic-R64191",
-    "job_title": "Assoc Clinical Specialist CRM - Richland, WA",
-    "employer_name": "Medtronic",
-    "job_city": "Kennewick",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kennewick-Washington-United-States-of-America/Assoc-Clinical-Specialist-CRM---Richland--WA_R64191-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5cbb609b44f96c013935f8cff55e3d534c4278a81fab4ab8fb54ba31c8f54bd8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:19.919Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63505",
-    "job_title": "Vascular Clinical Specialist - Dallas TX",
-    "employer_name": "Medtronic",
-    "job_city": "Dallas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Vascular-Clinical-Specialist---Dallas-TX_R63505-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f3b4097680388f288acd7892661fb3837019b676ba6cfe7b714a8ba710c8e846",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:19.919Z"
-  },
-  {
     "job_id": "workday-medtronic-R64225",
     "job_title": "Assoc Clinical Specialist CRM - Tampa",
     "employer_name": "Medtronic",
@@ -6364,6 +6364,62 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:19.919Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64191",
+    "job_title": "Assoc Clinical Specialist CRM - Richland, WA",
+    "employer_name": "Medtronic",
+    "job_city": "Kennewick",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kennewick-Washington-United-States-of-America/Assoc-Clinical-Specialist-CRM---Richland--WA_R64191-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5cbb609b44f96c013935f8cff55e3d534c4278a81fab4ab8fb54ba31c8f54bd8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:19.919Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63505",
+    "job_title": "Vascular Clinical Specialist - Dallas TX",
+    "employer_name": "Medtronic",
+    "job_city": "Dallas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Vascular-Clinical-Specialist---Dallas-TX_R63505-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f3b4097680388f288acd7892661fb3837019b676ba6cfe7b714a8ba710c8e846",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
