@@ -1,5 +1,149 @@
 [
   {
+    "job_id": "workday-medtronic-R64605",
+    "job_title": "Associate Clinical Specialist CRM - Kansas City",
+    "employer_name": "Medtronic",
+    "job_city": "Kansas City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kansas-City-Kansas-United-States-of-America/Associate-Clinical-Specialist-CRM---Kansas-City_R64605-1",
+    "job_posted_at_datetime_utc": "2026-04-17T14:47:48.170Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "acad9b36907717562c12f9ebe8a9a2c71550144a52ced2beb8fda0545783b085",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T14:47:48.170Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7825277",
+    "job_title": "Associate, Data Analytics (Tempe, AZ - Hybrid)",
+    "employer_name": "Oscar Health",
+    "job_city": "Tempe",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "http://www.hioscar.com/careers/7825277?gh_jid=7825277",
+    "job_posted_at_datetime_utc": "2026-04-17T14:40:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "13869653c252555027a616e98a2d78367e0fcb105035f6166b3ec7015f275b03",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-17T14:40:00.000Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7688263",
+    "job_title": "Associate, Data Analytics (NYC - Hybrid)",
+    "employer_name": "Oscar Health",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "http://www.hioscar.com/careers/7688263?gh_jid=7688263",
+    "job_posted_at_datetime_utc": "2026-04-17T14:39:59.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d5e65a7c2a7775116a148a3fed791bcadbd6a37b1497de5ec53161f98599296",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-17T14:39:59.000Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7825287",
+    "job_title": "Associate, Data Analytics (Dallas, TX- Remote)",
+    "employer_name": "Oscar Health",
+    "job_city": "Dallas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "http://www.hioscar.com/careers/7825287?gh_jid=7825287",
+    "job_posted_at_datetime_utc": "2026-04-17T14:39:57.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "640ca385696a7a35e8f90e385ae08f6d4c4d1dfea1aa9b371fc7450b55213a1b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-17T14:39:57.000Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7825290",
+    "job_title": "Associate, Data Analytics (Atlanta, GA- Remote)",
+    "employer_name": "Oscar Health",
+    "job_city": "Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "http://www.hioscar.com/careers/7825290?gh_jid=7825290",
+    "job_posted_at_datetime_utc": "2026-04-17T14:39:56.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8d07be7bfecac7137bcf5d48e9f65b3636c447aa1d6220c6176a2bba655daddf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-17T14:39:56.000Z"
+  },
+  {
     "job_id": "workday-abbott-31144569",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -56,35 +200,6 @@
     "job_posted_at": "2026-04-17T14:23:00.144Z"
   },
   {
-    "job_id": "workday-takeda-R0178668",
-    "job_title": "Medical Screener/Medical Customer Service",
-    "employer_name": "Takeda",
-    "job_city": "IL - Chicago - Plasma",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Chicago---Plasma/Medical-Screener-Medical-Customer-Service_R0178668-1",
-    "job_posted_at_datetime_utc": "2026-04-17T13:48:09.454Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a788b94c31880985f93368f88f7bf73f03cd1b38a156375255c2f65bb9251101",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T13:48:09.454Z"
-  },
-  {
     "job_id": "workday-takeda-R0178675",
     "job_title": "Entry Level Phlebotomist",
     "employer_name": "Takeda",
@@ -129,6 +244,35 @@
       "employment": "entry_level",
       "domains": [
         "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T13:48:09.454Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178668",
+    "job_title": "Medical Screener/Medical Customer Service",
+    "employer_name": "Takeda",
+    "job_city": "IL - Chicago - Plasma",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Chicago---Plasma/Medical-Screener-Medical-Customer-Service_R0178668-1",
+    "job_posted_at_datetime_utc": "2026-04-17T13:48:09.454Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a788b94c31880985f93368f88f7bf73f03cd1b38a156375255c2f65bb9251101",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "operations"
       ],
       "locations": [
         "us"
@@ -6787,90 +6931,6 @@
     "job_posted_at": "2026-04-13T07:20:18.228Z"
   },
   {
-    "job_id": "workday-takeda-R0177831",
-    "job_title": "Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0169536",
-    "job_title": "IG Community Support Advocate I",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/IG-Community-Support-Advocate-I_R0169536",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02431d27159969cc981416579f1bacb46cbb4af1751cfddae1135ca3ef2a055b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178307",
-    "job_title": "Associate Scientist, Biochemical Lead Profiling",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Associate-Scientist--Biochemical-Lead-Profiling_R0178307",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7f7cec4c213ac5e323a7469af5b851f6de40c6662e33f6f0d3c8d3887ca086ab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:01:55.336Z"
-  },
-  {
     "job_id": "workday-takeda-R0178298",
     "job_title": "New Grad LPN / EMT-P Full-Time (40 Hours   Training Provided)",
     "employer_name": "Takeda",
@@ -7051,6 +7111,90 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "81a826c53d47583035be069032abec637a5d367445687a1d36597d8a1e2c625d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177831",
+    "job_title": "Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0169536",
+    "job_title": "IG Community Support Advocate I",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/IG-Community-Support-Advocate-I_R0169536",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02431d27159969cc981416579f1bacb46cbb4af1751cfddae1135ca3ef2a055b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178307",
+    "job_title": "Associate Scientist, Biochemical Lead Profiling",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Associate-Scientist--Biochemical-Lead-Profiling_R0178307",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7f7cec4c213ac5e323a7469af5b851f6de40c6662e33f6f0d3c8d3887ca086ab",
     "tags": {
       "employment": "entry_level",
       "domains": [
