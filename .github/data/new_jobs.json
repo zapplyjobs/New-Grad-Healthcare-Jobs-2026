@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "workday-idexx-J-052535",
+    "job_title": "Medical Laboratory Technician Part Time 3rd Shift",
+    "employer_name": "IDEXX",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician-Part-Time-3rd-Shift_J-052535",
+    "job_posted_at_datetime_utc": "2026-04-17T11:52:07.743Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ed12cf2029ed87474f741ce2d36fd064181973443b4a854abf4ca9fd95e01268",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T11:52:07.743Z"
+  },
+  {
+    "job_id": "workday-irhythm-JR997",
+    "job_title": "Cardiac Technician, San Francisco",
+    "employer_name": "iRhythm",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/San-Francisco-CA/Cardiac-Technician_JR997",
+    "job_posted_at_datetime_utc": "2026-04-17T11:52:00.313Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8ee756f89eedbcb6f611014a543e0c64068d4d75d71feb48be15108487146046",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T11:52:00.313Z"
+  },
+  {
     "job_id": "workday-idexx-J-051260",
     "job_title": "Medical Laboratory Technician 1st Shift GenLab",
     "employer_name": "IDEXX",
@@ -2735,62 +2791,6 @@
     "job_posted_at": "2026-04-15T07:22:39.035Z"
   },
   {
-    "job_id": "workday-guidehouse-36986",
-    "job_title": "Payer Enrollment Specialist",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_36986",
-    "job_posted_at_datetime_utc": "2026-04-15T07:22:28.717Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:22:28.717Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38543",
-    "job_title": "Charge Corrections Medical Coder",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Charge-Corrections-Medical-Coder_38543-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:22:28.717Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "71f9a8529ace2ad96e78f0821614c0899d206443e73fb676f692a2418f0a8c33",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:22:28.717Z"
-  },
-  {
     "job_id": "workday-guidehouse-35313",
     "job_title": "Managing Consultant - Life Sciences Advisory - Market Access (US)",
     "employer_name": "Guidehouse",
@@ -2868,6 +2868,62 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:22:28.717Z"
+  },
+  {
+    "job_id": "workday-guidehouse-36986",
+    "job_title": "Payer Enrollment Specialist",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Birmingham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_36986",
+    "job_posted_at_datetime_utc": "2026-04-15T07:22:28.717Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:22:28.717Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38543",
+    "job_title": "Charge Corrections Medical Coder",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Birmingham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Charge-Corrections-Medical-Coder_38543-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:22:28.717Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "71f9a8529ace2ad96e78f0821614c0899d206443e73fb676f692a2418f0a8c33",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "unknown",
       "special": []
@@ -5296,64 +5352,6 @@
     "job_posted_at": "2026-04-14T07:00:19.016Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-054049",
-    "job_title": "Associate Clinical Account Specialist (New York, NY / Long Island, NY / Northern NJ) - Johnson & Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Associate-Clinical-Account-Specialist--New-York--NY---Long-Island--NY---Northern-NJ----Johnson---Johnson-MedTech--Electrophysiology_R-054049",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.015Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "78f3284ca5e9fddf6ff9e0064879e8dabb645d18ccce0dee1c7b914d2629bbae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:19.015Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-069367",
-    "job_title": "Executive Oncology Sales Specialist, Lung (Los Angeles, CA) Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Executive-Oncology-Sales-Specialist--Lung--Los-Angeles--CA--Johnson---Johnson-Innovative-Medicine_R-069367-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.015Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "611ffd56b0dfc2fdba33a9bf4bf4276b9e847d629ff8510c1abba2962c132885",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:19.015Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-069909",
     "job_title": "Field Clinical Specialist - Shockwave  - Phoenix or Tucson, AZ - Remote",
     "employer_name": "Johnson & Johnson",
@@ -5432,6 +5430,64 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:19.015Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-054049",
+    "job_title": "Associate Clinical Account Specialist (New York, NY / Long Island, NY / Northern NJ) - Johnson & Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Associate-Clinical-Account-Specialist--New-York--NY---Long-Island--NY---Northern-NJ----Johnson---Johnson-MedTech--Electrophysiology_R-054049",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.015Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "78f3284ca5e9fddf6ff9e0064879e8dabb645d18ccce0dee1c7b914d2629bbae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:19.015Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-069367",
+    "job_title": "Executive Oncology Sales Specialist, Lung (Los Angeles, CA) Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Executive-Oncology-Sales-Specialist--Lung--Los-Angeles--CA--Johnson---Johnson-Innovative-Medicine_R-069367-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.015Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "611ffd56b0dfc2fdba33a9bf4bf4276b9e847d629ff8510c1abba2962c132885",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -6308,6 +6364,62 @@
     "job_posted_at": "2026-04-13T07:20:18.228Z"
   },
   {
+    "job_id": "workday-takeda-R0177831",
+    "job_title": "Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0169536",
+    "job_title": "IG Community Support Advocate I",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/IG-Community-Support-Advocate-I_R0169536",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02431d27159969cc981416579f1bacb46cbb4af1751cfddae1135ca3ef2a055b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:01:55.336Z"
+  },
+  {
     "job_id": "workday-takeda-R0178307",
     "job_title": "Associate Scientist, Biochemical Lead Profiling",
     "employer_name": "Takeda",
@@ -6516,62 +6628,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "81a826c53d47583035be069032abec637a5d367445687a1d36597d8a1e2c625d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177831",
-    "job_title": "Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0169536",
-    "job_title": "IG Community Support Advocate I",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/IG-Community-Support-Advocate-I_R0169536",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02431d27159969cc981416579f1bacb46cbb4af1751cfddae1135ca3ef2a055b",
     "tags": {
       "employment": "entry_level",
       "domains": [
