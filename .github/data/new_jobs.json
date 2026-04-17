@@ -255,34 +255,6 @@
     "job_posted_at": "2026-04-16T20:48:09.280Z"
   },
   {
-    "job_id": "workday-abbott-31138237",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
-    "employer_name": "Abbott",
-    "job_city": "North Carolina - Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
-    "job_posted_at_datetime_utc": "2026-04-16T20:46:40.328Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T20:46:40.328Z"
-  },
-  {
     "job_id": "workday-abbott-31147849",
     "job_title": "Clinical Specialist I, CPT - Calabasas, CA",
     "employer_name": "Abbott",
@@ -303,6 +275,34 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T20:46:40.328Z"
+  },
+  {
+    "job_id": "workday-abbott-31138237",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
+    "job_posted_at_datetime_utc": "2026-04-16T20:46:40.328Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "unknown",
       "special": []
@@ -3736,174 +3736,6 @@
     "job_posted_at": "2026-04-15T06:05:36.556Z"
   },
   {
-    "job_id": "workday-takeda-R0178426",
-    "job_title": "Biolife Plasma Center Nurse - LPN (Benefits Day 1)",
-    "employer_name": "Takeda",
-    "job_city": "WI - Sheboygan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Sheboygan/Biolife-Plasma-Center-Nurse---LPN--Benefits-Day-1-_R0178426-1",
-    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8bc41b68a1d0f07eafa4d03db76c7b4f35f770b75b4af0bb0d42844f7d9d10f4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T05:05:35.282Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178427",
-    "job_title": "Biolife Plasma Nurse - RN Benefits Day 1",
-    "employer_name": "Takeda",
-    "job_city": "WI - Sheboygan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Sheboygan/Biolife-Plasma-Nurse---RN-Benefits-Day-1_R0178427-1",
-    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "96d332d73870975a426155898c3058bae9f5df9d3b78f47da1cea89dc9811480",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T05:05:35.282Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178422",
-    "job_title": "EMT-P Health Screener",
-    "employer_name": "Takeda",
-    "job_city": "WI - Green Bay - Isbell St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Green-Bay---Isbell-St/EMT-P-Health-Screener_R0178422-1",
-    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f60ec6ff91a6f8c7a7de915916bb5acc10f50fea93282004460f9d439e5761cd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T05:05:35.282Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178423",
-    "job_title": "LPN Nurse Health Screener",
-    "employer_name": "Takeda",
-    "job_city": "WI - Green Bay - Isbell St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Green-Bay---Isbell-St/LPN-Nurse-Health-Screener_R0178423",
-    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "29e325415010628c3324ca212c58fcc487f206a6f94b94628bdf07a48ff61f8f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T05:05:35.282Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178412",
-    "job_title": "Licensed Practical Nurse (LPN) – Immediate Benefits!   Appleton Eisen",
-    "employer_name": "Takeda",
-    "job_city": "WI - Appleton - Eisenhower Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Licensed-Practical-Nurse--LPN----Immediate-Benefits----Appleton-Eisen_R0178412-1",
-    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d57f6b97cbbc329afed5b7d3af6dc95c6ac547ff8e300f93cfd9091adbc2d30",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T05:05:35.282Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178417",
-    "job_title": "Licensed Practical Nurse (LPN) – Weekend Availability Needed - Appleton Eisen",
-    "employer_name": "Takeda",
-    "job_city": "WI - Appleton - Eisenhower Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Licensed-Practical-Nurse--LPN----Weekend-Availability-Needed---Appleton-Eisen_R0178417",
-    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1afd689ce655a66583ba330d0b62675c2a4386d476254f33dbf607dd169fc51",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T05:05:35.282Z"
-  },
-  {
     "job_id": "workday-takeda-R0178418",
     "job_title": "Medical Support Specialist (EMT-P, AEMT, EMT-I) – Immediate Benefits!   Appleton Eisen",
     "employer_name": "Takeda",
@@ -4056,6 +3888,174 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "faa51dda5effd20a5926530c9aaee462010d9d2739ecbdcd7bff28b871ee0c93",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T05:05:35.282Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178426",
+    "job_title": "Biolife Plasma Center Nurse - LPN (Benefits Day 1)",
+    "employer_name": "Takeda",
+    "job_city": "WI - Sheboygan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Sheboygan/Biolife-Plasma-Center-Nurse---LPN--Benefits-Day-1-_R0178426-1",
+    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8bc41b68a1d0f07eafa4d03db76c7b4f35f770b75b4af0bb0d42844f7d9d10f4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T05:05:35.282Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178427",
+    "job_title": "Biolife Plasma Nurse - RN Benefits Day 1",
+    "employer_name": "Takeda",
+    "job_city": "WI - Sheboygan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Sheboygan/Biolife-Plasma-Nurse---RN-Benefits-Day-1_R0178427-1",
+    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "96d332d73870975a426155898c3058bae9f5df9d3b78f47da1cea89dc9811480",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T05:05:35.282Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178422",
+    "job_title": "EMT-P Health Screener",
+    "employer_name": "Takeda",
+    "job_city": "WI - Green Bay - Isbell St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Green-Bay---Isbell-St/EMT-P-Health-Screener_R0178422-1",
+    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f60ec6ff91a6f8c7a7de915916bb5acc10f50fea93282004460f9d439e5761cd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T05:05:35.282Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178423",
+    "job_title": "LPN Nurse Health Screener",
+    "employer_name": "Takeda",
+    "job_city": "WI - Green Bay - Isbell St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Green-Bay---Isbell-St/LPN-Nurse-Health-Screener_R0178423",
+    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "29e325415010628c3324ca212c58fcc487f206a6f94b94628bdf07a48ff61f8f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T05:05:35.282Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178412",
+    "job_title": "Licensed Practical Nurse (LPN) – Immediate Benefits!   Appleton Eisen",
+    "employer_name": "Takeda",
+    "job_city": "WI - Appleton - Eisenhower Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Licensed-Practical-Nurse--LPN----Immediate-Benefits----Appleton-Eisen_R0178412-1",
+    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d57f6b97cbbc329afed5b7d3af6dc95c6ac547ff8e300f93cfd9091adbc2d30",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T05:05:35.282Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178417",
+    "job_title": "Licensed Practical Nurse (LPN) – Weekend Availability Needed - Appleton Eisen",
+    "employer_name": "Takeda",
+    "job_city": "WI - Appleton - Eisenhower Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Licensed-Practical-Nurse--LPN----Weekend-Availability-Needed---Appleton-Eisen_R0178417",
+    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1afd689ce655a66583ba330d0b62675c2a4386d476254f33dbf607dd169fc51",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4790,18 +4790,18 @@
     "job_posted_at": "2026-04-14T07:02:35.747Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01349057",
-    "job_title": "FSP - Scientist - Synthetic Molecule Analytical Chemistry",
+    "job_id": "workday-thermo-fisher-scientific-R-01347202",
+    "job_title": "Field Applications Scientist, Proteomics (Remote - MD/DC)",
     "employer_name": "Thermo Fisher Scientific",
-    "job_city": "South San Francisco",
+    "job_city": "District of Columbia",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/South-San-Francisco-California-USA/FSP---Scientist---Synthetic-Molecule-Analytical-Chemistry_R-01349057",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/Field-Applications-Scientist--Proteomics--Remote---MD-DC-_R-01347202",
     "job_posted_at_datetime_utc": "2026-04-14T07:02:20.891Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "aa50090bda1ce548bcd1f20145faab61ac54cb2a0a3fcfa7df8fc94e967eccbe",
+    "fingerprint": "bfe4d27bd0bff791fd49d2de138e05b3d6917663511d015a74a9bae9d7e73be4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4818,18 +4818,18 @@
     "job_posted_at": "2026-04-14T07:02:20.891Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01347202",
-    "job_title": "Field Applications Scientist, Proteomics (Remote - MD/DC)",
+    "job_id": "workday-thermo-fisher-scientific-R-01349057",
+    "job_title": "FSP - Scientist - Synthetic Molecule Analytical Chemistry",
     "employer_name": "Thermo Fisher Scientific",
-    "job_city": "District of Columbia",
+    "job_city": "South San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/Field-Applications-Scientist--Proteomics--Remote---MD-DC-_R-01347202",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/South-San-Francisco-California-USA/FSP---Scientist---Synthetic-Molecule-Analytical-Chemistry_R-01349057",
     "job_posted_at_datetime_utc": "2026-04-14T07:02:20.891Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bfe4d27bd0bff791fd49d2de138e05b3d6917663511d015a74a9bae9d7e73be4",
+    "fingerprint": "aa50090bda1ce548bcd1f20145faab61ac54cb2a0a3fcfa7df8fc94e967eccbe",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4901,6 +4901,90 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-14T07:01:48.964Z"
+  },
+  {
+    "job_id": "workday-medtronic-R56138",
+    "job_title": "Clinical Specialist - CAS, New Orleans, LA, Baton Rouge, LA /Jackson, MS, Hattiesburg, MS",
+    "employer_name": "Medtronic",
+    "job_city": "17 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-Orleans-Louisiana-United-States-of-America/Clinical-Specialist---CAS--New-Orleans--LA--Baton-Rouge--LA--Jackson--MS--Hattiesburg--MS_R56138-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:04.465Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5a1f18e5135e285e7b2e080442e8ac144ab561f8dca1787f4f8e993e00ab633b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:01:04.465Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63505",
+    "job_title": "Vascular Clinical Specialist - Dallas TX",
+    "employer_name": "Medtronic",
+    "job_city": "Dallas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Vascular-Clinical-Specialist---Dallas-TX_R63505-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:04.465Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f3b4097680388f288acd7892661fb3837019b676ba6cfe7b714a8ba710c8e846",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:01:04.465Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64225",
+    "job_title": "Assoc Clinical Specialist CRM - Tampa",
+    "employer_name": "Medtronic",
+    "job_city": "Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Assoc-Clinical-Specialist-CRM---Tampa_R64225-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:04.465Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5fd5aa50e1711da5db7b68e2be287542e5b3a9bb84a262e5e381c433c5119578",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:01:04.465Z"
   },
   {
     "job_id": "workday-medtronic-R64337",
@@ -5008,90 +5092,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:01:04.465Z"
-  },
-  {
-    "job_id": "workday-medtronic-R56138",
-    "job_title": "Clinical Specialist - CAS, New Orleans, LA, Baton Rouge, LA /Jackson, MS, Hattiesburg, MS",
-    "employer_name": "Medtronic",
-    "job_city": "17 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-Orleans-Louisiana-United-States-of-America/Clinical-Specialist---CAS--New-Orleans--LA--Baton-Rouge--LA--Jackson--MS--Hattiesburg--MS_R56138-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:01:04.465Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5a1f18e5135e285e7b2e080442e8ac144ab561f8dca1787f4f8e993e00ab633b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:01:04.465Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63505",
-    "job_title": "Vascular Clinical Specialist - Dallas TX",
-    "employer_name": "Medtronic",
-    "job_city": "Dallas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Vascular-Clinical-Specialist---Dallas-TX_R63505-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:01:04.465Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f3b4097680388f288acd7892661fb3837019b676ba6cfe7b714a8ba710c8e846",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:01:04.465Z"
-  },
-  {
-    "job_id": "workday-medtronic-R64225",
-    "job_title": "Assoc Clinical Specialist CRM - Tampa",
-    "employer_name": "Medtronic",
-    "job_city": "Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Assoc-Clinical-Specialist-CRM---Tampa_R64225-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:01:04.465Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5fd5aa50e1711da5db7b68e2be287542e5b3a9bb84a262e5e381c433c5119578",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
