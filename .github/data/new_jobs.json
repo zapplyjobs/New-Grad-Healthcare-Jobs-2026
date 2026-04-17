@@ -1,5 +1,91 @@
 [
   {
+    "job_id": "workday-illumina-41675-JOB",
+    "job_title": "Executive Oncology Sales Specialist - Eastern US",
+    "employer_name": "Illumina",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
+    "job_posted_at_datetime_utc": "2026-04-17T23:18:57.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T23:18:57.046Z"
+  },
+  {
+    "job_id": "workday-illumina-42321-JOB",
+    "job_title": "Biochemistry Specialist",
+    "employer_name": "Illumina",
+    "job_city": "Wisconsin - Madison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Wisconsin---Madison/Biochemistry-Specialist_42321-JOB-1",
+    "job_posted_at_datetime_utc": "2026-04-17T23:18:57.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b40711d01aefe8bb5de160ebee11187893362b21a398444a1f9ff051f9a87eed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T23:18:57.045Z"
+  },
+  {
+    "job_id": "workday-illumina-42498-JOB",
+    "job_title": "Biochemistry specialist 1",
+    "employer_name": "Illumina",
+    "job_city": "Wisconsin - Madison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Wisconsin---Madison/Biochemistry-specialist-1_42498-JOB-1",
+    "job_posted_at_datetime_utc": "2026-04-17T23:18:57.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "80f6f4f09f3c7cd0ed13613784b64c04c4411cc64c440f13a9c3dc363560e394",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T23:18:57.045Z"
+  },
+  {
     "job_id": "workday-leidos-R-00181251",
     "job_title": "School Military and Family Life Counselor - NB Kitsap",
     "employer_name": "Leidos",
@@ -2560,6 +2646,34 @@
     "job_posted_at": "2026-04-16T17:00:55.223Z"
   },
   {
+    "job_id": "workday-takeda-R0178598",
+    "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IN - Fort Wayne - Coldwater Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--LPN----Weekday---Weekend-Availability---Immediate-Benefits_R0178598",
+    "job_posted_at_datetime_utc": "2026-04-16T16:49:04.285Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "33fab2c7a7cdfe220c3ce06197435beb6b59d52b6167ec011225703e425e466d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:49:04.285Z"
+  },
+  {
     "job_id": "workday-takeda-R0178586",
     "job_title": "Medical Support Specialist - EMT-P",
     "employer_name": "Takeda",
@@ -2614,90 +2728,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-16T16:49:04.285Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178598",
-    "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IN - Fort Wayne - Coldwater Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--LPN----Weekday---Weekend-Availability---Immediate-Benefits_R0178598",
-    "job_posted_at_datetime_utc": "2026-04-16T16:49:04.285Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "33fab2c7a7cdfe220c3ce06197435beb6b59d52b6167ec011225703e425e466d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:49:04.285Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178590",
-    "job_title": "Medical Screener/Phlebotomist ($16 an hour) Part-Time with Benefits",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Medical-Screener-Phlebotomist---16-an-hour--Part-Time-with-Benefits_R0178590-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "34f4ca8de94bb8ec5b930da6887b1bd853a79e4666ce207d68bad0e9ae537651",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:36:47.203Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178585",
-    "job_title": "Medical Support Specialist - LPN",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio - Deza",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---LPN_R0178585-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "da35f0d6152a2227fe6cea9afe71b9d48146a1f0369c3184c75d9812bac25d59",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:36:47.203Z"
   },
   {
     "job_id": "workday-takeda-R0178596",
@@ -2812,6 +2842,62 @@
     "job_posted_at": "2026-04-16T16:36:47.203Z"
   },
   {
+    "job_id": "workday-takeda-R0178590",
+    "job_title": "Medical Screener/Phlebotomist ($16 an hour) Part-Time with Benefits",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Medical-Screener-Phlebotomist---16-an-hour--Part-Time-with-Benefits_R0178590-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "34f4ca8de94bb8ec5b930da6887b1bd853a79e4666ce207d68bad0e9ae537651",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:36:47.203Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178585",
+    "job_title": "Medical Support Specialist - LPN",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio - Deza",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---LPN_R0178585-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "da35f0d6152a2227fe6cea9afe71b9d48146a1f0369c3184c75d9812bac25d59",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:36:47.203Z"
+  },
+  {
     "job_id": "workday-abbott-31145518",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -2838,6 +2924,62 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-16T16:32:52.034Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178580",
+    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "IN - Kokomo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0178580-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "96c12366f83185c065ee84ddccfa38092623cfc02c6a52e301382ac89041740f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:24:33.999Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178578",
+    "job_title": "Bilingual (Spanish/English) Nurse – LPN/LVN",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Nurse---LPN-LVN_R0178578-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b552051bdad90bdcb93a3411902e0def5ce1f5aa598a3012310e6be34a76887a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:24:33.999Z"
   },
   {
     "job_id": "workday-takeda-R0178583",
@@ -2908,62 +3050,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4565a846bc7f7d728437f8c96bbd4e1fa3b08bb2cf45917d6ecdece543c346c9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:24:33.999Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178580",
-    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "IN - Kokomo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0178580-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "96c12366f83185c065ee84ddccfa38092623cfc02c6a52e301382ac89041740f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:24:33.999Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178578",
-    "job_title": "Bilingual (Spanish/English) Nurse – LPN/LVN",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Nurse---LPN-LVN_R0178578-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b552051bdad90bdcb93a3411902e0def5ce1f5aa598a3012310e6be34a76887a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6655,62 +6741,6 @@
     "job_posted_at": "2026-04-14T07:01:04.465Z"
   },
   {
-    "job_id": "workday-medtronic-R63505",
-    "job_title": "Vascular Clinical Specialist - Dallas TX",
-    "employer_name": "Medtronic",
-    "job_city": "Dallas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Vascular-Clinical-Specialist---Dallas-TX_R63505-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f3b4097680388f288acd7892661fb3837019b676ba6cfe7b714a8ba710c8e846",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:19.919Z"
-  },
-  {
-    "job_id": "workday-medtronic-R64225",
-    "job_title": "Assoc Clinical Specialist CRM - Tampa",
-    "employer_name": "Medtronic",
-    "job_city": "Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Assoc-Clinical-Specialist-CRM---Tampa_R64225-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5fd5aa50e1711da5db7b68e2be287542e5b3a9bb84a262e5e381c433c5119578",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:19.919Z"
-  },
-  {
     "job_id": "workday-medtronic-R59617",
     "job_title": "Clinical Specialist, CRM - Rochester, NY",
     "employer_name": "Medtronic",
@@ -6751,6 +6781,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5cbb609b44f96c013935f8cff55e3d534c4278a81fab4ab8fb54ba31c8f54bd8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:19.919Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63505",
+    "job_title": "Vascular Clinical Specialist - Dallas TX",
+    "employer_name": "Medtronic",
+    "job_city": "Dallas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Vascular-Clinical-Specialist---Dallas-TX_R63505-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f3b4097680388f288acd7892661fb3837019b676ba6cfe7b714a8ba710c8e846",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:19.919Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64225",
+    "job_title": "Assoc Clinical Specialist CRM - Tampa",
+    "employer_name": "Medtronic",
+    "job_city": "Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Assoc-Clinical-Specialist-CRM---Tampa_R64225-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5fd5aa50e1711da5db7b68e2be287542e5b3a9bb84a262e5e381c433c5119578",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7863,62 +7949,6 @@
     "job_posted_at": "2026-04-13T07:20:18.228Z"
   },
   {
-    "job_id": "workday-takeda-R0177831",
-    "job_title": "Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0169536",
-    "job_title": "IG Community Support Advocate I",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/IG-Community-Support-Advocate-I_R0169536",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02431d27159969cc981416579f1bacb46cbb4af1751cfddae1135ca3ef2a055b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:01:55.336Z"
-  },
-  {
     "job_id": "workday-takeda-R0178307",
     "job_title": "Associate Scientist, Biochemical Lead Profiling",
     "employer_name": "Takeda",
@@ -8127,6 +8157,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "81a826c53d47583035be069032abec637a5d367445687a1d36597d8a1e2c625d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177831",
+    "job_title": "Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0169536",
+    "job_title": "IG Community Support Advocate I",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/IG-Community-Support-Advocate-I_R0169536",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02431d27159969cc981416579f1bacb46cbb4af1751cfddae1135ca3ef2a055b",
     "tags": {
       "employment": "entry_level",
       "domains": [

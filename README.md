@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-297-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-36-blue?style=flat&logo=building)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-300-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-37-blue?style=flat&logo=building)
 ![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-110-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -69,11 +69,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
+| 🏢 **Illumina** | Executive Oncology Sales Specialist - Eastern US |  | Remote | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1) |
 | 🏢 **Merck & Co.** | Oncology Sales Specialist - Southern Virginia |  | Virginia Richmond | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Virginia---Richmond/Oncology-Sales-Specialist---Southern-Virginia_R393664-1) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Louisville, KY |  | Kentucky - Louisv... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kentucky---Louisville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Louisville--KY_31148024) |
-| 🏢 **Takeda** | Plasma Center Nurse - LPN - Evening & Weekend Availability |  | MI - Ypsilanti | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Ypsilanti/Plasma-Center-Nurse---LPN---Evening---Weekend-Availability_R0178681-1) |
-| 🏢 **Takeda** | Biolife Nurse - Registered Nurse |  | TX - Houston - North | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Biolife-Nurse---Registered-Nurse_R0178664-1) |
-| 🏢 **Medtronic** | Executive Clinical Specialist, Neurovascular - Southern California |  | Riverside | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Riverside-California-United-States-of-America/Executive-Clinical-Specialist--Neurovascular---Southern-California_R64547-1) |
+| 🏢 **Takeda** | Plasma Center Nurse - LPN - Evening & Weekend Availability |  | MI - Ypsilanti | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Ypsilanti/Plasma-Center-Nurse---LPN---Evening---Weekend-Availability_R0178681-1) |
+| 🏢 **Takeda** | Biolife Nurse - Registered Nurse |  | TX - Houston - North | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Biolife-Nurse---Registered-Nurse_R0178664-1) |
+| 🏢 **Medtronic** | Executive Clinical Specialist, Neurovascular - Southern California |  | Riverside | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Riverside-California-United-States-of-America/Executive-Clinical-Specialist--Neurovascular---Southern-California_R64547-1) |
 | 🏢 **Guidehouse** | Clinical Denials and Appeals RN |  | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-and-Appeals-RN_38582) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC |  | North Carolina - ... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237) |
 | 🏢 **Takeda** | Registered Nurse RN |  | TX - Harker Heights | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Registered-Nurse-RN_R0178602-1) |
@@ -95,8 +96,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Takeda** | Spanish Speaking Nurse - LPN |  | TX - Houston - North | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Spanish-Speaking-Nurse---LPN_R0178667-1) |
-| 🏢 **Takeda** | Biolife Nurse - Licensed Practical Nurse (Bilingual Spanish) |  | TX - Houston - North | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Biolife-Nurse---Licensed-Practical-Nurse--Bilingual-Spanish-_R0178666-1) |
+| 🏢 **Takeda** | Spanish Speaking Nurse - LPN |  | TX - Houston - North | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Spanish-Speaking-Nurse---LPN_R0178667-1) |
+| 🏢 **Takeda** | Biolife Nurse - Licensed Practical Nurse (Bilingual Spanish) |  | TX - Houston - North | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Biolife-Nurse---Licensed-Practical-Nurse--Bilingual-Spanish-_R0178666-1) |
 | 🏢 **Takeda** | Licensed Vocational Nurse LVN |  | TX - Harker Heights | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Licensed-Vocational-Nurse-LVN_R0178603-1) |
 
 <p align="center">Apply for more jobs at</p>
@@ -145,8 +146,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
+| 🏢 **Illumina** | Biochemistry Specialist |  | Wisconsin - Madison | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Wisconsin---Madison/Biochemistry-Specialist_42321-JOB-1) |
+| 🏢 **Illumina** | Biochemistry specialist 1 |  | Wisconsin - Madison | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Wisconsin---Madison/Biochemistry-specialist-1_42498-JOB-1) |
 | 🏢 **AbbVie** | Associate Scientist II - Next Generation Sequencing |  | Worcester, MA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012665046) |
-| 🏢 **Chan Zuckerberg Biohub** | Research Associate, Synthetic Biology |  | New York, NY | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7776738) |
+| 🏢 **Chan Zuckerberg Biohub** | Research Associate, Synthetic Biology |  | New York, NY | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7776738) |
 | 🏢 **iRhythm** | Cardiac Technician Deerfield, IL |  | Deerfield, IL | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Deerfield-IL/Cardiac-Technician_JR994) |
 | 🏢 **IDEXX** | Medical Laboratory Technician Part Time 3rd Shift |  | Dallas, TX | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician-Part-Time-3rd-Shift_J-052535) |
 | 🏢 **iRhythm** | Cardiac Technician, San Francisco |  | San Francisco, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/San-Francisco-CA/Cardiac-Technician_JR997) |
@@ -180,7 +183,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Medtronic** | Associate Vascular Clinical Specialist - Houston |  | Houston | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Associate-Vascular-Clinical-Specialist---Houston_R64668-1) |
-| 🏢 **Intuitive** | Clinical Territory Associate - Future Opportunity |  | Nashville, TN + 1 more | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000121520957) |
+| 🏢 **Intuitive** | Clinical Territory Associate - Future Opportunity |  | Nashville, TN + 1 more | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000121520957) |
 | 🏢 **Medtronic** | Clinical Specialist Pelvic Health- Greenville, SC |  | Greenville | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Greenville-South-Carolina-United-States-of-America/Clinical-Specialist-Pelvic-Health--Greenville--SC_R64621-1) |
 | 🏢 **Medtronic** | Cardiac Rhythm Management Associate Clinical Specialist - Raleigh, NC |  | Raleigh | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Raleigh-North-Carolina-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist---Raleigh--NC_R64614-1) |
 | 🏢 **Johnson & Johnson** | Associate Area Manager or Area Manager - Arlington, VA to Washington, DC - Johnson & Johnson MedTech, Heart Recovery |  | 2 Locations | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Washington-District-of-Columbia-United-States-of-America/Associate-Area-or-Area-Manager---Washington--DC-Arlington--VA---Johnson---Johnson-MedTech--Heart-Recovery_R-051648-1) |
@@ -190,7 +193,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intuitive** | Clinical Territory Associate |  | Detroit, MI + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000121491277) |
 | 🏢 **Abbott** | Clinical Specialist I, CPT - Twin Cities (Minneapolis/St. Paul, MN) |  | 2 Locations | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist-I--CPT---Twin-Cities--Minneapolis-St-Paul--MN-_31147868-1) |
 | 🏢 **Takeda** | Medical Screener/Medical Customer Service |  | IL - Chicago - Pl... | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Chicago---Plasma/Medical-Screener-Medical-Customer-Service_R0178668-1) |
-| 🏢 **AbbVie** | Oncology Specialist - New York |  | Syracuse, NY + 1 more | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012653276) |
+| 🏢 **AbbVie** | Oncology Specialist - New York |  | Syracuse, NY + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012653276) |
 | 🏢 **Takeda** | Entry Level Phlebotomist - Medical Screener |  | IN - Indianapolis | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Entry-Level-Phlebotomist---Medical-Screener_R0178661-1) |
 | 🏢 **Abbott** | Clinical Specialist - Tampa, FL |  | Florida - Tampa | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist---Tampa--FL_31140668) |
 | 🏢 **AbbVie** | Oncology Specialist - Seattle, WA |  | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012643536) |
@@ -210,7 +213,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Guidehouse** | Patient Account Representative - Medicare, Medicaid, Commercial Claims |  | Remote | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Patient-Account-Representative---Medicare--Medicaid--Commercial-Claims_38437) |
+| 🏢 **Guidehouse** | Patient Account Representative - Medicare, Medicaid, Commercial Claims |  | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Patient-Account-Representative---Medicare--Medicaid--Commercial-Claims_38437) |
 | 🏢 **Guidehouse** | Medical Billers / Medical Cash Posters / Medical Credit Balance Specialists |  | TX, San Antonio | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Medical-Billers---Medical-Cash-Posters---Medical-Credit-Balance-Specialists_38605) |
 | 🏢 **Guidehouse** | Charge Corrections Medical Coder |  | AL, Birmingham | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Charge-Corrections-Medical-Coder_38543-1) |
 
@@ -224,7 +227,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Leidos** | School Military and Family Life Counselor - NB Kitsap |  | Silverdale, WA | 22m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Silverdale-WA/School-Military-and-Family-Life-Counselor---NB-Kitsap_R-00181251) |
+| 🏢 **Leidos** | School Military and Family Life Counselor - NB Kitsap |  | Silverdale, WA | 37m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Silverdale-WA/School-Military-and-Family-Life-Counselor---NB-Kitsap_R-00181251) |
 | 🏢 **Leidos** | Military Family Life Counselor - CDC - San Angelo, TX |  | Goodfellow Air Fo... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Goodfellow-Air-Force-Base-TX/Military-Family-Life-Counselor---San-Angelo--TX_R-00180829) |
 | 🏢 **Hinge Health** | Physical Therapist (Flex) |  | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/7ff16616-1323-48a3-a9d0-408851d17179/application) |
 | 🏢 **Leidos** | Military Family Life Counselor - San Angelo, TX |  | Goodfellow Air Fo... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Goodfellow-Air-Force-Base-TX/Military-Family-Life-Counselor---San-Angelo--TX_R-00180460) |
@@ -242,9 +245,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Personalis** | Clinical Lab Associate 1 |  | Fremont, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645093003) |
 | 🏢 **Abbott** | Clinical Account Representative, CardioMEMS - Brooklyn/Queens/Staten Island, NYC |  | 3 Locations | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---New-York/Clinical-Account-Representative--CardioMEMS---Brooklyn-Queens-Staten-Island--NYC_31147855-1) |
 | 🏢 **Guidehouse** | Managing Consultant - Life Sciences Advisory - Commercial |  | IL Chicago | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Managing-Consultant---Life-Sciences-Advisory---Commercial_35391) |
-| 🏢 **Merck & Co.** | Companion Animal Professional Services Veterinarian (Tri-State) |  | New Jersey Rahway | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Professional-Services-Veterinarian--Tri-State-_R393567) |
-| 🏢 **Abbott** | Automation Support Professional (Wichita, KS or Kansas City, MO) |  | United States Kan... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kansas---Wichita/Automation-Support-Professional---Wichita--KS_31142984-1) |
-| 🏢 **Included Health** | Psychiatrist |  | Texas + 2 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/6e522bd8-5dad-4be2-87fe-d775c6ea8c46/apply) |
+| 🏢 **Merck & Co.** | Companion Animal Professional Services Veterinarian (Tri-State) |  | New Jersey Rahway | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Professional-Services-Veterinarian--Tri-State-_R393567) |
+| 🏢 **Abbott** | Automation Support Professional (Wichita, KS or Kansas City, MO) |  | United States Kan... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kansas---Wichita/Automation-Support-Professional---Wichita--KS_31142984-1) |
+| 🏢 **Included Health** | Psychiatrist |  | Texas + 2 more | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/6e522bd8-5dad-4be2-87fe-d775c6ea8c46/apply) |
 | 🏢 **Takeda** | Full Time Intake Nurse |  | CA - Lemon Grove | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Full-Time-Intake-Nurse_R0178702-1) |
 | 🏢 **Oscar Health** | Associate, Data Analytics (Tempe, AZ - Hybrid) | ✅ Sponsors Visa | Tempe | 8h | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7825277?gh_jid=7825277) |
 | 🏢 **Oscar Health** | Associate, Data Analytics (NYC - Hybrid) | ✅ Sponsors Visa | New York | 8h | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7688263?gh_jid=7688263) |
@@ -332,7 +335,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 297 current opportunities from 36 companies**
+**🎯 300 current opportunities from 37 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
