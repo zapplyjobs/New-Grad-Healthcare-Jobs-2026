@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-abbott-31140668",
+    "job_title": "Clinical Specialist - Tampa, FL",
+    "employer_name": "Abbott",
+    "job_city": "Florida - Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist---Tampa--FL_31140668",
+    "job_posted_at_datetime_utc": "2026-04-17T03:31:23.863Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c1f3fee784636da42e6483e0ccc952b74780eab966afd2a508b7e1d1b462fe46",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T03:31:23.863Z"
+  },
+  {
     "job_id": "workday-abbott-31147758",
     "job_title": "Clinical Specialist, Vessel Closure - Baltimore, MD",
     "employer_name": "Abbott",
@@ -283,34 +311,6 @@
     "job_posted_at": "2026-04-16T20:48:09.280Z"
   },
   {
-    "job_id": "workday-abbott-31138237",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
-    "employer_name": "Abbott",
-    "job_city": "North Carolina - Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
-    "job_posted_at_datetime_utc": "2026-04-16T20:46:40.328Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T20:46:40.328Z"
-  },
-  {
     "job_id": "workday-abbott-31147849",
     "job_title": "Clinical Specialist I, CPT - Calabasas, CA",
     "employer_name": "Abbott",
@@ -331,6 +331,34 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T20:46:40.328Z"
+  },
+  {
+    "job_id": "workday-abbott-31138237",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
+    "job_posted_at_datetime_utc": "2026-04-16T20:46:40.328Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "unknown",
       "special": []
@@ -949,6 +977,34 @@
     "job_posted_at": "2026-04-16T17:00:55.223Z"
   },
   {
+    "job_id": "workday-takeda-R0178598",
+    "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IN - Fort Wayne - Coldwater Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--LPN----Weekday---Weekend-Availability---Immediate-Benefits_R0178598",
+    "job_posted_at_datetime_utc": "2026-04-16T16:49:04.285Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "33fab2c7a7cdfe220c3ce06197435beb6b59d52b6167ec011225703e425e466d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:49:04.285Z"
+  },
+  {
     "job_id": "workday-takeda-R0178586",
     "job_title": "Medical Support Specialist - EMT-P",
     "employer_name": "Takeda",
@@ -1003,90 +1059,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-16T16:49:04.285Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178598",
-    "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IN - Fort Wayne - Coldwater Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--LPN----Weekday---Weekend-Availability---Immediate-Benefits_R0178598",
-    "job_posted_at_datetime_utc": "2026-04-16T16:49:04.285Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "33fab2c7a7cdfe220c3ce06197435beb6b59d52b6167ec011225703e425e466d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:49:04.285Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178590",
-    "job_title": "Medical Screener/Phlebotomist ($16 an hour) Part-Time with Benefits",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Medical-Screener-Phlebotomist---16-an-hour--Part-Time-with-Benefits_R0178590-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "34f4ca8de94bb8ec5b930da6887b1bd853a79e4666ce207d68bad0e9ae537651",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:36:47.203Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178585",
-    "job_title": "Medical Support Specialist - LPN",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio - Deza",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---LPN_R0178585-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "da35f0d6152a2227fe6cea9afe71b9d48146a1f0369c3184c75d9812bac25d59",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:36:47.203Z"
   },
   {
     "job_id": "workday-takeda-R0178596",
@@ -1201,6 +1173,62 @@
     "job_posted_at": "2026-04-16T16:36:47.203Z"
   },
   {
+    "job_id": "workday-takeda-R0178590",
+    "job_title": "Medical Screener/Phlebotomist ($16 an hour) Part-Time with Benefits",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Medical-Screener-Phlebotomist---16-an-hour--Part-Time-with-Benefits_R0178590-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "34f4ca8de94bb8ec5b930da6887b1bd853a79e4666ce207d68bad0e9ae537651",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:36:47.203Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178585",
+    "job_title": "Medical Support Specialist - LPN",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio - Deza",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---LPN_R0178585-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "da35f0d6152a2227fe6cea9afe71b9d48146a1f0369c3184c75d9812bac25d59",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:36:47.203Z"
+  },
+  {
     "job_id": "workday-abbott-31145518",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -1227,6 +1255,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-16T16:32:52.034Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178580",
+    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "IN - Kokomo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0178580-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "96c12366f83185c065ee84ddccfa38092623cfc02c6a52e301382ac89041740f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:24:33.999Z"
   },
   {
     "job_id": "workday-takeda-R0178578",
@@ -1325,34 +1381,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4565a846bc7f7d728437f8c96bbd4e1fa3b08bb2cf45917d6ecdece543c346c9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:24:33.999Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178580",
-    "job_title": "Plasma Center Registered Nurse (RN) �� Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "IN - Kokomo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0178580-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d7841d25629b5fb6451111ee5b53ac714baf3257f11550d165326036edce8503",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2020,7 +2048,7 @@
   },
   {
     "job_id": "workday-abbott-31145778",
-    "job_title": "Clinical Specialist, CRM - Charlotte, NC",
+    "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
     "employer_name": "Abbott",
     "job_city": "North Carolina - Charlotte",
     "job_state": "",
@@ -2030,7 +2058,7 @@
     "job_posted_at_datetime_utc": "2026-04-16T02:06:55.239Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "795b42939de4532db5fbdcf9cfa593f402dc531933bc0345447d4df9e9e070c4",
+    "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6111,34 +6139,6 @@
     "job_posted_at": "2026-04-13T07:20:29.080Z"
   },
   {
-    "job_id": "workday-abbott-31137028",
-    "job_title": "Clinical Specialist, Peripheral - MD/Southern DE",
-    "employer_name": "Abbott",
-    "job_city": "Maryland - Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maryland---Baltimore/Senior-Clinical-Specialist--Peripheral---MD-Southern-DE_31137028-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:18.228Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f76096c48b77b9704b20e8f3836b2dbc491fce966ca5b3d204473baf509d4c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:20:18.228Z"
-  },
-  {
     "job_id": "workday-abbott-31147339",
     "job_title": "Clinical Specialist I, CPT - Abilene, TX",
     "employer_name": "Abbott",
@@ -6223,18 +6223,18 @@
     "job_posted_at": "2026-04-13T07:20:18.228Z"
   },
   {
-    "job_id": "workday-takeda-R0178282",
-    "job_title": "Entry Level Phlebotomist (On-the-Job Training)",
-    "employer_name": "Takeda",
-    "job_city": "MD - Towson",
+    "job_id": "workday-abbott-31137028",
+    "job_title": "Clinical Specialist, Peripheral - MD/Southern DE",
+    "employer_name": "Abbott",
+    "job_city": "Maryland - Baltimore",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Towson/Plasma-Center-Technician_R0178282-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maryland---Baltimore/Senior-Clinical-Specialist--Peripheral---MD-Southern-DE_31137028-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:18.228Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "605ed3ce19fed46738ccd77dac8100022527e565485719f4432afcd3c1d2c216",
+    "fingerprint": "0f76096c48b77b9704b20e8f3836b2dbc491fce966ca5b3d204473baf509d4c5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6248,35 +6248,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:02:06.023Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178281",
-    "job_title": "Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "MD - Towson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Towson/Plasma-Center-Technician_R0178281-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "81a826c53d47583035be069032abec637a5d367445687a1d36597d8a1e2c625d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:02:06.023Z"
+    "job_posted_at": "2026-04-13T07:20:18.228Z"
   },
   {
     "job_id": "workday-takeda-R0177831",
@@ -6487,6 +6459,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "605ed3ce19fed46738ccd77dac8100022527e565485719f4432afcd3c1d2c216",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:02:06.023Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178282",
+    "job_title": "Entry Level Phlebotomist (On-the-Job Training)",
+    "employer_name": "Takeda",
+    "job_city": "MD - Towson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Towson/Plasma-Center-Technician_R0178282-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "605ed3ce19fed46738ccd77dac8100022527e565485719f4432afcd3c1d2c216",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:02:06.023Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178281",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "MD - Towson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Towson/Plasma-Center-Technician_R0178281-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:02:06.023Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "81a826c53d47583035be069032abec637a5d367445687a1d36597d8a1e2c625d",
     "tags": {
       "employment": "entry_level",
       "domains": [
