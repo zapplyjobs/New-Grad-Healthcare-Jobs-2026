@@ -837,34 +837,6 @@
     "job_posted_at": "2026-04-16T18:18:22.992Z"
   },
   {
-    "job_id": "workday-takeda-R0178603",
-    "job_title": "Licensed Vocational Nurse LVN",
-    "employer_name": "Takeda",
-    "job_city": "TX - Harker Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Licensed-Vocational-Nurse-LVN_R0178603-1",
-    "job_posted_at_datetime_utc": "2026-04-16T17:53:53.442Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "db894359742a6ce41132786bf4b3ae6954a68e8458683eb2aae85f88f62adccb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T17:53:53.442Z"
-  },
-  {
     "job_id": "workday-takeda-R0178604",
     "job_title": "On Site Paramedic",
     "employer_name": "Takeda",
@@ -905,6 +877,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b8f28e4bd49ef2bc10e35f566a4f2b641ddc6d8da1484b09af803949a5d8a27b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T17:53:53.442Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178603",
+    "job_title": "Licensed Vocational Nurse LVN",
+    "employer_name": "Takeda",
+    "job_city": "TX - Harker Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Licensed-Vocational-Nurse-LVN_R0178603-1",
+    "job_posted_at_datetime_utc": "2026-04-16T17:53:53.442Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "db894359742a6ce41132786bf4b3ae6954a68e8458683eb2aae85f88f62adccb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1061,34 +1061,6 @@
     "job_posted_at": "2026-04-16T16:49:04.285Z"
   },
   {
-    "job_id": "workday-takeda-R0178590",
-    "job_title": "Medical Screener/Phlebotomist ($16 an hour) Part-Time with Benefits",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Medical-Screener-Phlebotomist---16-an-hour--Part-Time-with-Benefits_R0178590-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "34f4ca8de94bb8ec5b930da6887b1bd853a79e4666ce207d68bad0e9ae537651",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:36:47.203Z"
-  },
-  {
     "job_id": "workday-takeda-R0178585",
     "job_title": "Medical Support Specialist - LPN",
     "employer_name": "Takeda",
@@ -1229,6 +1201,34 @@
     "job_posted_at": "2026-04-16T16:36:47.203Z"
   },
   {
+    "job_id": "workday-takeda-R0178590",
+    "job_title": "Medical Screener/Phlebotomist ($16 an hour) Part-Time with Benefits",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Medical-Screener-Phlebotomist---16-an-hour--Part-Time-with-Benefits_R0178590-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:36:47.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "34f4ca8de94bb8ec5b930da6887b1bd853a79e4666ce207d68bad0e9ae537651",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:36:47.203Z"
+  },
+  {
     "job_id": "workday-abbott-31145518",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -1255,6 +1255,62 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-16T16:32:52.034Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178580",
+    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "IN - Kokomo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0178580-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "96c12366f83185c065ee84ddccfa38092623cfc02c6a52e301382ac89041740f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:24:33.999Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178578",
+    "job_title": "Bilingual (Spanish/English) Nurse – LPN/LVN",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Nurse---LPN-LVN_R0178578-1",
+    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b552051bdad90bdcb93a3411902e0def5ce1f5aa598a3012310e6be34a76887a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T16:24:33.999Z"
   },
   {
     "job_id": "workday-takeda-R0178583",
@@ -1325,62 +1381,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4565a846bc7f7d728437f8c96bbd4e1fa3b08bb2cf45917d6ecdece543c346c9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:24:33.999Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178580",
-    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "IN - Kokomo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0178580-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "96c12366f83185c065ee84ddccfa38092623cfc02c6a52e301382ac89041740f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T16:24:33.999Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178578",
-    "job_title": "Bilingual (Spanish/English) Nurse – LPN/LVN",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Nurse---LPN-LVN_R0178578-1",
-    "job_posted_at_datetime_utc": "2026-04-16T16:24:33.999Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b552051bdad90bdcb93a3411902e0def5ce1f5aa598a3012310e6be34a76887a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3036,18 +3036,18 @@
     "job_posted_at": "2026-04-15T07:22:20.744Z"
   },
   {
-    "job_id": "workday-abbott-31147732",
-    "job_title": "Clinical Review Nurse",
+    "job_id": "workday-abbott-31147755",
+    "job_title": "Clinical Account Representative, CardioMEMS - Houston, TX",
     "employer_name": "Abbott",
-    "job_city": "Missouri - Kansas City",
+    "job_city": "Texas - Houston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Clinical-Review-Nurse_31147732-1",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston--TX_31147755-1",
     "job_posted_at_datetime_utc": "2026-04-15T07:21:04.025Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f034db0dc248f51cf20972b1f49f7a469715062acad0ca034f004e107e1a7e72",
+    "fingerprint": "2005b2a75d45992809b04d36f77302c985c0f07a449bdd4d29b6c211a5681da6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3064,18 +3064,18 @@
     "job_posted_at": "2026-04-15T07:21:04.025Z"
   },
   {
-    "job_id": "workday-abbott-31147755",
-    "job_title": "Clinical Account Representative, CardioMEMS - Houston, TX",
+    "job_id": "workday-abbott-31147732",
+    "job_title": "Clinical Review Nurse",
     "employer_name": "Abbott",
-    "job_city": "Texas - Houston",
+    "job_city": "Missouri - Kansas City",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston--TX_31147755-1",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Clinical-Review-Nurse_31147732-1",
     "job_posted_at_datetime_utc": "2026-04-15T07:21:04.025Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2005b2a75d45992809b04d36f77302c985c0f07a449bdd4d29b6c211a5681da6",
+    "fingerprint": "f034db0dc248f51cf20972b1f49f7a469715062acad0ca034f004e107e1a7e72",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6139,6 +6139,34 @@
     "job_posted_at": "2026-04-13T07:20:29.080Z"
   },
   {
+    "job_id": "workday-abbott-31137028",
+    "job_title": "Clinical Specialist, Peripheral - MD/Southern DE",
+    "employer_name": "Abbott",
+    "job_city": "Maryland - Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maryland---Baltimore/Senior-Clinical-Specialist--Peripheral---MD-Southern-DE_31137028-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:18.228Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f76096c48b77b9704b20e8f3836b2dbc491fce966ca5b3d204473baf509d4c5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:20:18.228Z"
+  },
+  {
     "job_id": "workday-abbott-31147339",
     "job_title": "Clinical Specialist I, CPT - Abilene, TX",
     "employer_name": "Abbott",
@@ -6207,34 +6235,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6305e2e94826f2d0fecd0eed4dd4aeb005bcecd9c29d99af32a87c65ffbcf94a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:20:18.228Z"
-  },
-  {
-    "job_id": "workday-abbott-31137028",
-    "job_title": "Clinical Specialist, Peripheral - MD/Southern DE",
-    "employer_name": "Abbott",
-    "job_city": "Maryland - Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maryland---Baltimore/Senior-Clinical-Specialist--Peripheral---MD-Southern-DE_31137028-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:18.228Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f76096c48b77b9704b20e8f3836b2dbc491fce966ca5b3d204473baf509d4c5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6615,62 +6615,6 @@
     "job_posted_at": "2026-04-13T07:00:25.402Z"
   },
   {
-    "job_id": "workday-guidehouse-38106",
-    "job_title": "Cash Poster - Payment Posting - Healthcare Claims",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Cash-Poster---Payment-Posting---Healthcare-Claims_38106-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.014Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1e72f18a25ace877f9a3b7627d91d38636b069b351a788ef891c819f4099e043",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:25.014Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38116",
-    "job_title": "Credit Balance Specialist - Healthcare Hospital Claims",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Credit-Balance-Specialist---Healthcare-Hospital-Claims_38116",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.014Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e5a5ae61d1266b0234fe60635b90d16847cd033c1b87497a30dd8f23e0e0c08f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:25.014Z"
-  },
-  {
     "job_id": "workday-guidehouse-38125",
     "job_title": "Medical Biller - Hospital Claims - Healthcare",
     "employer_name": "Guidehouse",
@@ -6711,6 +6655,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "584d5f859c5deafc6c66e35f5e329cd867350761949f0d7ca9385c9df52fea96",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:00:25.014Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38106",
+    "job_title": "Cash Poster - Payment Posting - Healthcare Claims",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Cash-Poster---Payment-Posting---Healthcare-Claims_38106-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.014Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1e72f18a25ace877f9a3b7627d91d38636b069b351a788ef891c819f4099e043",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:00:25.014Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38116",
+    "job_title": "Credit Balance Specialist - Healthcare Hospital Claims",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Credit-Balance-Specialist---Healthcare-Hospital-Claims_38116",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.014Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e5a5ae61d1266b0234fe60635b90d16847cd033c1b87497a30dd8f23e0e0c08f",
     "tags": {
       "employment": "entry_level",
       "domains": [
