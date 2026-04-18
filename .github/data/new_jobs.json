@@ -678,18 +678,18 @@
     "job_posted_at": "2026-04-17T18:55:00.525Z"
   },
   {
-    "job_id": "workday-takeda-R0178711",
+    "job_id": "workday-takeda-R0178713",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
-    "job_city": "GA - Snellville",
+    "job_city": "FL - Lakeland",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Snellville/Medical-Screener_R0178711-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Lakeland/Medical-Screener_R0178713-1",
     "job_posted_at_datetime_utc": "2026-04-17T18:46:16.747Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "22b00e02b45a1ed31264765a1698a4d42e4877d8e0291a430c16f9aaed886a0f",
+    "fingerprint": "a0066ec28803269de0e8e82b92a1aa7bae02a080390b6ecfd92b40d459bea66d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -706,18 +706,18 @@
     "job_posted_at": "2026-04-17T18:46:16.747Z"
   },
   {
-    "job_id": "workday-takeda-R0178713",
+    "job_id": "workday-takeda-R0178711",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
-    "job_city": "FL - Lakeland",
+    "job_city": "GA - Snellville",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Lakeland/Medical-Screener_R0178713-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Snellville/Medical-Screener_R0178711-1",
     "job_posted_at_datetime_utc": "2026-04-17T18:46:16.747Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a0066ec28803269de0e8e82b92a1aa7bae02a080390b6ecfd92b40d459bea66d",
+    "fingerprint": "22b00e02b45a1ed31264765a1698a4d42e4877d8e0291a430c16f9aaed886a0f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6488,6 +6488,34 @@
     "job_posted_at": "2026-04-14T07:21:04.027Z"
   },
   {
+    "job_id": "workday-abbott-31147603",
+    "job_title": "Clinical Consultant, MCS - Nashville",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:21:04.026Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "14860997921884ab30d5572473ecac4f08c784edaffa542faa14fc6e8ebec938",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:21:04.026Z"
+  },
+  {
     "job_id": "workday-abbott-31147481",
     "job_title": "Clinical Specialist, Endovascular - Dallas, TX",
     "employer_name": "Abbott",
@@ -6556,34 +6584,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "14d381dfe5be751f46bcbd7504a3664fc9e53e9e5ee748249c1e81efd8af6002",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:21:04.026Z"
-  },
-  {
-    "job_id": "workday-abbott-31147603",
-    "job_title": "Clinical Consultant, MCS - Nashville",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:21:04.026Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "14860997921884ab30d5572473ecac4f08c784edaffa542faa14fc6e8ebec938",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7105,64 +7105,6 @@
     "job_posted_at": "2026-04-14T07:00:19.016Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-054049",
-    "job_title": "Associate Clinical Account Specialist (New York, NY / Long Island, NY / Northern NJ) - Johnson & Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Associate-Clinical-Account-Specialist--New-York--NY---Long-Island--NY---Northern-NJ----Johnson---Johnson-MedTech--Electrophysiology_R-054049",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.015Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "78f3284ca5e9fddf6ff9e0064879e8dabb645d18ccce0dee1c7b914d2629bbae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:19.015Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-069367",
-    "job_title": "Executive Oncology Sales Specialist, Lung (Los Angeles, CA) Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Executive-Oncology-Sales-Specialist--Lung--Los-Angeles--CA--Johnson---Johnson-Innovative-Medicine_R-069367-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.015Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "611ffd56b0dfc2fdba33a9bf4bf4276b9e847d629ff8510c1abba2962c132885",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:19.015Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-069909",
     "job_title": "Field Clinical Specialist - Shockwave  - Phoenix or Tucson, AZ - Remote",
     "employer_name": "Johnson & Johnson",
@@ -7241,6 +7183,64 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:19.015Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-054049",
+    "job_title": "Associate Clinical Account Specialist (New York, NY / Long Island, NY / Northern NJ) - Johnson & Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Associate-Clinical-Account-Specialist--New-York--NY---Long-Island--NY---Northern-NJ----Johnson---Johnson-MedTech--Electrophysiology_R-054049",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.015Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "78f3284ca5e9fddf6ff9e0064879e8dabb645d18ccce0dee1c7b914d2629bbae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:19.015Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-069367",
+    "job_title": "Executive Oncology Sales Specialist, Lung (Los Angeles, CA) Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Los-Angeles-California-United-States-of-America/Executive-Oncology-Sales-Specialist--Lung--Los-Angeles--CA--Johnson---Johnson-Innovative-Medicine_R-069367-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.015Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "611ffd56b0dfc2fdba33a9bf4bf4276b9e847d629ff8510c1abba2962c132885",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -8117,34 +8117,6 @@
     "job_posted_at": "2026-04-13T07:20:18.228Z"
   },
   {
-    "job_id": "workday-takeda-R0177831",
-    "job_title": "Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:01:55.336Z"
-  },
-  {
     "job_id": "workday-takeda-R0169536",
     "job_title": "IG Community Support Advocate I",
     "employer_name": "Takeda",
@@ -8381,6 +8353,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "81a826c53d47583035be069032abec637a5d367445687a1d36597d8a1e2c625d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177831",
+    "job_title": "Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
     "tags": {
       "employment": "entry_level",
       "domains": [
