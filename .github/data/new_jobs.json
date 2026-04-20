@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-medtronic-R59640",
+    "job_title": "Clinical Specialist, CRM - Manhattan NYC",
+    "employer_name": "Medtronic",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-York-New-York-United-States-of-America/Clinical-Specialist--CRM---New-York-City_R59640-2",
+    "job_posted_at_datetime_utc": "2026-04-20T21:15:55.432Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6793608fd558ffce1e94444ed41c433b395eccc5ca6faf4c67ebd127cb7c23e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T21:15:55.432Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-069660",
     "job_title": "Executive Oncology Sales Specialist - Hematology (Rochester, MN) - Johnson & Johnson Innovative Medicine",
     "employer_name": "Johnson & Johnson",
@@ -141,18 +169,18 @@
     "job_posted_at": "2026-04-20T20:07:27.838Z"
   },
   {
-    "job_id": "workday-abbott-31113914",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
+    "job_id": "workday-abbott-31137792",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Albany, NY",
     "employer_name": "Abbott",
-    "job_city": "Colorado - Colorado Springs",
+    "job_city": "New York - Poughkeepsie",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Poughkeepsie/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-York--NY_31137792",
     "job_posted_at_datetime_utc": "2026-04-20T20:06:08.397Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
+    "fingerprint": "1b9c581c5605db7455af414dbc1d1c7a4ca07a88710893ad548dfaa3803b19e1",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -169,18 +197,18 @@
     "job_posted_at": "2026-04-20T20:06:08.397Z"
   },
   {
-    "job_id": "workday-abbott-31137792",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Albany, NY",
+    "job_id": "workday-abbott-31113914",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
     "employer_name": "Abbott",
-    "job_city": "New York - Poughkeepsie",
+    "job_city": "Colorado - Colorado Springs",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Poughkeepsie/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-York--NY_31137792",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
     "job_posted_at_datetime_utc": "2026-04-20T20:06:08.397Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1b9c581c5605db7455af414dbc1d1c7a4ca07a88710893ad548dfaa3803b19e1",
+    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1433,6 +1461,180 @@
     "job_posted_at": "2026-04-20T13:14:15.275Z"
   },
   {
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-b7c71562-c4d7-434f-80dc-82a2e94e28fd",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Texas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/b7c71562-c4d7-434f-80dc-82a2e94e28fd/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cfaead0b718aa7033c3cdef0c113f39af70215ab9eb4ed97b3c6c42e94a47dea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-c628a50b-9412-43d8-af5e-82b0cbd1c97c",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/c628a50b-9412-43d8-af5e-82b0cbd1c97c/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b6431b3002007fc5b061dabd22ece2a6007900f4f2d7a58cb45f1730ff4755e9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-cda7ea26-c4ad-4c72-8b63-aa73d9c16783",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/cda7ea26-c4ad-4c72-8b63-aa73d9c16783/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "45e51fb61398b98ec0f3d0691facc71fc4659df40f3935c576059d6277619708",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-cf53b4dd-8e28-49cd-9845-fac2f05ee0f3",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Virginia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/cf53b4dd-8e28-49cd-9845-fac2f05ee0f3/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "acd3d2d0f27f8d498fb849ea838fe97f8e0bbfbec7fb20f3c1f4738305cb38cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-e373a9af-b559-4888-babf-707c0168e0d7",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Georgia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
     "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -1665,178 +1867,32 @@
     "job_posted_at": "2026-04-20T01:59:19.255Z"
   },
   {
-    "job_id": "lever-includedhealth-b7c71562-c4d7-434f-80dc-82a2e94e28fd",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Texas",
-    "job_state": "",
+    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
+    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
     "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/b7c71562-c4d7-434f-80dc-82a2e94e28fd/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.195Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "cfaead0b718aa7033c3cdef0c113f39af70215ab9eb4ed97b3c6c42e94a47dea",
+    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
     "tags": {
       "employment": "entry_level",
       "domains": [
         "healthcare"
       ],
       "locations": [
-        "remote",
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
-    "job_id": "lever-includedhealth-c628a50b-9412-43d8-af5e-82b0cbd1c97c",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/c628a50b-9412-43d8-af5e-82b0cbd1c97c/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b6431b3002007fc5b061dabd22ece2a6007900f4f2d7a58cb45f1730ff4755e9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
-    "job_id": "lever-includedhealth-cda7ea26-c4ad-4c72-8b63-aa73d9c16783",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/cda7ea26-c4ad-4c72-8b63-aa73d9c16783/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "45e51fb61398b98ec0f3d0691facc71fc4659df40f3935c576059d6277619708",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
-    "job_id": "lever-includedhealth-cf53b4dd-8e28-49cd-9845-fac2f05ee0f3",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Virginia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/cf53b4dd-8e28-49cd-9845-fac2f05ee0f3/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "acd3d2d0f27f8d498fb849ea838fe97f8e0bbfbec7fb20f3c1f4738305cb38cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
-    "job_id": "lever-includedhealth-e373a9af-b559-4888-babf-707c0168e0d7",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Georgia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
+    "job_posted_at": "2026-04-20T01:59:19.195Z"
   },
   {
     "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
@@ -1861,34 +1917,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.195Z"
-  },
-  {
-    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
-    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.195Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -4917,36 +4945,6 @@
     "job_posted_at": "2026-04-17T07:02:56.084Z"
   },
   {
-    "job_id": "workday-illumina-41675-JOB",
-    "job_title": "Executive Oncology Sales Specialist - Eastern US",
-    "employer_name": "Illumina",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:55.663Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:55.663Z"
-  },
-  {
     "job_id": "workday-illumina-42321-JOB",
     "job_title": "Biochemistry Specialist",
     "employer_name": "Illumina",
@@ -4996,6 +4994,36 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:55.663Z"
+  },
+  {
+    "job_id": "workday-illumina-41675-JOB",
+    "job_title": "Executive Oncology Sales Specialist - Eastern US",
+    "employer_name": "Illumina",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:55.663Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5143,6 +5171,34 @@
     "job_posted_at": "2026-04-17T07:01:34.911Z"
   },
   {
+    "job_id": "workday-abbott-31147868",
+    "job_title": "Clinical Specialist I, CPT - Twin Cities (Minneapolis/St. Paul, MN)",
+    "employer_name": "Abbott",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist-I--CPT---Twin-Cities--Minneapolis-St-Paul--MN-_31147868-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b84cfea2b64ddc7e9d019b26a9a2e008697fb69af2490b1775b23703835f0d83",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:34.910Z"
+  },
+  {
     "job_id": "workday-abbott-31148027",
     "job_title": "Associate Clinical Specialist - Bakersfield, CA",
     "employer_name": "Abbott",
@@ -5239,34 +5295,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "47ea9678caba4708253df220bd1dc2dc5aa5ef4c9f1adbc1217cb05628ba3ce1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:34.910Z"
-  },
-  {
-    "job_id": "workday-abbott-31147868",
-    "job_title": "Clinical Specialist I, CPT - Twin Cities (Minneapolis/St. Paul, MN)",
-    "employer_name": "Abbott",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist-I--CPT---Twin-Cities--Minneapolis-St-Paul--MN-_31147868-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b84cfea2b64ddc7e9d019b26a9a2e008697fb69af2490b1775b23703835f0d83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7048,6 +7076,34 @@
     "job_posted_at": "2026-04-16T07:02:56.084Z"
   },
   {
+    "job_id": "workday-general-motors-JR-202606428",
+    "job_title": "Ergonomist",
+    "employer_name": "General Motors",
+    "job_city": "Flint",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Flint-Michigan-United-States-of-America/Ergonomist_JR-202606428",
+    "job_posted_at_datetime_utc": "2026-04-16T07:02:47.052Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2d01e05f672a53b4d655f97b716c4bb687b67f18fd4620541cc6bc92e6355c41",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:02:47.052Z"
+  },
+  {
     "job_id": "workday-general-motors-JR-202607875",
     "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
     "employer_name": "General Motors",
@@ -7102,62 +7158,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-16T07:02:47.052Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202606428",
-    "job_title": "Ergonomist",
-    "employer_name": "General Motors",
-    "job_city": "Flint",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Flint-Michigan-United-States-of-America/Ergonomist_JR-202606428",
-    "job_posted_at_datetime_utc": "2026-04-16T07:02:47.052Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2d01e05f672a53b4d655f97b716c4bb687b67f18fd4620541cc6bc92e6355c41",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:02:47.052Z"
-  },
-  {
-    "job_id": "workday-abbott-31147771",
-    "job_title": "Clinical Specialist, CRM (Springfield, MO)",
-    "employer_name": "Abbott",
-    "job_city": "Missouri - Springfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
   },
   {
     "job_id": "workday-abbott-31140668",
@@ -7341,6 +7341,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31147771",
+    "job_title": "Clinical Specialist, CRM (Springfield, MO)",
+    "employer_name": "Abbott",
+    "job_city": "Missouri - Springfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8272,6 +8300,51 @@
     "job_posted_at": "2026-04-15T07:03:05.182Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-054137",
+    "job_title": "Postdoc Data Science Oncology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Postdoc-Data-Science-Oncology_R-054137",
+    "job_posted_at_datetime_utc": "2026-04-15T07:03:01.520Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ae2c3e8d266659ff508a6e3c625e81b56ef74e33c58860a416ad851e03901535",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "data science",
+        "python",
+        "r",
+        "spring"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:03:01.520Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-070250",
     "job_title": "Medical Science Liaison - Dermatology - Indianapolis",
     "employer_name": "Johnson & Johnson",
@@ -8326,51 +8399,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:03:01.520Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-054137",
-    "job_title": "Postdoc Data Science Oncology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Postdoc-Data-Science-Oncology_R-054137",
-    "job_posted_at_datetime_utc": "2026-04-15T07:03:01.520Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ae2c3e8d266659ff508a6e3c625e81b56ef74e33c58860a416ad851e03901535",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data analysis",
-        "data science",
-        "python",
-        "r",
-        "spring"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-15T07:03:01.520Z"
   },
   {
@@ -10268,34 +10296,6 @@
     "job_posted_at": "2026-04-14T07:01:34.913Z"
   },
   {
-    "job_id": "workday-abbott-31147603",
-    "job_title": "Clinical Consultant, MCS - Nashville",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:01:34.912Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "14860997921884ab30d5572473ecac4f08c784edaffa542faa14fc6e8ebec938",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:01:34.912Z"
-  },
-  {
     "job_id": "workday-abbott-31147481",
     "job_title": "Clinical Specialist, Endovascular - Dallas, TX",
     "employer_name": "Abbott",
@@ -10364,6 +10364,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "14d381dfe5be751f46bcbd7504a3664fc9e53e9e5ee748249c1e81efd8af6002",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:01:34.912Z"
+  },
+  {
+    "job_id": "workday-abbott-31147603",
+    "job_title": "Clinical Consultant, MCS - Nashville",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:34.912Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "14860997921884ab30d5572473ecac4f08c784edaffa542faa14fc6e8ebec938",
     "tags": {
       "employment": "entry_level",
       "domains": [
