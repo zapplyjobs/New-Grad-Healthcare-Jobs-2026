@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-347-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-54-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-134-red?style=flat&logo=star)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-345-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-53-blue?style=flat&logo=building)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-133-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -83,7 +83,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SEL** | Registered Nurse |  | Pullman, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Registered-Nurse_2026-20582) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bristol, VA; Charlottesville, VA |  | Virginia - Roanoke | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Account Specialist (New York, NY / Long Island, NY / Northern NJ) - Johnson & Johnson MedTech, Electrophysiology |  | 2 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Associate-Clinical-Account-Specialist--New-York--NY---Long-Island--NY---Northern-NJ----Johnson---Johnson-MedTech--Electrophysiology_R-054049) |
-| 🏢 **Disney** | Guest Registered Nurse Coordinator |  | Lake Buena Vista, FL | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Guest-Registered-Nurse-Coordinator_10144089) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -144,8 +143,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Thermo Fisher Scientific** | Scientist, Purification Process |  | Wilmington | 39m | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-Delaware-USA/Scientist--Purification-Process_R-01342521) |
-| 🏢 **IDEXX** | Medical Laboratory Technician or Technologist - 3rd Shift |  | Worthington, OH | 54m | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Worthington-OH/Medical-Laboratory-Technician-or-Technologist---3rd-Shift_J-052736-1) |
+| 🏢 **Thermo Fisher Scientific** | Scientist, Purification Process |  | Wilmington | 54m | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-Delaware-USA/Scientist--Purification-Process_R-01342521) |
+| 🏢 **IDEXX** | Medical Laboratory Technician or Technologist - 3rd Shift |  | Worthington, OH | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Worthington-OH/Medical-Laboratory-Technician-or-Technologist---3rd-Shift_J-052736-1) |
 | 🏢 **Thermo Fisher Scientific** | FSP Associate Scientist - Small Molecule Analytical Chemistry |  | South San Francisco | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/South-San-Francisco-California-USA/FSP-Associate-Scientist---Small-Molecule-Analytical-Chemistry_R-01347139) |
 | 🏢 **SpaceX** | Chemical Lab Technician (Starlink PCB) |  | Bastrop, TX | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8213424002?gh_jid=8213424002) |
 | 🏢 **SpaceX** | Chemist (Starlink PCB) |  | Bastrop, TX | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8213433002?gh_jid=8213433002) |
@@ -195,9 +194,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Globus Medical** | Associate Spine Specialist (Palm Springs, CA) |  | California | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/California/Associate-Spine-Specialist--Palm-Springs--CA-_JR106502) |
-| 🏢 **Globus Medical** | Associate Spine Specialist (Columbus, OH) |  | Ohio | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Ohio/Associate-Spine-Specialist--Columbus--OH-_JR106497) |
-| 🏢 **Globus Medical** | Associate Spine Specialist (Rhode Island) |  | Rhode Island | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Rhode-Island/Associate-Spine-Specialist--Rhode-Island-_JR106489) |
+| 🏢 **Globus Medical** | Associate Spine Specialist (Palm Springs, CA) |  | California | 41m | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/California/Associate-Spine-Specialist--Palm-Springs--CA-_JR106502) |
+| 🏢 **Globus Medical** | Associate Spine Specialist (Columbus, OH) |  | Ohio | 41m | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Ohio/Associate-Spine-Specialist--Columbus--OH-_JR106497) |
+| 🏢 **Globus Medical** | Associate Spine Specialist (Rhode Island) |  | Rhode Island | 56m | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Rhode-Island/Associate-Spine-Specialist--Rhode-Island-_JR106489) |
 | 🏢 **Exact Sciences** | Regional Oncology Specialist - Cincinnati, OH |  | OH Cincinnati | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---OH---Cincinnati/Regional-Oncology-Specialist---Cincinnati--OH_R26-12493) |
 | 🏢 **Intuitive** | Clinical Territory Associate - Future Opportunity |  | Nashville, TN + 1 more | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000121520957) |
 | 🏢 **Intuitive** | Clinical Territory Associate |  | Detroit, MI + 1 more | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000121491277) |
@@ -262,7 +261,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Guidehouse** | Patient Account Representative (Bilingual) |  | TX, San Antonio | 54m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Account-Representative--Bilingual-_38453) |
+| 🏢 **Guidehouse** | Patient Account Representative (Bilingual) |  | TX, San Antonio | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Account-Representative--Bilingual-_38453) |
 | 🏢 **Included Health** | Psychiatrist |  | Florida + 3 more | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply) |
 | 🏢 **Ro** | Part-Time, Virtual Physician |  | New York, NY | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply) |
 | 🏢 **Ro** | Per Diem Pharmacist - Boynton Beach, FL |  | Boynton Beach, FL | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply) |
@@ -284,8 +283,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Candid Health** | Medical Biller |  | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/6c2029b2-ea83-4cdd-95e7-a5e3c45234ac/application) |
 | 🏢 **Palantir** | Global Mobility Specialist |  | Washington + 1 more | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/76b62a88-f991-4605-82ac-8834be151511/apply) |
 | 🏢 **Affirm** | Implementation Specialist I | ✅ Sponsors Visa | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7666194003) |
-| 🏢 **Oscar Health** | Associate, Data Analytics (Tempe, AZ - Hybrid) | ✅ Sponsors Visa | Tempe | 2d | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7825277?gh_jid=7825277) |
-| 🏢 **Oscar Health** | Associate, Data Analytics (NYC - Hybrid) | ✅ Sponsors Visa | New York | 2d | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7688263?gh_jid=7688263) |
+| 🏢 **Oscar Health** | Associate, Data Analytics (Tempe, AZ - Hybrid) | ✅ Sponsors Visa | Tempe | 3d | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7825277?gh_jid=7825277) |
+| 🏢 **Oscar Health** | Associate, Data Analytics (NYC - Hybrid) | ✅ Sponsors Visa | New York | 3d | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7688263?gh_jid=7688263) |
 | 🏢 **Merck & Co.** | Companion Animal Professional Services Veterinarian (Tri-State) |  | New Jersey Rahway | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Professional-Services-Veterinarian--Tri-State-_R393567) |
 | 🏢 **Takeda** | Entry Level Phlebotomist |  | IL - Chicago - Pl... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Chicago---Plasma/Entry-Level-Phlebotomist_R0178675-1) |
 | 🏢 **Takeda** | Plasma Center Technician |  | IL - Chicago - Pl... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Chicago---Plasma/Plasma-Center-Technician_R0178673-1) |
@@ -370,7 +369,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 347 current opportunities from 54 companies**
+**🎯 345 current opportunities from 53 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
