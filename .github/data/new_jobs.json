@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-guidehouse-37907",
+    "job_title": "MSO Credit Balance Specialist",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Birmingham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/MSO-Credit-Balance-Specialist_37907",
+    "job_posted_at_datetime_utc": "2026-04-20T16:26:29.311Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ea0fb082428398e999ef9b616313b7046b5b5add78b2a684639d9b6175a711f3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T16:26:29.311Z"
+  },
+  {
     "job_id": "workday-takeda-R0178778",
     "job_title": "Entry Level Phlebotomist – Evening and Weekend Availability",
     "employer_name": "Takeda",
@@ -26,34 +54,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T16:03:21.045Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178773",
-    "job_title": "Part Time Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
-    "job_posted_at_datetime_utc": "2026-04-20T15:37:13.388Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T15:37:13.388Z"
   },
   {
     "job_id": "workday-takeda-R0177907",
@@ -124,6 +124,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6fe01b49d9e9112d4b050b5c2929731ee1e9c3532f35ca289c1d64a00f641f87",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T15:37:13.388Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178773",
+    "job_title": "Part Time Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
+    "job_posted_at_datetime_utc": "2026-04-20T15:37:13.388Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -308,18 +336,18 @@
     "job_posted_at": "2026-04-20T15:07:29.040Z"
   },
   {
-    "job_id": "workday-takeda-R0178756",
-    "job_title": "Medical Screener",
+    "job_id": "workday-takeda-R0178763",
+    "job_title": "Licensed Practical Nurse – Plasma Center   Day 1 Benefits!",
     "employer_name": "Takeda",
-    "job_city": "GA - Morrow",
+    "job_city": "PA - Pittsburgh - Braddock Ave",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Morrow/Medical-Screener_R0178756",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/Licensed-Practical-Nurse---Plasma-Center---Day-1-Benefits-_R0178763-1",
     "job_posted_at_datetime_utc": "2026-04-20T14:40:24.244Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ccfa6b845a0943ad4fb3507ff571f334a713f65927d76947cd75243769c92794",
+    "fingerprint": "069c3dbde6a2824c8047d237d54f9b4cbb7a822c98b854d6d7e9da6638c33c6c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -336,18 +364,18 @@
     "job_posted_at": "2026-04-20T14:40:24.244Z"
   },
   {
-    "job_id": "workday-takeda-R0178763",
-    "job_title": "Licensed Practical Nurse – Plasma Center   Day 1 Benefits!",
+    "job_id": "workday-takeda-R0178756",
+    "job_title": "Medical Screener",
     "employer_name": "Takeda",
-    "job_city": "PA - Pittsburgh - Braddock Ave",
+    "job_city": "GA - Morrow",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/Licensed-Practical-Nurse---Plasma-Center---Day-1-Benefits-_R0178763-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Morrow/Medical-Screener_R0178756",
     "job_posted_at_datetime_utc": "2026-04-20T14:40:24.244Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "069c3dbde6a2824c8047d237d54f9b4cbb7a822c98b854d6d7e9da6638c33c6c",
+    "fingerprint": "ccfa6b845a0943ad4fb3507ff571f334a713f65927d76947cd75243769c92794",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4072,36 +4100,6 @@
     "job_posted_at": "2026-04-17T07:02:56.084Z"
   },
   {
-    "job_id": "workday-illumina-41675-JOB",
-    "job_title": "Executive Oncology Sales Specialist - Eastern US",
-    "employer_name": "Illumina",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:55.663Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:55.663Z"
-  },
-  {
     "job_id": "workday-illumina-42321-JOB",
     "job_title": "Biochemistry Specialist",
     "employer_name": "Illumina",
@@ -4151,6 +4149,36 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:55.663Z"
+  },
+  {
+    "job_id": "workday-illumina-41675-JOB",
+    "job_title": "Executive Oncology Sales Specialist - Eastern US",
+    "employer_name": "Illumina",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:55.663Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5626,34 +5654,6 @@
     "job_posted_at": "2026-04-16T07:05:29.855Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01348744",
-    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
-    "job_posted_at_datetime_utc": "2026-04-16T07:05:17.209Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:05:17.209Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01334329",
     "job_title": "Field Service Engineer (Electron Microscopy)(REMOTE)",
     "employer_name": "Thermo Fisher Scientific",
@@ -5716,6 +5716,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:05:17.209Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01348744",
+    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "San Diego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
+    "job_posted_at_datetime_utc": "2026-04-16T07:05:17.209Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5835,62 +5863,6 @@
     "job_posted_at": "2026-04-16T07:03:49.572Z"
   },
   {
-    "job_id": "workday-guidehouse-38605",
-    "job_title": "Medical Billers / Medical Cash Posters / Medical Credit Balance Specialists",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Medical-Billers---Medical-Cash-Posters---Medical-Credit-Balance-Specialists_38605",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:05.182Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af560a516715fd85f30dc021792602da6887d869f33f4d7e5544f667f88e7154",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:05.182Z"
-  },
-  {
-    "job_id": "workday-guidehouse-35052",
-    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
-    "employer_name": "Guidehouse",
-    "job_city": "US IL Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_35052",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:05.182Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:05.182Z"
-  },
-  {
     "job_id": "workday-guidehouse-38437",
     "job_title": "Patient Account Representative - Medicare, Medicaid, Commercial Claims",
     "employer_name": "Guidehouse",
@@ -5949,23 +5921,22 @@
     "job_posted_at": "2026-04-16T07:03:05.182Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-070322",
-    "job_title": "Oncology Sales Specialist, Solid Tumor (Orlando South FL) - Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Orlando",
+    "job_id": "workday-guidehouse-38605",
+    "job_title": "Medical Billers / Medical Cash Posters / Medical Credit Balance Specialists",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, San Antonio",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Oncology-Sales-Specialist--Solid-Tumor--Orlando-South-FL----Johnson---Johnson-Innovative-Medicine_R-070322-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:01.519Z",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Medical-Billers---Medical-Cash-Posters---Medical-Credit-Balance-Specialists_38605",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:05.182Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "fc1bfdd376173e7bb2f4b85f9785c3cdc8a5c08d3ca5ba8981d383f0a19110bf",
+    "fingerprint": "af560a516715fd85f30dc021792602da6887d869f33f4d7e5544f667f88e7154",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "healthcare",
-        "sales"
+        "healthcare"
       ],
       "locations": [
         "us"
@@ -5975,7 +5946,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:01.519Z"
+    "job_posted_at": "2026-04-16T07:03:05.182Z"
+  },
+  {
+    "job_id": "workday-guidehouse-35052",
+    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
+    "employer_name": "Guidehouse",
+    "job_city": "US IL Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_35052",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:05.182Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:05.182Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-051575",
@@ -6019,6 +6018,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "195dcb0571c9c1a03b8bd5c02a4ea6df42f37bde09625d93f2a8d00545fe2d0c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:01.519Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-070322",
+    "job_title": "Oncology Sales Specialist, Solid Tumor (Orlando South FL) - Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Orlando",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Oncology-Sales-Specialist--Solid-Tumor--Orlando-South-FL----Johnson---Johnson-Innovative-Medicine_R-070322-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:01.519Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc1bfdd376173e7bb2f4b85f9785c3cdc8a5c08d3ca5ba8981d383f0a19110bf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6288,34 +6316,6 @@
     "job_posted_at": "2026-04-16T07:02:47.052Z"
   },
   {
-    "job_id": "workday-abbott-31140668",
-    "job_title": "Clinical Specialist - Tampa, FL",
-    "employer_name": "Abbott",
-    "job_city": "Florida - Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist---Tampa--FL_31140668",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c1f3fee784636da42e6483e0ccc952b74780eab966afd2a508b7e1d1b462fe46",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
     "job_id": "workday-abbott-31147758",
     "job_title": "Clinical Specialist, Vessel Closure - Baltimore, MD",
     "employer_name": "Abbott",
@@ -6497,6 +6497,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31140668",
+    "job_title": "Clinical Specialist - Tampa, FL",
+    "employer_name": "Abbott",
+    "job_city": "Florida - Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist---Tampa--FL_31140668",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c1f3fee784636da42e6483e0ccc952b74780eab966afd2a508b7e1d1b462fe46",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7257,91 +7285,6 @@
     "job_posted_at": "2026-04-15T07:03:12.594Z"
   },
   {
-    "job_id": "workday-guidehouse-37705",
-    "job_title": "Clinical Denial Specialist",
-    "employer_name": "Guidehouse",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denial-Specialist_37705",
-    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2f0dc95188e1a452ee28150073a08a003d7cd59685411a4901faf4ab960fb6ee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:03:05.182Z"
-  },
-  {
-    "job_id": "workday-guidehouse-36986",
-    "job_title": "Payer Enrollment Specialist",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_36986",
-    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:03:05.182Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38543",
-    "job_title": "Charge Corrections Medical Coder",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Charge-Corrections-Medical-Coder_38543-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "71f9a8529ace2ad96e78f0821614c0899d206443e73fb676f692a2418f0a8c33",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:03:05.182Z"
-  },
-  {
     "job_id": "workday-guidehouse-35313",
     "job_title": "Managing Consultant - Life Sciences Advisory - Market Access (US)",
     "employer_name": "Guidehouse",
@@ -7428,18 +7371,75 @@
     "job_posted_at": "2026-04-15T07:03:05.182Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-070250",
-    "job_title": "Medical Science Liaison - Dermatology - Indianapolis",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "6 Locations",
+    "job_id": "workday-guidehouse-37705",
+    "job_title": "Clinical Denial Specialist",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denial-Specialist_37705",
+    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2f0dc95188e1a452ee28150073a08a003d7cd59685411a4901faf4ab960fb6ee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:03:05.182Z"
+  },
+  {
+    "job_id": "workday-guidehouse-36986",
+    "job_title": "Payer Enrollment Specialist",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Birmingham",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Indianapolis-Indiana-United-States/Medical-Science-Liaison---Dermatology---Indianapolis_R-070250-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:03:01.520Z",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_36986",
+    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b85d0a46f7069d3c9bac822d31873147c7b16587df45e4fa78b2316fa55e0440",
+    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:03:05.182Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38543",
+    "job_title": "Charge Corrections Medical Coder",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Birmingham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Charge-Corrections-Medical-Coder_38543-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "71f9a8529ace2ad96e78f0821614c0899d206443e73fb676f692a2418f0a8c33",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7453,36 +7453,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:03:01.520Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-069439",
-    "job_title": "Executive Oncology Sales Specialist, CAR-T (Miami, FL) - Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Miami-Florida-United-States-of-America/Executive-Oncology-Sales-Specialist--CAR-T--Miami--FL----Johnson---Johnson-Innovative-Medicine_R-069439-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:03:01.520Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dbf995faf39bade8802811877523b8ad4e3329c5c80680d14fa390f1d82fe6bb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:03:01.520Z"
+    "job_posted_at": "2026-04-15T07:03:05.182Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-060854",
@@ -7557,6 +7528,63 @@
       "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-15T07:03:01.520Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-070250",
+    "job_title": "Medical Science Liaison - Dermatology - Indianapolis",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Indianapolis-Indiana-United-States/Medical-Science-Liaison---Dermatology---Indianapolis_R-070250-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:03:01.520Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b85d0a46f7069d3c9bac822d31873147c7b16587df45e4fa78b2316fa55e0440",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:03:01.520Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-069439",
+    "job_title": "Executive Oncology Sales Specialist, CAR-T (Miami, FL) - Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Miami-Florida-United-States-of-America/Executive-Oncology-Sales-Specialist--CAR-T--Miami--FL----Johnson---Johnson-Innovative-Medicine_R-069439-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:03:01.520Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dbf995faf39bade8802811877523b8ad4e3329c5c80680d14fa390f1d82fe6bb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-15T07:03:01.520Z"
   },
   {
@@ -8288,18 +8316,18 @@
     "job_posted_at": "2026-04-15T07:01:40.787Z"
   },
   {
-    "job_id": "workday-abbott-31147755",
-    "job_title": "Clinical Account Representative, CardioMEMS - Houston, TX",
+    "job_id": "workday-abbott-31147732",
+    "job_title": "Clinical Review Nurse",
     "employer_name": "Abbott",
-    "job_city": "Texas - Houston",
+    "job_city": "Missouri - Kansas City",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston--TX_31147755-1",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Clinical-Review-Nurse_31147732-1",
     "job_posted_at_datetime_utc": "2026-04-15T07:01:34.912Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2005b2a75d45992809b04d36f77302c985c0f07a449bdd4d29b6c211a5681da6",
+    "fingerprint": "f034db0dc248f51cf20972b1f49f7a469715062acad0ca034f004e107e1a7e72",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8316,18 +8344,18 @@
     "job_posted_at": "2026-04-15T07:01:34.912Z"
   },
   {
-    "job_id": "workday-abbott-31147732",
-    "job_title": "Clinical Review Nurse",
+    "job_id": "workday-abbott-31147755",
+    "job_title": "Clinical Account Representative, CardioMEMS - Houston, TX",
     "employer_name": "Abbott",
-    "job_city": "Missouri - Kansas City",
+    "job_city": "Texas - Houston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Clinical-Review-Nurse_31147732-1",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston--TX_31147755-1",
     "job_posted_at_datetime_utc": "2026-04-15T07:01:34.912Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f034db0dc248f51cf20972b1f49f7a469715062acad0ca034f004e107e1a7e72",
+    "fingerprint": "2005b2a75d45992809b04d36f77302c985c0f07a449bdd4d29b6c211a5681da6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8398,34 +8426,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-15T06:05:36.556Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178415",
-    "job_title": "Registered Nurse (RN) – Weekend Availability Needed Appleton Eisen",
-    "employer_name": "Takeda",
-    "job_city": "WI - Appleton - Eisenhower Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Registered-Nurse--RN----Weekend-Availability-Needed-Appleton-Eisen_R0178415-1",
-    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "faa51dda5effd20a5926530c9aaee462010d9d2739ecbdcd7bff28b871ee0c93",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T05:05:35.282Z"
   },
   {
     "job_id": "workday-takeda-R0178426",
@@ -8720,6 +8720,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a2bbdd2456e88e8d00883c27d34d38ae5265acf278a0b277fc85cf2625e99fe6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T05:05:35.282Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178415",
+    "job_title": "Registered Nurse (RN) – Weekend Availability Needed Appleton Eisen",
+    "employer_name": "Takeda",
+    "job_city": "WI - Appleton - Eisenhower Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Eisenhower-Dr/Registered-Nurse--RN----Weekend-Availability-Needed-Appleton-Eisen_R0178415-1",
+    "job_posted_at_datetime_utc": "2026-04-15T05:05:35.282Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "faa51dda5effd20a5926530c9aaee462010d9d2739ecbdcd7bff28b871ee0c93",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9651,6 +9679,34 @@
     "job_posted_at": "2026-04-14T07:01:04.465Z"
   },
   {
+    "job_id": "workday-medtronic-R64225",
+    "job_title": "Assoc Clinical Specialist CRM - Tampa",
+    "employer_name": "Medtronic",
+    "job_city": "Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Assoc-Clinical-Specialist-CRM---Tampa_R64225-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5fd5aa50e1711da5db7b68e2be287542e5b3a9bb84a262e5e381c433c5119578",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:19.919Z"
+  },
+  {
     "job_id": "workday-medtronic-R59617",
     "job_title": "Clinical Specialist, CRM - Rochester, NY",
     "employer_name": "Medtronic",
@@ -9691,34 +9747,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5cbb609b44f96c013935f8cff55e3d534c4278a81fab4ab8fb54ba31c8f54bd8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:19.919Z"
-  },
-  {
-    "job_id": "workday-medtronic-R64225",
-    "job_title": "Assoc Clinical Specialist CRM - Tampa",
-    "employer_name": "Medtronic",
-    "job_city": "Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Assoc-Clinical-Specialist-CRM---Tampa_R64225-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5fd5aa50e1711da5db7b68e2be287542e5b3a9bb84a262e5e381c433c5119578",
     "tags": {
       "employment": "entry_level",
       "domains": [
