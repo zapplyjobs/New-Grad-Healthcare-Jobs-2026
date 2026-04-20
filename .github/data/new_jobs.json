@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-micron-JR98967",
+    "job_title": "Analytical Chemist",
+    "employer_name": "Micron",
+    "job_city": "Main Site",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Analytical-Chemist_JR98967",
+    "job_posted_at_datetime_utc": "2026-04-20T16:51:17.087Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "52de116502883ce1528e7f48be83e8fd414e3bcc4243ef1a2334709b68187e7c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T16:51:17.087Z"
+  },
+  {
     "job_id": "workday-guidehouse-37907",
     "job_title": "MSO Credit Balance Specialist",
     "employer_name": "Guidehouse",
@@ -54,6 +82,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T16:03:21.045Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178773",
+    "job_title": "Part Time Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
+    "job_posted_at_datetime_utc": "2026-04-20T15:37:13.388Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T15:37:13.388Z"
   },
   {
     "job_id": "workday-takeda-R0177907",
@@ -124,34 +180,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6fe01b49d9e9112d4b050b5c2929731ee1e9c3532f35ca289c1d64a00f641f87",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T15:37:13.388Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178773",
-    "job_title": "Part Time Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
-    "job_posted_at_datetime_utc": "2026-04-20T15:37:13.388Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6316,6 +6344,34 @@
     "job_posted_at": "2026-04-16T07:02:47.052Z"
   },
   {
+    "job_id": "workday-abbott-31140668",
+    "job_title": "Clinical Specialist - Tampa, FL",
+    "employer_name": "Abbott",
+    "job_city": "Florida - Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist---Tampa--FL_31140668",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c1f3fee784636da42e6483e0ccc952b74780eab966afd2a508b7e1d1b462fe46",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
     "job_id": "workday-abbott-31147758",
     "job_title": "Clinical Specialist, Vessel Closure - Baltimore, MD",
     "employer_name": "Abbott",
@@ -6497,34 +6553,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
-    "job_id": "workday-abbott-31140668",
-    "job_title": "Clinical Specialist - Tampa, FL",
-    "employer_name": "Abbott",
-    "job_city": "Florida - Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist---Tampa--FL_31140668",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c1f3fee784636da42e6483e0ccc952b74780eab966afd2a508b7e1d1b462fe46",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7285,6 +7313,91 @@
     "job_posted_at": "2026-04-15T07:03:12.594Z"
   },
   {
+    "job_id": "workday-guidehouse-37705",
+    "job_title": "Clinical Denial Specialist",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denial-Specialist_37705",
+    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2f0dc95188e1a452ee28150073a08a003d7cd59685411a4901faf4ab960fb6ee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:03:05.182Z"
+  },
+  {
+    "job_id": "workday-guidehouse-36986",
+    "job_title": "Payer Enrollment Specialist",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Birmingham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_36986",
+    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:03:05.182Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38543",
+    "job_title": "Charge Corrections Medical Coder",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Birmingham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Charge-Corrections-Medical-Coder_38543-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "71f9a8529ace2ad96e78f0821614c0899d206443e73fb676f692a2418f0a8c33",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:03:05.182Z"
+  },
+  {
     "job_id": "workday-guidehouse-35313",
     "job_title": "Managing Consultant - Life Sciences Advisory - Market Access (US)",
     "employer_name": "Guidehouse",
@@ -7362,91 +7475,6 @@
       "locations": [
         "us",
         "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:03:05.182Z"
-  },
-  {
-    "job_id": "workday-guidehouse-37705",
-    "job_title": "Clinical Denial Specialist",
-    "employer_name": "Guidehouse",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denial-Specialist_37705",
-    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2f0dc95188e1a452ee28150073a08a003d7cd59685411a4901faf4ab960fb6ee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:03:05.182Z"
-  },
-  {
-    "job_id": "workday-guidehouse-36986",
-    "job_title": "Payer Enrollment Specialist",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_36986",
-    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:03:05.182Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38543",
-    "job_title": "Charge Corrections Medical Coder",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Charge-Corrections-Medical-Coder_38543-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "71f9a8529ace2ad96e78f0821614c0899d206443e73fb676f692a2418f0a8c33",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
       ],
       "experience": "unknown",
       "special": []
@@ -9679,34 +9707,6 @@
     "job_posted_at": "2026-04-14T07:01:04.465Z"
   },
   {
-    "job_id": "workday-medtronic-R64225",
-    "job_title": "Assoc Clinical Specialist CRM - Tampa",
-    "employer_name": "Medtronic",
-    "job_city": "Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Assoc-Clinical-Specialist-CRM---Tampa_R64225-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5fd5aa50e1711da5db7b68e2be287542e5b3a9bb84a262e5e381c433c5119578",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:19.919Z"
-  },
-  {
     "job_id": "workday-medtronic-R59617",
     "job_title": "Clinical Specialist, CRM - Rochester, NY",
     "employer_name": "Medtronic",
@@ -9747,6 +9747,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5cbb609b44f96c013935f8cff55e3d534c4278a81fab4ab8fb54ba31c8f54bd8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:19.919Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64225",
+    "job_title": "Assoc Clinical Specialist CRM - Tampa",
+    "employer_name": "Medtronic",
+    "job_city": "Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Assoc-Clinical-Specialist-CRM---Tampa_R64225-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5fd5aa50e1711da5db7b68e2be287542e5b3a9bb84a262e5e381c433c5119578",
     "tags": {
       "employment": "entry_level",
       "domains": [
