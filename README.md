@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-346-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-340-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-54-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-134-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-133-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -81,7 +81,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **General Motors** | Registered Nurse - Occupational Health - PRN/per diem |  | Buffalo + 1 more | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Buffalo-New-York-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202607875) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC |  | North Carolina - ... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237) |
 | 🏢 **SEL** | Registered Nurse |  | Pullman, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Registered-Nurse_2026-20582) |
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bristol, VA; Charlottesville, VA |  | Virginia - Roanoke | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bristol, VA; Charlottesville, VA |  | Virginia - Roanoke | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Account Specialist (New York, NY / Long Island, NY / Northern NJ) - Johnson & Johnson MedTech, Electrophysiology |  | 2 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Associate-Clinical-Account-Specialist--New-York--NY---Long-Island--NY---Northern-NJ----Johnson---Johnson-MedTech--Electrophysiology_R-054049) |
 | 🏢 **Disney** | Guest Registered Nurse Coordinator |  | Lake Buena Vista, FL | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Guest-Registered-Nurse-Coordinator_10144089) |
 
@@ -130,7 +130,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Johnson & Johnson** | Oncology Clinical Educator, Solid Tumors – San Francisco, CA |  | 4 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Horsham-Pennsylvania-United-States-of-America/Oncology-Clinical-Educator--Solid-Tumors---San-Francisco--CA_R-060854-1) |
 | 🏢 **Biogen** | (Sr) Medical Science Liaison, Lupus - North Central |  | Chicago, IL | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Chicago-IL/XMLNAME--Sr--Medical-Science-Liaison--Lupus---North-Central_REQ22260-1) |
 | 🏢 **AbbVie** | Clinical Research Associate I |  | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012589439) |
-| 🏢 **Exact Sciences** | Clinical Trial Associate I |  | WI - Madison | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Clinical-Trial-Associate-I_R26-12986) |
+| 🏢 **Exact Sciences** | Clinical Trial Associate I |  | WI - Madison | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Clinical-Trial-Associate-I_R26-12986) |
 | 🏢 **Thermo Fisher Scientific** | Clinical Research Coordinator |  | Chicago | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Chicago-Illinois-USA/Clinical-Research-Coordinator_R-01347734-1) |
 | 🏢 **Johnson & Johnson** | Medical Science Liaison – Genitourinary Oncology - Pacific Northwest |  | 2 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Seattle-Washington-United-States-of-America/Medical-Science-Liaison---Genitourinary-Oncology---Pacific-Northwest_R-069240-1) |
 
@@ -263,7 +263,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Included Health** | Psychiatrist |  | Florida + 3 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply) |
 | 🏢 **Ro** | Part-Time, Virtual Physician |  | New York, NY | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply) |
 | 🏢 **Ro** | Per Diem Pharmacist - Boynton Beach, FL |  | Boynton Beach, FL | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply) |
-| 🏢 **Ro** | Compounding Pharmacy Technician - Boynton Beach, FL (Temp) |  | Boynton Beach, FL | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90/apply) |
+| 🏢 **Ro** | Compounding Pharmacy Technician -  Romeoville, IL |  | Romeoville, IL | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply) |
 | 🏢 **IDEXX** | Medical Laboratory Technologist (Nights) |  | Irvine, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Irvine-CA/Medical-Laboratory-Technologist--Nights-_J-052731) |
 | 🏢 **Hinge Health** | Health Economist |  | San Francisco- | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/2c5c58a9-5176-4ca7-b6bc-a832a375ea2f/application) |
 | 🏢 **Truveta** | Solutions Analyst |  | Seattle, WA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5755514004) |
@@ -271,8 +271,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Personalis** | Client Experience Specialist |  | Fremont, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7652731003) |
 | 🏢 **Personalis** | Clinical Lab Associate 1 |  | Fremont, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645093003) |
 | 🏢 **Oscar Health** | Associate, Case Management Strategic Operations |  | Dallas + 3 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7507023?gh_jid=7507023) |
-| 🏢 **Neuralink** | Animal Care Specialist |  | Austin | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6103655003?gh_jid=6103655003) |
 | 🏢 **Neuralink** | Field Clinical Engineer |  | Austin | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7684347003?gh_jid=7684347003) |
+| 🏢 **Neuralink** | Animal Care Specialist |  | Austin | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6103655003?gh_jid=6103655003) |
 | 🏢 **Guidepoint** | Client Service Healthcare Associate |  | New York | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8453033002) |
 | 🏢 **Guidepoint** | Client Success - Healthcare Corporate Specialist (NYC) |  | New York | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8342632002) |
 | 🏢 **Dandy** | Dental Field Trainer - Near Major Airport |  | USA - Remote | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/b3e9f989-e008-4da0-ab95-d1d929dadf52/application) |
@@ -284,9 +284,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Oscar Health** | Associate, Data Analytics (Tempe, AZ - Hybrid) | ✅ Sponsors Visa | Tempe | 2d | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7825277?gh_jid=7825277) |
 | 🏢 **Oscar Health** | Associate, Data Analytics (NYC - Hybrid) | ✅ Sponsors Visa | New York | 2d | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7688263?gh_jid=7688263) |
 | 🏢 **Merck & Co.** | Companion Animal Professional Services Veterinarian (Tri-State) |  | New Jersey Rahway | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Professional-Services-Veterinarian--Tri-State-_R393567) |
+| 🏢 **Takeda** | Full Time Intake Nurse |  | CA - Lemon Grove | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Full-Time-Intake-Nurse_R0178702-1) |
 | 🏢 **Takeda** | Entry Level Phlebotomist |  | IL - Chicago - Pl... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Chicago---Plasma/Entry-Level-Phlebotomist_R0178675-1) |
 | 🏢 **Takeda** | Plasma Center Technician |  | IL - Chicago - Pl... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Chicago---Plasma/Plasma-Center-Technician_R0178673-1) |
-| 🏢 **Takeda** | Biolife Nurse - Paramedic License (Bilingual Spanish) |  | TX - Houston - North | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Biolife-Nurse---Paramedic-License--Bilingual-Spanish-_R0178665-1) |
 | 🏢 **Guidehouse** | Computational Biologist |  | MD, Baltimore | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Computational-Biologist_38615) |
 | 🏢 **Guidehouse** | Cell Biologist |  | MD, Bethesda | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Cell-Biologist_38613) |
 | 🏢 **Guidehouse** | Biologist |  | MD, Baltimore | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Biologist_38618) |
@@ -368,7 +368,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 346 current opportunities from 54 companies**
+**🎯 340 current opportunities from 54 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

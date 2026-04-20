@@ -463,6 +463,34 @@
     "job_posted_at": "2026-04-20T01:59:19.195Z"
   },
   {
+    "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
+    "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
+    "employer_name": "Ro",
+    "job_city": "Romeoville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.194Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8ba5f376eb0aff17049ca4fbfa92a711c45d640ba4824c232c014e2c8aeb55c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.194Z"
+  },
+  {
     "job_id": "lever-ro-c739f69c-ed8a-4089-9183-ac94b2b06f90",
     "job_title": "Compounding Pharmacy Technician - Boynton Beach, FL (Temp)",
     "employer_name": "Ro",
@@ -653,34 +681,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.194Z"
-  },
-  {
-    "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
-    "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
-    "employer_name": "Ro",
-    "job_city": "Romeoville",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.194Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8ba5f376eb0aff17049ca4fbfa92a711c45d640ba4824c232c014e2c8aeb55c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -1285,34 +1285,6 @@
     "job_posted_at": "2026-04-20T01:57:33.081Z"
   },
   {
-    "job_id": "greenhouse-neuralink-6103655003",
-    "job_title": "Animal Care Specialist",
-    "employer_name": "Neuralink",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/neuralink/jobs/6103655003?gh_jid=6103655003",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:32.577Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec71eefad98f15ebfcc6e6b8988be8e57fd25267680075f19dd4a5e998163774",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:32.577Z"
-  },
-  {
     "job_id": "greenhouse-neuralink-7684347003",
     "job_title": "Field Clinical Engineer",
     "employer_name": "Neuralink",
@@ -1334,6 +1306,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:32.577Z"
+  },
+  {
+    "job_id": "greenhouse-neuralink-6103655003",
+    "job_title": "Animal Care Specialist",
+    "employer_name": "Neuralink",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/neuralink/jobs/6103655003?gh_jid=6103655003",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:32.577Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec71eefad98f15ebfcc6e6b8988be8e57fd25267680075f19dd4a5e998163774",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -2671,6 +2671,34 @@
     "job_posted_at": "2026-04-17T07:06:08.784Z"
   },
   {
+    "job_id": "workday-takeda-R0178702",
+    "job_title": "Full Time Intake Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Lemon Grove",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Full-Time-Intake-Nurse_R0178702-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:05:29.855Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b0bbd6f80b7aadbe994cc315e2238bb1632f2646d8760d834621be6d33a69361",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:05:29.855Z"
+  },
+  {
     "job_id": "workday-takeda-R0178681",
     "job_title": "Plasma Center Nurse - LPN - Evening & Weekend Availability",
     "employer_name": "Takeda",
@@ -2936,34 +2964,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5d7d764758505ac6a6554e09b6e371aa2eca01b50a340eb8b78839e499b9bbb4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:05:29.855Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178702",
-    "job_title": "Full Time Intake Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Lemon Grove",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Full-Time-Intake-Nurse_R0178702-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:05:29.855Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b0bbd6f80b7aadbe994cc315e2238bb1632f2646d8760d834621be6d33a69361",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8614,34 +8614,6 @@
     "job_posted_at": "2026-04-14T07:01:59.807Z"
   },
   {
-    "job_id": "workday-takeda-R0178311",
-    "job_title": "Manager Trainee - Operations (Travel Program; Relocation Required)",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Georgia---Virtual/Manager-Trainee---Operations--Travel-Program--Relocation-Required-_R0178311-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4364e1993805bbcf95587f6d62a92a9aaac920460c437cf4485c4f4c68fe869b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:01:55.336Z"
-  },
-  {
     "job_id": "workday-takeda-R0178380",
     "job_title": "Plasma Center Nurse - Licensed Vocational Nurse",
     "employer_name": "Takeda",
@@ -8710,6 +8682,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "78f902650cfaa83a1ed76374c13b624e4b7f77f9bb0fbff677de82165904f136",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178311",
+    "job_title": "Manager Trainee - Operations (Travel Program; Relocation Required)",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Georgia---Virtual/Manager-Trainee---Operations--Travel-Program--Relocation-Required-_R0178311-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4364e1993805bbcf95587f6d62a92a9aaac920460c437cf4485c4f4c68fe869b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9035,6 +9035,34 @@
     "job_posted_at": "2026-04-14T07:01:04.465Z"
   },
   {
+    "job_id": "workday-medtronic-R64225",
+    "job_title": "Assoc Clinical Specialist CRM - Tampa",
+    "employer_name": "Medtronic",
+    "job_city": "Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Assoc-Clinical-Specialist-CRM---Tampa_R64225-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5fd5aa50e1711da5db7b68e2be287542e5b3a9bb84a262e5e381c433c5119578",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:19.919Z"
+  },
+  {
     "job_id": "workday-medtronic-R59617",
     "job_title": "Clinical Specialist, CRM - Rochester, NY",
     "employer_name": "Medtronic",
@@ -9075,34 +9103,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5cbb609b44f96c013935f8cff55e3d534c4278a81fab4ab8fb54ba31c8f54bd8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:19.919Z"
-  },
-  {
-    "job_id": "workday-medtronic-R64225",
-    "job_title": "Assoc Clinical Specialist CRM - Tampa",
-    "employer_name": "Medtronic",
-    "job_city": "Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Assoc-Clinical-Specialist-CRM---Tampa_R64225-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5fd5aa50e1711da5db7b68e2be287542e5b3a9bb84a262e5e381c433c5119578",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9859,174 +9859,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-04-13T13:28:46.912Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-052327",
-    "job_title": "Oncology Sales Specialist - Ann Arbor, MI - Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Ann Arbor",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Ann-Arbor-Michigan-United-States/Oncology-Sales-Specialist---Ann-Arbor--MI---Johnson---Johnson-Innovative-Medicine_R-052327-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:21:43.268Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8e345d4b6cf000393b98d35f4564547b925c2358bd226cd789ba6a9797774331",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:21:43.268Z"
-  },
-  {
-    "job_id": "workday-abbott-31142458",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bridgewater, NJ; Willingboro, NJ",
-    "employer_name": "Abbott",
-    "job_city": "New Jersey - Paterson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Paterson/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Paterson--NJ_31142458",
-    "job_posted_at_datetime_utc": "2026-04-13T07:21:04.028Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b0d48f8ec27688c38ed975db53268053a08056d2bb5c822ff3e7dee4249775b7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:21:04.028Z"
-  },
-  {
-    "job_id": "workday-abbott-31147339",
-    "job_title": "Clinical Specialist I, CPT - Abilene, TX",
-    "employer_name": "Abbott",
-    "job_city": "Texas - Abilene",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Abilene/Clinical-Specialist-I--CPT---Abilene--TX_31147339-2",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:18.228Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2f999aaf7ffc22a0bef2f9f5d5e279bb6f2a154f521fa3dc5e14257371ac386e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:20:18.228Z"
-  },
-  {
-    "job_id": "workday-abbott-31143741",
-    "job_title": "Clinical Specialist, Coronary - San Diego, CA",
-    "employer_name": "Abbott",
-    "job_city": "California - San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Senior-Clinical-Specialist--Coronary---San-Diego--CA_31143741-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:18.228Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a4605c363dea2f29c9ae752c26518bcf02421ff90a42f0c5b759fdf32cb6bee4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:20:18.228Z"
-  },
-  {
-    "job_id": "workday-abbott-31147385",
-    "job_title": "Associate Clinical Specialist - Salt Lake City, UT",
-    "employer_name": "Abbott",
-    "job_city": "Utah - Salt Lake City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Utah---Salt-Lake-City/Associate-Clinical-Specialist---Salt-Lake-City--UT_31147385-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:18.228Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6305e2e94826f2d0fecd0eed4dd4aeb005bcecd9c29d99af32a87c65ffbcf94a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:20:18.228Z"
-  },
-  {
-    "job_id": "workday-abbott-31137028",
-    "job_title": "Clinical Specialist, Peripheral - MD/Southern DE",
-    "employer_name": "Abbott",
-    "job_city": "Maryland - Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maryland---Baltimore/Senior-Clinical-Specialist--Peripheral---MD-Southern-DE_31137028-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:18.228Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f76096c48b77b9704b20e8f3836b2dbc491fce966ca5b3d204473baf509d4c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:20:18.228Z"
   }
 ]
