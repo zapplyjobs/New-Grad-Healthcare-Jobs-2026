@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-341-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-343-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-54-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-133-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-134-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -97,7 +97,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|------|----------|--------|----------|
 | 🏢 **Takeda** | Spanish Speaking Nurse - LPN |  | TX - Houston - North | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Spanish-Speaking-Nurse---LPN_R0178667-1) |
 | 🏢 **Takeda** | Biolife Nurse - Licensed Practical Nurse (Bilingual Spanish) |  | TX - Houston - North | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Biolife-Nurse---Licensed-Practical-Nurse--Bilingual-Spanish-_R0178666-1) |
-| 🏢 **Takeda** | Licensed Practical Nurse |  | TX - San Antonio | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Licensed-Practical-Nurse_R0178539) |
+| 🏢 **Takeda** | Licensed Vocational Nurse LVN |  | TX - Harker Heights | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Licensed-Vocational-Nurse-LVN_R0178603-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -144,7 +144,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Thermo Fisher Scientific** | FSP Associate Scientist - Small Molecule Analytical Chemistry |  | South San Francisco | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/South-San-Francisco-California-USA/FSP-Associate-Scientist---Small-Molecule-Analytical-Chemistry_R-01347139) |
+| 🏢 **IDEXX** | Medical Laboratory Technician or Technologist - 3rd Shift |  | Worthington, OH | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Worthington-OH/Medical-Laboratory-Technician-or-Technologist---3rd-Shift_J-052736-1) |
+| 🏢 **Thermo Fisher Scientific** | FSP Associate Scientist - Small Molecule Analytical Chemistry |  | South San Francisco | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/South-San-Francisco-California-USA/FSP-Associate-Scientist---Small-Molecule-Analytical-Chemistry_R-01347139) |
 | 🏢 **SpaceX** | Chemical Lab Technician (Starlink PCB) |  | Bastrop, TX | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8213424002?gh_jid=8213424002) |
 | 🏢 **SpaceX** | Chemist (Starlink PCB) |  | Bastrop, TX | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8213433002?gh_jid=8213433002) |
 | 🏢 **Handshake** | Chemistry Expert |  | Remote | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/2c203a28-9182-4251-b76e-10583b7e7ee8/application) |
@@ -154,8 +155,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Findhelp** | Program Research Associate |  | Austin, TX | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/findhelp/a18065b8-0f7a-497e-9d08-a6a3b0d575a4/apply) |
 | 🏢 **LG Electronics** | Lab Technician-Gas Combustion, LGE Heating Products |  | Alpharetta, GA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5023771008) |
 | 🏢 **DeepMind** | Chemist (FTC - 12 Month Fixed Term Contract) |  | Mountain View, US | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7688901) |
-| 🏢 **Bridgewater Associates** | Equities Research Associate, Asia Solutions |  | New York City | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/bridgewater89/jobs/8408478002) |
 | 🏢 **Bridgewater Associates** | Client Investment Research Associate |  | New York City | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/bridgewater89/jobs/8294673002) |
+| 🏢 **Bridgewater Associates** | Equities Research Associate, Asia Solutions |  | New York City | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/bridgewater89/jobs/8408478002) |
 | 🏢 **Chan Zuckerberg Biohub** | Research Associate, Single-Cell Genomics |  | New York, NY | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7348484) |
 | 🏢 **Astera Labs** | Hardware Lab Technician | 🏢 Sponsor Employer | San Jose | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4674410005) |
 | 🏢 **Arc Institute** | Research Associate I, Arce Lab |  | Palo Alto, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5823236004) |
@@ -169,11 +170,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **IDEXX** | Medical Laboratory Technician 1st Shift GenLab |  | Dallas, TX | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician-1st-Shift-GenLab_J-051260) |
 | 🏢 **Illumina** | Biochemistry Specialist |  | Wisconsin - Madison | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Wisconsin---Madison/Biochemistry-Specialist_42321-JOB-1) |
 | 🏢 **Illumina** | Biochemistry specialist 1 |  | Wisconsin - Madison | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Wisconsin---Madison/Biochemistry-specialist-1_42498-JOB-1) |
-| 🏢 **iRhythm** | Cardiac Technician, San Francisco |  | San Francisco, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/San-Francisco-CA/Cardiac-Technician_JR997) |
 | 🏢 **iRhythm** | Cardiac Technician - Houston, TX |  | Houston, TX | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Houston-TX/Cardiac-Technician_JR996) |
 | 🏢 **iRhythm** | Cardiac Technician Deerfield, IL |  | Deerfield, IL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Deerfield-IL/Cardiac-Technician_JR994) |
+| 🏢 **iRhythm** | Cardiac Technician, San Francisco |  | San Francisco, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/San-Francisco-CA/Cardiac-Technician_JR997) |
 | 🏢 **AbbVie** | Associate Scientist, Process Development I |  | Worcester, MA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012640756) |
-| 🏢 **IDEXX** | Laboratory Technician (Days) |  | West Sacramento, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/Laboratory-Technician--Days-_J-052361-1) |
 | 🏢 **Thermo Fisher Scientific** | FSP - Scientist - Research Associate |  | West Sacramento | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/West-Sacramento-California-USA/FSP---Scientist---Research-Associate_R-01349833) |
 | 🏢 **Thermo Fisher Scientific** | FSP - Scientist - Small Molecule Analytical Development Testing |  | San Diego | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744) |
 | 🏢 **AbbVie** | Associate Scientist, Engineering II |  | Tempe, AZ | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012620859) |
@@ -211,7 +211,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Abbott** | Associate Clinical Specialist - Bakersfield, CA |  | California - Bake... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Bakersfield/Associate-Clinical-Specialist---Bakersfield--CA_31148027-1) |
 | 🏢 **Abbott** | Clinical Specialist I, CPT - Twin Cities (Minneapolis/St. Paul, MN) |  | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist-I--CPT---Twin-Cities--Minneapolis-St-Paul--MN-_31147868-1) |
 | 🏢 **AbbVie** | Oncology Specialist - Seattle, WA |  | Seattle, WA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012643536) |
-| 🏢 **Abbott** | Clinical Specialist - Tampa, FL |  | Florida - Tampa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist---Tampa--FL_31140668) |
+| 🏢 **Abbott** | Clinical Specialist, CRM (Springfield, MO) |  | Missouri - Spring... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1) |
 | 🏢 **AbbVie** | Oncology Specialist - Richmond, VA |  | Richmond, VA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012622148) |
 | 🏢 **Intuitive** | Endoluminal Territory Associate |  | Boston, MA + 1 more | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000121024237) |
 | 🏢 **Philips** | DMS Clinical Support Specialist |  | Remote Based, Uni... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/DMS-Clinical-Support-Specialist_573486) |
@@ -243,7 +243,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Included Health** | Mental Health Therapist |  | Tennessee + 12 more | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/29af260c-cc9b-4fe9-b358-6135fd5909be/apply) |
+| 🏢 **Included Health** | Mental Health Therapist |  | Virginia + 12 more | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/cf53b4dd-8e28-49cd-9845-fac2f05ee0f3/apply) |
 | 🏢 **Hinge Health** | Physical Therapist, Pelvic Health (Flex) |  | Remote | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/1e4f194d-67e9-457c-89ce-387355f2e500/application) |
 | 🏢 **SpaceX** | School Counselor |  | Starbase, TX | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8379498002?gh_jid=8379498002) |
 | 🏢 **Leidos** | School Military and Family Life Counselor - NB Kitsap |  | Silverdale, WA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Silverdale-WA/School-Military-and-Family-Life-Counselor---NB-Kitsap_R-00181251) |
@@ -261,6 +261,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
+| 🏢 **Guidehouse** | Patient Account Representative (Bilingual) |  | TX, San Antonio | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Account-Representative--Bilingual-_38453) |
 | 🏢 **Included Health** | Psychiatrist |  | Florida + 3 more | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply) |
 | 🏢 **Ro** | Part-Time, Virtual Physician |  | New York, NY | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply) |
 | 🏢 **Ro** | Per Diem Pharmacist - Boynton Beach, FL |  | Boynton Beach, FL | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply) |
@@ -272,8 +273,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Personalis** | Client Experience Specialist |  | Fremont, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7652731003) |
 | 🏢 **Personalis** | Clinical Lab Associate 1 |  | Fremont, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645093003) |
 | 🏢 **Oscar Health** | Associate, Case Management Strategic Operations |  | Dallas + 3 more | 11h | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7507023?gh_jid=7507023) |
-| 🏢 **Neuralink** | Animal Care Specialist |  | Austin | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6103655003?gh_jid=6103655003) |
 | 🏢 **Neuralink** | Field Clinical Engineer |  | Austin | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7684347003?gh_jid=7684347003) |
+| 🏢 **Neuralink** | Animal Care Specialist |  | Austin | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6103655003?gh_jid=6103655003) |
 | 🏢 **Guidepoint** | Client Service Healthcare Associate |  | New York | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8453033002) |
 | 🏢 **Guidepoint** | Client Success - Healthcare Corporate Specialist (NYC) |  | New York | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8342632002) |
 | 🏢 **Dandy** | Dental Field Trainer - Near Major Airport |  | USA - Remote | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/b3e9f989-e008-4da0-ab95-d1d929dadf52/application) |
@@ -290,7 +291,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | Biolife Nurse - Paramedic License (Bilingual Spanish) |  | TX - Houston - North | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Biolife-Nurse---Paramedic-License--Bilingual-Spanish-_R0178665-1) |
 | 🏢 **Guidehouse** | Computational Biologist |  | MD, Baltimore | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Computational-Biologist_38615) |
 | 🏢 **Guidehouse** | Cell Biologist |  | MD, Bethesda | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Cell-Biologist_38613) |
-| 🏢 **Guidehouse** | Biologist |  | MD, Baltimore | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Biologist_38618) |
 | 🏢 **Abbott** | Clinical Associate |  | California - Bake... + 3 more | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Bakersfield/Clinical-Associate_31144569-1) |
 | 🏢 **Abbott** | Clinical Account Representative, CardioMEMS - Brooklyn/Queens/Staten Island, NYC |  | 3 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---New-York/Clinical-Account-Representative--CardioMEMS---Brooklyn-Queens-Staten-Island--NYC_31147855-1) |
 | 🏢 **Abbott** | Automation Support Professional (Wichita, KS or Kansas City, MO) |  | United States Kan... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kansas---Wichita/Automation-Support-Professional---Wichita--KS_31142984-1) |
@@ -369,7 +369,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 341 current opportunities from 54 companies**
+**🎯 343 current opportunities from 54 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
