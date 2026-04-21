@@ -4997,90 +4997,6 @@
     "job_posted_at": "2026-04-17T07:03:32.742Z"
   },
   {
-    "job_id": "workday-takeda-R0178713",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Lakeland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Lakeland/Medical-Screener_R0178713-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:03:32.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a0066ec28803269de0e8e82b92a1aa7bae02a080390b6ecfd92b40d459bea66d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:03:32.741Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178711",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "GA - Snellville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Snellville/Medical-Screener_R0178711-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:03:32.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22b00e02b45a1ed31264765a1698a4d42e4877d8e0291a430c16f9aaed886a0f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:03:32.741Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177467",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "DE - Newark",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---DE---Newark/Medical-Screener_R0177467-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:03:32.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0976f4867d0e6da213117a153f6710e4eddc74709d6d7c9229c35814fb13090f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:03:32.741Z"
-  },
-  {
     "job_id": "workday-takeda-R0178681",
     "job_title": "Plasma Center Nurse - LPN - Evening & Weekend Availability",
     "employer_name": "Takeda",
@@ -5182,6 +5098,90 @@
       "domains": [
         "healthcare",
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:03:32.741Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178713",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Lakeland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Lakeland/Medical-Screener_R0178713-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:03:32.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a0066ec28803269de0e8e82b92a1aa7bae02a080390b6ecfd92b40d459bea66d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:03:32.741Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178711",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "GA - Snellville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Snellville/Medical-Screener_R0178711-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:03:32.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22b00e02b45a1ed31264765a1698a4d42e4877d8e0291a430c16f9aaed886a0f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:03:32.741Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177467",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "DE - Newark",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---DE---Newark/Medical-Screener_R0177467-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:03:32.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0976f4867d0e6da213117a153f6710e4eddc74709d6d7c9229c35814fb13090f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
       ],
       "locations": [
         "us"
@@ -5390,6 +5390,34 @@
     "job_posted_at": "2026-04-17T07:01:34.910Z"
   },
   {
+    "job_id": "workday-abbott-31148024",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Louisville, KY",
+    "employer_name": "Abbott",
+    "job_city": "Kentucky - Louisville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kentucky---Louisville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Louisville--KY_31148024",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "75f5080cfd134ed66a2c6c39d81a7efc7066295197ad02af6328133982d49f14",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:34.910Z"
+  },
+  {
     "job_id": "workday-abbott-31142984",
     "job_title": "Automation Support Professional (Wichita, KS or Kansas City, MO)",
     "employer_name": "Abbott",
@@ -5430,34 +5458,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b84cfea2b64ddc7e9d019b26a9a2e008697fb69af2490b1775b23703835f0d83",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:34.910Z"
-  },
-  {
-    "job_id": "workday-abbott-31148024",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Louisville, KY",
-    "employer_name": "Abbott",
-    "job_city": "Kentucky - Louisville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kentucky---Louisville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Louisville--KY_31148024",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "75f5080cfd134ed66a2c6c39d81a7efc7066295197ad02af6328133982d49f14",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5642,6 +5642,36 @@
     "job_posted_at": "2026-04-17T07:01:07.877Z"
   },
   {
+    "job_id": "workday-illumina-41675-JOB",
+    "job_title": "Executive Oncology Sales Specialist - Eastern US",
+    "employer_name": "Illumina",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:05.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:05.745Z"
+  },
+  {
     "job_id": "workday-illumina-42321-JOB",
     "job_title": "Biochemistry Specialist",
     "employer_name": "Illumina",
@@ -5691,36 +5721,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:05.745Z"
-  },
-  {
-    "job_id": "workday-illumina-41675-JOB",
-    "job_title": "Executive Oncology Sales Specialist - Eastern US",
-    "employer_name": "Illumina",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:05.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7659,6 +7659,35 @@
     "job_posted_at": "2026-04-16T07:01:12.843Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-070322",
+    "job_title": "Oncology Sales Specialist, Solid Tumor (Orlando South FL) - Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Orlando",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Oncology-Sales-Specialist--Solid-Tumor--Orlando-South-FL----Johnson---Johnson-Innovative-Medicine_R-070322-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:07.878Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc1bfdd376173e7bb2f4b85f9785c3cdc8a5c08d3ca5ba8981d383f0a19110bf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:07.878Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-051575",
     "job_title": "Executive Oncology Sales Specialist, GU - (Hartford, CT) - Johnson & Johnson Innovative Medicine",
     "employer_name": "Johnson & Johnson",
@@ -7700,35 +7729,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "195dcb0571c9c1a03b8bd5c02a4ea6df42f37bde09625d93f2a8d00545fe2d0c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:07.878Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-070322",
-    "job_title": "Oncology Sales Specialist, Solid Tumor (Orlando South FL) - Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Orlando",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Oncology-Sales-Specialist--Solid-Tumor--Orlando-South-FL----Johnson---Johnson-Innovative-Medicine_R-070322-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:07.878Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fc1bfdd376173e7bb2f4b85f9785c3cdc8a5c08d3ca5ba8981d383f0a19110bf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7886,6 +7886,34 @@
     "job_posted_at": "2026-04-16T07:01:03.861Z"
   },
   {
+    "job_id": "workday-general-motors-JR-202607875",
+    "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
+    "employer_name": "General Motors",
+    "job_city": "Buffalo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Buffalo-New-York-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202607875",
+    "job_posted_at_datetime_utc": "2026-04-16T07:00:55.914Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eab5809ad989846d4d6b34b1cb56ce00548d5e2fa44b05edb3c0f5d03043ce09",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:00:55.914Z"
+  },
+  {
     "job_id": "workday-general-motors-JR-202608069",
     "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
     "employer_name": "General Motors",
@@ -7935,34 +7963,6 @@
         "us"
       ],
       "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:00:55.914Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202607875",
-    "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
-    "employer_name": "General Motors",
-    "job_city": "Buffalo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Buffalo-New-York-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202607875",
-    "job_posted_at_datetime_utc": "2026-04-16T07:00:55.914Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eab5809ad989846d4d6b34b1cb56ce00548d5e2fa44b05edb3c0f5d03043ce09",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
