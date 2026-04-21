@@ -1126,34 +1126,6 @@
     "job_posted_at": "2026-04-21T15:35:31.515Z"
   },
   {
-    "job_id": "workday-abbott-31146064",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
-    "employer_name": "Abbott",
-    "job_city": "North Dakota - Fargo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064",
-    "job_posted_at_datetime_utc": "2026-04-21T15:34:09.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "148b21a1d82d1390046653de10ed0386e81a0e0750e9eae03039f231edee02ed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T15:34:09.399Z"
-  },
-  {
     "job_id": "workday-abbott-31148165",
     "job_title": "Clinical Account Representative, CardioMEMS - Omaha, NE",
     "employer_name": "Abbott",
@@ -1222,6 +1194,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0bcb6f7da3e6beab9a0a81a8302689c044733e3b75e5ffdb44db00f5781bc1f5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T15:34:09.399Z"
+  },
+  {
+    "job_id": "workday-abbott-31146064",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
+    "employer_name": "Abbott",
+    "job_city": "North Dakota - Fargo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064",
+    "job_posted_at_datetime_utc": "2026-04-21T15:34:09.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "148b21a1d82d1390046653de10ed0386e81a0e0750e9eae03039f231edee02ed",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1831,6 +1831,34 @@
     "job_posted_at": "2026-04-20T22:12:03.339Z"
   },
   {
+    "job_id": "greenhouse-oscar-7813046",
+    "job_title": "Associate, Care Navigation Programs",
+    "employer_name": "Oscar Health",
+    "job_city": "Tempe",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "http://www.hioscar.com/careers/7813046?gh_jid=7813046",
+    "job_posted_at_datetime_utc": "2026-04-20T22:10:34.587Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d86bd526fa4bcf10cec15454c1bf9ff1068a3d347c784bdf69b4b56e18b7578b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T22:10:34.587Z"
+  },
+  {
     "job_id": "greenhouse-oscar-7809167",
     "job_title": "Associate, Care Navigation Programs",
     "employer_name": "Oscar Health",
@@ -1871,34 +1899,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4eadfe355b3f7e7712b3de571e2ba828c9574e3c95cf662dbacf7e2d3894b5be",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T22:10:34.587Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7813046",
-    "job_title": "Associate, Care Navigation Programs",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7813046?gh_jid=7813046",
-    "job_posted_at_datetime_utc": "2026-04-20T22:10:34.587Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d86bd526fa4bcf10cec15454c1bf9ff1068a3d347c784bdf69b4b56e18b7578b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2421,14 +2421,14 @@
     "job_posted_at": "2026-04-20T19:22:01.337Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01347566",
+    "job_id": "workday-thermo-fisher-scientific-R-01346650",
     "job_title": "Scientist: HPLC",
     "employer_name": "Thermo Fisher Scientific",
     "job_city": "Rockville",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---Buffer---Media-Preparation_R-01347566",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Scientist--HPLC_R-01346650",
     "job_posted_at_datetime_utc": "2026-04-20T19:05:52.816Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -2449,14 +2449,14 @@
     "job_posted_at": "2026-04-20T19:05:52.816Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01346650",
+    "job_id": "workday-thermo-fisher-scientific-R-01347566",
     "job_title": "Scientist: HPLC",
     "employer_name": "Thermo Fisher Scientific",
     "job_city": "Rockville",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Scientist--HPLC_R-01346650",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---Buffer---Media-Preparation_R-01347566",
     "job_posted_at_datetime_utc": "2026-04-20T19:05:52.816Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -4856,34 +4856,6 @@
     "job_posted_at": "2026-04-20T01:57:31.200Z"
   },
   {
-    "job_id": "greenhouse-guidepoint-8342632002",
-    "job_title": "Client Success - Healthcare Corporate Specialist (NYC)",
-    "employer_name": "Guidepoint",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/guidepoint/jobs/8342632002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:28.760Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eeaf18c58b29b9e724f0e17a427601d3a96300a89adebee42a71a3a8da905e7e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:28.760Z"
-  },
-  {
     "job_id": "greenhouse-guidepoint-8453033002",
     "job_title": "Client Service Healthcare Associate",
     "employer_name": "Guidepoint",
@@ -4905,6 +4877,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:28.760Z"
+  },
+  {
+    "job_id": "greenhouse-guidepoint-8342632002",
+    "job_title": "Client Success - Healthcare Corporate Specialist (NYC)",
+    "employer_name": "Guidepoint",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/guidepoint/jobs/8342632002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:28.760Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eeaf18c58b29b9e724f0e17a427601d3a96300a89adebee42a71a3a8da905e7e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -6627,34 +6627,6 @@
     "job_posted_at": "2026-04-17T07:03:32.741Z"
   },
   {
-    "job_id": "workday-medtronic-R63300",
-    "job_title": "Clinical Specialist, Cardiac Rhythm Management (CRM) - Mason City, IA",
-    "employer_name": "Medtronic",
-    "job_city": "State of Iowa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Iowa-United-States-of-America/Clinical-Specialist--Cardiac-Rhythm-Management--CRM----Mason-City--IA_R63300-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:02.410Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "90c491de58f0958f99a6b42f731e929243ec4c86453f386d99827d2f8d4fd405",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:02.410Z"
-  },
-  {
     "job_id": "workday-medtronic-R64625",
     "job_title": "Clinical Specialist - Cardiac Rhythm Management - Milwaukee, WI",
     "employer_name": "Medtronic",
@@ -6695,6 +6667,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:02.410Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63300",
+    "job_title": "Clinical Specialist, Cardiac Rhythm Management (CRM) - Mason City, IA",
+    "employer_name": "Medtronic",
+    "job_city": "State of Iowa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Iowa-United-States-of-America/Clinical-Specialist--Cardiac-Rhythm-Management--CRM----Mason-City--IA_R63300-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:02.410Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "90c491de58f0958f99a6b42f731e929243ec4c86453f386d99827d2f8d4fd405",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6765,34 +6765,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-17T07:01:34.911Z"
-  },
-  {
-    "job_id": "workday-abbott-31147868",
-    "job_title": "Clinical Specialist I, CPT - Twin Cities (Minneapolis/St. Paul, MN)",
-    "employer_name": "Abbott",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist-I--CPT---Twin-Cities--Minneapolis-St-Paul--MN-_31147868-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b84cfea2b64ddc7e9d019b26a9a2e008697fb69af2490b1775b23703835f0d83",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:34.910Z"
   },
   {
     "job_id": "workday-abbott-31148027",
@@ -6891,6 +6863,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "47ea9678caba4708253df220bd1dc2dc5aa5ef4c9f1adbc1217cb05628ba3ce1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:34.910Z"
+  },
+  {
+    "job_id": "workday-abbott-31147868",
+    "job_title": "Clinical Specialist I, CPT - Twin Cities (Minneapolis/St. Paul, MN)",
+    "employer_name": "Abbott",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist-I--CPT---Twin-Cities--Minneapolis-St-Paul--MN-_31147868-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b84cfea2b64ddc7e9d019b26a9a2e008697fb69af2490b1775b23703835f0d83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7075,36 +7075,6 @@
     "job_posted_at": "2026-04-17T07:01:07.877Z"
   },
   {
-    "job_id": "workday-illumina-41675-JOB",
-    "job_title": "Executive Oncology Sales Specialist - Eastern US",
-    "employer_name": "Illumina",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:05.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:05.745Z"
-  },
-  {
     "job_id": "workday-illumina-42321-JOB",
     "job_title": "Biochemistry Specialist",
     "employer_name": "Illumina",
@@ -7154,6 +7124,36 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:05.745Z"
+  },
+  {
+    "job_id": "workday-illumina-41675-JOB",
+    "job_title": "Executive Oncology Sales Specialist - Eastern US",
+    "employer_name": "Illumina",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:05.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7731,6 +7731,62 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-16T07:04:08.345Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178598",
+    "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IN - Fort Wayne - Coldwater Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--LPN----Weekday---Weekend-Availability---Immediate-Benefits_R0178598",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "33fab2c7a7cdfe220c3ce06197435beb6b59d52b6167ec011225703e425e466d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178596",
+    "job_title": "Plasma Center Nurse (RN) – Weekday & Weekend Availability   Immediate Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IN - Fort Wayne - Coldwater Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--RN----Weekday---Weekend-Availability---Immediate-Benefits_R0178596-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0a91afb036f0ad851ec10bc6bba116ad3e07d36a890bc707b92b57a8c06a0b6f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
   },
   {
     "job_id": "workday-takeda-R0178595",
@@ -8517,62 +8573,6 @@
     "job_posted_at": "2026-04-16T07:03:32.742Z"
   },
   {
-    "job_id": "workday-takeda-R0178598",
-    "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IN - Fort Wayne - Coldwater Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--LPN----Weekday---Weekend-Availability---Immediate-Benefits_R0178598",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "33fab2c7a7cdfe220c3ce06197435beb6b59d52b6167ec011225703e425e466d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178596",
-    "job_title": "Plasma Center Nurse (RN) – Weekday & Weekend Availability   Immediate Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IN - Fort Wayne - Coldwater Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--RN----Weekday---Weekend-Availability---Immediate-Benefits_R0178596-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0a91afb036f0ad851ec10bc6bba116ad3e07d36a890bc707b92b57a8c06a0b6f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01334329",
     "job_title": "Field Service Engineer (Electron Microscopy)(REMOTE)",
     "employer_name": "Thermo Fisher Scientific",
@@ -8781,91 +8781,6 @@
     "job_posted_at": "2026-04-16T07:02:02.410Z"
   },
   {
-    "job_id": "workday-abbott-31144903",
-    "job_title": "Clinical Specialist - South Tampa, FL",
-    "employer_name": "Abbott",
-    "job_city": "Florida - Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist-II---South-Tampa--FL_31144903-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3a1278280c7ef68b776f680b95bedd380424c8f4ad8aa21b0c31419349e70952",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
-    "job_id": "workday-abbott-31147849",
-    "job_title": "Clinical Specialist I, CPT - Calabasas, CA",
-    "employer_name": "Abbott",
-    "job_city": "California - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Remote/Clinical-Specialist-I--CPT---Calabasas--CA_31147849",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f1042cdb4d8188c07da6df23292300713e1d60e2bcb1535f0f0362fea33bc829",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
-    "job_id": "workday-abbott-31147835",
-    "job_title": "Clinical Specialist I, CPT - Nashville, TN",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Specialist-I--CPT---Nashville--TN_31147835-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cbdfddc2ababd1d35b2e5a7ec8fa974c8b44af39ced7b294dd697847c3656b45",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
     "job_id": "workday-abbott-31144174",
     "job_title": "Medical Science Liaison -- AR, LA, MS, FL, AL Region",
     "employer_name": "Abbott",
@@ -8990,6 +8905,91 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ea843ff8e158446a4dda619a40217b87d8cec6db6a615fdd7f1ee390f981f0b4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31144903",
+    "job_title": "Clinical Specialist - South Tampa, FL",
+    "employer_name": "Abbott",
+    "job_city": "Florida - Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist-II---South-Tampa--FL_31144903-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3a1278280c7ef68b776f680b95bedd380424c8f4ad8aa21b0c31419349e70952",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31147849",
+    "job_title": "Clinical Specialist I, CPT - Calabasas, CA",
+    "employer_name": "Abbott",
+    "job_city": "California - Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Remote/Clinical-Specialist-I--CPT---Calabasas--CA_31147849",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f1042cdb4d8188c07da6df23292300713e1d60e2bcb1535f0f0362fea33bc829",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31147835",
+    "job_title": "Clinical Specialist I, CPT - Nashville, TN",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Specialist-I--CPT---Nashville--TN_31147835-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cbdfddc2ababd1d35b2e5a7ec8fa974c8b44af39ced7b294dd697847c3656b45",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10204,62 +10204,6 @@
     "job_posted_at": "2026-04-15T07:02:02.411Z"
   },
   {
-    "job_id": "workday-takeda-R0173910",
-    "job_title": "Center Supervisor",
-    "employer_name": "Takeda",
-    "job_city": "IN - Kokomo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Center-Supervisor_R0173910-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ee13ef217736046e0bbea005093ac802f657b6760dc5ec8a75e30d2156203ef6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178509",
-    "job_title": "Paramedic/EMT-P ($5k Sign on Bonus!)",
-    "employer_name": "Takeda",
-    "job_city": "IA - Ames",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Ames/Paramedic-EMT-P---5k-Sign-on-Bonus--_R0178509-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "40ee9028c3fcf6777ca26d7a197cc4064bde9da748a979b688514f8af40a7325",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
     "job_id": "workday-takeda-R0178507",
     "job_title": "Plasma Center Nurse- LPN ($5k Sign on Bonus!)",
     "employer_name": "Takeda",
@@ -10608,6 +10552,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7e3bd45e0e9f00037978dc001f26ad4cdf07221099edf83b3c916395d77dc950",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0173910",
+    "job_title": "Center Supervisor",
+    "employer_name": "Takeda",
+    "job_city": "IN - Kokomo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Center-Supervisor_R0173910-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ee13ef217736046e0bbea005093ac802f657b6760dc5ec8a75e30d2156203ef6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178509",
+    "job_title": "Paramedic/EMT-P ($5k Sign on Bonus!)",
+    "employer_name": "Takeda",
+    "job_city": "IA - Ames",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Ames/Paramedic-EMT-P---5k-Sign-on-Bonus--_R0178509-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "40ee9028c3fcf6777ca26d7a197cc4064bde9da748a979b688514f8af40a7325",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11650,47 +11650,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-15T05:05:35.282Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8505212002",
-    "job_title": "PCB Materials Lab Technician (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8505212002?gh_jid=8505212002",
-    "job_posted_at_datetime_utc": "2026-04-14T22:42:42.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0ab3744fc00e214cebae6a9d9eae570e85b3c0d7856a2c2502caeb677906ee64",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations",
-        "hardware",
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "failure mode",
-        "pcb"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "High school diploma or equivalency certificate   1+ years hands-on micro-section sample preparation or materials lab experience",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T22:42:42.000Z"
   }
 ]
