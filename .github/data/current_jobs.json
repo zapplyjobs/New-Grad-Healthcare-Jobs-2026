@@ -1436,6 +1436,34 @@
     "job_posted_at": "2026-04-20T16:03:21.045Z"
   },
   {
+    "job_id": "workday-takeda-R0178773",
+    "job_title": "Part Time Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
+    "job_posted_at_datetime_utc": "2026-04-20T15:37:13.388Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T15:37:13.388Z"
+  },
+  {
     "job_id": "workday-takeda-R0177907",
     "job_title": "BioLife Nurse - Sign On Bonus Available!",
     "employer_name": "Takeda",
@@ -1504,34 +1532,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6fe01b49d9e9112d4b050b5c2929731ee1e9c3532f35ca289c1d64a00f641f87",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T15:37:13.388Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178773",
-    "job_title": "Part Time Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
-    "job_posted_at_datetime_utc": "2026-04-20T15:37:13.388Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1996,35 +1996,6 @@
     "job_posted_at": "2026-04-20T13:14:15.275Z"
   },
   {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
     "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -2395,6 +2366,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -4689,34 +4689,6 @@
     "job_posted_at": "2026-04-17T07:06:08.784Z"
   },
   {
-    "job_id": "workday-takeda-R0178702",
-    "job_title": "Full Time Intake Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Lemon Grove",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Full-Time-Intake-Nurse_R0178702-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:05:29.855Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b0bbd6f80b7aadbe994cc315e2238bb1632f2646d8760d834621be6d33a69361",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:05:29.855Z"
-  },
-  {
     "job_id": "workday-takeda-R0178681",
     "job_title": "Plasma Center Nurse - LPN - Evening & Weekend Availability",
     "employer_name": "Takeda",
@@ -4942,6 +4914,34 @@
     "job_posted_at": "2026-04-17T07:05:29.855Z"
   },
   {
+    "job_id": "workday-takeda-R0178702",
+    "job_title": "Full Time Intake Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Lemon Grove",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Full-Time-Intake-Nurse_R0178702-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:05:29.855Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b0bbd6f80b7aadbe994cc315e2238bb1632f2646d8760d834621be6d33a69361",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:05:29.855Z"
+  },
+  {
     "job_id": "workday-takeda-R0178663",
     "job_title": "Plasma Center Technician / Phlebotomist (On-the-job Training + Immediate benefits)",
     "employer_name": "Takeda",
@@ -5110,34 +5110,6 @@
     "job_posted_at": "2026-04-17T07:03:49.572Z"
   },
   {
-    "job_id": "workday-medtronic-R63300",
-    "job_title": "Clinical Specialist, Cardiac Rhythm Management (CRM) - Mason City, IA",
-    "employer_name": "Medtronic",
-    "job_city": "State of Iowa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Iowa-United-States-of-America/Clinical-Specialist--Cardiac-Rhythm-Management--CRM----Mason-City--IA_R63300-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:03:49.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "90c491de58f0958f99a6b42f731e929243ec4c86453f386d99827d2f8d4fd405",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:03:49.571Z"
-  },
-  {
     "job_id": "workday-medtronic-R64625",
     "job_title": "Clinical Specialist - Cardiac Rhythm Management - Milwaukee, WI",
     "employer_name": "Medtronic",
@@ -5159,6 +5131,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:03:49.571Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63300",
+    "job_title": "Clinical Specialist, Cardiac Rhythm Management (CRM) - Mason City, IA",
+    "employer_name": "Medtronic",
+    "job_city": "State of Iowa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Iowa-United-States-of-America/Clinical-Specialist--Cardiac-Rhythm-Management--CRM----Mason-City--IA_R63300-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:03:49.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "90c491de58f0958f99a6b42f731e929243ec4c86453f386d99827d2f8d4fd405",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5250,6 +5250,34 @@
     "job_posted_at": "2026-04-17T07:03:43.685Z"
   },
   {
+    "job_id": "workday-guidehouse-35391",
+    "job_title": "Managing Consultant - Life Sciences Advisory - Commercial",
+    "employer_name": "Guidehouse",
+    "job_city": "US IL Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Managing-Consultant---Life-Sciences-Advisory---Commercial_35391",
+    "job_posted_at_datetime_utc": "2026-04-17T07:03:05.181Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a9bc05a335d17f802738ee994fd13b23c2380d93370dbc95ffa0ce27c579e8c9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:03:05.181Z"
+  },
+  {
     "job_id": "workday-guidehouse-38615",
     "job_title": "Computational Biologist",
     "employer_name": "Guidehouse",
@@ -5327,34 +5355,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:03:05.181Z"
-  },
-  {
-    "job_id": "workday-guidehouse-35391",
-    "job_title": "Managing Consultant - Life Sciences Advisory - Commercial",
-    "employer_name": "Guidehouse",
-    "job_city": "US IL Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Managing-Consultant---Life-Sciences-Advisory---Commercial_35391",
-    "job_posted_at_datetime_utc": "2026-04-17T07:03:05.181Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a9bc05a335d17f802738ee994fd13b23c2380d93370dbc95ffa0ce27c579e8c9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5474,6 +5474,36 @@
     "job_posted_at": "2026-04-17T07:02:56.084Z"
   },
   {
+    "job_id": "workday-illumina-41675-JOB",
+    "job_title": "Executive Oncology Sales Specialist - Eastern US",
+    "employer_name": "Illumina",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:55.663Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:55.663Z"
+  },
+  {
     "job_id": "workday-illumina-42321-JOB",
     "job_title": "Biochemistry Specialist",
     "employer_name": "Illumina",
@@ -5523,36 +5553,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:55.663Z"
-  },
-  {
-    "job_id": "workday-illumina-41675-JOB",
-    "job_title": "Executive Oncology Sales Specialist - Eastern US",
-    "employer_name": "Illumina",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:55.663Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5700,62 +5700,6 @@
     "job_posted_at": "2026-04-17T07:01:34.911Z"
   },
   {
-    "job_id": "workday-abbott-31148027",
-    "job_title": "Associate Clinical Specialist - Bakersfield, CA",
-    "employer_name": "Abbott",
-    "job_city": "California - Bakersfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Bakersfield/Associate-Clinical-Specialist---Bakersfield--CA_31148027-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e07a6aa94232df37cff7d5d05f8fc3d71b5a28c94a5f6e9ddf5ab874bbf8b8f7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:34.910Z"
-  },
-  {
-    "job_id": "workday-abbott-31147855",
-    "job_title": "Clinical Account Representative, CardioMEMS - Brooklyn/Queens/Staten Island, NYC",
-    "employer_name": "Abbott",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---New-York/Clinical-Account-Representative--CardioMEMS---Brooklyn-Queens-Staten-Island--NYC_31147855-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9eef732cc5d98686d96127fdd018e19c55db7e6789c4028ebd1e8e5199cc5871",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:34.910Z"
-  },
-  {
     "job_id": "workday-abbott-31148024",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Louisville, KY",
     "employer_name": "Abbott",
@@ -5824,6 +5768,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b84cfea2b64ddc7e9d019b26a9a2e008697fb69af2490b1775b23703835f0d83",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:34.910Z"
+  },
+  {
+    "job_id": "workday-abbott-31148027",
+    "job_title": "Associate Clinical Specialist - Bakersfield, CA",
+    "employer_name": "Abbott",
+    "job_city": "California - Bakersfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Bakersfield/Associate-Clinical-Specialist---Bakersfield--CA_31148027-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e07a6aa94232df37cff7d5d05f8fc3d71b5a28c94a5f6e9ddf5ab874bbf8b8f7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:34.910Z"
+  },
+  {
+    "job_id": "workday-abbott-31147855",
+    "job_title": "Clinical Account Representative, CardioMEMS - Brooklyn/Queens/Staten Island, NYC",
+    "employer_name": "Abbott",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---New-York/Clinical-Account-Representative--CardioMEMS---Brooklyn-Queens-Staten-Island--NYC_31147855-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9eef732cc5d98686d96127fdd018e19c55db7e6789c4028ebd1e8e5199cc5871",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7689,118 +7689,6 @@
     "job_posted_at": "2026-04-16T07:02:47.052Z"
   },
   {
-    "job_id": "workday-abbott-31147835",
-    "job_title": "Clinical Specialist I, CPT - Nashville, TN",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Specialist-I--CPT---Nashville--TN_31147835-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cbdfddc2ababd1d35b2e5a7ec8fa974c8b44af39ced7b294dd697847c3656b45",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
-    "job_id": "workday-abbott-31144174",
-    "job_title": "Medical Science Liaison -- AR, LA, MS, FL, AL Region",
-    "employer_name": "Abbott",
-    "job_city": "United States Louisiana",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Louisiana---Remote/Senior-Medical-Science-Liaison----AR--LA--MS-Region_31144174-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8e65747f3e6e12c7118fb25cb09e379c70dc30ec60246bc884fb35f4f5548ed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
-    "job_id": "workday-abbott-31138237",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
-    "employer_name": "Abbott",
-    "job_city": "North Carolina - Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
-    "job_id": "workday-abbott-31147771",
-    "job_title": "Clinical Specialist, CRM (Springfield, MO)",
-    "employer_name": "Abbott",
-    "job_city": "Missouri - Springfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
     "job_id": "workday-abbott-31140668",
     "job_title": "Clinical Specialist - Tampa, FL",
     "employer_name": "Abbott",
@@ -7905,6 +7793,118 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31147835",
+    "job_title": "Clinical Specialist I, CPT - Nashville, TN",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Specialist-I--CPT---Nashville--TN_31147835-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cbdfddc2ababd1d35b2e5a7ec8fa974c8b44af39ced7b294dd697847c3656b45",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31144174",
+    "job_title": "Medical Science Liaison -- AR, LA, MS, FL, AL Region",
+    "employer_name": "Abbott",
+    "job_city": "United States Louisiana",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Louisiana---Remote/Senior-Medical-Science-Liaison----AR--LA--MS-Region_31144174-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8e65747f3e6e12c7118fb25cb09e379c70dc30ec60246bc884fb35f4f5548ed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31138237",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31147771",
+    "job_title": "Clinical Specialist, CRM (Springfield, MO)",
+    "employer_name": "Abbott",
+    "job_city": "Missouri - Springfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "unknown",
       "special": []
@@ -10629,6 +10629,34 @@
     "job_posted_at": "2026-04-14T07:01:59.807Z"
   },
   {
+    "job_id": "workday-takeda-R0178311",
+    "job_title": "Manager Trainee - Operations (Travel Program; Relocation Required)",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Georgia---Virtual/Manager-Trainee---Operations--Travel-Program--Relocation-Required-_R0178311-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4364e1993805bbcf95587f6d62a92a9aaac920460c437cf4485c4f4c68fe869b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:01:55.336Z"
+  },
+  {
     "job_id": "workday-takeda-R0178380",
     "job_title": "Plasma Center Nurse - Licensed Vocational Nurse",
     "employer_name": "Takeda",
@@ -10697,34 +10725,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "78f902650cfaa83a1ed76374c13b624e4b7f77f9bb0fbff677de82165904f136",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178311",
-    "job_title": "Manager Trainee - Operations (Travel Program; Relocation Required)",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Georgia---Virtual/Manager-Trainee---Operations--Travel-Program--Relocation-Required-_R0178311-1",
-    "job_posted_at_datetime_utc": "2026-04-14T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4364e1993805bbcf95587f6d62a92a9aaac920460c437cf4485c4f4c68fe869b",
     "tags": {
       "employment": "entry_level",
       "domains": [
