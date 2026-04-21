@@ -7632,90 +7632,6 @@
     "job_posted_at": "2026-04-16T07:02:47.052Z"
   },
   {
-    "job_id": "workday-abbott-31147771",
-    "job_title": "Clinical Specialist, CRM (Springfield, MO)",
-    "employer_name": "Abbott",
-    "job_city": "Missouri - Springfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
-    "job_id": "workday-abbott-31140668",
-    "job_title": "Clinical Specialist - Tampa, FL",
-    "employer_name": "Abbott",
-    "job_city": "Florida - Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist---Tampa--FL_31140668",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c1f3fee784636da42e6483e0ccc952b74780eab966afd2a508b7e1d1b462fe46",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
-    "job_id": "workday-abbott-31147758",
-    "job_title": "Clinical Specialist, Vessel Closure - Baltimore, MD",
-    "employer_name": "Abbott",
-    "job_city": "Maryland - Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maryland---Baltimore/Clinical-Specialist--Vessel-Closure---Baltimore--MD_31147758-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ea843ff8e158446a4dda619a40217b87d8cec6db6a615fdd7f1ee390f981f0b4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
     "job_id": "workday-abbott-31144903",
     "job_title": "Clinical Specialist - South Tampa, FL",
     "employer_name": "Abbott",
@@ -7841,6 +7757,90 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31147771",
+    "job_title": "Clinical Specialist, CRM (Springfield, MO)",
+    "employer_name": "Abbott",
+    "job_city": "Missouri - Springfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31140668",
+    "job_title": "Clinical Specialist - Tampa, FL",
+    "employer_name": "Abbott",
+    "job_city": "Florida - Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tampa/Clinical-Specialist---Tampa--FL_31140668",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c1f3fee784636da42e6483e0ccc952b74780eab966afd2a508b7e1d1b462fe46",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31147758",
+    "job_title": "Clinical Specialist, Vessel Closure - Baltimore, MD",
+    "employer_name": "Abbott",
+    "job_city": "Maryland - Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maryland---Baltimore/Clinical-Specialist--Vessel-Closure---Baltimore--MD_31147758-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ea843ff8e158446a4dda619a40217b87d8cec6db6a615fdd7f1ee390f981f0b4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9014,146 +9014,6 @@
     "job_posted_at": "2026-04-15T07:02:56.084Z"
   },
   {
-    "job_id": "workday-takeda-R0178468",
-    "job_title": "Plasma Center Paramedic - EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "FL - Orlando - Gold",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Orlando---Gold/Plasma-Center-Paramedic---EMT-P_R0178468-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2b8330b43d4e2958c2c65964882a9c7099d22f9a25e612fd5bbb338871d2dcd0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178466",
-    "job_title": "Plasma Center Nurse - RN",
-    "employer_name": "Takeda",
-    "job_city": "FL - Orlando - Gold",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Orlando---Gold/Plasma-Center-Nurse---RN_R0178466-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "85f3da5e893144aded5bd34234cecffb602151936c77584fbb587fa3f48f3744",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178460",
-    "job_title": "Associate Scientist, High-Throughput Mass Spectrometry (Automation)",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Associate-Scientist--High-Throughput-Mass-Spectrometry--Automation-_R0178460-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "835126ea8899a2573e5ea9dc5efd2a1ce8f862ec234a669f66351baeca6dedaa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178459",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "NJ - Deptford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Medical-Screener_R0178459-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "db56a4361a2bb394845bd4de749ab2b84069acdd2e6a02c5361d0a0e7fbe7e81",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178456",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "NJ - Deptford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Phlebotomist_R0178456-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7e3bd45e0e9f00037978dc001f26ad4cdf07221099edf83b3c916395d77dc950",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
     "job_id": "workday-takeda-R0173910",
     "job_title": "Center Supervisor",
     "employer_name": "Takeda",
@@ -9434,6 +9294,146 @@
     "job_posted_at": "2026-04-15T07:01:55.336Z"
   },
   {
+    "job_id": "workday-takeda-R0178468",
+    "job_title": "Plasma Center Paramedic - EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "FL - Orlando - Gold",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Orlando---Gold/Plasma-Center-Paramedic---EMT-P_R0178468-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b8330b43d4e2958c2c65964882a9c7099d22f9a25e612fd5bbb338871d2dcd0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178466",
+    "job_title": "Plasma Center Nurse - RN",
+    "employer_name": "Takeda",
+    "job_city": "FL - Orlando - Gold",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Orlando---Gold/Plasma-Center-Nurse---RN_R0178466-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "85f3da5e893144aded5bd34234cecffb602151936c77584fbb587fa3f48f3744",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178460",
+    "job_title": "Associate Scientist, High-Throughput Mass Spectrometry (Automation)",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Associate-Scientist--High-Throughput-Mass-Spectrometry--Automation-_R0178460-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "835126ea8899a2573e5ea9dc5efd2a1ce8f862ec234a669f66351baeca6dedaa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178459",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "NJ - Deptford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Medical-Screener_R0178459-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "db56a4361a2bb394845bd4de749ab2b84069acdd2e6a02c5361d0a0e7fbe7e81",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178456",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "NJ - Deptford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Phlebotomist_R0178456-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7e3bd45e0e9f00037978dc001f26ad4cdf07221099edf83b3c916395d77dc950",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
     "job_id": "workday-biogen-REQ22260",
     "job_title": "(Sr) Medical Science Liaison, Lupus - North Central",
     "employer_name": "Biogen",
@@ -9630,18 +9630,18 @@
     "job_posted_at": "2026-04-15T07:01:40.787Z"
   },
   {
-    "job_id": "workday-abbott-31147732",
-    "job_title": "Clinical Review Nurse",
+    "job_id": "workday-abbott-31147755",
+    "job_title": "Clinical Account Representative, CardioMEMS - Houston, TX",
     "employer_name": "Abbott",
-    "job_city": "Missouri - Kansas City",
+    "job_city": "Texas - Houston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Clinical-Review-Nurse_31147732-1",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston--TX_31147755-1",
     "job_posted_at_datetime_utc": "2026-04-15T07:01:34.912Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f034db0dc248f51cf20972b1f49f7a469715062acad0ca034f004e107e1a7e72",
+    "fingerprint": "2005b2a75d45992809b04d36f77302c985c0f07a449bdd4d29b6c211a5681da6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9658,18 +9658,18 @@
     "job_posted_at": "2026-04-15T07:01:34.912Z"
   },
   {
-    "job_id": "workday-abbott-31147755",
-    "job_title": "Clinical Account Representative, CardioMEMS - Houston, TX",
+    "job_id": "workday-abbott-31147732",
+    "job_title": "Clinical Review Nurse",
     "employer_name": "Abbott",
-    "job_city": "Texas - Houston",
+    "job_city": "Missouri - Kansas City",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston--TX_31147755-1",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Clinical-Review-Nurse_31147732-1",
     "job_posted_at_datetime_utc": "2026-04-15T07:01:34.912Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2005b2a75d45992809b04d36f77302c985c0f07a449bdd4d29b6c211a5681da6",
+    "fingerprint": "f034db0dc248f51cf20972b1f49f7a469715062acad0ca034f004e107e1a7e72",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10993,18 +10993,18 @@
     "job_posted_at": "2026-04-14T07:01:04.465Z"
   },
   {
-    "job_id": "workday-medtronic-R64191",
-    "job_title": "Assoc Clinical Specialist CRM - Richland, WA",
+    "job_id": "workday-medtronic-R59617",
+    "job_title": "Clinical Specialist, CRM - Rochester, NY",
     "employer_name": "Medtronic",
-    "job_city": "Kennewick",
+    "job_city": "Rochester",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kennewick-Washington-United-States-of-America/Assoc-Clinical-Specialist-CRM---Richland--WA_R64191-1",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Rochester-New-York-United-States-of-America/Clinical-Specialist--CRM---Buffalo-Rochester--NY_R59617-1",
     "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "5cbb609b44f96c013935f8cff55e3d534c4278a81fab4ab8fb54ba31c8f54bd8",
+    "fingerprint": "a693fe61651d4d0941356d414e88482ec639b838a6756b5f43570fd6ac8ecddb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11021,18 +11021,18 @@
     "job_posted_at": "2026-04-14T07:00:19.919Z"
   },
   {
-    "job_id": "workday-medtronic-R59617",
-    "job_title": "Clinical Specialist, CRM - Rochester, NY",
+    "job_id": "workday-medtronic-R64191",
+    "job_title": "Assoc Clinical Specialist CRM - Richland, WA",
     "employer_name": "Medtronic",
-    "job_city": "Rochester",
+    "job_city": "Kennewick",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Rochester-New-York-United-States-of-America/Clinical-Specialist--CRM---Buffalo-Rochester--NY_R59617-1",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kennewick-Washington-United-States-of-America/Assoc-Clinical-Specialist-CRM---Richland--WA_R64191-1",
     "job_posted_at_datetime_utc": "2026-04-14T07:00:19.919Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a693fe61651d4d0941356d414e88482ec639b838a6756b5f43570fd6ac8ecddb",
+    "fingerprint": "5cbb609b44f96c013935f8cff55e3d534c4278a81fab4ab8fb54ba31c8f54bd8",
     "tags": {
       "employment": "entry_level",
       "domains": [
