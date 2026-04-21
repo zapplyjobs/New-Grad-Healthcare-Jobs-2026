@@ -227,18 +227,18 @@
     "job_posted_at": "2026-04-20T22:25:20.490Z"
   },
   {
-    "job_id": "workday-merck-&-co.-R388888",
-    "job_title": "Physician Editor",
+    "job_id": "workday-merck-&-co.-R388539",
+    "job_title": "Associate Scientist, Engineering",
     "employer_name": "Merck & Co.",
-    "job_city": "Pennsylvania - North Wales",
+    "job_city": "New Jersey - Rahway",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Physician-Editor_R388888",
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Scientist--Engineering_R388539-1",
     "job_posted_at_datetime_utc": "2026-04-20T22:14:52.667Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3d70a101c30e42363c0c187ab6eb70abc9ea2d231d57ec15bd8e8af3ecf33eb0",
+    "fingerprint": "5ca59485beb575248e552dacc8467d1cbd2611ff78250abd1ee6562fda3179f4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -255,18 +255,18 @@
     "job_posted_at": "2026-04-20T22:14:52.667Z"
   },
   {
-    "job_id": "workday-merck-&-co.-R388539",
-    "job_title": "Associate Scientist, Engineering",
+    "job_id": "workday-merck-&-co.-R388888",
+    "job_title": "Physician Editor",
     "employer_name": "Merck & Co.",
-    "job_city": "New Jersey - Rahway",
+    "job_city": "Pennsylvania - North Wales",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Scientist--Engineering_R388539-1",
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Physician-Editor_R388888",
     "job_posted_at_datetime_utc": "2026-04-20T22:14:52.667Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "5ca59485beb575248e552dacc8467d1cbd2611ff78250abd1ee6562fda3179f4",
+    "fingerprint": "3d70a101c30e42363c0c187ab6eb70abc9ea2d231d57ec15bd8e8af3ecf33eb0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1968,35 +1968,6 @@
     "job_posted_at": "2026-04-20T13:14:15.275Z"
   },
   {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
     "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -2367,6 +2338,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -2937,34 +2937,6 @@
     "job_posted_at": "2026-04-20T01:57:36.278Z"
   },
   {
-    "job_id": "greenhouse-personalisinc-7689649003",
-    "job_title": "Sample Accessioner 1 (Temp)",
-    "employer_name": "Personalis",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7689649003",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:33.791Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef2921dec187c0486bac988529ca4e88fee9e31f2af56f88a2215859a814c1f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:33.791Z"
-  },
-  {
     "job_id": "greenhouse-personalisinc-6680748003",
     "job_title": "Client Experience Associate (Temp - 6 Months)",
     "employer_name": "Personalis",
@@ -3100,6 +3072,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:33.791Z"
+  },
+  {
+    "job_id": "greenhouse-personalisinc-7689649003",
+    "job_title": "Sample Accessioner 1 (Temp)",
+    "employer_name": "Personalis",
+    "job_city": "Fremont",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7689649003",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:33.791Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ef2921dec187c0486bac988529ca4e88fee9e31f2af56f88a2215859a814c1f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -7577,34 +7577,6 @@
     "job_posted_at": "2026-04-16T07:02:56.084Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202607875",
-    "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
-    "employer_name": "General Motors",
-    "job_city": "Buffalo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Buffalo-New-York-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202607875",
-    "job_posted_at_datetime_utc": "2026-04-16T07:02:47.052Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eab5809ad989846d4d6b34b1cb56ce00548d5e2fa44b05edb3c0f5d03043ce09",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:02:47.052Z"
-  },
-  {
     "job_id": "workday-general-motors-JR-202608069",
     "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
     "employer_name": "General Motors",
@@ -7654,6 +7626,34 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:02:47.052Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202607875",
+    "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
+    "employer_name": "General Motors",
+    "job_city": "Buffalo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Buffalo-New-York-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202607875",
+    "job_posted_at_datetime_utc": "2026-04-16T07:02:47.052Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eab5809ad989846d4d6b34b1cb56ce00548d5e2fa44b05edb3c0f5d03043ce09",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -8630,91 +8630,6 @@
     "job_posted_at": "2026-04-15T07:03:12.594Z"
   },
   {
-    "job_id": "workday-guidehouse-37705",
-    "job_title": "Clinical Denial Specialist",
-    "employer_name": "Guidehouse",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denial-Specialist_37705",
-    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2f0dc95188e1a452ee28150073a08a003d7cd59685411a4901faf4ab960fb6ee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:03:05.182Z"
-  },
-  {
-    "job_id": "workday-guidehouse-36986",
-    "job_title": "Payer Enrollment Specialist",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_36986",
-    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:03:05.182Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38543",
-    "job_title": "Charge Corrections Medical Coder",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Charge-Corrections-Medical-Coder_38543-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "71f9a8529ace2ad96e78f0821614c0899d206443e73fb676f692a2418f0a8c33",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:03:05.182Z"
-  },
-  {
     "job_id": "workday-guidehouse-35313",
     "job_title": "Managing Consultant - Life Sciences Advisory - Market Access (US)",
     "employer_name": "Guidehouse",
@@ -8792,6 +8707,91 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:03:05.182Z"
+  },
+  {
+    "job_id": "workday-guidehouse-37705",
+    "job_title": "Clinical Denial Specialist",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denial-Specialist_37705",
+    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2f0dc95188e1a452ee28150073a08a003d7cd59685411a4901faf4ab960fb6ee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:03:05.182Z"
+  },
+  {
+    "job_id": "workday-guidehouse-36986",
+    "job_title": "Payer Enrollment Specialist",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Birmingham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_36986",
+    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:03:05.182Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38543",
+    "job_title": "Charge Corrections Medical Coder",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Birmingham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Charge-Corrections-Medical-Coder_38543-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:03:05.182Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "71f9a8529ace2ad96e78f0821614c0899d206443e73fb676f692a2418f0a8c33",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "unknown",
       "special": []
@@ -9043,6 +9043,202 @@
     "job_posted_at": "2026-04-15T07:02:56.084Z"
   },
   {
+    "job_id": "workday-takeda-R0173910",
+    "job_title": "Center Supervisor",
+    "employer_name": "Takeda",
+    "job_city": "IN - Kokomo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Center-Supervisor_R0173910-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ee13ef217736046e0bbea005093ac802f657b6760dc5ec8a75e30d2156203ef6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178509",
+    "job_title": "Paramedic/EMT-P ($5k Sign on Bonus!)",
+    "employer_name": "Takeda",
+    "job_city": "IA - Ames",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Ames/Paramedic-EMT-P---5k-Sign-on-Bonus--_R0178509-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "40ee9028c3fcf6777ca26d7a197cc4064bde9da748a979b688514f8af40a7325",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178507",
+    "job_title": "Plasma Center Nurse- LPN ($5k Sign on Bonus!)",
+    "employer_name": "Takeda",
+    "job_city": "IA - Ames",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Ames/Plasma-Center-Nurse--LPN---5k-Sign-on-Bonus--_R0178507-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "77f6012070e547863a222fa73cda2179c014d1a5f9f1277ed34cbb7752be8cea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178505",
+    "job_title": "Plasma Center Nurse- RN ($5k Sign on Bonus!)",
+    "employer_name": "Takeda",
+    "job_city": "IA - Ames",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Ames/Plasma-Center-Nurse--RN---5k-Sign-on-Bonus--_R0178505-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d50c8a05d139b7ee50a5880ebd57db4182d537a1f00823dd257ad1b756c88828",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178495",
+    "job_title": "Medical Historian - Evenings and Weekends",
+    "employer_name": "Takeda",
+    "job_city": "OH - Findlay",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Findlay/Medical-Historian---Evenings-and-Weekends_R0178495",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6f34da1d8c160e0cb58eeaeb5a3217526de01d51b4cbed0fe30dea031761b849",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178494",
+    "job_title": "Entry Level Phlebotomist - Evenings and Weekends",
+    "employer_name": "Takeda",
+    "job_city": "OH - Findlay",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Findlay/Entry-Level-Phlebotomist---Evenings-and-Weekends_R0178494-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c65207c1ceb7fd06a89534b13675a50f67026ff3e07912655dbc0ba32ae642fc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175558",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "GA - Augusta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Augusta/Medical-Screener_R0175558-1",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "493002fa41f9edfe93a7d45965d394652881cf4530ad594e0dc3dd4862d803e9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
     "job_id": "workday-takeda-R0178485",
     "job_title": "Lab Technician - 2nd Shift",
     "employer_name": "Takeda",
@@ -9267,202 +9463,6 @@
     "job_posted_at": "2026-04-15T07:01:55.336Z"
   },
   {
-    "job_id": "workday-takeda-R0173910",
-    "job_title": "Center Supervisor",
-    "employer_name": "Takeda",
-    "job_city": "IN - Kokomo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Kokomo/Center-Supervisor_R0173910-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ee13ef217736046e0bbea005093ac802f657b6760dc5ec8a75e30d2156203ef6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178509",
-    "job_title": "Paramedic/EMT-P ($5k Sign on Bonus!)",
-    "employer_name": "Takeda",
-    "job_city": "IA - Ames",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Ames/Paramedic-EMT-P---5k-Sign-on-Bonus--_R0178509-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "40ee9028c3fcf6777ca26d7a197cc4064bde9da748a979b688514f8af40a7325",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178507",
-    "job_title": "Plasma Center Nurse- LPN ($5k Sign on Bonus!)",
-    "employer_name": "Takeda",
-    "job_city": "IA - Ames",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Ames/Plasma-Center-Nurse--LPN---5k-Sign-on-Bonus--_R0178507-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "77f6012070e547863a222fa73cda2179c014d1a5f9f1277ed34cbb7752be8cea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178505",
-    "job_title": "Plasma Center Nurse- RN ($5k Sign on Bonus!)",
-    "employer_name": "Takeda",
-    "job_city": "IA - Ames",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Ames/Plasma-Center-Nurse--RN---5k-Sign-on-Bonus--_R0178505-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d50c8a05d139b7ee50a5880ebd57db4182d537a1f00823dd257ad1b756c88828",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178495",
-    "job_title": "Medical Historian - Evenings and Weekends",
-    "employer_name": "Takeda",
-    "job_city": "OH - Findlay",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Findlay/Medical-Historian---Evenings-and-Weekends_R0178495",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6f34da1d8c160e0cb58eeaeb5a3217526de01d51b4cbed0fe30dea031761b849",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178494",
-    "job_title": "Entry Level Phlebotomist - Evenings and Weekends",
-    "employer_name": "Takeda",
-    "job_city": "OH - Findlay",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Findlay/Entry-Level-Phlebotomist---Evenings-and-Weekends_R0178494-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c65207c1ceb7fd06a89534b13675a50f67026ff3e07912655dbc0ba32ae642fc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175558",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "GA - Augusta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Augusta/Medical-Screener_R0175558-1",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "493002fa41f9edfe93a7d45965d394652881cf4530ad594e0dc3dd4862d803e9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:55.336Z"
-  },
-  {
     "job_id": "workday-biogen-REQ22260",
     "job_title": "(Sr) Medical Science Liaison, Lupus - North Central",
     "employer_name": "Biogen",
@@ -9659,18 +9659,18 @@
     "job_posted_at": "2026-04-15T07:01:40.787Z"
   },
   {
-    "job_id": "workday-abbott-31147755",
-    "job_title": "Clinical Account Representative, CardioMEMS - Houston, TX",
+    "job_id": "workday-abbott-31147732",
+    "job_title": "Clinical Review Nurse",
     "employer_name": "Abbott",
-    "job_city": "Texas - Houston",
+    "job_city": "Missouri - Kansas City",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston--TX_31147755-1",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Clinical-Review-Nurse_31147732-1",
     "job_posted_at_datetime_utc": "2026-04-15T07:01:34.912Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2005b2a75d45992809b04d36f77302c985c0f07a449bdd4d29b6c211a5681da6",
+    "fingerprint": "f034db0dc248f51cf20972b1f49f7a469715062acad0ca034f004e107e1a7e72",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9687,18 +9687,18 @@
     "job_posted_at": "2026-04-15T07:01:34.912Z"
   },
   {
-    "job_id": "workday-abbott-31147732",
-    "job_title": "Clinical Review Nurse",
+    "job_id": "workday-abbott-31147755",
+    "job_title": "Clinical Account Representative, CardioMEMS - Houston, TX",
     "employer_name": "Abbott",
-    "job_city": "Missouri - Kansas City",
+    "job_city": "Texas - Houston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Clinical-Review-Nurse_31147732-1",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston--TX_31147755-1",
     "job_posted_at_datetime_utc": "2026-04-15T07:01:34.912Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f034db0dc248f51cf20972b1f49f7a469715062acad0ca034f004e107e1a7e72",
+    "fingerprint": "2005b2a75d45992809b04d36f77302c985c0f07a449bdd4d29b6c211a5681da6",
     "tags": {
       "employment": "entry_level",
       "domains": [
