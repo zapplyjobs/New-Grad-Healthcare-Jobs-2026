@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-exact-sciences-R26-12618",
+    "job_title": "Clinical Laboratory Scientist I",
+    "employer_name": "Exact Sciences",
+    "job_city": "WI - Marshfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Marshfield/Clinical-Laboratory-Scientist-I_R26-12618",
+    "job_posted_at_datetime_utc": "2026-04-21T16:25:34.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e0d255306fcecc7188564f4d4a205025d720e046abbbe91bd465861469975f2c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T16:25:34.571Z"
+  },
+  {
     "job_id": "workday-merck-&-co.-R391642",
     "job_title": "Specialist, Clinical Data Management – Hybrid",
     "employer_name": "Merck & Co.",
@@ -225,34 +253,6 @@
     "job_posted_at": "2026-04-21T15:37:54.807Z"
   },
   {
-    "job_id": "workday-medtronic-R60860",
-    "job_title": "Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1",
-    "job_posted_at_datetime_utc": "2026-04-21T15:36:23.712Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3fa196475c53f95a53a61e2a63763e57ba259c17f0a2e6891716ccd87c16ba8f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T15:36:23.712Z"
-  },
-  {
     "job_id": "workday-medtronic-R64830",
     "job_title": "Clinical Specialist CRM - Wichita",
     "employer_name": "Medtronic",
@@ -302,6 +302,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T15:36:23.712Z"
+  },
+  {
+    "job_id": "workday-medtronic-R60860",
+    "job_title": "Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1",
+    "job_posted_at_datetime_utc": "2026-04-21T15:36:23.712Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3fa196475c53f95a53a61e2a63763e57ba259c17f0a2e6891716ccd87c16ba8f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -477,6 +505,34 @@
     "job_posted_at": "2026-04-21T15:35:31.515Z"
   },
   {
+    "job_id": "workday-abbott-31146064",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
+    "employer_name": "Abbott",
+    "job_city": "North Dakota - Fargo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064",
+    "job_posted_at_datetime_utc": "2026-04-21T15:34:09.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "148b21a1d82d1390046653de10ed0386e81a0e0750e9eae03039f231edee02ed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T15:34:09.399Z"
+  },
+  {
     "job_id": "workday-abbott-31148165",
     "job_title": "Clinical Account Representative, CardioMEMS - Omaha, NE",
     "employer_name": "Abbott",
@@ -545,34 +601,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0bcb6f7da3e6beab9a0a81a8302689c044733e3b75e5ffdb44db00f5781bc1f5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T15:34:09.399Z"
-  },
-  {
-    "job_id": "workday-abbott-31146064",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
-    "employer_name": "Abbott",
-    "job_city": "North Dakota - Fargo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064",
-    "job_posted_at_datetime_utc": "2026-04-21T15:34:09.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "148b21a1d82d1390046653de10ed0386e81a0e0750e9eae03039f231edee02ed",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2279,6 +2307,34 @@
     "job_posted_at": "2026-04-20T16:03:21.045Z"
   },
   {
+    "job_id": "workday-takeda-R0178773",
+    "job_title": "Part Time Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
+    "job_posted_at_datetime_utc": "2026-04-20T15:37:13.388Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T15:37:13.388Z"
+  },
+  {
     "job_id": "workday-takeda-R0177907",
     "job_title": "BioLife Nurse - Sign On Bonus Available!",
     "employer_name": "Takeda",
@@ -2347,34 +2403,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6fe01b49d9e9112d4b050b5c2929731ee1e9c3532f35ca289c1d64a00f641f87",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T15:37:13.388Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178773",
-    "job_title": "Part Time Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
-    "job_posted_at_datetime_utc": "2026-04-20T15:37:13.388Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2839,6 +2867,35 @@
     "job_posted_at": "2026-04-20T13:14:15.275Z"
   },
   {
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
     "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -3209,35 +3266,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -5981,6 +6009,34 @@
     "job_posted_at": "2026-04-17T07:03:32.741Z"
   },
   {
+    "job_id": "workday-medtronic-R63211",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:02.410Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:02.410Z"
+  },
+  {
     "job_id": "workday-medtronic-R63300",
     "job_title": "Clinical Specialist, Cardiac Rhythm Management (CRM) - Mason City, IA",
     "employer_name": "Medtronic",
@@ -6030,34 +6086,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:02.410Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63211",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:02.410Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -6429,36 +6457,6 @@
     "job_posted_at": "2026-04-17T07:01:07.877Z"
   },
   {
-    "job_id": "workday-illumina-41675-JOB",
-    "job_title": "Executive Oncology Sales Specialist - Eastern US",
-    "employer_name": "Illumina",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:05.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:05.745Z"
-  },
-  {
     "job_id": "workday-illumina-42321-JOB",
     "job_title": "Biochemistry Specialist",
     "employer_name": "Illumina",
@@ -6508,6 +6506,36 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:05.745Z"
+  },
+  {
+    "job_id": "workday-illumina-41675-JOB",
+    "job_title": "Executive Oncology Sales Specialist - Eastern US",
+    "employer_name": "Illumina",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Executive-Oncology-Specialist---Eastern-US_41675-JOB-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:05.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d838cedc2f98a206bb61dfd595ee78eecfe3ff70628c1eea7b3e54188b83765",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -8135,6 +8163,90 @@
     "job_posted_at": "2026-04-16T07:02:02.410Z"
   },
   {
+    "job_id": "workday-abbott-31144174",
+    "job_title": "Medical Science Liaison -- AR, LA, MS, FL, AL Region",
+    "employer_name": "Abbott",
+    "job_city": "United States Louisiana",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Louisiana---Remote/Senior-Medical-Science-Liaison----AR--LA--MS-Region_31144174-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8e65747f3e6e12c7118fb25cb09e379c70dc30ec60246bc884fb35f4f5548ed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31138237",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31147771",
+    "job_title": "Clinical Specialist, CRM (Springfield, MO)",
+    "employer_name": "Abbott",
+    "job_city": "Missouri - Springfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
     "job_id": "workday-abbott-31140668",
     "job_title": "Clinical Specialist - Tampa, FL",
     "employer_name": "Abbott",
@@ -8276,90 +8388,6 @@
     "job_posted_at": "2026-04-16T07:01:34.911Z"
   },
   {
-    "job_id": "workday-abbott-31144174",
-    "job_title": "Medical Science Liaison -- AR, LA, MS, FL, AL Region",
-    "employer_name": "Abbott",
-    "job_city": "United States Louisiana",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Louisiana---Remote/Senior-Medical-Science-Liaison----AR--LA--MS-Region_31144174-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8e65747f3e6e12c7118fb25cb09e379c70dc30ec60246bc884fb35f4f5548ed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
-    "job_id": "workday-abbott-31138237",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
-    "employer_name": "Abbott",
-    "job_city": "North Carolina - Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
-    "job_id": "workday-abbott-31147771",
-    "job_title": "Clinical Specialist, CRM (Springfield, MO)",
-    "employer_name": "Abbott",
-    "job_city": "Missouri - Springfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
     "job_id": "workday-guidehouse-38437",
     "job_title": "Patient Account Representative - Medicare, Medicaid, Commercial Claims",
     "employer_name": "Guidehouse",
@@ -8474,6 +8502,35 @@
     "job_posted_at": "2026-04-16T07:01:12.843Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-070322",
+    "job_title": "Oncology Sales Specialist, Solid Tumor (Orlando South FL) - Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Orlando",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Oncology-Sales-Specialist--Solid-Tumor--Orlando-South-FL----Johnson---Johnson-Innovative-Medicine_R-070322-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:07.878Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc1bfdd376173e7bb2f4b85f9785c3cdc8a5c08d3ca5ba8981d383f0a19110bf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:07.878Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-051575",
     "job_title": "Executive Oncology Sales Specialist, GU - (Hartford, CT) - Johnson & Johnson Innovative Medicine",
     "employer_name": "Johnson & Johnson",
@@ -8515,35 +8572,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "195dcb0571c9c1a03b8bd5c02a4ea6df42f37bde09625d93f2a8d00545fe2d0c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:07.878Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-070322",
-    "job_title": "Oncology Sales Specialist, Solid Tumor (Orlando South FL) - Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Orlando",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Oncology-Sales-Specialist--Solid-Tumor--Orlando-South-FL----Johnson---Johnson-Innovative-Medicine_R-070322-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:07.878Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fc1bfdd376173e7bb2f4b85f9785c3cdc8a5c08d3ca5ba8981d383f0a19110bf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8701,6 +8729,34 @@
     "job_posted_at": "2026-04-16T07:01:03.861Z"
   },
   {
+    "job_id": "workday-general-motors-JR-202607875",
+    "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
+    "employer_name": "General Motors",
+    "job_city": "Buffalo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Buffalo-New-York-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202607875",
+    "job_posted_at_datetime_utc": "2026-04-16T07:00:55.914Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eab5809ad989846d4d6b34b1cb56ce00548d5e2fa44b05edb3c0f5d03043ce09",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:00:55.914Z"
+  },
+  {
     "job_id": "workday-general-motors-JR-202608069",
     "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
     "employer_name": "General Motors",
@@ -8750,34 +8806,6 @@
         "us"
       ],
       "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:00:55.914Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202607875",
-    "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
-    "employer_name": "General Motors",
-    "job_city": "Buffalo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Buffalo-New-York-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202607875",
-    "job_posted_at_datetime_utc": "2026-04-16T07:00:55.914Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eab5809ad989846d4d6b34b1cb56ce00548d5e2fa44b05edb3c0f5d03043ce09",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
