@@ -93,7 +93,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Takeda** | Licensed Practical Nurse LPN |  | NE - Omaha | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Licensed-Practical-Nurse-LPN_R0178886-1) |
-| 🏢 **Takeda** | Licensed Practical Nurse- Plasma Center ($5k Sign on Bonus!) |  | IA - Waterloo | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Waterloo/Plasma-Center-Nurse--LPN_R0177966-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse- Plasma Center ($5k Sign on Bonus!) |  | IA - Waterloo | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Waterloo/Plasma-Center-Nurse--LPN_R0177966-1) |
 | 🏢 **Takeda** | Licensed Practical Nurse (LPN/LVN) – $5,000 Sign‑On Bonus |  | WI - Greenfield | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Licensed-Practical-Nurse--LPN-LVN-----5-000-Sign-On-Bonus_R0178799-1) |
 
 <p align="center">Apply for more jobs at</p>
@@ -138,7 +138,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **SpaceX** | PCB Materials Lab Technician (Starlink) |  | Bastrop, TX | 43m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8505212002?gh_jid=8505212002) |
+| 🏢 **SpaceX** | PCB Materials Lab Technician (Starlink) |  | Bastrop, TX | 58m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8505212002?gh_jid=8505212002) |
 | 🏢 **Intrinsic Robotics** | Robotics and Automation Technician (Lab Technician) | 🏢 Sponsor Employer | Mountain View | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5972972004?gh_jid=5972972004) |
 | 🏢 **General Motors** | Fuels and Emissions Lab Engineer/Analytical Chemist | 🏢 Sponsor Employer | Milford | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Fuels-and-Emissions-Lab-Engineer-Analytical-Chemist_JR-202608532) |
 | 🏢 **KLA** | Research Chemist |  | Totowa, NJ | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Research-Chemist_2635564) |
@@ -201,9 +201,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|------|----------|--------|----------|
 | 🏢 **Philips** | Sales Support, Clinical Specialist – VeriSight 3D ICE (Intracardiac Echo) (Atlanta GA) |  | Atlanta | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Atlanta-Georgia-United-States/Sales-Support--Clinical-Specialist---VeriSight-3D-ICE--Intracardiac-Echo---Atlanta-GA-_581347) |
 | 🏢 **Medtronic** | Vascular Clinical Specialist - Dallas TX |  | Dallas | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Vascular-Clinical-Specialist---Dallas-TX_R63505-1) |
-| 🏢 **Abbott** | Clinical Specialist I, CPT - Washington, DC |  | Washington DC - W... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington-DC---Washington-DC/Clinical-Specialist-I--CPT---Washington--DC_31148166-1) |
-| 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral Image Guided Devices (Washington, DC) |  | Washington | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Devices--Washington--DC-_580988-1) |
-| 🏢 **Abbott** | Clinical Specialist I, CPT - Fort Worth, TX |  | Texas - Fort Worth | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Fort-Worth/Clinical-Specialist-I--CPT---Fort-Worth--TX_31148146-1) |
+| 🏢 **Abbott** | Clinical Specialist I, CPT - Washington, DC |  | Washington DC - W... | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington-DC---Washington-DC/Clinical-Specialist-I--CPT---Washington--DC_31148166-1) |
+| 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral Image Guided Devices (Washington, DC) |  | Washington | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Devices--Washington--DC-_580988-1) |
+| 🏢 **Abbott** | Clinical Specialist I, CPT - Fort Worth, TX |  | Texas - Fort Worth | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Fort-Worth/Clinical-Specialist-I--CPT---Fort-Worth--TX_31148146-1) |
 | 🏢 **Takeda** | Part Time Medical Screener |  | CA - Lemon Grove + 1 more | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Part-Time-Medical-Screener_R0178867-1) |
 | 🏢 **Abbott** | Clinical Specialist I, CPT - Chicago, IL |  | Illinois - Chicago | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Chicago/Clinical-Specialist-I--CPT---Chicago--IL_31148020-1) |
 | 🏢 **Medtronic** | Clinical Specialist- Pelvic Health - Macon, GA |  | Macon | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Macon-Georgia-United-States-of-America/Clinical-Specialist--Pelvic-Health---Macon--GA_R62049-1) |
@@ -235,7 +235,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Guidehouse** | Patient Access Representative- Full Time- 6:30am MCH |  | CA, Ventura | 41m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Patient-Access-Representative--Full-Time--6-30am-MCH_38718) |
+| 🏢 **Guidehouse** | Patient Access Representative- Full Time- 6:30am MCH |  | CA, Ventura | 56m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Patient-Access-Representative--Full-Time--6-30am-MCH_38718) |
 | 🏢 **Guidehouse** | Patient Account Representative - Medicare, Medicaid, Commercial Claims |  | Remote | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Patient-Account-Representative---Medicare--Medicaid--Commercial-Claims_38437) |
 | 🏢 **Guidehouse** | Medical Billers / Medical Cash Posters / Medical Credit Balance Specialists |  | TX, San Antonio | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Medical-Billers---Medical-Cash-Posters---Medical-Credit-Balance-Specialists_38605) |
 
@@ -249,7 +249,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Hinge Health** | Physical Therapist (Flex) |  | Remote | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/7ff16616-1323-48a3-a9d0-408851d17179/application) |
+| 🏢 **Hinge Health** | Physical Therapist (Flex) |  | Remote | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/7ff16616-1323-48a3-a9d0-408851d17179/application) |
 | 🏢 **Leidos** | Adult Military and Family Life Counselor - Fort Riley, KS |  | Junction City, KS | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Junction-City-KS/Adult-Military-and-Family-Life-Counselor---Fort-Riley--KS_R-00181357) |
 | 🏢 **Leidos** | Child Military and Family Life Counselor - Luke AFB |  | Glendale, AZ | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Glendale-AZ/Child-Military-and-Family-Life-Counselor---Luke-AFB_R-00181311) |
 | 🏢 **Included Health** | Mental Health Therapist |  | Tennessee + 12 more | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/29af260c-cc9b-4fe9-b358-6135fd5909be/apply) |
@@ -267,10 +267,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Truveta** | ML Postdoc Researcher - Healthcare AI Innovation |  | Seattle, WA | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5978375004) |
+| 🏢 **Truveta** | ML Postdoc Researcher - Healthcare AI Innovation |  | Seattle, WA | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5978375004) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Account Specialist - Detroit, MI - Johnson and Johnson MedTech, Electrophysiology |  | Detroit | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Detroit-Michigan-United-States/Associate-Clinical-Account-Specialist---Detroit--MI---Johnson-and-Johnson-MedTech--Electrophysiology_R-068633-1) |
 | 🏢 **Takeda** | Emergency Medical Technician EMT-P |  | NE - Omaha | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Emergency-Medical-Technician-EMT-P_R0178887-1) |
-| 🏢 **Abbott** | Clinical Associate |  | Florida - Sarasota + 6 more | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Sarasota/Clinical-Associate_31147789) |
+| 🏢 **Abbott** | Clinical Associate |  | Florida - Sarasota + 6 more | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Sarasota/Clinical-Associate_31147789) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Account Specialist (Garden City, NY) - Johnson & Johnson MedTech, Electrophysiology |  | Garden City | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Garden-City-New-York-United-States/Associate-Clinical-Account-Specialist--Garden-City--NY----Johnson---Johnson-MedTech--Electrophysiology_R-063903-1) |
 | 🏢 **Merck & Co.** | Specialist, Clinical Data Management – Hybrid |  | New Jersey Rahway | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Clinical-Data-Management---Hybrid_R391642-2) |
 | 🏢 **Philips** | Quality Control Technician |  | Bedford | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Quality-Control-Technician_576678) |
@@ -390,6 +390,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: April 21, 2026
+**Last Updated**: April 22, 2026
 
 </div>
