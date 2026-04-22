@@ -2125,18 +2125,18 @@
     "job_posted_at": "2026-04-20T07:10:54.018Z"
   },
   {
-    "job_id": "workday-abbott-31128002",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Ukiah, CA",
+    "job_id": "workday-abbott-31113914",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
     "employer_name": "Abbott",
-    "job_city": "California - Los Angeles",
+    "job_city": "Colorado - Colorado Springs",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Los-Angeles/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---San-Francisco--CA--Temecula--CA_31128002",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
     "job_posted_at_datetime_utc": "2026-04-20T07:10:54.017Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f2be8f980f9d8393d07bc74bf3fd3211d32f56039fd2175c8e1e4ed68457020b",
+    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2153,18 +2153,18 @@
     "job_posted_at": "2026-04-20T07:10:54.017Z"
   },
   {
-    "job_id": "workday-abbott-31113914",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
+    "job_id": "workday-abbott-31128002",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Ukiah, CA",
     "employer_name": "Abbott",
-    "job_city": "Colorado - Colorado Springs",
+    "job_city": "California - Los Angeles",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Los-Angeles/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---San-Francisco--CA--Temecula--CA_31128002",
     "job_posted_at_datetime_utc": "2026-04-20T07:10:54.017Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
+    "fingerprint": "f2be8f980f9d8393d07bc74bf3fd3211d32f56039fd2175c8e1e4ed68457020b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2235,34 +2235,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T07:03:17.804Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178808",
-    "job_title": "Phlebotomist (Evenings/Weekends)",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Phlebotomist--Evenings-Weekends-_R0178808",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9ce82a2a826b4fb0c889b60c194c40ed4409ab555d3ce23017127002150ce478",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:32.289Z"
   },
   {
     "job_id": "workday-takeda-R0178807",
@@ -2826,6 +2798,34 @@
     "job_posted_at": "2026-04-20T07:02:32.289Z"
   },
   {
+    "job_id": "workday-takeda-R0178808",
+    "job_title": "Phlebotomist (Evenings/Weekends)",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Phlebotomist--Evenings-Weekends-_R0178808",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9ce82a2a826b4fb0c889b60c194c40ed4409ab555d3ce23017127002150ce478",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:32.289Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01342521",
     "job_title": "Scientist, Purification Process",
     "employer_name": "Thermo Fisher Scientific",
@@ -2852,34 +2852,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T07:02:19.863Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01345262",
-    "job_title": "Supervisor - Sample Management- 2nd Shift",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "USA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covington-Kentucky---USA/Supervisor---Sample-Management_R-01345262",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:19.862Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7cd6fd7183f3f903c860ff9f8d1055340bfecb3fd5117aa33d68859fde540d82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:19.862Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01347423",
@@ -2931,6 +2903,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:19.862Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01345262",
+    "job_title": "Supervisor - Sample Management- 2nd Shift",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "USA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covington-Kentucky---USA/Supervisor---Sample-Management_R-01345262",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:19.862Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7cd6fd7183f3f903c860ff9f8d1055340bfecb3fd5117aa33d68859fde540d82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -3218,6 +3218,34 @@
     "job_posted_at": "2026-04-20T07:00:24.817Z"
   },
   {
+    "job_id": "workday-guidehouse-38453",
+    "job_title": "Patient Account Representative (Bilingual)",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Account-Representative--Bilingual-_38453",
+    "job_posted_at_datetime_utc": "2026-04-20T07:00:20.059Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "80a9f9d032cdd1ff66372a72447613615eb6254e315cc76ebe086e6c6aa23885",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:00:20.059Z"
+  },
+  {
     "job_id": "workday-guidehouse-38252",
     "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
     "employer_name": "Guidehouse",
@@ -3275,22 +3303,23 @@
     "job_posted_at": "2026-04-20T07:00:20.059Z"
   },
   {
-    "job_id": "workday-guidehouse-38453",
-    "job_title": "Patient Account Representative (Bilingual)",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
+    "job_id": "workday-johnson-&-johnson-R-070026",
+    "job_title": "Associate Site Manager - Oncology - West U.S.",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "15 Locations",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Account-Representative--Bilingual-_38453",
-    "job_posted_at_datetime_utc": "2026-04-20T07:00:20.059Z",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Associate-Site-Manager---Oncology_R-070026-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:00:17.053Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "80a9f9d032cdd1ff66372a72447613615eb6254e315cc76ebe086e6c6aa23885",
+    "fingerprint": "9d56ecbe0f4ac22cf9855ac946638b335c74b01653f549b84800b96ff956c3b2",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "healthcare"
+        "healthcare",
+        "operations"
       ],
       "locations": [
         "us"
@@ -3300,7 +3329,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:00:20.059Z"
+    "job_posted_at": "2026-04-20T07:00:17.053Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-049286",
@@ -3432,35 +3461,6 @@
       "employment": "entry_level",
       "domains": [
         "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:00:17.053Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-070026",
-    "job_title": "Associate Site Manager - Oncology - West U.S.",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "15 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Associate-Site-Manager---Oncology_R-070026-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:00:17.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9d56ecbe0f4ac22cf9855ac946638b335c74b01653f549b84800b96ff956c3b2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "operations"
       ],
       "locations": [
         "us"
@@ -8942,34 +8942,6 @@
     "job_posted_at": "2026-04-16T07:01:46.261Z"
   },
   {
-    "job_id": "workday-abbott-31147771",
-    "job_title": "Clinical Specialist, CRM (Springfield, MO)",
-    "employer_name": "Abbott",
-    "job_city": "Missouri - Springfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
     "job_id": "workday-abbott-31140668",
     "job_title": "Clinical Specialist - Tampa, FL",
     "employer_name": "Abbott",
@@ -9151,6 +9123,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
+  },
+  {
+    "job_id": "workday-abbott-31147771",
+    "job_title": "Clinical Specialist, CRM (Springfield, MO)",
+    "employer_name": "Abbott",
+    "job_city": "Missouri - Springfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
     "tags": {
       "employment": "entry_level",
       "domains": [
