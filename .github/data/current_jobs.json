@@ -3697,35 +3697,6 @@
     "job_posted_at": "2026-04-20T13:14:15.275Z"
   },
   {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
     "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -4096,6 +4067,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -7894,6 +7894,370 @@
     "job_posted_at": "2026-04-16T07:04:08.345Z"
   },
   {
+    "job_id": "workday-takeda-R0178537",
+    "job_title": "Biolife Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Biolife-Registered-Nurse_R0178537-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6721609381493817ca236648f88032f4f1aab6a7566afc1b4dc6cf95ea21229d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178583",
+    "job_title": "Bilingual (Spanish/English) EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--EMT-P_R0178583-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d74e81fc28d2ca1d89af5213c905c4c4670d7fb378d70ce3748d4465032dd901",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178582",
+    "job_title": "Bilingual (Spanish/English) Nurse – LPN/LVN",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Nurse---LPN-LVN_R0178582-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b552051bdad90bdcb93a3411902e0def5ce1f5aa598a3012310e6be34a76887a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178581",
+    "job_title": "Bilingual (Spanish/English) Registered Nurse (RN)",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Registered-Nurse--RN-_R0178581-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4565a846bc7f7d728437f8c96bbd4e1fa3b08bb2cf45917d6ecdece543c346c9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178636",
+    "job_title": "Evening Medical Historian",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio - New Ave",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---New-Ave/Evening-Medical-Historian_R0178636-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "91466050f5eef9c45b819e78b738176f28e25a0b32a8504848826a52536f7c77",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178603",
+    "job_title": "Licensed Vocational Nurse LVN",
+    "employer_name": "Takeda",
+    "job_city": "TX - Harker Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Licensed-Vocational-Nurse-LVN_R0178603-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "db894359742a6ce41132786bf4b3ae6954a68e8458683eb2aae85f88f62adccb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178590",
+    "job_title": "Medical Screener/Phlebotomist ($16 an hour) Part-Time with Benefits",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Medical-Screener-Phlebotomist---16-an-hour--Part-Time-with-Benefits_R0178590-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "34f4ca8de94bb8ec5b930da6887b1bd853a79e4666ce207d68bad0e9ae537651",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178586",
+    "job_title": "Medical Support Specialist - EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio - Deza",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---EMT-P_R0178586-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "13b89391a7aeddf0e986ff735fa0ab7403d3310c3a8eeab2a74946d8759bf4e1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178585",
+    "job_title": "Medical Support Specialist - LPN",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio - Deza",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---LPN_R0178585-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "da35f0d6152a2227fe6cea9afe71b9d48146a1f0369c3184c75d9812bac25d59",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178587",
+    "job_title": "Medical Support Specialist- LPN",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio - Deza",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist--LPN_R0178587-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "08f8098100d97ad8dbfe0a0e2ebe42ddbc7019a14a7aba2a1bf7c64629a0c05f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178604",
+    "job_title": "On Site Paramedic",
+    "employer_name": "Takeda",
+    "job_city": "TX - Harker Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/On-Site-Paramedic_R0178604",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8fe37353f01f2642d0654aded17d7edd0b29b973779d394ef8f4a9969dde1ac7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178602",
+    "job_title": "Registered Nurse RN",
+    "employer_name": "Takeda",
+    "job_city": "TX - Harker Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Registered-Nurse-RN_R0178602-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b8f28e4bd49ef2bc10e35f566a4f2b641ddc6d8da1484b09af803949a5d8a27b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178600",
+    "job_title": "Entry Level Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "MA - West Springfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---West-Springfield/Entry-Level-Plasma-Center-Technician_R0178600-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5bd44587bd284732a4c96f3b2fa757542bbd792da5addb7f64f972f539af83ff",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:03:32.742Z"
+  },
+  {
     "job_id": "workday-takeda-R0178598",
     "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
     "employer_name": "Takeda",
@@ -8370,370 +8734,6 @@
     "job_posted_at": "2026-04-16T07:03:32.742Z"
   },
   {
-    "job_id": "workday-takeda-R0178537",
-    "job_title": "Biolife Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Biolife-Registered-Nurse_R0178537-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6721609381493817ca236648f88032f4f1aab6a7566afc1b4dc6cf95ea21229d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178583",
-    "job_title": "Bilingual (Spanish/English) EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--EMT-P_R0178583-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d74e81fc28d2ca1d89af5213c905c4c4670d7fb378d70ce3748d4465032dd901",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178582",
-    "job_title": "Bilingual (Spanish/English) Nurse – LPN/LVN",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Nurse---LPN-LVN_R0178582-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b552051bdad90bdcb93a3411902e0def5ce1f5aa598a3012310e6be34a76887a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178581",
-    "job_title": "Bilingual (Spanish/English) Registered Nurse (RN)",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Registered-Nurse--RN-_R0178581-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4565a846bc7f7d728437f8c96bbd4e1fa3b08bb2cf45917d6ecdece543c346c9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178636",
-    "job_title": "Evening Medical Historian",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio - New Ave",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---New-Ave/Evening-Medical-Historian_R0178636-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "91466050f5eef9c45b819e78b738176f28e25a0b32a8504848826a52536f7c77",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178603",
-    "job_title": "Licensed Vocational Nurse LVN",
-    "employer_name": "Takeda",
-    "job_city": "TX - Harker Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Licensed-Vocational-Nurse-LVN_R0178603-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "db894359742a6ce41132786bf4b3ae6954a68e8458683eb2aae85f88f62adccb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178590",
-    "job_title": "Medical Screener/Phlebotomist ($16 an hour) Part-Time with Benefits",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Medical-Screener-Phlebotomist---16-an-hour--Part-Time-with-Benefits_R0178590-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "34f4ca8de94bb8ec5b930da6887b1bd853a79e4666ce207d68bad0e9ae537651",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178586",
-    "job_title": "Medical Support Specialist - EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio - Deza",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---EMT-P_R0178586-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "13b89391a7aeddf0e986ff735fa0ab7403d3310c3a8eeab2a74946d8759bf4e1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178585",
-    "job_title": "Medical Support Specialist - LPN",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio - Deza",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---LPN_R0178585-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "da35f0d6152a2227fe6cea9afe71b9d48146a1f0369c3184c75d9812bac25d59",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178587",
-    "job_title": "Medical Support Specialist- LPN",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio - Deza",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist--LPN_R0178587-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "08f8098100d97ad8dbfe0a0e2ebe42ddbc7019a14a7aba2a1bf7c64629a0c05f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178604",
-    "job_title": "On Site Paramedic",
-    "employer_name": "Takeda",
-    "job_city": "TX - Harker Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/On-Site-Paramedic_R0178604",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8fe37353f01f2642d0654aded17d7edd0b29b973779d394ef8f4a9969dde1ac7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178602",
-    "job_title": "Registered Nurse RN",
-    "employer_name": "Takeda",
-    "job_city": "TX - Harker Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Registered-Nurse-RN_R0178602-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b8f28e4bd49ef2bc10e35f566a4f2b641ddc6d8da1484b09af803949a5d8a27b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178600",
-    "job_title": "Entry Level Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "MA - West Springfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---West-Springfield/Entry-Level-Plasma-Center-Technician_R0178600-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:03:32.742Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5bd44587bd284732a4c96f3b2fa757542bbd792da5addb7f64f972f539af83ff",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:03:32.742Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01334329",
     "job_title": "Field Service Engineer (Electron Microscopy)(REMOTE)",
     "employer_name": "Thermo Fisher Scientific",
@@ -9167,62 +9167,6 @@
     "job_posted_at": "2026-04-16T07:01:34.911Z"
   },
   {
-    "job_id": "workday-guidehouse-38605",
-    "job_title": "Medical Billers / Medical Cash Posters / Medical Credit Balance Specialists",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Medical-Billers---Medical-Cash-Posters---Medical-Credit-Balance-Specialists_38605",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:12.843Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af560a516715fd85f30dc021792602da6887d869f33f4d7e5544f667f88e7154",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:12.843Z"
-  },
-  {
-    "job_id": "workday-guidehouse-35052",
-    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
-    "employer_name": "Guidehouse",
-    "job_city": "US IL Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_35052",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:12.843Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:12.843Z"
-  },
-  {
     "job_id": "workday-guidehouse-38437",
     "job_title": "Patient Account Representative - Medicare, Medicaid, Commercial Claims",
     "employer_name": "Guidehouse",
@@ -9272,6 +9216,62 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:12.843Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38605",
+    "job_title": "Medical Billers / Medical Cash Posters / Medical Credit Balance Specialists",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Medical-Billers---Medical-Cash-Posters---Medical-Credit-Balance-Specialists_38605",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:12.843Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af560a516715fd85f30dc021792602da6887d869f33f4d7e5544f667f88e7154",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:12.843Z"
+  },
+  {
+    "job_id": "workday-guidehouse-35052",
+    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
+    "employer_name": "Guidehouse",
+    "job_city": "US IL Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_35052",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:12.843Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "unknown",
       "special": []
@@ -9368,62 +9368,6 @@
     "job_posted_at": "2026-04-16T07:01:07.878Z"
   },
   {
-    "job_id": "workday-idexx-J-051832",
-    "job_title": "Medical Laboratory Technician",
-    "employer_name": "IDEXX",
-    "job_city": "Red Bank",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Red-Bank-NJ/Medical-Laboratory-Technician-1_J-051832",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:03.861Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "14decdd0a9979c3afbe0fc7c06374b4fe03440d7516f36a09686f9f892131891",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:03.861Z"
-  },
-  {
-    "job_id": "workday-idexx-J-051330",
-    "job_title": "Bilingual Sales Veterinary Diagnostics, Caribbean Remote",
-    "employer_name": "IDEXX",
-    "job_city": "Virtual Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-Florida/Sales-Veterinary-Diagnostics--Caribbean-Remote_J-051330",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:03.861Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3624d6388b732ae577b432158518defa2190d8308f24a9501039858b9b11af82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:03.861Z"
-  },
-  {
     "job_id": "workday-idexx-J-052623",
     "job_title": "Microbiology Laboratory Technician – 2nd Shift",
     "employer_name": "IDEXX",
@@ -9501,6 +9445,62 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:03.861Z"
+  },
+  {
+    "job_id": "workday-idexx-J-051832",
+    "job_title": "Medical Laboratory Technician",
+    "employer_name": "IDEXX",
+    "job_city": "Red Bank",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Red-Bank-NJ/Medical-Laboratory-Technician-1_J-051832",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:03.861Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "14decdd0a9979c3afbe0fc7c06374b4fe03440d7516f36a09686f9f892131891",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:03.861Z"
+  },
+  {
+    "job_id": "workday-idexx-J-051330",
+    "job_title": "Bilingual Sales Veterinary Diagnostics, Caribbean Remote",
+    "employer_name": "IDEXX",
+    "job_city": "Virtual Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-Florida/Sales-Veterinary-Diagnostics--Caribbean-Remote_J-051330",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:03.861Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3624d6388b732ae577b432158518defa2190d8308f24a9501039858b9b11af82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
