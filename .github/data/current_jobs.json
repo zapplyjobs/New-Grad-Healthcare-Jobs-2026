@@ -84,34 +84,6 @@
     "job_posted_at": "2026-04-22T21:32:56.095Z"
   },
   {
-    "job_id": "workday-takeda-R0178998",
-    "job_title": "Plasma Center Paramedic - EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mankato",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0178998-1",
-    "job_posted_at_datetime_utc": "2026-04-22T21:20:48.264Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c6891c8fa155b31329cced1093867031780e6e74bb2d7ae17387b7a4ed8eb705",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T21:20:48.264Z"
-  },
-  {
     "job_id": "workday-takeda-R0178996",
     "job_title": "Plasma Center Nurse - LPN - Sign On Bonus Available!",
     "employer_name": "Takeda",
@@ -152,6 +124,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8050a19f48fbf3b1f8dc5ebde0737d89218e15b5da1fc385c55dfb7a28cca1f6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T21:20:48.264Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178998",
+    "job_title": "Plasma Center Paramedic - EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mankato",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0178998-1",
+    "job_posted_at_datetime_utc": "2026-04-22T21:20:48.264Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c6891c8fa155b31329cced1093867031780e6e74bb2d7ae17387b7a4ed8eb705",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -592,34 +592,6 @@
     "job_posted_at": "2026-04-22T18:58:49.125Z"
   },
   {
-    "job_id": "workday-takeda-R0178977",
-    "job_title": "Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "CA - Pomona",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Pomona/Plasma-Center-Technician_R0178977-1",
-    "job_posted_at_datetime_utc": "2026-04-22T18:23:40.589Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e6ddf7fdc635fa5468f98da136684eb99e70330bda92e6031bda70c1e171a49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T18:23:40.589Z"
-  },
-  {
     "job_id": "workday-takeda-R0178976",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
@@ -660,6 +632,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4f74ce80a2e8028cf44c31adf13e809d4ea9d476af7544fc2e1e2c6ffc580442",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T18:23:40.589Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178977",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "CA - Pomona",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Pomona/Plasma-Center-Technician_R0178977-1",
+    "job_posted_at_datetime_utc": "2026-04-22T18:23:40.589Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9e6ddf7fdc635fa5468f98da136684eb99e70330bda92e6031bda70c1e171a49",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1408,18 +1408,18 @@
     "job_posted_at": "2026-04-22T14:49:58.614Z"
   },
   {
-    "job_id": "workday-takeda-R0178932",
+    "job_id": "workday-takeda-R0178931",
     "job_title": "Paramedic - No Overnight Shifts",
     "employer_name": "Takeda",
-    "job_city": "MO - Springfield - McCurry Ave",
+    "job_city": "OK - Tulsa",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---McCurry-Ave/Medical-Support-Specialist-EMT_R0178932-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Paramedic---No-Overnight-Shifts_R0178931",
     "job_posted_at_datetime_utc": "2026-04-22T14:22:26.251Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "cd0d205e67ad23d0792ac7b3dad2e88ea963cb7df61a35ac38f820ec76689c21",
+    "fingerprint": "91e9fa44c8fee10acc06458274d8fad306de97976e94f3f44b0b5fbee23d8f7e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1436,18 +1436,18 @@
     "job_posted_at": "2026-04-22T14:22:26.251Z"
   },
   {
-    "job_id": "workday-takeda-R0178931",
+    "job_id": "workday-takeda-R0178932",
     "job_title": "Paramedic - No Overnight Shifts",
     "employer_name": "Takeda",
-    "job_city": "OK - Tulsa",
+    "job_city": "MO - Springfield - McCurry Ave",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Paramedic---No-Overnight-Shifts_R0178931",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---McCurry-Ave/Medical-Support-Specialist-EMT_R0178932-1",
     "job_posted_at_datetime_utc": "2026-04-22T14:22:26.251Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "91e9fa44c8fee10acc06458274d8fad306de97976e94f3f44b0b5fbee23d8f7e",
+    "fingerprint": "cd0d205e67ad23d0792ac7b3dad2e88ea963cb7df61a35ac38f820ec76689c21",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5019,6 +5019,62 @@
     "job_posted_at": "2026-04-20T07:00:20.059Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-070569",
+    "job_title": "Field Clinical Specialist - Shockwave - Chicago, IL",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Chicago-Illinois-United-States/Field-Clinical-Specialist---Shockwave---Chicago--IL_R-070569-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:00:17.053Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e42520bcc653369a63edb950b670cf81a96c7a46ddb09e866d525991dec1ed17",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:00:17.053Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-070254",
+    "job_title": "Field Clinical Specialist - Shockwave - El Paso, TX",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "El Paso",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/El-Paso-Texas-United-States-of-America/Field-Clinical-Specialist---Shockwave---El-Paso--TX_R-070254",
+    "job_posted_at_datetime_utc": "2026-04-20T07:00:17.053Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "58d64f3e511df03a1ef62470a11666e79375c3a36fa11c0faa6120ee3761cb33",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:00:17.053Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-070026",
     "job_title": "Associate Site Manager - Oncology - West U.S.",
     "employer_name": "Johnson & Johnson",
@@ -5117,62 +5173,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "15698cc07ef9affb44fe4644cfb04d73e4bda5d34c9d85ed8793b45280d399ca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:00:17.053Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-070569",
-    "job_title": "Field Clinical Specialist - Shockwave - Chicago, IL",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Chicago-Illinois-United-States/Field-Clinical-Specialist---Shockwave---Chicago--IL_R-070569-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:00:17.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e42520bcc653369a63edb950b670cf81a96c7a46ddb09e866d525991dec1ed17",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:00:17.053Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-070254",
-    "job_title": "Field Clinical Specialist - Shockwave - El Paso, TX",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "El Paso",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/El-Paso-Texas-United-States-of-America/Field-Clinical-Specialist---Shockwave---El-Paso--TX_R-070254",
-    "job_posted_at_datetime_utc": "2026-04-20T07:00:17.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "58d64f3e511df03a1ef62470a11666e79375c3a36fa11c0faa6120ee3761cb33",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8223,118 +8223,6 @@
     "job_posted_at": "2026-04-17T07:03:17.805Z"
   },
   {
-    "job_id": "workday-takeda-R0178711",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "GA - Snellville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Snellville/Medical-Screener_R0178711-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22b00e02b45a1ed31264765a1698a4d42e4877d8e0291a430c16f9aaed886a0f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177467",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "DE - Newark",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---DE---Newark/Medical-Screener_R0177467-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0976f4867d0e6da213117a153f6710e4eddc74709d6d7c9229c35814fb13090f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178681",
-    "job_title": "Plasma Center Nurse - LPN - Evening & Weekend Availability",
-    "employer_name": "Takeda",
-    "job_city": "MI - Ypsilanti",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Ypsilanti/Plasma-Center-Nurse---LPN---Evening---Weekend-Availability_R0178681-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "12f1c6a1b343668ffb4e04371b0b8059fa5255d053fda3b7a892407fc7c0f454",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178675",
-    "job_title": "Entry Level Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "IL - Chicago - Plasma",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Chicago---Plasma/Entry-Level-Phlebotomist_R0178675-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "29012c912a56a118558e524f2ca96461dce6a333ee878c40d16b1daea5e4cbca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:32.289Z"
-  },
-  {
     "job_id": "workday-takeda-R0178673",
     "job_title": "Plasma Center Technician",
     "employer_name": "Takeda",
@@ -8516,6 +8404,118 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b0bbd6f80b7aadbe994cc315e2238bb1632f2646d8760d834621be6d33a69361",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178711",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "GA - Snellville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Snellville/Medical-Screener_R0178711-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22b00e02b45a1ed31264765a1698a4d42e4877d8e0291a430c16f9aaed886a0f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177467",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "DE - Newark",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---DE---Newark/Medical-Screener_R0177467-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0976f4867d0e6da213117a153f6710e4eddc74709d6d7c9229c35814fb13090f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178681",
+    "job_title": "Plasma Center Nurse - LPN - Evening & Weekend Availability",
+    "employer_name": "Takeda",
+    "job_city": "MI - Ypsilanti",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Ypsilanti/Plasma-Center-Nurse---LPN---Evening---Weekend-Availability_R0178681-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "12f1c6a1b343668ffb4e04371b0b8059fa5255d053fda3b7a892407fc7c0f454",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178675",
+    "job_title": "Entry Level Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "IL - Chicago - Plasma",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Chicago---Plasma/Entry-Level-Phlebotomist_R0178675-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "29012c912a56a118558e524f2ca96461dce6a333ee878c40d16b1daea5e4cbca",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11446,117 +11446,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-16T02:06:55.239Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7819676",
-    "job_title": "Associate, UM Regulatory Operations",
-    "employer_name": "Oscar Health",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7819676?gh_jid=7819676",
-    "job_posted_at_datetime_utc": "2026-04-15T22:36:49.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b26b283ec12727ad2e0b9ce7ec5f2aa7de3ef1c8506383c5ebe5da72fb080e77",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-15T22:36:49.000Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7819675",
-    "job_title": "Associate, UM Regulatory Operations",
-    "employer_name": "Oscar Health",
-    "job_city": "Dallas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7819675?gh_jid=7819675",
-    "job_posted_at_datetime_utc": "2026-04-15T22:36:23.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9a730d4c8b4adafec0f03d7cb0d1e4c76ad7a78dbf3d21eff2b1c08d9efd4744",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-15T22:36:23.000Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7819672",
-    "job_title": "Associate, UM Regulatory Operations",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7819672?gh_jid=7819672",
-    "job_posted_at_datetime_utc": "2026-04-15T22:35:29.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "752eceaaf7c8054f18d1c6b484c5430a8d167c90e199927895c3e47270564abb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-15T22:35:29.000Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7812522",
-    "job_title": "Associate, UM Regulatory Operations",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7812522?gh_jid=7812522",
-    "job_posted_at_datetime_utc": "2026-04-15T22:33:31.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2e03cc83834ac7d235aea86fa30774a8bc95b0d03f9885c1bb6432c94a977fbb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-15T22:33:31.000Z"
   }
 ]

@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-403-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-399-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-57-blue?style=flat&logo=building)
-![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-160-red?style=flat&logo=star)
+![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-156-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,10 +69,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Nurse - LPN |  | MN - Mankato + 1 more | 57m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Plasma-Center-Nurse---LPN_R0178999-1) |
-| 🏢 **Takeda** | Plasma Center Nurse - RN |  | MN - Mankato + 1 more | 57m | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Registered-Nurse-RN_R0179000-1) |
+| 🏢 **Takeda** | Plasma Center Nurse - LPN |  | MN - Mankato + 1 more | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Plasma-Center-Nurse---LPN_R0178999-1) |
+| 🏢 **Takeda** | Plasma Center Nurse - RN |  | MN - Mankato + 1 more | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Registered-Nurse-RN_R0179000-1) |
 | 🏢 **Takeda** | Plasma Center Nurse - LPN - Sign On Bonus Available! |  | MN - Moorhead | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Plasma-Center-Nurse---LPN---Sign-On-Bonus-Available-_R0178996-1) |
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bremen, GA |  | Georgia - Atlanta | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Bremen--GA_31147362) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bremen, GA |  | Georgia - Atlanta | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Bremen--GA_31147362) |
 | 🏢 **Medtronic** | Associate Clinical Specialist, Pain Interventions - Western NE |  | Lincoln | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lincoln-Nebraska-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---Western-NE_R65002-1) |
 | 🏢 **KBR** | Special Operations Certified Athletic Trainer (AFSOC GSU/Southern Pines, NC) |  | Fort Liberty | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Certified-Athletic-Trainer--AFSOC-GSU-Southern-Pines--NC-_R2122466) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Account Specialist (New York, NY / Long Island, NY / Northern NJ) - Johnson & Johnson MedTech, Electrophysiology |  | 2 Locations | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Associate-Clinical-Account-Specialist--New-York--NY---Long-Island--NY---Northern-NJ----Johnson---Johnson-MedTech--Electrophysiology_R-054049) |
@@ -140,7 +140,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **AbbVie** | Associate Scientist I/II, Formulation & Process Development |  | San Diego, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012779056) |
 | 🏢 **Takeda** | Lab Technician - 2nd Shift |  | GA - Social Circl... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Social-Circle---Baxter-Pkwy/Lab-Technician---2nd-Shift_R0178989-1) |
 | 🏢 **AbbVie** | Scientist l - Peptide Synthesis |  | Madison, WI | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012778366) |
-| 🏢 **Entegris** | QA Chemist (M-F, 2:30pm-10:30pm) |  | Billerica, MA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/QA-Chemist--M-F--2-30pm-10-30pm-_REQ-11375) |
+| 🏢 **Entegris** | QA Chemist (M-F, 2:30pm-10:30pm) |  | Billerica, MA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/QA-Chemist--M-F--2-30pm-10-30pm-_REQ-11375) |
 | 🏢 **Philips** | MRI Clinical Scientist - (Cincinnati, OH) |  | Remote Based, Uni... | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/MRI-Clinical-Scientist----Cincinnati--OH-_581666) |
 | 🏢 **Abbott** | Associate Scientist Product Development R&D - Nutrition - Columbus, OH |  | Ohio - Columbus | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Associate-Scientist-Product-Development-R-D---Nutrition---Columbus--OH_31144768-1) |
 | 🏢 **Elanco** | Scientist, Analytical Development |  | Indianapolis, IN | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Scientist--Analytical-Development_R0024893-1) |
@@ -201,12 +201,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Abbott** | Clinical Specialist I, CPT - Phoenix, AZ |  | Arizona - Phoenix + 1 more | 49m | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist-I--CPT---Phoenix--AZ_31148364-2) |
-| 🏢 **Medtronic** | CRM Clinical Specialist - Hartford, CT |  | Hartford | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1) |
+| 🏢 **Abbott** | Clinical Specialist I, CPT - Phoenix, AZ |  | Arizona - Phoenix + 1 more | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist-I--CPT---Phoenix--AZ_31148364-2) |
+| 🏢 **Medtronic** | CRM Clinical Specialist - Hartford, CT |  | Hartford | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1) |
 | 🏢 **Takeda** | Medical Screener |  | NE - Omaha + 5 more | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Medical-Screener_R0178976-1) |
 | 🏢 **Medtronic** | Associate Clinical Specialist, Pain Interventions - Oklahoma City, OK |  | Oklahoma City | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oklahoma-City-Oklahoma-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---Oklahoma-City--OK_R64928-1) |
 | 🏢 **Abbott** | Clinical Specialist I, CPT - Peoria, IL |  | Illinois - Peoria | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Peoria/Clinical-Specialist-I--CPT---Peoria--IL_31148136) |
-| 🏢 **Medtronic** | Prin. Clinical Specialist - Superficial Venous Interventions (SVI) - Ft. Lauderdale, FL |  | Fort Lauderdale | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fort-Lauderdale-Florida-United-States-of-America/Prin-Clinical-Specialist---Superficial-Venous-Interventions--SVI----Ft-Lauderdale--FL_R62820-2) |
+| 🏢 **Medtronic** | Prin. Clinical Specialist - Superficial Venous Interventions (SVI) - Ft. Lauderdale, FL |  | Fort Lauderdale | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fort-Lauderdale-Florida-United-States-of-America/Prin-Clinical-Specialist---Superficial-Venous-Interventions--SVI----Ft-Lauderdale--FL_R62820-2) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist – VeriSight 3D ICE (Intracardiac Echo) (Atlanta GA) |  | Atlanta | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Atlanta-Georgia-United-States/Sales-Support--Clinical-Specialist---VeriSight-3D-ICE--Intracardiac-Echo---Atlanta-GA-_581347) |
 | 🏢 **Abbott** | Clinical Specialist I, CPT - Washington, DC |  | Washington DC - W... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington-DC---Washington-DC/Clinical-Specialist-I--CPT---Washington--DC_31148166-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral Image Guided Devices (Washington, DC) |  | Washington | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Devices--Washington--DC-_580988-1) |
@@ -250,8 +250,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|------|----------|--------|----------|
 | 🏢 **KBR** | Special Operations Clinical Psychologist (Coronado, CA) |  | San Diego | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/San-Diego-California/Special-Operations-Clinical-Psychologist--Coronado--CA-_R2122469) |
 | 🏢 **Leidos** | Military Family Life Counselor - JBSA Lackland, TX |  | San Antonio, TX | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/San-Antonio-TX/Military-Family-Life-Counselor---JBSA-Lackland--TX_R-00181494) |
-| 🏢 **Leidos** | Military Family Life School Counselor - Fort Hood, Tx |  | Killeen, TX + 1 more | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Killeen-TX/Military-Family-Life-School-Counselor---Fort-Hood--Tx_R-00181490) |
-| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (1 SOW/Hurlburt Field, FL) |  | Hurlburt Field | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hurlburt-Field-Florida/Special-Operations-Licensed-Clinical-Social-Worker--1-SOW-Hurlburt-Field--FL-_R2122460) |
+| 🏢 **Leidos** | Military Family Life School Counselor - Fort Hood, Tx |  | Killeen, TX + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Killeen-TX/Military-Family-Life-School-Counselor---Fort-Hood--Tx_R-00181490) |
+| 🏢 **KBR** | Special Operations Licensed Clinical Social Worker (1 SOW/Hurlburt Field, FL) |  | Hurlburt Field | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hurlburt-Field-Florida/Special-Operations-Licensed-Clinical-Social-Worker--1-SOW-Hurlburt-Field--FL-_R2122460) |
 | 🏢 **Hinge Health** | Physical Therapist (Flex) |  | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/7ff16616-1323-48a3-a9d0-408851d17179/application) |
 | 🏢 **Leidos** | Adult Military and Family Life Counselor - Fort Riley, KS |  | Junction City, KS | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Junction-City-KS/Adult-Military-and-Family-Life-Counselor---Fort-Riley--KS_R-00181357) |
 | 🏢 **Included Health** | Mental Health Therapist |  | Tennessee + 12 more | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/includedhealth/29af260c-cc9b-4fe9-b358-6135fd5909be/apply) |
@@ -273,9 +273,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | Paramedic - Sign On Bonus Available! |  | MN - Moorhead | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Paramedic---Sign-On-Bonus-Available-_R0178997-1) |
 | 🏢 **Abbott** | Occupational Health Nurse |  | Missouri - Kansas... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Occupational-Health-Nurse_31148357-1) |
 | 🏢 **Intuitive** | Endoluminal Sales Associate |  | Nashville, TN | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000122334239) |
-| 🏢 **Takeda** | Part Time Phlebotomy |  | MN - Saint Paul | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Saint-Paul/Part-Time-Phlebotomy_R0178985-1) |
-| 🏢 **Johnson & Johnson** | Associate Clinical Consultant/Clinical Consultant - (Pittsburgh, PA) - Johnson & Johnson MedTech – Heart Recovery |  | Pittsburgh | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Pittsburgh-Pennsylvania-United-States-of-America/Associate-Clinical-Consultant-Clinical-Consultant----Pittsburgh--PA----Johnson---Johnson-MedTech---Heart-Recovery_R-070898-1) |
-| 🏢 **Experian** | Hospital Contract Definition Analyst, Healthcare (Remote) |  | United States | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000122312409) |
+| 🏢 **Takeda** | Part Time Phlebotomy |  | MN - Saint Paul | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Saint-Paul/Part-Time-Phlebotomy_R0178985-1) |
+| 🏢 **Johnson & Johnson** | Associate Clinical Consultant/Clinical Consultant - (Pittsburgh, PA) - Johnson & Johnson MedTech – Heart Recovery |  | Pittsburgh | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Pittsburgh-Pennsylvania-United-States-of-America/Associate-Clinical-Consultant-Clinical-Consultant----Pittsburgh--PA----Johnson---Johnson-MedTech---Heart-Recovery_R-070898-1) |
+| 🏢 **Experian** | Hospital Contract Definition Analyst, Healthcare (Remote) |  | United States | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000122312409) |
 | 🏢 **Johnson & Johnson** | Advanced Surgical Consultant - Huntsville, AL - Johnson & Johnson MedTech, Heart Recovery |  | Huntsville | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Huntsville-Alabama-United-States/Advanced-Surgical-Consultant---Huntsville--AL---Johnson---Johnson-MedTech--Heart-Recovery_R-056586-1) |
 | 🏢 **Guidehouse** | Patient Care Coordinator |  | MD, Bethesda | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Patient-Care-Coordinator_37006) |
 | 🏢 **Johnson & Johnson** | Oncology Sales Specialist - North Jersey - Johnson & Johnson Innovative Medicine |  | Jersey City | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Jersey-City-New-Jersey-United-States/Oncology-Sales-Specialist---North-Jersey---Johnson---Johnson-Innovative-Medicine_R-048214-1) |
@@ -384,7 +384,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 403 current opportunities from 57 companies**
+**🎯 399 current opportunities from 57 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
