@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-abbott-31148357",
+    "job_title": "Occupational Health Nurse",
+    "employer_name": "Abbott",
+    "job_city": "Missouri - Kansas City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Occupational-Health-Nurse_31148357-1",
+    "job_posted_at_datetime_utc": "2026-04-22T20:46:37.061Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "40985bec488246fa393a24249eff9af686bfe79da123d69a7f36b82355c1dd04",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T20:46:37.061Z"
+  },
+  {
     "job_id": "sr-AbbVie-3743990012779056",
     "job_title": "Associate Scientist I/II, Formulation & Process Development",
     "employer_name": "AbbVie",
@@ -1156,18 +1184,18 @@
     "job_posted_at": "2026-04-22T14:49:58.614Z"
   },
   {
-    "job_id": "workday-takeda-R0178932",
+    "job_id": "workday-takeda-R0178931",
     "job_title": "Paramedic - No Overnight Shifts",
     "employer_name": "Takeda",
-    "job_city": "MO - Springfield - McCurry Ave",
+    "job_city": "OK - Tulsa",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---McCurry-Ave/Medical-Support-Specialist-EMT_R0178932-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Paramedic---No-Overnight-Shifts_R0178931",
     "job_posted_at_datetime_utc": "2026-04-22T14:22:26.251Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "cd0d205e67ad23d0792ac7b3dad2e88ea963cb7df61a35ac38f820ec76689c21",
+    "fingerprint": "91e9fa44c8fee10acc06458274d8fad306de97976e94f3f44b0b5fbee23d8f7e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1184,18 +1212,18 @@
     "job_posted_at": "2026-04-22T14:22:26.251Z"
   },
   {
-    "job_id": "workday-takeda-R0178931",
+    "job_id": "workday-takeda-R0178932",
     "job_title": "Paramedic - No Overnight Shifts",
     "employer_name": "Takeda",
-    "job_city": "OK - Tulsa",
+    "job_city": "MO - Springfield - McCurry Ave",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Paramedic---No-Overnight-Shifts_R0178931",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---McCurry-Ave/Medical-Support-Specialist-EMT_R0178932-1",
     "job_posted_at_datetime_utc": "2026-04-22T14:22:26.251Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "91e9fa44c8fee10acc06458274d8fad306de97976e94f3f44b0b5fbee23d8f7e",
+    "fingerprint": "cd0d205e67ad23d0792ac7b3dad2e88ea963cb7df61a35ac38f820ec76689c21",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4682,6 +4710,35 @@
     "job_posted_at": "2026-04-20T07:00:24.817Z"
   },
   {
+    "job_id": "workday-guidehouse-38252",
+    "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Part-Time-Oncology-Data-Specialist---Certified--remote-_38252",
+    "job_posted_at_datetime_utc": "2026-04-20T07:00:20.059Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d726854432dc6fccf63cb619295824a1be96752ce300df1c7994ff891acfa890",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:00:20.059Z"
+  },
+  {
     "job_id": "workday-guidehouse-37907",
     "job_title": "MSO Credit Balance Specialist",
     "employer_name": "Guidehouse",
@@ -4736,64 +4793,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T07:00:20.059Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38252",
-    "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
-    "employer_name": "Guidehouse",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Part-Time-Oncology-Data-Specialist---Certified--remote-_38252",
-    "job_posted_at_datetime_utc": "2026-04-20T07:00:20.059Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d726854432dc6fccf63cb619295824a1be96752ce300df1c7994ff891acfa890",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:00:20.059Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-070026",
-    "job_title": "Associate Site Manager - Oncology - West U.S.",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "15 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Associate-Site-Manager---Oncology_R-070026-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:00:17.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9d56ecbe0f4ac22cf9855ac946638b335c74b01653f549b84800b96ff956c3b2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:00:17.053Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-049286",
@@ -4925,6 +4924,35 @@
       "employment": "entry_level",
       "domains": [
         "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:00:17.053Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-070026",
+    "job_title": "Associate Site Manager - Oncology - West U.S.",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "15 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Associate-Site-Manager---Oncology_R-070026-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:00:17.053Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9d56ecbe0f4ac22cf9855ac946638b335c74b01653f549b84800b96ff956c3b2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "operations"
       ],
       "locations": [
         "us"
@@ -7971,6 +7999,90 @@
     "job_posted_at": "2026-04-17T07:03:17.805Z"
   },
   {
+    "job_id": "workday-takeda-R0178665",
+    "job_title": "Biolife Nurse - Paramedic License (Bilingual Spanish)",
+    "employer_name": "Takeda",
+    "job_city": "TX - Houston - North",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Biolife-Nurse---Paramedic-License--Bilingual-Spanish-_R0178665-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e882b514b276e3a385f36cbb9593faf115970b1303d855c0a527636e1489ff48",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178664",
+    "job_title": "Biolife Nurse - Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "TX - Houston - North",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Biolife-Nurse---Registered-Nurse_R0178664-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4cb98acbb8a78e00a174869dcdb73d5aaa136793cf0bee55fead8dfac47b94ad",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178702",
+    "job_title": "Full Time Intake Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Lemon Grove",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Full-Time-Intake-Nurse_R0178702-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b0bbd6f80b7aadbe994cc315e2238bb1632f2646d8760d834621be6d33a69361",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:32.289Z"
+  },
+  {
     "job_id": "workday-takeda-R0178711",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
@@ -8180,90 +8292,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a5f2163b747dfcacfdd0e96d179bc4e1848dffe914f8c24fa0259dff7c6b8ebe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178665",
-    "job_title": "Biolife Nurse - Paramedic License (Bilingual Spanish)",
-    "employer_name": "Takeda",
-    "job_city": "TX - Houston - North",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Biolife-Nurse---Paramedic-License--Bilingual-Spanish-_R0178665-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e882b514b276e3a385f36cbb9593faf115970b1303d855c0a527636e1489ff48",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178664",
-    "job_title": "Biolife Nurse - Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "TX - Houston - North",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/Biolife-Nurse---Registered-Nurse_R0178664-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4cb98acbb8a78e00a174869dcdb73d5aaa136793cf0bee55fead8dfac47b94ad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178702",
-    "job_title": "Full Time Intake Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Lemon Grove",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Full-Time-Intake-Nurse_R0178702-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b0bbd6f80b7aadbe994cc315e2238bb1632f2646d8760d834621be6d33a69361",
     "tags": {
       "employment": "entry_level",
       "domains": [
