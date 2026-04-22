@@ -1,17 +1,17 @@
 [
   {
-    "job_id": "workday-takeda-R0178998",
-    "job_title": "Plasma Center Paramedic - EMT-P",
+    "job_id": "workday-takeda-R0178999",
+    "job_title": "Plasma Center Nurse - LPN",
     "employer_name": "Takeda",
     "job_city": "MN - Mankato",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0178998-1",
-    "job_posted_at_datetime_utc": "2026-04-22T21:20:48.264Z",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Plasma-Center-Nurse---LPN_R0178999-1",
+    "job_posted_at_datetime_utc": "2026-04-22T21:32:56.096Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c6891c8fa155b31329cced1093867031780e6e74bb2d7ae17387b7a4ed8eb705",
+    "fingerprint": "3ef98a1be9d7ea6b63266b4a68418e468d95df502f17bbb903a4eff3d671cbd7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -25,7 +25,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-22T21:20:48.264Z"
+    "job_posted_at": "2026-04-22T21:32:56.096Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179000",
+    "job_title": "Plasma Center Nurse - RN",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mankato",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Registered-Nurse-RN_R0179000-1",
+    "job_posted_at_datetime_utc": "2026-04-22T21:32:56.095Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "642ad725498586622936d386be8fdb61b76f358c3ce442e929bf5ca75888b273",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T21:32:56.095Z"
   },
   {
     "job_id": "workday-takeda-R0178996",
@@ -68,6 +96,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8050a19f48fbf3b1f8dc5ebde0737d89218e15b5da1fc385c55dfb7a28cca1f6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T21:20:48.264Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178998",
+    "job_title": "Plasma Center Paramedic - EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mankato",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0178998-1",
+    "job_posted_at_datetime_utc": "2026-04-22T21:20:48.264Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c6891c8fa155b31329cced1093867031780e6e74bb2d7ae17387b7a4ed8eb705",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2715,6 +2771,34 @@
     "job_posted_at": "2026-04-21T15:37:54.807Z"
   },
   {
+    "job_id": "workday-medtronic-R60860",
+    "job_title": "Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1",
+    "job_posted_at_datetime_utc": "2026-04-21T15:36:23.712Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3fa196475c53f95a53a61e2a63763e57ba259c17f0a2e6891716ccd87c16ba8f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T15:36:23.712Z"
+  },
+  {
     "job_id": "workday-medtronic-R64830",
     "job_title": "Clinical Specialist CRM - Wichita",
     "employer_name": "Medtronic",
@@ -2764,34 +2848,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T15:36:23.712Z"
-  },
-  {
-    "job_id": "workday-medtronic-R60860",
-    "job_title": "Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1",
-    "job_posted_at_datetime_utc": "2026-04-21T15:36:23.712Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3fa196475c53f95a53a61e2a63763e57ba259c17f0a2e6891716ccd87c16ba8f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -3869,6 +3925,34 @@
     "job_posted_at": "2026-04-20T07:03:17.804Z"
   },
   {
+    "job_id": "workday-takeda-R0178808",
+    "job_title": "Phlebotomist (Evenings/Weekends)",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Phlebotomist--Evenings-Weekends-_R0178808",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9ce82a2a826b4fb0c889b60c194c40ed4409ab555d3ce23017127002150ce478",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:32.289Z"
+  },
+  {
     "job_id": "workday-takeda-R0178807",
     "job_title": "Plasma Center Technician (Evenings/Weekends)",
     "employer_name": "Takeda",
@@ -4430,34 +4514,6 @@
     "job_posted_at": "2026-04-20T07:02:32.289Z"
   },
   {
-    "job_id": "workday-takeda-R0178808",
-    "job_title": "Phlebotomist (Evenings/Weekends)",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Phlebotomist--Evenings-Weekends-_R0178808",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9ce82a2a826b4fb0c889b60c194c40ed4409ab555d3ce23017127002150ce478",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:32.289Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01342521",
     "job_title": "Scientist, Purification Process",
     "employer_name": "Thermo Fisher Scientific",
@@ -4850,6 +4906,35 @@
     "job_posted_at": "2026-04-20T07:00:24.817Z"
   },
   {
+    "job_id": "workday-guidehouse-38252",
+    "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Part-Time-Oncology-Data-Specialist---Certified--remote-_38252",
+    "job_posted_at_datetime_utc": "2026-04-20T07:00:20.059Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d726854432dc6fccf63cb619295824a1be96752ce300df1c7994ff891acfa890",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:00:20.059Z"
+  },
+  {
     "job_id": "workday-guidehouse-37907",
     "job_title": "MSO Credit Balance Specialist",
     "employer_name": "Guidehouse",
@@ -4904,63 +4989,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T07:00:20.059Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38252",
-    "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
-    "employer_name": "Guidehouse",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Part-Time-Oncology-Data-Specialist---Certified--remote-_38252",
-    "job_posted_at_datetime_utc": "2026-04-20T07:00:20.059Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d726854432dc6fccf63cb619295824a1be96752ce300df1c7994ff891acfa890",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:00:20.059Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-070569",
-    "job_title": "Field Clinical Specialist - Shockwave - Chicago, IL",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Chicago-Illinois-United-States/Field-Clinical-Specialist---Shockwave---Chicago--IL_R-070569-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:00:17.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e42520bcc653369a63edb950b670cf81a96c7a46ddb09e866d525991dec1ed17",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:00:17.053Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-070254",
@@ -5089,6 +5117,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "15698cc07ef9affb44fe4644cfb04d73e4bda5d34c9d85ed8793b45280d399ca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:00:17.053Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-070569",
+    "job_title": "Field Clinical Specialist - Shockwave - Chicago, IL",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Chicago-Illinois-United-States/Field-Clinical-Specialist---Shockwave---Chicago--IL_R-070569-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:00:17.053Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e42520bcc653369a63edb950b670cf81a96c7a46ddb09e866d525991dec1ed17",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5383,35 +5439,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T07:00:13.703Z"
-  },
-  {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
   },
   {
     "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
@@ -5784,6 +5811,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -8504,62 +8560,6 @@
     "job_posted_at": "2026-04-17T07:01:34.911Z"
   },
   {
-    "job_id": "workday-abbott-31148027",
-    "job_title": "Associate Clinical Specialist - Bakersfield, CA",
-    "employer_name": "Abbott",
-    "job_city": "California - Bakersfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Bakersfield/Associate-Clinical-Specialist---Bakersfield--CA_31148027-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e07a6aa94232df37cff7d5d05f8fc3d71b5a28c94a5f6e9ddf5ab874bbf8b8f7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:34.910Z"
-  },
-  {
-    "job_id": "workday-abbott-31147855",
-    "job_title": "Clinical Account Representative, CardioMEMS - Brooklyn/Queens/Staten Island, NYC",
-    "employer_name": "Abbott",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---New-York/Clinical-Account-Representative--CardioMEMS---Brooklyn-Queens-Staten-Island--NYC_31147855-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9eef732cc5d98686d96127fdd018e19c55db7e6789c4028ebd1e8e5199cc5871",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:34.910Z"
-  },
-  {
     "job_id": "workday-abbott-31148024",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Louisville, KY",
     "employer_name": "Abbott",
@@ -8644,6 +8644,90 @@
     "job_posted_at": "2026-04-17T07:01:34.910Z"
   },
   {
+    "job_id": "workday-abbott-31148027",
+    "job_title": "Associate Clinical Specialist - Bakersfield, CA",
+    "employer_name": "Abbott",
+    "job_city": "California - Bakersfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Bakersfield/Associate-Clinical-Specialist---Bakersfield--CA_31148027-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e07a6aa94232df37cff7d5d05f8fc3d71b5a28c94a5f6e9ddf5ab874bbf8b8f7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:34.910Z"
+  },
+  {
+    "job_id": "workday-abbott-31147855",
+    "job_title": "Clinical Account Representative, CardioMEMS - Brooklyn/Queens/Staten Island, NYC",
+    "employer_name": "Abbott",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---New-York/Clinical-Account-Representative--CardioMEMS---Brooklyn-Queens-Staten-Island--NYC_31147855-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9eef732cc5d98686d96127fdd018e19c55db7e6789c4028ebd1e8e5199cc5871",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:34.910Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63211",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:03.027Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:03.027Z"
+  },
+  {
     "job_id": "workday-medtronic-R63300",
     "job_title": "Clinical Specialist, Cardiac Rhythm Management (CRM) - Mason City, IA",
     "employer_name": "Medtronic",
@@ -8693,34 +8777,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:03.027Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63211",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:03.027Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -9806,118 +9862,6 @@
     "job_posted_at": "2026-04-16T07:02:32.290Z"
   },
   {
-    "job_id": "workday-takeda-R0178598",
-    "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IN - Fort Wayne - Coldwater Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--LPN----Weekday---Weekend-Availability---Immediate-Benefits_R0178598",
-    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "33fab2c7a7cdfe220c3ce06197435beb6b59d52b6167ec011225703e425e466d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178596",
-    "job_title": "Plasma Center Nurse (RN) – Weekday & Weekend Availability   Immediate Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IN - Fort Wayne - Coldwater Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--RN----Weekday---Weekend-Availability---Immediate-Benefits_R0178596-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0a91afb036f0ad851ec10bc6bba116ad3e07d36a890bc707b92b57a8c06a0b6f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178595",
-    "job_title": "Plasma Center EMT (EMT-P/AEMT) – Weekday & Weekend Availability   Immediate Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IN - Fort Wayne - Coldwater Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-EMT--EMT-P-AEMT----Weekday---Weekend-Availability---Immediate-Benefits_R0178595-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8114c5c8cfeedd4aff8af12902bde63510cd1ad89c930019e9acb2be369ad1b4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178593",
-    "job_title": "Plasma Center Technician (On-the-Job Training + Immediate Benefits!)",
-    "employer_name": "Takeda",
-    "job_city": "IN - Fort Wayne - Coldwater Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Technician--On-the-Job-Training---Immediate-Benefits--_R0178593",
-    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c1a102176f9edbea73fbd2e82d7e901a26c6590fd72f58f42f97097b35aa771b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:02:32.289Z"
-  },
-  {
     "job_id": "workday-takeda-R0178588",
     "job_title": "Medical Support Specialist (EMT-P & AMET) – Immediate Benefits!",
     "employer_name": "Takeda",
@@ -10450,6 +10394,118 @@
     "job_posted_at": "2026-04-16T07:02:32.289Z"
   },
   {
+    "job_id": "workday-takeda-R0178598",
+    "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IN - Fort Wayne - Coldwater Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--LPN----Weekday---Weekend-Availability---Immediate-Benefits_R0178598",
+    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "33fab2c7a7cdfe220c3ce06197435beb6b59d52b6167ec011225703e425e466d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178596",
+    "job_title": "Plasma Center Nurse (RN) – Weekday & Weekend Availability   Immediate Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IN - Fort Wayne - Coldwater Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Nurse--RN----Weekday---Weekend-Availability---Immediate-Benefits_R0178596-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0a91afb036f0ad851ec10bc6bba116ad3e07d36a890bc707b92b57a8c06a0b6f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178595",
+    "job_title": "Plasma Center EMT (EMT-P/AEMT) – Weekday & Weekend Availability   Immediate Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IN - Fort Wayne - Coldwater Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-EMT--EMT-P-AEMT----Weekday---Weekend-Availability---Immediate-Benefits_R0178595-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8114c5c8cfeedd4aff8af12902bde63510cd1ad89c930019e9acb2be369ad1b4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178593",
+    "job_title": "Plasma Center Technician (On-the-Job Training + Immediate Benefits!)",
+    "employer_name": "Takeda",
+    "job_city": "IN - Fort Wayne - Coldwater Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Coldwater-Rd/Plasma-Center-Technician--On-the-Job-Training---Immediate-Benefits--_R0178593",
+    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c1a102176f9edbea73fbd2e82d7e901a26c6590fd72f58f42f97097b35aa771b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:02:32.289Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01334329",
     "job_title": "Field Service Engineer (Electron Microscopy)(REMOTE)",
     "employer_name": "Thermo Fisher Scientific",
@@ -10942,34 +10998,6 @@
     "job_posted_at": "2026-04-16T07:01:03.027Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202607875",
-    "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
-    "employer_name": "General Motors",
-    "job_city": "Buffalo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Buffalo-New-York-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202607875",
-    "job_posted_at_datetime_utc": "2026-04-16T07:00:55.914Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eab5809ad989846d4d6b34b1cb56ce00548d5e2fa44b05edb3c0f5d03043ce09",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:00:55.914Z"
-  },
-  {
     "job_id": "workday-general-motors-JR-202608069",
     "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
     "employer_name": "General Motors",
@@ -11019,6 +11047,34 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:00:55.914Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202607875",
+    "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
+    "employer_name": "General Motors",
+    "job_city": "Buffalo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Buffalo-New-York-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202607875",
+    "job_posted_at_datetime_utc": "2026-04-16T07:00:55.914Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eab5809ad989846d4d6b34b1cb56ce00548d5e2fa44b05edb3c0f5d03043ce09",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
