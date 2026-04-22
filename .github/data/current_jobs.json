@@ -2940,90 +2940,6 @@
     "job_posted_at": "2026-04-20T07:03:17.804Z"
   },
   {
-    "job_id": "workday-takeda-R0178756",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "GA - Morrow",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Morrow/Medical-Screener_R0178756",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ccfa6b845a0943ad4fb3507ff571f334a713f65927d76947cd75243769c92794",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178773",
-    "job_title": "Part Time Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178769",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "MN - Moorhead",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0178769-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:32.289Z"
-  },
-  {
     "job_id": "workday-takeda-R0178808",
     "job_title": "Phlebotomist (Evenings/Weekends)",
     "employer_name": "Takeda",
@@ -3513,6 +3429,90 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "069c3dbde6a2824c8047d237d54f9b4cbb7a822c98b854d6d7e9da6638c33c6c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178756",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "GA - Morrow",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Morrow/Medical-Screener_R0178756",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ccfa6b845a0943ad4fb3507ff571f334a713f65927d76947cd75243769c92794",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178773",
+    "job_title": "Part Time Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178769",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "MN - Moorhead",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0178769-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9521,6 +9521,34 @@
     "job_posted_at": "2026-04-16T07:02:32.289Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01348744",
+    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "San Diego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
+    "job_posted_at_datetime_utc": "2026-04-16T07:02:19.864Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:02:19.864Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01334329",
     "job_title": "Field Service Engineer (Electron Microscopy)(REMOTE)",
     "employer_name": "Thermo Fisher Scientific",
@@ -9582,34 +9610,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:02:19.864Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01348744",
-    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
-    "job_posted_at_datetime_utc": "2026-04-16T07:02:19.864Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -10779,33 +10779,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-04-15T16:59:28.703Z"
-  },
-  {
-    "job_id": "workday-abbott-31130822",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "Pennsylvania - Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Pennsylvania---Pittsburgh/Clinical-Associate_31130822-1",
-    "job_posted_at_datetime_utc": "2026-04-15T16:18:02.389Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "309d6071e48a7074b6b0b201ecf951650cfa5ba850416f9ba1da5817212c0f15",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T16:18:02.389Z"
   }
 ]
