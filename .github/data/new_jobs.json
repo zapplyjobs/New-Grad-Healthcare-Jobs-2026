@@ -196,34 +196,6 @@
     "job_posted_at": "2026-04-22T21:32:56.095Z"
   },
   {
-    "job_id": "workday-takeda-R0178998",
-    "job_title": "Plasma Center Paramedic - EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mankato",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0178998-1",
-    "job_posted_at_datetime_utc": "2026-04-22T21:20:48.264Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c6891c8fa155b31329cced1093867031780e6e74bb2d7ae17387b7a4ed8eb705",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T21:20:48.264Z"
-  },
-  {
     "job_id": "workday-takeda-R0178996",
     "job_title": "Plasma Center Nurse - LPN - Sign On Bonus Available!",
     "employer_name": "Takeda",
@@ -264,6 +236,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8050a19f48fbf3b1f8dc5ebde0737d89218e15b5da1fc385c55dfb7a28cca1f6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T21:20:48.264Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178998",
+    "job_title": "Plasma Center Paramedic - EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mankato",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0178998-1",
+    "job_posted_at_datetime_utc": "2026-04-22T21:20:48.264Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c6891c8fa155b31329cced1093867031780e6e74bb2d7ae17387b7a4ed8eb705",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -704,34 +704,6 @@
     "job_posted_at": "2026-04-22T18:58:49.125Z"
   },
   {
-    "job_id": "workday-takeda-R0178977",
-    "job_title": "Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "CA - Pomona",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Pomona/Plasma-Center-Technician_R0178977-1",
-    "job_posted_at_datetime_utc": "2026-04-22T18:23:40.589Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e6ddf7fdc635fa5468f98da136684eb99e70330bda92e6031bda70c1e171a49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T18:23:40.589Z"
-  },
-  {
     "job_id": "workday-takeda-R0178976",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
@@ -772,6 +744,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4f74ce80a2e8028cf44c31adf13e809d4ea9d476af7544fc2e1e2c6ffc580442",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T18:23:40.589Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178977",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "CA - Pomona",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Pomona/Plasma-Center-Technician_R0178977-1",
+    "job_posted_at_datetime_utc": "2026-04-22T18:23:40.589Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9e6ddf7fdc635fa5468f98da136684eb99e70330bda92e6031bda70c1e171a49",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1492,18 +1492,18 @@
     "job_posted_at": "2026-04-22T14:49:58.614Z"
   },
   {
-    "job_id": "workday-takeda-R0178932",
+    "job_id": "workday-takeda-R0178931",
     "job_title": "Paramedic - No Overnight Shifts",
     "employer_name": "Takeda",
-    "job_city": "MO - Springfield - McCurry Ave",
+    "job_city": "OK - Tulsa",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---McCurry-Ave/Medical-Support-Specialist-EMT_R0178932-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Paramedic---No-Overnight-Shifts_R0178931",
     "job_posted_at_datetime_utc": "2026-04-22T14:22:26.251Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "cd0d205e67ad23d0792ac7b3dad2e88ea963cb7df61a35ac38f820ec76689c21",
+    "fingerprint": "91e9fa44c8fee10acc06458274d8fad306de97976e94f3f44b0b5fbee23d8f7e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1520,18 +1520,18 @@
     "job_posted_at": "2026-04-22T14:22:26.251Z"
   },
   {
-    "job_id": "workday-takeda-R0178931",
+    "job_id": "workday-takeda-R0178932",
     "job_title": "Paramedic - No Overnight Shifts",
     "employer_name": "Takeda",
-    "job_city": "OK - Tulsa",
+    "job_city": "MO - Springfield - McCurry Ave",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Paramedic---No-Overnight-Shifts_R0178931",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---McCurry-Ave/Medical-Support-Specialist-EMT_R0178932-1",
     "job_posted_at_datetime_utc": "2026-04-22T14:22:26.251Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "91e9fa44c8fee10acc06458274d8fad306de97976e94f3f44b0b5fbee23d8f7e",
+    "fingerprint": "cd0d205e67ad23d0792ac7b3dad2e88ea963cb7df61a35ac38f820ec76689c21",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7374,18 +7374,18 @@
     "job_posted_at": "2026-04-20T01:57:12.222Z"
   },
   {
-    "job_id": "lever-palantir-cfdb534d-6d07-4a67-b055-a81ebbf47f88",
+    "job_id": "lever-palantir-76b62a88-f991-4605-82ac-8834be151511",
     "job_title": "Global Mobility Specialist",
     "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "Washington",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/cfdb534d-6d07-4a67-b055-a81ebbf47f88/apply",
+    "job_apply_link": "https://jobs.lever.co/palantir/76b62a88-f991-4605-82ac-8834be151511/apply",
     "job_posted_at_datetime_utc": "2026-04-20T01:57:10.869Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "13cffb49ed14de4b4867ceeb6e70d7d8f79cc4e6a8eb8207651a36ef2a604ffe",
+    "fingerprint": "9ae265ca6d52fb8fe6fff2fd138810372ca42ee1945b7fd1a3770f26d4f0cce5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7403,18 +7403,18 @@
     "job_posted_at": "2026-04-20T01:57:10.869Z"
   },
   {
-    "job_id": "lever-palantir-76b62a88-f991-4605-82ac-8834be151511",
+    "job_id": "lever-palantir-cfdb534d-6d07-4a67-b055-a81ebbf47f88",
     "job_title": "Global Mobility Specialist",
     "employer_name": "Palantir",
-    "job_city": "Washington",
-    "job_state": "",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/76b62a88-f991-4605-82ac-8834be151511/apply",
+    "job_apply_link": "https://jobs.lever.co/palantir/cfdb534d-6d07-4a67-b055-a81ebbf47f88/apply",
     "job_posted_at_datetime_utc": "2026-04-20T01:57:10.869Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9ae265ca6d52fb8fe6fff2fd138810372ca42ee1945b7fd1a3770f26d4f0cce5",
+    "fingerprint": "13cffb49ed14de4b4867ceeb6e70d7d8f79cc4e6a8eb8207651a36ef2a604ffe",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8307,6 +8307,62 @@
     "job_posted_at": "2026-04-17T07:03:17.805Z"
   },
   {
+    "job_id": "workday-takeda-R0178711",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "GA - Snellville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Snellville/Medical-Screener_R0178711-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22b00e02b45a1ed31264765a1698a4d42e4877d8e0291a430c16f9aaed886a0f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177467",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "DE - Newark",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---DE---Newark/Medical-Screener_R0177467-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0976f4867d0e6da213117a153f6710e4eddc74709d6d7c9229c35814fb13090f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:02:32.289Z"
+  },
+  {
     "job_id": "workday-takeda-R0178681",
     "job_title": "Plasma Center Nurse - LPN - Evening & Weekend Availability",
     "employer_name": "Takeda",
@@ -8560,62 +8616,6 @@
     "job_posted_at": "2026-04-17T07:02:32.289Z"
   },
   {
-    "job_id": "workday-takeda-R0178711",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "GA - Snellville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Snellville/Medical-Screener_R0178711-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22b00e02b45a1ed31264765a1698a4d42e4877d8e0291a430c16f9aaed886a0f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177467",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "DE - Newark",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---DE---Newark/Medical-Screener_R0177467-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0976f4867d0e6da213117a153f6710e4eddc74709d6d7c9229c35814fb13090f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:02:32.289Z"
-  },
-  {
     "job_id": "workday-takeda-R0178713",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
@@ -8670,62 +8670,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-17T07:01:34.911Z"
-  },
-  {
-    "job_id": "workday-abbott-31142984",
-    "job_title": "Automation Support Professional (Wichita, KS or Kansas City, MO)",
-    "employer_name": "Abbott",
-    "job_city": "United States Kansas Wichita",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kansas---Wichita/Automation-Support-Professional---Wichita--KS_31142984-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "47ea9678caba4708253df220bd1dc2dc5aa5ef4c9f1adbc1217cb05628ba3ce1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:34.910Z"
-  },
-  {
-    "job_id": "workday-abbott-31147868",
-    "job_title": "Clinical Specialist I, CPT - Twin Cities (Minneapolis/St. Paul, MN)",
-    "employer_name": "Abbott",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist-I--CPT---Twin-Cities--Minneapolis-St-Paul--MN-_31147868-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b84cfea2b64ddc7e9d019b26a9a2e008697fb69af2490b1775b23703835f0d83",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:34.910Z"
   },
   {
     "job_id": "workday-abbott-31148027",
@@ -8796,6 +8740,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "75f5080cfd134ed66a2c6c39d81a7efc7066295197ad02af6328133982d49f14",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:34.910Z"
+  },
+  {
+    "job_id": "workday-abbott-31142984",
+    "job_title": "Automation Support Professional (Wichita, KS or Kansas City, MO)",
+    "employer_name": "Abbott",
+    "job_city": "United States Kansas Wichita",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Kansas---Wichita/Automation-Support-Professional---Wichita--KS_31142984-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "47ea9678caba4708253df220bd1dc2dc5aa5ef4c9f1adbc1217cb05628ba3ce1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:34.910Z"
+  },
+  {
+    "job_id": "workday-abbott-31147868",
+    "job_title": "Clinical Specialist I, CPT - Twin Cities (Minneapolis/St. Paul, MN)",
+    "employer_name": "Abbott",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist-I--CPT---Twin-Cities--Minneapolis-St-Paul--MN-_31147868-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b84cfea2b64ddc7e9d019b26a9a2e008697fb69af2490b1775b23703835f0d83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10031,7 +10031,7 @@
   },
   {
     "job_id": "workday-takeda-R0178596",
-    "job_title": "Plasma Center Nurse (RN) – Weekday & Weekend Availability   Immediate Benefits",
+    "job_title": "Plasma Center Nurse (RN) �� Weekday & Weekend Availability   Immediate Benefits",
     "employer_name": "Takeda",
     "job_city": "IN - Fort Wayne - Coldwater Rd",
     "job_state": "",
@@ -11138,6 +11138,34 @@
     "job_posted_at": "2026-04-16T07:01:03.027Z"
   },
   {
+    "job_id": "workday-general-motors-JR-202606428",
+    "job_title": "Ergonomist",
+    "employer_name": "General Motors",
+    "job_city": "Flint",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Flint-Michigan-United-States-of-America/Ergonomist_JR-202606428",
+    "job_posted_at_datetime_utc": "2026-04-16T07:00:55.914Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2d01e05f672a53b4d655f97b716c4bb687b67f18fd4620541cc6bc92e6355c41",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:00:55.914Z"
+  },
+  {
     "job_id": "workday-general-motors-JR-202607875",
     "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
     "employer_name": "General Motors",
@@ -11187,34 +11215,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:00:55.914Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202606428",
-    "job_title": "Ergonomist",
-    "employer_name": "General Motors",
-    "job_city": "Flint",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Flint-Michigan-United-States-of-America/Ergonomist_JR-202606428",
-    "job_posted_at_datetime_utc": "2026-04-16T07:00:55.914Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2d01e05f672a53b4d655f97b716c4bb687b67f18fd4620541cc6bc92e6355c41",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
