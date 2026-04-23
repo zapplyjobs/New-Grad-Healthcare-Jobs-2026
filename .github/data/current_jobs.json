@@ -196,6 +196,34 @@
     "job_posted_at": "2026-04-22T21:32:56.095Z"
   },
   {
+    "job_id": "workday-takeda-R0178998",
+    "job_title": "Plasma Center Paramedic - EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mankato",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0178998-1",
+    "job_posted_at_datetime_utc": "2026-04-22T21:20:48.264Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c6891c8fa155b31329cced1093867031780e6e74bb2d7ae17387b7a4ed8eb705",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T21:20:48.264Z"
+  },
+  {
     "job_id": "workday-takeda-R0178996",
     "job_title": "Plasma Center Nurse - LPN - Sign On Bonus Available!",
     "employer_name": "Takeda",
@@ -236,34 +264,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8050a19f48fbf3b1f8dc5ebde0737d89218e15b5da1fc385c55dfb7a28cca1f6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T21:20:48.264Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178998",
-    "job_title": "Plasma Center Paramedic - EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mankato",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0178998-1",
-    "job_posted_at_datetime_utc": "2026-04-22T21:20:48.264Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c6891c8fa155b31329cced1093867031780e6e74bb2d7ae17387b7a4ed8eb705",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -704,6 +704,34 @@
     "job_posted_at": "2026-04-22T18:58:49.125Z"
   },
   {
+    "job_id": "workday-takeda-R0178977",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "CA - Pomona",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Pomona/Plasma-Center-Technician_R0178977-1",
+    "job_posted_at_datetime_utc": "2026-04-22T18:23:40.589Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9e6ddf7fdc635fa5468f98da136684eb99e70330bda92e6031bda70c1e171a49",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T18:23:40.589Z"
+  },
+  {
     "job_id": "workday-takeda-R0178976",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
@@ -744,34 +772,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4f74ce80a2e8028cf44c31adf13e809d4ea9d476af7544fc2e1e2c6ffc580442",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T18:23:40.589Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178977",
-    "job_title": "Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "CA - Pomona",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Pomona/Plasma-Center-Technician_R0178977-1",
-    "job_posted_at_datetime_utc": "2026-04-22T18:23:40.589Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e6ddf7fdc635fa5468f98da136684eb99e70330bda92e6031bda70c1e171a49",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1492,18 +1492,18 @@
     "job_posted_at": "2026-04-22T14:49:58.614Z"
   },
   {
-    "job_id": "workday-takeda-R0178931",
+    "job_id": "workday-takeda-R0178932",
     "job_title": "Paramedic - No Overnight Shifts",
     "employer_name": "Takeda",
-    "job_city": "OK - Tulsa",
+    "job_city": "MO - Springfield - McCurry Ave",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Paramedic---No-Overnight-Shifts_R0178931",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---McCurry-Ave/Medical-Support-Specialist-EMT_R0178932-1",
     "job_posted_at_datetime_utc": "2026-04-22T14:22:26.251Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "91e9fa44c8fee10acc06458274d8fad306de97976e94f3f44b0b5fbee23d8f7e",
+    "fingerprint": "cd0d205e67ad23d0792ac7b3dad2e88ea963cb7df61a35ac38f820ec76689c21",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1520,18 +1520,18 @@
     "job_posted_at": "2026-04-22T14:22:26.251Z"
   },
   {
-    "job_id": "workday-takeda-R0178932",
+    "job_id": "workday-takeda-R0178931",
     "job_title": "Paramedic - No Overnight Shifts",
     "employer_name": "Takeda",
-    "job_city": "MO - Springfield - McCurry Ave",
+    "job_city": "OK - Tulsa",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---McCurry-Ave/Medical-Support-Specialist-EMT_R0178932-1",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Paramedic---No-Overnight-Shifts_R0178931",
     "job_posted_at_datetime_utc": "2026-04-22T14:22:26.251Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "cd0d205e67ad23d0792ac7b3dad2e88ea963cb7df61a35ac38f820ec76689c21",
+    "fingerprint": "91e9fa44c8fee10acc06458274d8fad306de97976e94f3f44b0b5fbee23d8f7e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4037,6 +4037,146 @@
     "job_posted_at": "2026-04-20T07:03:17.804Z"
   },
   {
+    "job_id": "workday-takeda-R0178766",
+    "job_title": "EMT-P – Plasma Center   Day 1 Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "PA - Pittsburgh - Braddock Ave",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/EMT-P---Plasma-Center---Day-1-Benefits-_R0178766-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7562de258b51d61ec612809811928c7b5895485b225ed39ea9c5f162f67781ea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178763",
+    "job_title": "Licensed Practical Nurse – Plasma Center   Day 1 Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "PA - Pittsburgh - Braddock Ave",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/Licensed-Practical-Nurse---Plasma-Center---Day-1-Benefits-_R0178763-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "069c3dbde6a2824c8047d237d54f9b4cbb7a822c98b854d6d7e9da6638c33c6c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178756",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "GA - Morrow",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Morrow/Medical-Screener_R0178756",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ccfa6b845a0943ad4fb3507ff571f334a713f65927d76947cd75243769c92794",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178773",
+    "job_title": "Part Time Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178769",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "MN - Moorhead",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0178769-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:32.289Z"
+  },
+  {
     "job_id": "workday-takeda-R0178808",
     "job_title": "Phlebotomist (Evenings/Weekends)",
     "employer_name": "Takeda",
@@ -4486,146 +4626,6 @@
     "job_posted_at": "2026-04-20T07:02:32.289Z"
   },
   {
-    "job_id": "workday-takeda-R0178766",
-    "job_title": "EMT-P – Plasma Center   Day 1 Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "PA - Pittsburgh - Braddock Ave",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/EMT-P---Plasma-Center---Day-1-Benefits-_R0178766-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7562de258b51d61ec612809811928c7b5895485b225ed39ea9c5f162f67781ea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178763",
-    "job_title": "Licensed Practical Nurse – Plasma Center   Day 1 Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "PA - Pittsburgh - Braddock Ave",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/Licensed-Practical-Nurse---Plasma-Center---Day-1-Benefits-_R0178763-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "069c3dbde6a2824c8047d237d54f9b4cbb7a822c98b854d6d7e9da6638c33c6c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178756",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "GA - Morrow",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Morrow/Medical-Screener_R0178756",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ccfa6b845a0943ad4fb3507ff571f334a713f65927d76947cd75243769c92794",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178773",
-    "job_title": "Part Time Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178769",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "MN - Moorhead",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0178769-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:32.289Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01342521",
     "job_title": "Scientist, Purification Process",
     "employer_name": "Thermo Fisher Scientific",
@@ -5018,35 +5018,6 @@
     "job_posted_at": "2026-04-20T07:00:24.817Z"
   },
   {
-    "job_id": "workday-guidehouse-38252",
-    "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
-    "employer_name": "Guidehouse",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Part-Time-Oncology-Data-Specialist---Certified--remote-_38252",
-    "job_posted_at_datetime_utc": "2026-04-20T07:00:20.059Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d726854432dc6fccf63cb619295824a1be96752ce300df1c7994ff891acfa890",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:00:20.059Z"
-  },
-  {
     "job_id": "workday-guidehouse-37907",
     "job_title": "MSO Credit Balance Specialist",
     "employer_name": "Guidehouse",
@@ -5094,6 +5065,35 @@
       ],
       "locations": [
         "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:00:20.059Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38252",
+    "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Part-Time-Oncology-Data-Specialist---Certified--remote-_38252",
+    "job_posted_at_datetime_utc": "2026-04-20T07:00:20.059Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d726854432dc6fccf63cb619295824a1be96752ce300df1c7994ff891acfa890",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
       ],
       "experience": "unknown",
       "special": []
@@ -11250,34 +11250,6 @@
     "job_posted_at": "2026-04-16T07:00:20.701Z"
   },
   {
-    "job_id": "workday-guidehouse-35052",
-    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
-    "employer_name": "Guidehouse",
-    "job_city": "US IL Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_35052",
-    "job_posted_at_datetime_utc": "2026-04-16T07:00:20.060Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:00:20.060Z"
-  },
-  {
     "job_id": "workday-guidehouse-38437",
     "job_title": "Patient Account Representative - Medicare, Medicaid, Commercial Claims",
     "employer_name": "Guidehouse",
@@ -11348,6 +11320,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "af560a516715fd85f30dc021792602da6887d869f33f4d7e5544f667f88e7154",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:00:20.060Z"
+  },
+  {
+    "job_id": "workday-guidehouse-35052",
+    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
+    "employer_name": "Guidehouse",
+    "job_city": "US IL Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_35052",
+    "job_posted_at_datetime_utc": "2026-04-16T07:00:20.060Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
     "tags": {
       "employment": "entry_level",
       "domains": [
