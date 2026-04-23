@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01349801",
+    "job_title": "Field Application Scientist, Proteomics",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "California",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-California-USA/Field-Application-Scientist--Proteomics_R-01349801",
+    "job_posted_at_datetime_utc": "2026-04-23T04:07:26.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d8b22b44b4000a700c35518feb3196c87dc0d31fbd251decef6f64f4c4cbc22c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T04:07:26.378Z"
+  },
+  {
     "job_id": "workday-abbott-31148208",
     "job_title": "Clinical Specialist I, CPT - Phoenix, AZ",
     "employer_name": "Abbott",
@@ -3079,34 +3107,6 @@
     "job_posted_at": "2026-04-21T15:35:31.515Z"
   },
   {
-    "job_id": "workday-abbott-31146064",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
-    "employer_name": "Abbott",
-    "job_city": "North Dakota - Fargo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064",
-    "job_posted_at_datetime_utc": "2026-04-21T15:34:09.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "148b21a1d82d1390046653de10ed0386e81a0e0750e9eae03039f231edee02ed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T15:34:09.399Z"
-  },
-  {
     "job_id": "workday-abbott-31148165",
     "job_title": "Clinical Account Representative, CardioMEMS - Omaha, NE",
     "employer_name": "Abbott",
@@ -3175,6 +3175,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0bcb6f7da3e6beab9a0a81a8302689c044733e3b75e5ffdb44db00f5781bc1f5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T15:34:09.399Z"
+  },
+  {
+    "job_id": "workday-abbott-31146064",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
+    "employer_name": "Abbott",
+    "job_city": "North Dakota - Fargo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064",
+    "job_posted_at_datetime_utc": "2026-04-21T15:34:09.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "148b21a1d82d1390046653de10ed0386e81a0e0750e9eae03039f231edee02ed",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4009,6 +4037,34 @@
     "job_posted_at": "2026-04-20T07:03:17.804Z"
   },
   {
+    "job_id": "workday-takeda-R0178808",
+    "job_title": "Phlebotomist (Evenings/Weekends)",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Phlebotomist--Evenings-Weekends-_R0178808",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9ce82a2a826b4fb0c889b60c194c40ed4409ab555d3ce23017127002150ce478",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:32.289Z"
+  },
+  {
     "job_id": "workday-takeda-R0178807",
     "job_title": "Plasma Center Technician (Evenings/Weekends)",
     "employer_name": "Takeda",
@@ -4570,34 +4626,6 @@
     "job_posted_at": "2026-04-20T07:02:32.289Z"
   },
   {
-    "job_id": "workday-takeda-R0178808",
-    "job_title": "Phlebotomist (Evenings/Weekends)",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Phlebotomist--Evenings-Weekends-_R0178808",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9ce82a2a826b4fb0c889b60c194c40ed4409ab555d3ce23017127002150ce478",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:32.289Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01342521",
     "job_title": "Scientist, Purification Process",
     "employer_name": "Thermo Fisher Scientific",
@@ -4654,34 +4682,6 @@
     "job_posted_at": "2026-04-20T07:02:19.862Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01345262",
-    "job_title": "Supervisor - Sample Management- 2nd Shift",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "USA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covington-Kentucky---USA/Supervisor---Sample-Management_R-01345262",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:19.862Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7cd6fd7183f3f903c860ff9f8d1055340bfecb3fd5117aa33d68859fde540d82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:02:19.862Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01346650",
     "job_title": "Scientist: HPLC",
     "employer_name": "Thermo Fisher Scientific",
@@ -4703,6 +4703,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:02:19.862Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01345262",
+    "job_title": "Supervisor - Sample Management- 2nd Shift",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "USA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covington-Kentucky---USA/Supervisor---Sample-Management_R-01345262",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:19.862Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7cd6fd7183f3f903c860ff9f8d1055340bfecb3fd5117aa33d68859fde540d82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5075,6 +5103,35 @@
     "job_posted_at": "2026-04-20T07:00:20.059Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-070026",
+    "job_title": "Associate Site Manager - Oncology - West U.S.",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "15 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Associate-Site-Manager---Oncology_R-070026-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:00:17.053Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9d56ecbe0f4ac22cf9855ac946638b335c74b01653f549b84800b96ff956c3b2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:00:17.053Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-049286",
     "job_title": "Associate Clinical Consultant or Clinical Consultant – Peoria, IL - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -5204,35 +5261,6 @@
       "employment": "entry_level",
       "domains": [
         "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:00:17.053Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-070026",
-    "job_title": "Associate Site Manager - Oncology - West U.S.",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "15 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Associate-Site-Manager---Oncology_R-070026-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:00:17.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9d56ecbe0f4ac22cf9855ac946638b335c74b01653f549b84800b96ff956c3b2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "operations"
       ],
       "locations": [
         "us"
@@ -5523,35 +5551,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T07:00:13.703Z"
-  },
-  {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
   },
   {
     "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
@@ -5924,6 +5923,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -6978,34 +7006,6 @@
     "job_posted_at": "2026-04-20T01:57:25.351Z"
   },
   {
-    "job_id": "greenhouse-bridgewater89-8294673002",
-    "job_title": "Client Investment Research Associate",
-    "employer_name": "Bridgewater Associates",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/bridgewater89/jobs/8294673002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:21.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "25465ca2b90103fc5980ec504adee017127359f7a938ad83f03e4d44aafe6e76",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:21.553Z"
-  },
-  {
     "job_id": "greenhouse-bridgewater89-8408478002",
     "job_title": "Equities Research Associate, Asia Solutions",
     "employer_name": "Bridgewater Associates",
@@ -7027,6 +7027,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:21.553Z"
+  },
+  {
+    "job_id": "greenhouse-bridgewater89-8294673002",
+    "job_title": "Client Investment Research Associate",
+    "employer_name": "Bridgewater Associates",
+    "job_city": "New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/bridgewater89/jobs/8294673002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:21.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "25465ca2b90103fc5980ec504adee017127359f7a938ad83f03e4d44aafe6e76",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -8222,34 +8250,6 @@
     "job_posted_at": "2026-04-17T07:03:28.124Z"
   },
   {
-    "job_id": "workday-merck-&-co.-R393567",
-    "job_title": "Companion Animal Professional Services Veterinarian (Tri-State)",
-    "employer_name": "Merck & Co.",
-    "job_city": "New Jersey Rahway",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Professional-Services-Veterinarian--Tri-State-_R393567",
-    "job_posted_at_datetime_utc": "2026-04-17T07:03:17.805Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5b4fa9b8027314c869ddac4ffc63d60864fb3d793b35deddce74bf231f9ade74",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:03:17.805Z"
-  },
-  {
     "job_id": "workday-merck-&-co.-R393664",
     "job_title": "Oncology Sales Specialist - Southern Virginia",
     "employer_name": "Merck & Co.",
@@ -8267,6 +8267,34 @@
       "domains": [
         "healthcare",
         "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:03:17.805Z"
+  },
+  {
+    "job_id": "workday-merck-&-co.-R393567",
+    "job_title": "Companion Animal Professional Services Veterinarian (Tri-State)",
+    "employer_name": "Merck & Co.",
+    "job_city": "New Jersey Rahway",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Professional-Services-Veterinarian--Tri-State-_R393567",
+    "job_posted_at_datetime_utc": "2026-04-17T07:03:17.805Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5b4fa9b8027314c869ddac4ffc63d60864fb3d793b35deddce74bf231f9ade74",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
       ],
       "locations": [
         "us"
@@ -8644,34 +8672,6 @@
     "job_posted_at": "2026-04-17T07:01:34.911Z"
   },
   {
-    "job_id": "workday-abbott-31147868",
-    "job_title": "Clinical Specialist I, CPT - Twin Cities (Minneapolis/St. Paul, MN)",
-    "employer_name": "Abbott",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist-I--CPT---Twin-Cities--Minneapolis-St-Paul--MN-_31147868-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b84cfea2b64ddc7e9d019b26a9a2e008697fb69af2490b1775b23703835f0d83",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-17T07:01:34.910Z"
-  },
-  {
     "job_id": "workday-abbott-31148027",
     "job_title": "Associate Clinical Specialist - Bakersfield, CA",
     "employer_name": "Abbott",
@@ -8768,6 +8768,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "47ea9678caba4708253df220bd1dc2dc5aa5ef4c9f1adbc1217cb05628ba3ce1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T07:01:34.910Z"
+  },
+  {
+    "job_id": "workday-abbott-31147868",
+    "job_title": "Clinical Specialist I, CPT - Twin Cities (Minneapolis/St. Paul, MN)",
+    "employer_name": "Abbott",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Clinical-Specialist-I--CPT---Twin-Cities--Minneapolis-St-Paul--MN-_31147868-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:34.910Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b84cfea2b64ddc7e9d019b26a9a2e008697fb69af2490b1775b23703835f0d83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9316,6 +9344,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-17T07:00:07.080Z"
+  },
+  {
+    "job_id": "workday-abbott-31145778",
+    "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Charlotte/Clinical-Specialist---Charlotte--NC_31145778-1",
+    "job_posted_at_datetime_utc": "2026-04-17T04:04:03.185Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T04:04:03.185Z"
   },
   {
     "job_id": "sr-AbbVie-3743990012643536",
@@ -9946,6 +10002,118 @@
     "job_posted_at": "2026-04-16T07:02:32.290Z"
   },
   {
+    "job_id": "workday-takeda-R0178583",
+    "job_title": "Bilingual (Spanish/English) EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--EMT-P_R0178583-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d74e81fc28d2ca1d89af5213c905c4c4670d7fb378d70ce3748d4465032dd901",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178582",
+    "job_title": "Bilingual (Spanish/English) Nurse – LPN/LVN",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Nurse---LPN-LVN_R0178582-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b552051bdad90bdcb93a3411902e0def5ce1f5aa598a3012310e6be34a76887a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178581",
+    "job_title": "Bilingual (Spanish/English) Registered Nurse (RN)",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Registered-Nurse--RN-_R0178581-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4565a846bc7f7d728437f8c96bbd4e1fa3b08bb2cf45917d6ecdece543c346c9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:02:32.289Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178636",
+    "job_title": "Evening Medical Historian",
+    "employer_name": "Takeda",
+    "job_city": "TX - San Antonio - New Ave",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---New-Ave/Evening-Medical-Historian_R0178636-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "91466050f5eef9c45b819e78b738176f28e25a0b32a8504848826a52536f7c77",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:02:32.289Z"
+  },
+  {
     "job_id": "workday-takeda-R0178598",
     "job_title": "Plasma Center Nurse (LPN) – Weekday & Weekend Availability   Immediate Benefits",
     "employer_name": "Takeda",
@@ -10478,118 +10646,6 @@
     "job_posted_at": "2026-04-16T07:02:32.289Z"
   },
   {
-    "job_id": "workday-takeda-R0178583",
-    "job_title": "Bilingual (Spanish/English) EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--EMT-P_R0178583-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d74e81fc28d2ca1d89af5213c905c4c4670d7fb378d70ce3748d4465032dd901",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178582",
-    "job_title": "Bilingual (Spanish/English) Nurse – LPN/LVN",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Nurse---LPN-LVN_R0178582-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b552051bdad90bdcb93a3411902e0def5ce1f5aa598a3012310e6be34a76887a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178581",
-    "job_title": "Bilingual (Spanish/English) Registered Nurse (RN)",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio/Bilingual--Spanish-English--Registered-Nurse--RN-_R0178581-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4565a846bc7f7d728437f8c96bbd4e1fa3b08bb2cf45917d6ecdece543c346c9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:02:32.289Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178636",
-    "job_title": "Evening Medical Historian",
-    "employer_name": "Takeda",
-    "job_city": "TX - San Antonio - New Ave",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---New-Ave/Evening-Medical-Historian_R0178636-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:02:32.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "91466050f5eef9c45b819e78b738176f28e25a0b32a8504848826a52536f7c77",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:02:32.289Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01334329",
     "job_title": "Field Service Engineer (Electron Microscopy)(REMOTE)",
     "employer_name": "Thermo Fisher Scientific",
@@ -10712,6 +10768,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-16T07:01:46.261Z"
+  },
+  {
+    "job_id": "workday-abbott-31147771",
+    "job_title": "Clinical Specialist, CRM (Springfield, MO)",
+    "employer_name": "Abbott",
+    "job_city": "Missouri - Springfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:34.911Z"
   },
   {
     "job_id": "workday-abbott-31140668",
@@ -10911,34 +10995,6 @@
     "job_posted_at": "2026-04-16T07:01:34.911Z"
   },
   {
-    "job_id": "workday-abbott-31147771",
-    "job_title": "Clinical Specialist, CRM (Springfield, MO)",
-    "employer_name": "Abbott",
-    "job_city": "Missouri - Springfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Clinical-Specialist--CRM--Springfield--MO-_31147771-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:34.911Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f6e48a331292b5d84d87f14fd3d190f0560005230acf542efb444b807656bbe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:34.911Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-070322",
     "job_title": "Oncology Sales Specialist, Solid Tumor (Orlando South FL) - Johnson & Johnson Innovative Medicine",
     "employer_name": "Johnson & Johnson",
@@ -11026,34 +11082,6 @@
     "job_posted_at": "2026-04-16T07:01:07.878Z"
   },
   {
-    "job_id": "workday-medtronic-R64367",
-    "job_title": "Associate Clinical Specialist CRM - Tampa",
-    "employer_name": "Medtronic",
-    "job_city": "Tampa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Associate-Clinical-Specialist-CRM---Tampa_R64367-1",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:03.027Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d17811aa4608525839f2c7283b9239e2317b4138a257a459c4f3d4831ffaafa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T07:01:03.027Z"
-  },
-  {
     "job_id": "workday-medtronic-R63576",
     "job_title": "Clinical Specialist - Cardiac Rhythm Management (West Virginia/Pennsylvania)",
     "employer_name": "Medtronic",
@@ -11075,6 +11103,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T07:01:03.027Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64367",
+    "job_title": "Associate Clinical Specialist CRM - Tampa",
+    "employer_name": "Medtronic",
+    "job_city": "Tampa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tampa-Florida-United-States-of-America/Associate-Clinical-Specialist-CRM---Tampa_R64367-1",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:03.027Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d17811aa4608525839f2c7283b9239e2317b4138a257a459c4f3d4831ffaafa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -11446,33 +11502,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-16T07:00:13.703Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178484",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Orlando",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Orlando/Medical-Screener_R0178484-1",
-    "job_posted_at_datetime_utc": "2026-04-16T04:05:58.151Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f7084871d887cca92488e3197d550e64c0a6583e3582b4879945db605dce23d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T04:05:58.151Z"
   }
 ]
