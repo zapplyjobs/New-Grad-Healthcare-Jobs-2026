@@ -2393,18 +2393,18 @@
     "job_posted_at": "2026-04-22T18:23:40.589Z"
   },
   {
-    "job_id": "workday-medtronic-R65002",
-    "job_title": "Associate Clinical Specialist, Pain Interventions - Grand Island / Kearney / Western NE",
+    "job_id": "workday-medtronic-R64928",
+    "job_title": "Associate Clinical Specialist, Pain Interventions - Oklahoma City, OK",
     "employer_name": "Medtronic",
-    "job_city": "2 Locations",
+    "job_city": "Oklahoma City",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lincoln-Nebraska-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---Western-NE_R65002-1",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oklahoma-City-Oklahoma-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---Oklahoma-City--OK_R64928-1",
     "job_posted_at_datetime_utc": "2026-04-22T18:22:11.517Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "362720d50b9e1f1a340bd8ea961a1f1cd1b932541b297177069cee73d0e14147",
+    "fingerprint": "e7771918e99dff8603b03023a68371ee6762ac241701e361c466ca890120997c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2421,18 +2421,18 @@
     "job_posted_at": "2026-04-22T18:22:11.517Z"
   },
   {
-    "job_id": "workday-medtronic-R64928",
-    "job_title": "Associate Clinical Specialist, Pain Interventions - Oklahoma City, OK",
+    "job_id": "workday-medtronic-R65002",
+    "job_title": "Associate Clinical Specialist, Pain Interventions - Grand Island / Kearney / Western NE",
     "employer_name": "Medtronic",
-    "job_city": "Oklahoma City",
+    "job_city": "2 Locations",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oklahoma-City-Oklahoma-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---Oklahoma-City--OK_R64928-1",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lincoln-Nebraska-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---Western-NE_R65002-1",
     "job_posted_at_datetime_utc": "2026-04-22T18:22:11.517Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e7771918e99dff8603b03023a68371ee6762ac241701e361c466ca890120997c",
+    "fingerprint": "362720d50b9e1f1a340bd8ea961a1f1cd1b932541b297177069cee73d0e14147",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4571,6 +4571,63 @@
     "job_posted_at": "2026-04-21T07:01:57.336Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01349110",
+    "job_title": "Technical Sales Specialist, Proteomics Workflow and Beads",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Chicago-Illinois-USA/Technical-Sales-Specialist--Proteomics-Workflow-and-Beads_R-01349110",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:43.171Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ea6ae155b991b0588bf1f2fb89b7d2b18b9cbc15ac0215ee1cfb310d5471412f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:01:43.171Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01349500",
+    "job_title": "QC Scientist I",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/QC-Scientist-I_R-01349500",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:43.171Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e631abb1081d2ba9bdf9330972fb1e9f0e50b39b4fb72595e351f04250e01396",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:01:43.171Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01349503",
     "job_title": "QC Scientist I",
     "employer_name": "Thermo Fisher Scientific",
@@ -4695,63 +4752,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c2fb82ed12a3822c5135c8017c21ccde7a2c6b1ad49e7403ea94aec6f738a29e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:43.171Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01349110",
-    "job_title": "Technical Sales Specialist, Proteomics Workflow and Beads",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Chicago-Illinois-USA/Technical-Sales-Specialist--Proteomics-Workflow-and-Beads_R-01349110",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:43.171Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ea6ae155b991b0588bf1f2fb89b7d2b18b9cbc15ac0215ee1cfb310d5471412f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:43.171Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01349500",
-    "job_title": "QC Scientist I",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/QC-Scientist-I_R-01349500",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:43.171Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e631abb1081d2ba9bdf9330972fb1e9f0e50b39b4fb72595e351f04250e01396",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5558,34 +5558,6 @@
     "job_posted_at": "2026-04-20T07:10:16.470Z"
   },
   {
-    "job_id": "workday-abbott-31148012",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:10:16.470Z"
-  },
-  {
     "job_id": "workday-abbott-31113914",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
     "employer_name": "Abbott",
@@ -5626,6 +5598,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f2be8f980f9d8393d07bc74bf3fd3211d32f56039fd2175c8e1e4ed68457020b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:10:16.470Z"
+  },
+  {
+    "job_id": "workday-abbott-31148012",
+    "job_title": "Clinical Associate",
+    "employer_name": "Abbott",
+    "job_city": "Georgia - Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5696,6 +5696,62 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T07:02:19.862Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178773",
+    "job_title": "Part Time Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178769",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "MN - Moorhead",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0178769-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
   },
   {
     "job_id": "workday-takeda-R0178808",
@@ -6231,18 +6287,18 @@
     "job_posted_at": "2026-04-20T07:01:57.336Z"
   },
   {
-    "job_id": "workday-takeda-R0178773",
-    "job_title": "Part Time Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
+    "job_id": "workday-thermo-fisher-scientific-R-01342521",
+    "job_title": "Scientist, Purification Process",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Wilmington",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-Delaware-USA/Scientist--Purification-Process_R-01342521",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:43.172Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
+    "fingerprint": "295215f331144a714100237b12f517dc842b06d06f8fce816833cef5fa02711d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6251,40 +6307,12 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178769",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "MN - Moorhead",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0178769-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
+    "job_posted_at": "2026-04-20T07:01:43.172Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01345262",
@@ -6336,34 +6364,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:43.172Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01342521",
-    "job_title": "Scientist, Purification Process",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Wilmington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-Delaware-USA/Scientist--Purification-Process_R-01342521",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:43.172Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "295215f331144a714100237b12f517dc842b06d06f8fce816833cef5fa02711d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7186,35 +7186,6 @@
     "job_posted_at": "2026-04-20T07:00:13.703Z"
   },
   {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
     "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -7585,6 +7556,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
