@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-384-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-385-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-59-blue?style=flat&logo=building)
 ![Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-171-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -69,11 +69,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cigna** | RN - Oncology Nurse Case Manager - Remote | United States Wor... | 31m | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/RN---Oncology-Nurse-Case-Manager---Remote_26004215-1) |
+| 🏢 **Cigna** | RN - Oncology Nurse Case Manager - Remote | United States Wor... | 46m | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/RN---Oncology-Nurse-Case-Manager---Remote_26004215-1) |
 | 🏢 **Takeda** | Plasma Center Nurse – LPN | OH - Findlay | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Findlay/Plasma-Center-Nurse---LPN_R0179174-1) |
 | 🏢 **Takeda** | Plasma Center Registered Nurse (RN) – Immediate Benefits! | WI - Onalaska | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0179172-1) |
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings | Missouri - Spring... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31148767) |
-| 🏢 **Cigna** | Patient Services Representative - Evernorth | Pittsburgh, PA | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Pittsburgh-PA/Patient-Services-Representative---Evernorth_26002095) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings | Missouri - Spring... | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Springfield/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31148767) |
+| 🏢 **Cigna** | Patient Services Representative - Evernorth | Pittsburgh, PA | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Pittsburgh-PA/Patient-Services-Representative---Evernorth_26002095) |
 | 🏢 **Cigna** | Patient Care Coordinator, Specialty Pharmacy- Evernorth | United States Wor... | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Patient-Care-Coordinator--Specialty-Pharmacy--Evernorth_26001961) |
 | 🏢 **Takeda** | Registered Nurse, RN | CO - Aurora | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Registered-Nurse--RN_R0179126-1) |
 | 🏢 **Medtronic** | Clinical Specialist CRM - San Fernando Valley / Ventura | 2 Locations | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Burbank-California-United-States-of-America/Clinical-Specialist-CRM---San-Fernando-Valley---Ventura_R61785-1) |
@@ -135,11 +135,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **IDEXX** | Medical Laboratory Technician Part Time 3rd Shift | Dallas, TX | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician-Part-Time-3rd-Shift_J-052535) |
-| 🏢 **Chan Zuckerberg Biohub** | Research Associate, Synthetic Biology | New York, NY | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7776738) |
+| 🏢 **IDEXX** | Medical Laboratory Technician Part Time 3rd Shift | Dallas, TX | 6h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician-Part-Time-3rd-Shift_J-052535) |
+| 🏢 **Chan Zuckerberg Biohub** | Research Associate, Synthetic Biology | New York, NY | 6h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7776738) |
 | 🏢 **Abbott** | Production Chemist I | California - Pomona | 6h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pomona/Production-Chemist-I_31148229-1) |
 | 🏢 **Entegris** | Scientist I, Research Associate | San Luis Obispo, CA | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Scientist-I--Research-Associate_REQ-11212) |
-| 🏢 **NBCUniversal** | Unified Comms/Collab Technician | Universal City + 1 more | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000122715149) |
+| 🏢 **NBCUniversal** | Unified Comms/Collab Technician | Universal City + 1 more | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000122715149) |
 | 🏢 **Thermo Fisher Scientific** | Scientist, Formulations | Collegeville | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/Scientist--Formulations_R-01348633) |
 | 🏢 **IDEXX** | Medical Laboratory Technician Processor 1st Shift | North Grafton, MA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/North-Grafton-MA/Medical-Laboratory-Technician-Processor-1st-Shift_J-052831) |
 | 🏢 **TD Bank** | Equity Research Associate - Airlines | New York | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Equity-Research-Associate---Airlines_R_1486145) |
@@ -200,12 +200,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 🏢 **Abbott** | Clinical Specialist, Vessel Closure - Salt Lake City | Utah - Salt Lake ... | 10m | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Utah---Salt-Lake-City/Clinical-Specialist--Vessel-Closure---Salt-Lake-City_31148217-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist – Coronary Image-Guided Therapy Devices (Denver CO) | Denver | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denver-Colorado-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--Denver-CO-_579553) |
 | 🏢 **Medtronic** | Associate Clinical Specialist - Cardiac Rhythm Management (Searcy, AR) | Little Rock | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Associate-Clinical-Specialist---Cardiac-Rhythm-Management--Searcy--AR-_R62871-1) |
 | 🏢 **Medtronic** | Clinical Specialist - Cardiac Rhythm Management - Milwaukee, WI | Milwaukee | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Milwaukee-Wisconsin-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management---Milwaukee--WI_R64625-1) |
 | 🏢 **Intuitive** | Clinical Territory Associate - Future Opportunity | Modesto, CA + 1 more | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000122718012) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Sacramento, CA) | California | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/California/Associate-Spine-Specialist--Sacramento--CA-_JR106051) |
-| 🏢 **Abbott** | Clinical Specialist | 3 Locations | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Milwaukee/Clinical-Specialist_31143919-1) |
+| 🏢 **Abbott** | Clinical Specialist | 3 Locations | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Milwaukee/Clinical-Specialist_31143919-1) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Fayetteville, NC) | North Carolina | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/North-Carolina/Associate-Spine-Specialist--Fayetteville--NC-_JR106568) |
 | 🏢 **Exact Sciences** | Regional Oncology Specialist - Cleveland, OH | OH Cleveland | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---OH---Cleveland/Regional-Oncology-Specialist---Cleveland--OH_R26-12843) |
 | 🏢 **Takeda** | Medical Screener/Phlebotomist - On the Job Training! | SC - Spartanburg | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Medical-Screener-Phlebotomist---On-the-Job-Training-_R0179079-1) |
@@ -216,7 +217,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Coronary Image Guided Therapy Devices (New York City) | 3 Locations | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-York-New-York-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--New-York-City-_580091-1) |
 | 🏢 **Intuitive** | Clinical Territory Associate | Hoboken, NJ + 1 more | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000122486209) |
 | 🏢 **Abbott** | Clinical Specialist I, CPT - Phoenix, AZ | Arizona - Phoenix + 1 more | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist-I--CPT---Phoenix--AZ_31148364-2) |
-| 🏢 **Abbott** | Clinical Specialist I, CPT - Peoria, IL | Illinois - Peoria | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Peoria/Clinical-Specialist-I--CPT---Peoria--IL_31148136) |
 | 🏢 **Takeda** | Part Time Medical Screener | CA - Lemon Grove + 1 more | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Part-Time-Medical-Screener_R0178867-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist – VeriSight 3D ICE (Intracardiac Echo) (Atlanta GA) | Atlanta | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Atlanta-Georgia-United-States/Sales-Support--Clinical-Specialist---VeriSight-3D-ICE--Intracardiac-Echo---Atlanta-GA-_581347) |
 | 🏢 **Johnson & Johnson** | Field Clinical Specialist - Shockwave - Chicago, IL | Chicago | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Chicago-Illinois-United-States/Field-Clinical-Specialist---Shockwave---Chicago--IL_R-070569-1) |
@@ -270,11 +270,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cigna** | Home Infusion Nurse - Accredo - Stamford, CT | Stamford, CT | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Stamford-CT/Home-Infusion-Nurse---Accredo---Stamford--CT_26005002-1) |
 | 🏢 **Takeda** | Medical Support Specialist (EMT, AEMT, EMTI) – Immediate Benefits! | WI - Onalaska | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Medical-Support-Specialist--EMT--AEMT--EMTI----Immediate-Benefits-_R0179170-1) |
 | 🏢 **Thermo Fisher Scientific** | Supervisor Nursing | Las Vegas | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Supervisor-Nursing_R-01349624) |
-| 🏢 **Abbott** | Clinical Associate | New York - Syracuse + 4 more | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Syracuse/Clinical-Associate_31143780-1) |
-| 🏢 **Intuitive** | Endoluminal Sales Representative | Nashville, TN | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000122758568) |
+| 🏢 **Abbott** | Clinical Associate | New York - Syracuse + 4 more | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Syracuse/Clinical-Associate_31143780-1) |
+| 🏢 **Intuitive** | Endoluminal Sales Representative | Nashville, TN | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000122758568) |
 | 🏢 **Cigna** | Pharmacy Technician Representative - Accredo Specialty Pharmacy - Memphis, TN | Memphis, TN | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Memphis-TN/Pharmacy-Technician-Representative---Accredo-Specialty-Pharmacy---Memphis--TN_26004547) |
-| 🏢 **Cigna** | Pharmacy Technician Representative - Accredo Specialty Pharmacy - Corona, CA | Corona, CA | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Corona-CA/Pharmacy-Technician-Representative---Accredo-Specialty-Pharmacy---Corona--CA_26004858-1) |
-| 🏢 **Intuitive** | Endoluminal Sales Associate | Memphis, TN + 1 more | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000122751060) |
+| 🏢 **Cigna** | Pharmacy Technician Representative - Accredo Specialty Pharmacy - Corona, CA | Corona, CA | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Corona-CA/Pharmacy-Technician-Representative---Accredo-Specialty-Pharmacy---Corona--CA_26004858-1) |
+| 🏢 **Intuitive** | Endoluminal Sales Associate | Memphis, TN + 1 more | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000122751060) |
 | 🏢 **Walmart** | Pharmacy Tech Certified Sam's | (USA) PA STATE CO... | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-PA-STATE-COLLEGE-06533-SAMS-CLUB/Pharmacy-Tech-Certified-Sam-s_R-2489925) |
 | 🏢 **Included Health** | Psychiatrist | Texas + 3 more | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/6e522bd8-5dad-4be2-87fe-d775c6ea8c46/apply) |
 | 🏢 **Walmart** | Part-Time Pharmacy Tech Certified Sam's | (USA) TX AUSTIN 0... | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-AUSTIN-06453-SAMS-CLUB/Part-Time-Pharmacy-Tech-Certified-Sam-s_R-2489873) |
@@ -298,9 +298,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northrop Grumman** | Nurse Employee Health 2 | Florida-Melbourne | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Nurse-Employee-Health-2_R10230190) |
 | 🏢 **Globus Medical** | Neurophysiologist Traveler (Nationwide) | Pennsylvania | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Pennsylvania/Neurophysiologist-Traveler--Nationwide-_JR106284-2) |
 | 🏢 **Globus Medical** | Associate Interventional Specialist (Columbia, MO) | Missouri | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Missouri/Associate-Interventional-Specialist--Columbia--MO-_JR106539) |
-| 🏢 **Truveta** | ML Postdoc Researcher - Healthcare AI Innovation | Seattle, WA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5978375004) |
+| 🏢 **Truveta** | ML Postdoc Researcher - Healthcare AI Innovation | Seattle, WA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5978375004) |
 | 🏢 **Oscar Health** | Care Navigation Guide | Texas + 3 more | 3d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7809171?gh_jid=7809171) |
-| 🏢 **Abbott** | Clinical Account Representative, CardioMEMS - Omaha, NE | Nebraska - Omaha | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Omaha/Clinical-Account-Representative--CardioMEMS---Omaha--NE_31148165-1) |
+| 🏢 **Abbott** | Clinical Account Representative, CardioMEMS - Arizona | Arizona - Tucson | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Tucson/Clinical-Account-Representative--CardioMEMS---Arizona_31145136-1) |
 | 🏢 **Merck & Co.** | Specialist, Clinical Data Management – Hybrid | New Jersey Rahway | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Clinical-Data-Management---Hybrid_R391642-2) |
 | 🏢 **Thermo Fisher Scientific** | Technical Sales Specialist, Proteomics Workflow and Beads | Chicago | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Chicago-Illinois-USA/Technical-Sales-Specialist--Proteomics-Workflow-and-Beads_R-01349110) |
 | 🏢 **Thermo Fisher Scientific** | Medical Technologist - entry level, PBMC | Highland Heights | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Highland-Heights-Kentucky-USA/Medical-Technologist---entry-level--PBMC_R-01346986) |
@@ -388,7 +388,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 384 current opportunities from 59 companies**
+**🎯 385 current opportunities from 59 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
