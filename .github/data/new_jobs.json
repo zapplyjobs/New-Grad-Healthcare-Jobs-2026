@@ -58,36 +58,6 @@
     "job_posted_at": "2026-04-24T01:51:26.565Z"
   },
   {
-    "job_id": "workday-walmart-R-2426027",
-    "job_title": "Full-Time Dispensing Optician Single License *$2,000.00 Sign-On Bonus Opportunity",
-    "employer_name": "Walmart",
-    "job_city": "(USA) VA BRISTOL 06518 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-VA-BRISTOL-06518-SAMS-CLUB/XMLNAME--USA--Optician-Single-License_R-2426027",
-    "job_posted_at_datetime_utc": "2026-04-24T01:51:26.562Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a319908d1a8c7a568283658b1c2514cfcbe50ef19ff7506f146e1ae328895917",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T01:51:26.562Z"
-  },
-  {
     "job_id": "workday-walmart-R-2488502",
     "job_title": "pharmacist in charge",
     "employer_name": "Walmart",
@@ -130,6 +100,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "38ff91ae8f4e135d350750940f39478f6571785d538c0043866ce94958061035",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T01:51:26.562Z"
+  },
+  {
+    "job_id": "workday-walmart-R-2426027",
+    "job_title": "Full-Time Dispensing Optician Single License *$2,000.00 Sign-On Bonus Opportunity",
+    "employer_name": "Walmart",
+    "job_city": "(USA) VA BRISTOL 06518 SAM'S CLUB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-VA-BRISTOL-06518-SAMS-CLUB/XMLNAME--USA--Optician-Single-License_R-2426027",
+    "job_posted_at_datetime_utc": "2026-04-24T01:51:26.562Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a319908d1a8c7a568283658b1c2514cfcbe50ef19ff7506f146e1ae328895917",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3020,34 +3020,6 @@
     "job_posted_at": "2026-04-22T07:02:17.857Z"
   },
   {
-    "job_id": "workday-medtronic-R64928",
-    "job_title": "Associate Clinical Specialist, Pain Interventions - Oklahoma City, OK",
-    "employer_name": "Medtronic",
-    "job_city": "Oklahoma City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oklahoma-City-Oklahoma-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---Oklahoma-City--OK_R64928-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:01:31.842Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e7771918e99dff8603b03023a68371ee6762ac241701e361c466ca890120997c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:01:31.842Z"
-  },
-  {
     "job_id": "workday-medtronic-R62598",
     "job_title": "CRM Clinical Specialist - Hartford, CT",
     "employer_name": "Medtronic",
@@ -3069,6 +3041,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:01:31.842Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64928",
+    "job_title": "Associate Clinical Specialist, Pain Interventions - Oklahoma City, OK",
+    "employer_name": "Medtronic",
+    "job_city": "Oklahoma City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oklahoma-City-Oklahoma-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---Oklahoma-City--OK_R64928-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:01:31.842Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e7771918e99dff8603b03023a68371ee6762ac241701e361c466ca890120997c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -6210,6 +6210,230 @@
     "job_posted_at": "2026-04-20T07:02:19.862Z"
   },
   {
+    "job_id": "workday-takeda-R0178808",
+    "job_title": "Phlebotomist (Evenings/Weekends)",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Phlebotomist--Evenings-Weekends-_R0178808",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9ce82a2a826b4fb0c889b60c194c40ed4409ab555d3ce23017127002150ce478",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178807",
+    "job_title": "Plasma Center Technician (Evenings/Weekends)",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Plasma-Center-Technician--Evenings-Weekends-_R0178807-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec43faf854e3b7e60e491a5f84dd90ef02f4ddcaec43867a509e4add1e2d7138",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178802",
+    "job_title": "Advanced EMT - (5K Sign on Bonus)",
+    "employer_name": "Takeda",
+    "job_city": "WI - Greenfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Advanced-EMT----5K-Sign-on-Bonus-_R0178802",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "749712806766aa3f1a26104f9bbafbde10c3a9bf07303e3feec225eaa2111101",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178801",
+    "job_title": "Paramedic - 5K Sign on Bonus - No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "WI - Greenfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Paramedic---5K-Sign-on-Bonus---No-Overnight-Shifts_R0178801-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "62f52094eb2189aadebc3aff0c4c48c0cb8dd55b4507d98dad522fe9c11ee171",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178799",
+    "job_title": "Licensed Practical Nurse (LPN/LVN) – $5,000 Sign‑On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "WI - Greenfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Licensed-Practical-Nurse--LPN-LVN-----5-000-Sign-On-Bonus_R0178799-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f9ec9e220e2cb1a30cc6d90c318a625e5a827f27db75d2eda2be513b5e172e36",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178797",
+    "job_title": "Paramedic - No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "OK - Broken Arrow",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Broken-Arrow/Paramedic---No-Overnight-Shifts_R0178797-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8bc87d7dafee27bc9dedb81c0ec73bdeed0a64820cf3dfe63d8bc95b4f768fad",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178795",
+    "job_title": "Licensed Practical Nurse - Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "OK - Broken Arrow",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Broken-Arrow/Licensed-Practical-Nurse---Day-One-Benefits_R0178795-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "37a53044359d3c8a4c240b7a30d31fb2d82ae985fc05dcbd45183cc841aa471b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178788",
+    "job_title": "Licensed Practical Nurse",
+    "employer_name": "Takeda",
+    "job_city": "WI - Milwaukee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Milwaukee/Licensed-Practical-Nurse_R0178788-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "808738f8ef39f01f8e5ff3d2098a3fd7af29479331fcd8b2568c8b61376ced98",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
     "job_id": "workday-takeda-R0178787",
     "job_title": "Registered Nurse - Day One Benefits",
     "employer_name": "Takeda",
@@ -6575,18 +6799,18 @@
     "job_posted_at": "2026-04-20T07:01:57.336Z"
   },
   {
-    "job_id": "workday-takeda-R0178808",
-    "job_title": "Phlebotomist (Evenings/Weekends)",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
+    "job_id": "workday-thermo-fisher-scientific-R-01346650",
+    "job_title": "Scientist: HPLC",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Rockville",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Phlebotomist--Evenings-Weekends-_R0178808",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Scientist--HPLC_R-01346650",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:43.172Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9ce82a2a826b4fb0c889b60c194c40ed4409ab555d3ce23017127002150ce478",
+    "fingerprint": "40f570580f3a31aac69cb0c82d3fec0f9525c1035532e8130fa9cd0b626010af",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6595,208 +6819,12 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178807",
-    "job_title": "Plasma Center Technician (Evenings/Weekends)",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Plasma-Center-Technician--Evenings-Weekends-_R0178807-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec43faf854e3b7e60e491a5f84dd90ef02f4ddcaec43867a509e4add1e2d7138",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178802",
-    "job_title": "Advanced EMT - (5K Sign on Bonus)",
-    "employer_name": "Takeda",
-    "job_city": "WI - Greenfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Advanced-EMT----5K-Sign-on-Bonus-_R0178802",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "749712806766aa3f1a26104f9bbafbde10c3a9bf07303e3feec225eaa2111101",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178801",
-    "job_title": "Paramedic - 5K Sign on Bonus - No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "WI - Greenfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Paramedic---5K-Sign-on-Bonus---No-Overnight-Shifts_R0178801-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "62f52094eb2189aadebc3aff0c4c48c0cb8dd55b4507d98dad522fe9c11ee171",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178799",
-    "job_title": "Licensed Practical Nurse (LPN/LVN) – $5,000 Sign‑On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "WI - Greenfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Licensed-Practical-Nurse--LPN-LVN-----5-000-Sign-On-Bonus_R0178799-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f9ec9e220e2cb1a30cc6d90c318a625e5a827f27db75d2eda2be513b5e172e36",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178797",
-    "job_title": "Paramedic - No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "OK - Broken Arrow",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Broken-Arrow/Paramedic---No-Overnight-Shifts_R0178797-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8bc87d7dafee27bc9dedb81c0ec73bdeed0a64820cf3dfe63d8bc95b4f768fad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178795",
-    "job_title": "Licensed Practical Nurse - Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "OK - Broken Arrow",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Broken-Arrow/Licensed-Practical-Nurse---Day-One-Benefits_R0178795-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "37a53044359d3c8a4c240b7a30d31fb2d82ae985fc05dcbd45183cc841aa471b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178788",
-    "job_title": "Licensed Practical Nurse",
-    "employer_name": "Takeda",
-    "job_city": "WI - Milwaukee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Milwaukee/Licensed-Practical-Nurse_R0178788-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "808738f8ef39f01f8e5ff3d2098a3fd7af29479331fcd8b2568c8b61376ced98",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
+    "job_posted_at": "2026-04-20T07:01:43.172Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01345262",
@@ -6820,34 +6848,6 @@
         "us"
       ],
       "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:43.172Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01346650",
-    "job_title": "Scientist: HPLC",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Rockville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Scientist--HPLC_R-01346650",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:43.172Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "40f570580f3a31aac69cb0c82d3fec0f9525c1035532e8130fa9cd0b626010af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7135,6 +7135,34 @@
     "job_posted_at": "2026-04-20T07:00:22.330Z"
   },
   {
+    "job_id": "workday-guidehouse-38453",
+    "job_title": "Patient Account Representative (Bilingual)",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Account-Representative--Bilingual-_38453",
+    "job_posted_at_datetime_utc": "2026-04-20T07:00:20.059Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "80a9f9d032cdd1ff66372a72447613615eb6254e315cc76ebe086e6c6aa23885",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:00:20.059Z"
+  },
+  {
     "job_id": "workday-guidehouse-38252",
     "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
     "employer_name": "Guidehouse",
@@ -7176,34 +7204,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ea0fb082428398e999ef9b616313b7046b5b5add78b2a684639d9b6175a711f3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:00:20.059Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38453",
-    "job_title": "Patient Account Representative (Bilingual)",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Account-Representative--Bilingual-_38453",
-    "job_posted_at_datetime_utc": "2026-04-20T07:00:20.059Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "80a9f9d032cdd1ff66372a72447613615eb6254e315cc76ebe086e6c6aa23885",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10055,63 +10055,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-17T14:39:56.000Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012653276",
-    "job_title": "Oncology Specialist - New York",
-    "employer_name": "AbbVie",
-    "job_city": "Syracuse",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012653276",
-    "job_posted_at_datetime_utc": "2026-04-17T13:29:21.387Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "376fdd44a47ade26a2c75786a8719d1c402e081107fe124a240f08929e4077b8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-17T13:29:21.387Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012653099",
-    "job_title": "Oncology Specialist - New York",
-    "employer_name": "AbbVie",
-    "job_city": "Albany",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012653099",
-    "job_posted_at_datetime_utc": "2026-04-17T13:27:07.396Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "e0785159fcb2bdcb29d01aefdba3602087b9ba1e8cbcd667e878cf1a29392ab1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-17T13:27:07.396Z"
   }
 ]
