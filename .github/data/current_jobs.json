@@ -2433,18 +2433,18 @@
     "job_posted_at": "2026-04-22T07:11:17.903Z"
   },
   {
-    "job_id": "workday-cigna-26001396",
-    "job_title": "Home Infusion Nurse, Per Diem - Accredo - Casper, WY",
+    "job_id": "workday-cigna-26004428",
+    "job_title": "Home Infusion Nurse, Per Diem - Accredo - Albuquerque, NM",
     "employer_name": "Cigna",
-    "job_city": "Casper",
-    "job_state": "WY",
+    "job_city": "Albuquerque",
+    "job_state": "NM",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Casper-WY/Home-Infusion-Nurse--Per-Diem---Accredo---Casper--WY_26001396",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Albuquerque-NM/Home-Infusion-Nurse--Per-Diem---Accredo---Albuquerque--NM_26004428",
     "job_posted_at_datetime_utc": "2026-04-22T07:11:17.902Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "8c01c7ceae41d711801429ee47f176663a7bf47924ef76864839a919358e70ea",
+    "fingerprint": "9a16540c9346cbca6e1fa049e0a7cd5dec16f57a14c36f3ad8fafdd2a510cb42",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2461,18 +2461,18 @@
     "job_posted_at": "2026-04-22T07:11:17.902Z"
   },
   {
-    "job_id": "workday-cigna-26004428",
-    "job_title": "Home Infusion Nurse, Per Diem - Accredo - Albuquerque, NM",
+    "job_id": "workday-cigna-26001396",
+    "job_title": "Home Infusion Nurse, Per Diem - Accredo - Casper, WY",
     "employer_name": "Cigna",
-    "job_city": "Albuquerque",
-    "job_state": "NM",
+    "job_city": "Casper",
+    "job_state": "WY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Albuquerque-NM/Home-Infusion-Nurse--Per-Diem---Accredo---Albuquerque--NM_26004428",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Casper-WY/Home-Infusion-Nurse--Per-Diem---Accredo---Casper--WY_26001396",
     "job_posted_at_datetime_utc": "2026-04-22T07:11:17.902Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9a16540c9346cbca6e1fa049e0a7cd5dec16f57a14c36f3ad8fafdd2a510cb42",
+    "fingerprint": "8c01c7ceae41d711801429ee47f176663a7bf47924ef76864839a919358e70ea",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3554,35 +3554,6 @@
     "job_posted_at": "2026-04-22T07:00:39.288Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-048214",
-    "job_title": "Oncology Sales Specialist - North Jersey - Johnson & Johnson Innovative Medicine",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Jersey City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Jersey-City-New-Jersey-United-States/Oncology-Sales-Specialist---North-Jersey---Johnson---Johnson-Innovative-Medicine_R-048214-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:00:39.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "115751f748f254199acf749066d505ed7969183812ff9b2752397abdb9a2ab86",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:00:39.287Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-056587",
     "job_title": "Advanced Surgical Consultant - Daytona, FL - Johnson & Johnson MedTech - Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -3627,6 +3598,35 @@
       "employment": "entry_level",
       "domains": [
         "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:00:39.287Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-048214",
+    "job_title": "Oncology Sales Specialist - North Jersey - Johnson & Johnson Innovative Medicine",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Jersey City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Jersey-City-New-Jersey-United-States/Oncology-Sales-Specialist---North-Jersey---Johnson---Johnson-Innovative-Medicine_R-048214-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:00:39.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "115751f748f254199acf749066d505ed7969183812ff9b2752397abdb9a2ab86",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
       ],
       "locations": [
         "us"
@@ -4402,90 +4402,6 @@
     "job_posted_at": "2026-04-21T07:10:37.446Z"
   },
   {
-    "job_id": "workday-abbott-31146064",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
-    "employer_name": "Abbott",
-    "job_city": "North Dakota - Fargo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064",
-    "job_posted_at_datetime_utc": "2026-04-21T07:10:16.470Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "148b21a1d82d1390046653de10ed0386e81a0e0750e9eae03039f231edee02ed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:10:16.470Z"
-  },
-  {
-    "job_id": "workday-abbott-31148165",
-    "job_title": "Clinical Account Representative, CardioMEMS - Omaha, NE",
-    "employer_name": "Abbott",
-    "job_city": "Nebraska - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Omaha/Clinical-Account-Representative--CardioMEMS---Omaha--NE_31148165-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:10:16.470Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "37272294603f7f2b91ea038e295887fb19b9b48b945cd772e0dad1717b59b703",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:10:16.470Z"
-  },
-  {
-    "job_id": "workday-abbott-31145136",
-    "job_title": "Clinical Account Representative, CardioMEMS - Arizona",
-    "employer_name": "Abbott",
-    "job_city": "Arizona - Tucson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Tucson/Clinical-Account-Representative--CardioMEMS---Arizona_31145136-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:10:16.470Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "571d81bea7c5e367700d734deb591780eefbbdcbaf619225e9ca928be5a0e908",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:10:16.470Z"
-  },
-  {
     "job_id": "workday-abbott-31147789",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -4619,6 +4535,90 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:10:16.470Z"
+  },
+  {
+    "job_id": "workday-abbott-31146064",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
+    "employer_name": "Abbott",
+    "job_city": "North Dakota - Fargo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064",
+    "job_posted_at_datetime_utc": "2026-04-21T07:10:16.470Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "148b21a1d82d1390046653de10ed0386e81a0e0750e9eae03039f231edee02ed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:10:16.470Z"
+  },
+  {
+    "job_id": "workday-abbott-31148165",
+    "job_title": "Clinical Account Representative, CardioMEMS - Omaha, NE",
+    "employer_name": "Abbott",
+    "job_city": "Nebraska - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Omaha/Clinical-Account-Representative--CardioMEMS---Omaha--NE_31148165-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:10:16.470Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "37272294603f7f2b91ea038e295887fb19b9b48b945cd772e0dad1717b59b703",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:10:16.470Z"
+  },
+  {
+    "job_id": "workday-abbott-31145136",
+    "job_title": "Clinical Account Representative, CardioMEMS - Arizona",
+    "employer_name": "Abbott",
+    "job_city": "Arizona - Tucson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Tucson/Clinical-Account-Representative--CardioMEMS---Arizona_31145136-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:10:16.470Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "571d81bea7c5e367700d734deb591780eefbbdcbaf619225e9ca928be5a0e908",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5074,6 +5074,63 @@
     "job_posted_at": "2026-04-21T07:01:57.336Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01349110",
+    "job_title": "Technical Sales Specialist, Proteomics Workflow and Beads",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Chicago-Illinois-USA/Technical-Sales-Specialist--Proteomics-Workflow-and-Beads_R-01349110",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:43.171Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ea6ae155b991b0588bf1f2fb89b7d2b18b9cbc15ac0215ee1cfb310d5471412f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:01:43.171Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01349500",
+    "job_title": "QC Scientist I",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/QC-Scientist-I_R-01349500",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:43.171Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e631abb1081d2ba9bdf9330972fb1e9f0e50b39b4fb72595e351f04250e01396",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:01:43.171Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01350147",
     "job_title": "QC Scientist I",
     "employer_name": "Thermo Fisher Scientific",
@@ -5170,63 +5227,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c2fb82ed12a3822c5135c8017c21ccde7a2c6b1ad49e7403ea94aec6f738a29e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:43.171Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01349110",
-    "job_title": "Technical Sales Specialist, Proteomics Workflow and Beads",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Chicago-Illinois-USA/Technical-Sales-Specialist--Proteomics-Workflow-and-Beads_R-01349110",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:43.171Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ea6ae155b991b0588bf1f2fb89b7d2b18b9cbc15ac0215ee1cfb310d5471412f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:43.171Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01349500",
-    "job_title": "QC Scientist I",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/QC-Scientist-I_R-01349500",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:43.171Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e631abb1081d2ba9bdf9330972fb1e9f0e50b39b4fb72595e351f04250e01396",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5442,62 +5442,6 @@
     "job_posted_at": "2026-04-21T07:00:39.288Z"
   },
   {
-    "job_id": "workday-medtronic-R62049",
-    "job_title": "Clinical Specialist- Pelvic Health - Macon, GA",
-    "employer_name": "Medtronic",
-    "job_city": "Macon",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Macon-Georgia-United-States-of-America/Clinical-Specialist--Pelvic-Health---Macon--GA_R62049-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:00:25.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9a084e4e1f7e183d28f66ab7bb3e697c3560673ec8d54ae662826f24c52ccc84",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:00:25.251Z"
-  },
-  {
-    "job_id": "workday-medtronic-R64830",
-    "job_title": "Clinical Specialist CRM - Wichita",
-    "employer_name": "Medtronic",
-    "job_city": "Wichita",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Wichita-Kansas-United-States-of-America/Clinical-Specialist-CRM---Wichita_R64830-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:00:25.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be51213bce25716211df01920dec1a4421920d2efd676865a442031e9cdd05c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:00:25.251Z"
-  },
-  {
     "job_id": "workday-medtronic-R60860",
     "job_title": "Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA",
     "employer_name": "Medtronic",
@@ -5538,6 +5482,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8b9feb42f396dd37ce7c9344cffc0704cdbe9aa67330571a51860a24d72313eb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:00:25.251Z"
+  },
+  {
+    "job_id": "workday-medtronic-R62049",
+    "job_title": "Clinical Specialist- Pelvic Health - Macon, GA",
+    "employer_name": "Medtronic",
+    "job_city": "Macon",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Macon-Georgia-United-States-of-America/Clinical-Specialist--Pelvic-Health---Macon--GA_R62049-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:00:25.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9a084e4e1f7e183d28f66ab7bb3e697c3560673ec8d54ae662826f24c52ccc84",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:00:25.251Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64830",
+    "job_title": "Clinical Specialist CRM - Wichita",
+    "employer_name": "Medtronic",
+    "job_city": "Wichita",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Wichita-Kansas-United-States-of-America/Clinical-Specialist-CRM---Wichita_R64830-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:00:25.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be51213bce25716211df01920dec1a4421920d2efd676865a442031e9cdd05c5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6324,6 +6324,34 @@
     "job_posted_at": "2026-04-20T07:10:16.470Z"
   },
   {
+    "job_id": "workday-abbott-31148012",
+    "job_title": "Clinical Associate",
+    "employer_name": "Abbott",
+    "job_city": "Georgia - Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:10:16.470Z"
+  },
+  {
     "job_id": "workday-abbott-31113914",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
     "employer_name": "Abbott",
@@ -6364,34 +6392,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f2be8f980f9d8393d07bc74bf3fd3211d32f56039fd2175c8e1e4ed68457020b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:10:16.470Z"
-  },
-  {
-    "job_id": "workday-abbott-31148012",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6462,62 +6462,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T07:02:19.862Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178773",
-    "job_title": "Part Time Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178769",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "MN - Moorhead",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0178769-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
   },
   {
     "job_id": "workday-takeda-R0178808",
@@ -7037,6 +6981,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ccfa6b845a0943ad4fb3507ff571f334a713f65927d76947cd75243769c92794",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178773",
+    "job_title": "Part Time Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178769",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "MN - Moorhead",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0178769-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7924,93 +7924,6 @@
     "job_posted_at": "2026-04-20T07:00:10.814Z"
   },
   {
-    "job_id": "lever-includedhealth-cf53b4dd-8e28-49cd-9845-fac2f05ee0f3",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Virginia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/cf53b4dd-8e28-49cd-9845-fac2f05ee0f3/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "acd3d2d0f27f8d498fb849ea838fe97f8e0bbfbec7fb20f3c1f4738305cb38cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
-    "job_id": "lever-includedhealth-e373a9af-b559-4888-babf-707c0168e0d7",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Georgia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
     "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -8323,6 +8236,93 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-cf53b4dd-8e28-49cd-9845-fac2f05ee0f3",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Virginia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/cf53b4dd-8e28-49cd-9845-fac2f05ee0f3/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "acd3d2d0f27f8d498fb849ea838fe97f8e0bbfbec7fb20f3c1f4738305cb38cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-e373a9af-b559-4888-babf-707c0168e0d7",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Georgia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
+  },
+  {
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -9264,34 +9264,6 @@
     "job_posted_at": "2026-04-20T01:57:31.991Z"
   },
   {
-    "job_id": "greenhouse-guidepoint-8342632002",
-    "job_title": "Client Success - Healthcare Corporate Specialist (NYC)",
-    "employer_name": "Guidepoint",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/guidepoint/jobs/8342632002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:28.760Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eeaf18c58b29b9e724f0e17a427601d3a96300a89adebee42a71a3a8da905e7e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:28.760Z"
-  },
-  {
     "job_id": "greenhouse-guidepoint-8453033002",
     "job_title": "Client Service Healthcare Associate",
     "employer_name": "Guidepoint",
@@ -9313,6 +9285,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:28.760Z"
+  },
+  {
+    "job_id": "greenhouse-guidepoint-8342632002",
+    "job_title": "Client Success - Healthcare Corporate Specialist (NYC)",
+    "employer_name": "Guidepoint",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/guidepoint/jobs/8342632002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:28.760Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eeaf18c58b29b9e724f0e17a427601d3a96300a89adebee42a71a3a8da905e7e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
