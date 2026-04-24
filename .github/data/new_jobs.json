@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01348633",
+    "job_title": "Scientist, Formulations",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Collegeville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/Scientist--Formulations_R-01348633",
+    "job_posted_at_datetime_utc": "2026-04-24T13:38:14.791Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "12baad7d596e3ed057e587503c8673c317f171407dc7dc3c74c4097d8d126a51",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T13:38:14.791Z"
+  },
+  {
     "job_id": "workday-takeda-R0179075",
     "job_title": "Entry Level Phlebotomist - Paid Training",
     "employer_name": "Takeda",
@@ -58,6 +86,36 @@
     "job_posted_at": "2026-04-24T01:51:26.565Z"
   },
   {
+    "job_id": "workday-walmart-R-2426027",
+    "job_title": "Full-Time Dispensing Optician Single License *$2,000.00 Sign-On Bonus Opportunity",
+    "employer_name": "Walmart",
+    "job_city": "(USA) VA BRISTOL 06518 SAM'S CLUB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-VA-BRISTOL-06518-SAMS-CLUB/XMLNAME--USA--Optician-Single-License_R-2426027",
+    "job_posted_at_datetime_utc": "2026-04-24T01:51:26.562Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a319908d1a8c7a568283658b1c2514cfcbe50ef19ff7506f146e1ae328895917",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T01:51:26.562Z"
+  },
+  {
     "job_id": "workday-walmart-R-2488502",
     "job_title": "pharmacist in charge",
     "employer_name": "Walmart",
@@ -100,36 +158,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "38ff91ae8f4e135d350750940f39478f6571785d538c0043866ce94958061035",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T01:51:26.562Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2426027",
-    "job_title": "Full-Time Dispensing Optician Single License *$2,000.00 Sign-On Bonus Opportunity",
-    "employer_name": "Walmart",
-    "job_city": "(USA) VA BRISTOL 06518 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-VA-BRISTOL-06518-SAMS-CLUB/XMLNAME--USA--Optician-Single-License_R-2426027",
-    "job_posted_at_datetime_utc": "2026-04-24T01:51:26.562Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a319908d1a8c7a568283658b1c2514cfcbe50ef19ff7506f146e1ae328895917",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5188,6 +5216,34 @@
     "job_posted_at": "2026-04-21T07:00:39.288Z"
   },
   {
+    "job_id": "workday-medtronic-R64820",
+    "job_title": "Clinical Specialist Pelvic Health-  Metro Detroit, MI",
+    "employer_name": "Medtronic",
+    "job_city": "Detroit",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Detroit-Michigan-United-States-of-America/Clinical-Specialist-Pelvic-Health---Metro-Detroit--MI_R64820-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:00:25.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8b9feb42f396dd37ce7c9344cffc0704cdbe9aa67330571a51860a24d72313eb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:00:25.251Z"
+  },
+  {
     "job_id": "workday-medtronic-R62049",
     "job_title": "Clinical Specialist- Pelvic Health - Macon, GA",
     "employer_name": "Medtronic",
@@ -5265,34 +5321,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:00:25.251Z"
-  },
-  {
-    "job_id": "workday-medtronic-R64820",
-    "job_title": "Clinical Specialist Pelvic Health-  Metro Detroit, MI",
-    "employer_name": "Medtronic",
-    "job_city": "Detroit",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Detroit-Michigan-United-States-of-America/Clinical-Specialist-Pelvic-Health---Metro-Detroit--MI_R64820-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:00:25.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8b9feb42f396dd37ce7c9344cffc0704cdbe9aa67330571a51860a24d72313eb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -6070,6 +6098,34 @@
     "job_posted_at": "2026-04-20T07:10:16.470Z"
   },
   {
+    "job_id": "workday-abbott-31148012",
+    "job_title": "Clinical Associate",
+    "employer_name": "Abbott",
+    "job_city": "Georgia - Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:10:16.470Z"
+  },
+  {
     "job_id": "workday-abbott-31113914",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
     "employer_name": "Abbott",
@@ -6110,34 +6166,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f2be8f980f9d8393d07bc74bf3fd3211d32f56039fd2175c8e1e4ed68457020b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:10:16.470Z"
-  },
-  {
-    "job_id": "workday-abbott-31148012",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6797,34 +6825,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01346650",
-    "job_title": "Scientist: HPLC",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Rockville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Scientist--HPLC_R-01346650",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:43.172Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "40f570580f3a31aac69cb0c82d3fec0f9525c1035532e8130fa9cd0b626010af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:43.172Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01345262",
@@ -8503,18 +8503,18 @@
     "job_posted_at": "2026-04-20T01:57:44.293Z"
   },
   {
-    "job_id": "greenhouse-spacex-8213424002",
-    "job_title": "Chemical Lab Technician (Starlink PCB)",
+    "job_id": "greenhouse-spacex-8213433002",
+    "job_title": "Chemist (Starlink PCB)",
     "employer_name": "SpaceX",
     "job_city": "Bastrop",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8213424002?gh_jid=8213424002",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8213433002?gh_jid=8213433002",
     "job_posted_at_datetime_utc": "2026-04-20T01:57:44.290Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "47b7178c188ccf182a70606bdf240672b6da32667c218490f495ef3e551d1081",
+    "fingerprint": "22a337ed239451e44db2f07847abbf57c957deeeb0f59291940525db1482a07b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8542,18 +8542,18 @@
     "job_posted_at": "2026-04-20T01:57:44.290Z"
   },
   {
-    "job_id": "greenhouse-spacex-8213433002",
-    "job_title": "Chemist (Starlink PCB)",
+    "job_id": "greenhouse-spacex-8213424002",
+    "job_title": "Chemical Lab Technician (Starlink PCB)",
     "employer_name": "SpaceX",
     "job_city": "Bastrop",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8213433002?gh_jid=8213433002",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8213424002?gh_jid=8213424002",
     "job_posted_at_datetime_utc": "2026-04-20T01:57:44.290Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "22a337ed239451e44db2f07847abbf57c957deeeb0f59291940525db1482a07b",
+    "fingerprint": "47b7178c188ccf182a70606bdf240672b6da32667c218490f495ef3e551d1081",
     "tags": {
       "employment": "entry_level",
       "domains": [
