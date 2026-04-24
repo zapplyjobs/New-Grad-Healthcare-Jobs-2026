@@ -518,7 +518,7 @@
   },
   {
     "job_id": "workday-takeda-R0179142",
-    "job_title": "LPN – Day One benefits",
+    "job_title": "LPN ��� Day One benefits",
     "employer_name": "Takeda",
     "job_city": "MO - Springfield - McCurry Ave",
     "job_state": "",
@@ -1678,34 +1678,6 @@
     "job_posted_at": "2026-04-23T19:26:49.922Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-067364",
-    "job_title": "Study Responsible Physician- Neuroscience (Pediatric Studies)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1",
-    "job_posted_at_datetime_utc": "2026-04-23T19:24:28.754Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "85b83cbe8d438d46c55ed4143e76d0f22ffae4f3e3dd3b5f446712218cd9007a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T19:24:28.754Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-066499",
     "job_title": "Study Responsible Physician- Neuroscience Late Development",
     "employer_name": "Johnson & Johnson",
@@ -1755,6 +1727,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T19:24:28.754Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-067364",
+    "job_title": "Study Responsible Physician- Neuroscience (Pediatric Studies)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1",
+    "job_posted_at_datetime_utc": "2026-04-23T19:24:28.754Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "85b83cbe8d438d46c55ed4143e76d0f22ffae4f3e3dd3b5f446712218cd9007a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -3317,90 +3317,6 @@
     "job_posted_at": "2026-04-22T07:10:50.323Z"
   },
   {
-    "job_id": "workday-abbott-31148364",
-    "job_title": "Clinical Specialist I, CPT - Phoenix, AZ",
-    "employer_name": "Abbott",
-    "job_city": "Arizona - Phoenix",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist-I--CPT---Phoenix--AZ_31148364-2",
-    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "44b6cca59e81a588717088824060cbea18fe8ff358b4f8f763bf5f29ad071817",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:10:26.126Z"
-  },
-  {
-    "job_id": "workday-abbott-31148357",
-    "job_title": "Occupational Health Nurse",
-    "employer_name": "Abbott",
-    "job_city": "Missouri - Kansas City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Occupational-Health-Nurse_31148357-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "40985bec488246fa393a24249eff9af686bfe79da123d69a7f36b82355c1dd04",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:10:26.126Z"
-  },
-  {
-    "job_id": "workday-abbott-31147362",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bremen, GA",
-    "employer_name": "Abbott",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Bremen--GA_31147362",
-    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a4fb29705451e1806bf403ea765110f864afda57b53921ff5bdaea03d1b10c9e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:10:26.126Z"
-  },
-  {
     "job_id": "workday-abbott-31148136",
     "job_title": "Clinical Specialist I, CPT - Peoria, IL",
     "employer_name": "Abbott",
@@ -3478,6 +3394,90 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:10:26.126Z"
+  },
+  {
+    "job_id": "workday-abbott-31148364",
+    "job_title": "Clinical Specialist I, CPT - Phoenix, AZ",
+    "employer_name": "Abbott",
+    "job_city": "Arizona - Phoenix",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist-I--CPT---Phoenix--AZ_31148364-2",
+    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "44b6cca59e81a588717088824060cbea18fe8ff358b4f8f763bf5f29ad071817",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:10:26.126Z"
+  },
+  {
+    "job_id": "workday-abbott-31148357",
+    "job_title": "Occupational Health Nurse",
+    "employer_name": "Abbott",
+    "job_city": "Missouri - Kansas City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Occupational-Health-Nurse_31148357-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "40985bec488246fa393a24249eff9af686bfe79da123d69a7f36b82355c1dd04",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:10:26.126Z"
+  },
+  {
+    "job_id": "workday-abbott-31147362",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bremen, GA",
+    "employer_name": "Abbott",
+    "job_city": "Georgia - Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Bremen--GA_31147362",
+    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a4fb29705451e1806bf403ea765110f864afda57b53921ff5bdaea03d1b10c9e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -5202,62 +5202,6 @@
     "job_posted_at": "2026-04-21T07:10:37.446Z"
   },
   {
-    "job_id": "workday-abbott-31148165",
-    "job_title": "Clinical Account Representative, CardioMEMS - Omaha, NE",
-    "employer_name": "Abbott",
-    "job_city": "Nebraska - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Omaha/Clinical-Account-Representative--CardioMEMS---Omaha--NE_31148165-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:10:16.470Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "37272294603f7f2b91ea038e295887fb19b9b48b945cd772e0dad1717b59b703",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:10:16.470Z"
-  },
-  {
-    "job_id": "workday-abbott-31145136",
-    "job_title": "Clinical Account Representative, CardioMEMS - Arizona",
-    "employer_name": "Abbott",
-    "job_city": "Arizona - Tucson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Tucson/Clinical-Account-Representative--CardioMEMS---Arizona_31145136-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:10:16.470Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "571d81bea7c5e367700d734deb591780eefbbdcbaf619225e9ca928be5a0e908",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:10:16.470Z"
-  },
-  {
     "job_id": "workday-abbott-31147789",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -5426,6 +5370,62 @@
     "job_posted_at": "2026-04-21T07:10:16.470Z"
   },
   {
+    "job_id": "workday-abbott-31148165",
+    "job_title": "Clinical Account Representative, CardioMEMS - Omaha, NE",
+    "employer_name": "Abbott",
+    "job_city": "Nebraska - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Omaha/Clinical-Account-Representative--CardioMEMS---Omaha--NE_31148165-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:10:16.470Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "37272294603f7f2b91ea038e295887fb19b9b48b945cd772e0dad1717b59b703",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:10:16.470Z"
+  },
+  {
+    "job_id": "workday-abbott-31145136",
+    "job_title": "Clinical Account Representative, CardioMEMS - Arizona",
+    "employer_name": "Abbott",
+    "job_city": "Arizona - Tucson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Tucson/Clinical-Account-Representative--CardioMEMS---Arizona_31145136-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:10:16.470Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "571d81bea7c5e367700d734deb591780eefbbdcbaf619225e9ca928be5a0e908",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:10:16.470Z"
+  },
+  {
     "job_id": "workday-abbott-31137114",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -5536,6 +5536,90 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-21T07:02:27.928Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178887",
+    "job_title": "Emergency Medical Technician EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Emergency-Medical-Technician-EMT-P_R0178887-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ffa17c53b91e1fb6f36f186816ee20d55ec07e870fa80330e97bb8d88a1083e0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178886",
+    "job_title": "Licensed Practical Nurse LPN",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Licensed-Practical-Nurse-LPN_R0178886-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cd563914d839084277db49188afc57d05ca13db36769fb91d1f24c19174f4a3b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178888",
+    "job_title": "Registered Nurse RN",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Registered-Nurse-RN_R0178888-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d588aa69732c7f85f3bc9d512116d94ebe1d5881eff599f85dcc7771beb1a5c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:01:57.336Z"
   },
   {
     "job_id": "workday-takeda-R0178895",
@@ -5727,90 +5811,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178887",
-    "job_title": "Emergency Medical Technician EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Emergency-Medical-Technician-EMT-P_R0178887-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ffa17c53b91e1fb6f36f186816ee20d55ec07e870fa80330e97bb8d88a1083e0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178886",
-    "job_title": "Licensed Practical Nurse LPN",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Licensed-Practical-Nurse-LPN_R0178886-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cd563914d839084277db49188afc57d05ca13db36769fb91d1f24c19174f4a3b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178888",
-    "job_title": "Registered Nurse RN",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Registered-Nurse-RN_R0178888-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d588aa69732c7f85f3bc9d512116d94ebe1d5881eff599f85dcc7771beb1a5c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -6928,62 +6928,6 @@
     "job_posted_at": "2026-04-20T13:14:15.275Z"
   },
   {
-    "job_id": "workday-cigna-25017298",
-    "job_title": "PT Inpatient Telepharmacist (NY, MA, WV, OH, PA)- Evernorth",
-    "employer_name": "Cigna",
-    "job_city": "United States Work at Home",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Inpatient-Telepharmacist--NY-OH-PA-WV-License----Evernorth_25017298",
-    "job_posted_at_datetime_utc": "2026-04-20T07:11:17.903Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf109845adf74e80fb6968aecee720515422ccd6b6256deca800a59923565210",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:11:17.903Z"
-  },
-  {
-    "job_id": "workday-cigna-26004699",
-    "job_title": "RN- MD Live Urgent Care-Remote",
-    "employer_name": "Cigna",
-    "job_city": "United States Work at Home",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/RN--MD-Live-Urgent-Care-Remote_26004699-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:11:17.903Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "422e30e3e721408b75391f25156c34d55de5e4f85b52309dfde292da54ffaef7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:11:17.903Z"
-  },
-  {
     "job_id": "workday-cigna-26004814",
     "job_title": "Home Infusion Nurse, Per Diem - Accredo - Stillwater, OK",
     "employer_name": "Cigna",
@@ -7024,6 +6968,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6736693b914dc7eff07d9b31784080e0e9d06ad8d7ec861bbdd471948b4593e7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:11:17.903Z"
+  },
+  {
+    "job_id": "workday-cigna-25017298",
+    "job_title": "PT Inpatient Telepharmacist (NY, MA, WV, OH, PA)- Evernorth",
+    "employer_name": "Cigna",
+    "job_city": "United States Work at Home",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Inpatient-Telepharmacist--NY-OH-PA-WV-License----Evernorth_25017298",
+    "job_posted_at_datetime_utc": "2026-04-20T07:11:17.903Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf109845adf74e80fb6968aecee720515422ccd6b6256deca800a59923565210",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:11:17.903Z"
+  },
+  {
+    "job_id": "workday-cigna-26004699",
+    "job_title": "RN- MD Live Urgent Care-Remote",
+    "employer_name": "Cigna",
+    "job_city": "United States Work at Home",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/RN--MD-Live-Urgent-Care-Remote_26004699-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:11:17.903Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "422e30e3e721408b75391f25156c34d55de5e4f85b52309dfde292da54ffaef7",
     "tags": {
       "employment": "entry_level",
       "domains": [
