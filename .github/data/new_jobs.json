@@ -2386,34 +2386,6 @@
     "job_posted_at": "2026-04-23T07:43:07.287Z"
   },
   {
-    "job_id": "workday-kbr-R2122576",
-    "job_title": "Special Operations Physical Therapist-TEMP POSITION, (Onsite - Fort Bragg, NC)",
-    "employer_name": "KBR",
-    "job_city": "Fayetteville North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Physical-Therapist-TEMP-POSITION---Onsite---Fort-Bragg--NC-_R2122576",
-    "job_posted_at_datetime_utc": "2026-04-23T07:42:59.390Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2700ffb64d72d3b48b2724243c1ed1d110fc2397cd36258a0ae79d464162eab0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:42:59.390Z"
-  },
-  {
     "job_id": "workday-kbr-R2122577",
     "job_title": "Special Operations Performance Dietitian (4/160 SOAR. JBLM, WA)",
     "employer_name": "KBR",
@@ -2482,6 +2454,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "12a6f9242b799346572b98ed13ca8108335601cd1a6c859d2c64dd63d6fe62fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:42:59.390Z"
+  },
+  {
+    "job_id": "workday-kbr-R2122576",
+    "job_title": "Special Operations Physical Therapist-TEMP POSITION, (Onsite - Fort Bragg, NC)",
+    "employer_name": "KBR",
+    "job_city": "Fayetteville North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Physical-Therapist-TEMP-POSITION---Onsite---Fort-Bragg--NC-_R2122576",
+    "job_posted_at_datetime_utc": "2026-04-23T07:42:59.390Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2700ffb64d72d3b48b2724243c1ed1d110fc2397cd36258a0ae79d464162eab0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4328,118 +4328,6 @@
     "job_posted_at": "2026-04-22T07:10:26.126Z"
   },
   {
-    "job_id": "workday-takeda-R0178977",
-    "job_title": "Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "CA - Pomona",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Pomona/Plasma-Center-Technician_R0178977-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e6ddf7fdc635fa5468f98da136684eb99e70330bda92e6031bda70c1e171a49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179000",
-    "job_title": "Plasma Center Nurse - RN",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mankato",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Registered-Nurse-RN_R0179000-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "642ad725498586622936d386be8fdb61b76f358c3ce442e929bf5ca75888b273",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178998",
-    "job_title": "Plasma Center Paramedic - EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mankato",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0178998-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c6891c8fa155b31329cced1093867031780e6e74bb2d7ae17387b7a4ed8eb705",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178989",
-    "job_title": "Lab Technician - 2nd Shift",
-    "employer_name": "Takeda",
-    "job_city": "GA - Social Circle - Baxter Pkwy",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Social-Circle---Baxter-Pkwy/Lab-Technician---2nd-Shift_R0178989-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "55d67c503b35c04ebc2264c7683c293487e4288ae938217a0ee659b9da28d2bb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
     "job_id": "workday-takeda-R0178932",
     "job_title": "Paramedic - No Overnight Shifts",
     "employer_name": "Takeda",
@@ -4844,6 +4732,118 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8050a19f48fbf3b1f8dc5ebde0737d89218e15b5da1fc385c55dfb7a28cca1f6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178977",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "CA - Pomona",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Pomona/Plasma-Center-Technician_R0178977-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9e6ddf7fdc635fa5468f98da136684eb99e70330bda92e6031bda70c1e171a49",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179000",
+    "job_title": "Plasma Center Nurse - RN",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mankato",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Registered-Nurse-RN_R0179000-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "642ad725498586622936d386be8fdb61b76f358c3ce442e929bf5ca75888b273",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178998",
+    "job_title": "Plasma Center Paramedic - EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mankato",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0178998-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c6891c8fa155b31329cced1093867031780e6e74bb2d7ae17387b7a4ed8eb705",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178989",
+    "job_title": "Lab Technician - 2nd Shift",
+    "employer_name": "Takeda",
+    "job_city": "GA - Social Circle - Baxter Pkwy",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Social-Circle---Baxter-Pkwy/Lab-Technician---2nd-Shift_R0178989-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "55d67c503b35c04ebc2264c7683c293487e4288ae938217a0ee659b9da28d2bb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5310,62 +5310,6 @@
     "job_posted_at": "2026-04-22T07:00:39.287Z"
   },
   {
-    "job_id": "workday-globus-medical-JR106555",
-    "job_title": "Entry Level Associate Neurophysiologist (Columbus, OH)",
-    "employer_name": "Globus Medical",
-    "job_city": "Ohio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Ohio/Entry-Level-Associate-Neurophysiologist--Columbus--OH-_JR106555-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:00:13.271Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a2d093004e6896b9259f7f82cc3c5d13a61901adeaad2b099098a063e3a35482",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:00:13.271Z"
-  },
-  {
-    "job_id": "workday-globus-medical-JR106530",
-    "job_title": "Associate Interventional Specialist (Houston, TX)",
-    "employer_name": "Globus Medical",
-    "job_city": "Texas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Texas/Associate-Interventional-Specialist--Houston--TX-_JR106530",
-    "job_posted_at_datetime_utc": "2026-04-22T07:00:13.271Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "52afa11148b952d58a525d8750cafd24aec193d42e12d1d44554a0f5bc7db718",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:00:13.271Z"
-  },
-  {
     "job_id": "workday-globus-medical-JR106284",
     "job_title": "Neurophysiologist Traveler (Nationwide)",
     "employer_name": "Globus Medical",
@@ -5434,6 +5378,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "27584ed78ddfc77b5413ccb8d0b55f8b6bb602d6852491127f0783cca3f233bf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:00:13.271Z"
+  },
+  {
+    "job_id": "workday-globus-medical-JR106555",
+    "job_title": "Entry Level Associate Neurophysiologist (Columbus, OH)",
+    "employer_name": "Globus Medical",
+    "job_city": "Ohio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Ohio/Entry-Level-Associate-Neurophysiologist--Columbus--OH-_JR106555-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:00:13.271Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a2d093004e6896b9259f7f82cc3c5d13a61901adeaad2b099098a063e3a35482",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:00:13.271Z"
+  },
+  {
+    "job_id": "workday-globus-medical-JR106530",
+    "job_title": "Associate Interventional Specialist (Houston, TX)",
+    "employer_name": "Globus Medical",
+    "job_city": "Texas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Texas/Associate-Interventional-Specialist--Houston--TX-_JR106530",
+    "job_posted_at_datetime_utc": "2026-04-22T07:00:13.271Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "52afa11148b952d58a525d8750cafd24aec193d42e12d1d44554a0f5bc7db718",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8080,18 +8080,18 @@
     "job_posted_at": "2026-04-20T07:10:16.470Z"
   },
   {
-    "job_id": "workday-abbott-31113914",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
+    "job_id": "workday-abbott-31148012",
+    "job_title": "Clinical Associate",
     "employer_name": "Abbott",
-    "job_city": "Colorado - Colorado Springs",
+    "job_city": "Georgia - Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
     "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
+    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8108,18 +8108,18 @@
     "job_posted_at": "2026-04-20T07:10:16.470Z"
   },
   {
-    "job_id": "workday-abbott-31148012",
-    "job_title": "Clinical Associate",
+    "job_id": "workday-abbott-31113914",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
     "employer_name": "Abbott",
-    "job_city": "Georgia - Atlanta",
+    "job_city": "Colorado - Colorado Springs",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
     "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
+    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11726,18 +11726,18 @@
     "job_posted_at": "2026-04-20T01:57:12.222Z"
   },
   {
-    "job_id": "lever-palantir-76b62a88-f991-4605-82ac-8834be151511",
+    "job_id": "lever-palantir-cfdb534d-6d07-4a67-b055-a81ebbf47f88",
     "job_title": "Global Mobility Specialist",
     "employer_name": "Palantir",
-    "job_city": "Washington",
-    "job_state": "",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/76b62a88-f991-4605-82ac-8834be151511/apply",
+    "job_apply_link": "https://jobs.lever.co/palantir/cfdb534d-6d07-4a67-b055-a81ebbf47f88/apply",
     "job_posted_at_datetime_utc": "2026-04-20T01:57:10.869Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9ae265ca6d52fb8fe6fff2fd138810372ca42ee1945b7fd1a3770f26d4f0cce5",
+    "fingerprint": "13cffb49ed14de4b4867ceeb6e70d7d8f79cc4e6a8eb8207651a36ef2a604ffe",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11755,18 +11755,18 @@
     "job_posted_at": "2026-04-20T01:57:10.869Z"
   },
   {
-    "job_id": "lever-palantir-cfdb534d-6d07-4a67-b055-a81ebbf47f88",
+    "job_id": "lever-palantir-76b62a88-f991-4605-82ac-8834be151511",
     "job_title": "Global Mobility Specialist",
     "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "Washington",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/cfdb534d-6d07-4a67-b055-a81ebbf47f88/apply",
+    "job_apply_link": "https://jobs.lever.co/palantir/76b62a88-f991-4605-82ac-8834be151511/apply",
     "job_posted_at_datetime_utc": "2026-04-20T01:57:10.869Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "13cffb49ed14de4b4867ceeb6e70d7d8f79cc4e6a8eb8207651a36ef2a604ffe",
+    "fingerprint": "9ae265ca6d52fb8fe6fff2fd138810372ca42ee1945b7fd1a3770f26d4f0cce5",
     "tags": {
       "employment": "entry_level",
       "domains": [
