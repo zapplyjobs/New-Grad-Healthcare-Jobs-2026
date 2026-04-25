@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "workday-walmart-R-2490885",
+    "job_title": "(USA) Pharmacy Tech Certified Sam's",
+    "employer_name": "Walmart",
+    "job_city": "Appleton",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Appleton-WI/XMLNAME--USA--Pharmacy-Tech-Certified-Sam-s_R-2490885",
+    "job_posted_at_datetime_utc": "2026-04-25T20:20:46.483Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "376998408457a82b858da4c02f05b0e6e92c8cef53909ba2419b433ee5837a24",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-25T20:20:46.483Z"
+  },
+  {
     "job_id": "workday-rtx-01839612",
     "job_title": "Ergonomist",
     "employer_name": "RTX",
@@ -2132,34 +2162,6 @@
     "job_posted_at": "2026-04-23T07:44:45.907Z"
   },
   {
-    "job_id": "workday-philips-578439",
-    "job_title": "Critical Care Nurse - Clinical Solution Specialist (Travel: Northern California)",
-    "employer_name": "Philips",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Jose-California-United-States/Critical-Care-Nurse---Clinical-Solution-Specialist--Travel--Northern-California-_578439",
-    "job_posted_at_datetime_utc": "2026-04-23T07:44:20.889Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a916839b4471aebfecb8329fded722b689831fbd08dc7f1621cfe10492486236",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:44:20.889Z"
-  },
-  {
     "job_id": "workday-philips-580091",
     "job_title": "Sales Support, Clinical Specialist - Coronary Image Guided Therapy Devices (New York City)",
     "employer_name": "Philips",
@@ -2182,6 +2184,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:44:20.889Z"
+  },
+  {
+    "job_id": "workday-philips-578439",
+    "job_title": "Critical Care Nurse - Clinical Solution Specialist (Travel: Northern California)",
+    "employer_name": "Philips",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Jose-California-United-States/Critical-Care-Nurse---Clinical-Solution-Specialist--Travel--Northern-California-_578439",
+    "job_posted_at_datetime_utc": "2026-04-23T07:44:20.889Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a916839b4471aebfecb8329fded722b689831fbd08dc7f1621cfe10492486236",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -4160,34 +4190,6 @@
     "job_posted_at": "2026-04-22T07:10:36.168Z"
   },
   {
-    "job_id": "workday-abbott-31147362",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bremen, GA",
-    "employer_name": "Abbott",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Bremen--GA_31147362",
-    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a4fb29705451e1806bf403ea765110f864afda57b53921ff5bdaea03d1b10c9e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:10:26.126Z"
-  },
-  {
     "job_id": "workday-abbott-31148136",
     "job_title": "Clinical Specialist I, CPT - Peoria, IL",
     "employer_name": "Abbott",
@@ -4312,6 +4314,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "40985bec488246fa393a24249eff9af686bfe79da123d69a7f36b82355c1dd04",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:10:26.126Z"
+  },
+  {
+    "job_id": "workday-abbott-31147362",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bremen, GA",
+    "employer_name": "Abbott",
+    "job_city": "Georgia - Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Bremen--GA_31147362",
+    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a4fb29705451e1806bf403ea765110f864afda57b53921ff5bdaea03d1b10c9e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5197,6 +5227,34 @@
     "job_posted_at": "2026-04-22T07:00:39.288Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-070988",
+    "job_title": "Senior Manager/Associate Director, Clinical Sciences, Oncology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Manager-Associate-Director--Clinical-Sciences--Oncology_R-070988-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:00:39.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3c3c4b7462f9d1d860c55870faf84e292b92d3591bbe712ec59d737f1e6739cf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:00:39.287Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-048214",
     "job_title": "Oncology Sales Specialist - North Jersey - Johnson & Johnson Innovative Medicine",
     "employer_name": "Johnson & Johnson",
@@ -5266,34 +5324,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "daf398865edba6b8580a3f0747ff3aff165764c6fc51efd437f29711eba267e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:00:39.287Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-070988",
-    "job_title": "Senior Manager/Associate Director, Clinical Sciences, Oncology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Manager-Associate-Director--Clinical-Sciences--Oncology_R-070988-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:00:39.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3c3c4b7462f9d1d860c55870faf84e292b92d3591bbe712ec59d737f1e6739cf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8080,18 +8110,18 @@
     "job_posted_at": "2026-04-20T07:10:16.470Z"
   },
   {
-    "job_id": "workday-abbott-31148012",
-    "job_title": "Clinical Associate",
+    "job_id": "workday-abbott-31113914",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
     "employer_name": "Abbott",
-    "job_city": "Georgia - Atlanta",
+    "job_city": "Colorado - Colorado Springs",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
     "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
+    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8108,18 +8138,18 @@
     "job_posted_at": "2026-04-20T07:10:16.470Z"
   },
   {
-    "job_id": "workday-abbott-31113914",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
+    "job_id": "workday-abbott-31148012",
+    "job_title": "Clinical Associate",
     "employer_name": "Abbott",
-    "job_city": "Colorado - Colorado Springs",
+    "job_city": "Georgia - Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
     "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
+    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8219,314 +8249,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T07:02:19.862Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178378",
-    "job_title": "Associate Director, Early Pipeline, Patient and Market Access",
-    "employer_name": "Takeda",
-    "job_city": "MA - Cambridge - Kendall Square - 500",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge---Kendall-Square---500/Associate-Director--Early-Pipeline--Patient-and-Market-Access_R0178378",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "703c5e9f7b96b0c74ab18d28e52c5bf833b978d3c136d673c77712cb43a49070",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177772",
-    "job_title": "Associate Director, Market Access and Channel Strategy (FTP)",
-    "employer_name": "Takeda",
-    "job_city": "Lexington",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Lexington-MA/Associate-Director--Market-Access-and-Channel-Strategy_R0177772",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dcac6205a694e4f7fbcaccee0ef1de7cde8a87a74a8662dbca7aa54dd8be240b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177029",
-    "job_title": "Associate Director, Enterprise Strategy, Patient and Market Access",
-    "employer_name": "Takeda",
-    "job_city": "Lexington",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Lexington-MA/Associate-Director--Market-Access-Enterprise-Strategy_R0177029-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b601736de43d8dd78b74c66c0cccd01d94c32dc3b0327ee8516a2bb9058d1f98",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178808",
-    "job_title": "Phlebotomist (Evenings/Weekends)",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Phlebotomist--Evenings-Weekends-_R0178808",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9ce82a2a826b4fb0c889b60c194c40ed4409ab555d3ce23017127002150ce478",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178807",
-    "job_title": "Plasma Center Technician (Evenings/Weekends)",
-    "employer_name": "Takeda",
-    "job_city": "IN - Indianapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Plasma-Center-Technician--Evenings-Weekends-_R0178807-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec43faf854e3b7e60e491a5f84dd90ef02f4ddcaec43867a509e4add1e2d7138",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178802",
-    "job_title": "Advanced EMT - (5K Sign on Bonus)",
-    "employer_name": "Takeda",
-    "job_city": "WI - Greenfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Advanced-EMT----5K-Sign-on-Bonus-_R0178802",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "749712806766aa3f1a26104f9bbafbde10c3a9bf07303e3feec225eaa2111101",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178801",
-    "job_title": "Paramedic - 5K Sign on Bonus - No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "WI - Greenfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Paramedic---5K-Sign-on-Bonus---No-Overnight-Shifts_R0178801-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "62f52094eb2189aadebc3aff0c4c48c0cb8dd55b4507d98dad522fe9c11ee171",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178799",
-    "job_title": "Licensed Practical Nurse (LPN/LVN) – $5,000 Sign‑On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "WI - Greenfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Licensed-Practical-Nurse--LPN-LVN-----5-000-Sign-On-Bonus_R0178799-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f9ec9e220e2cb1a30cc6d90c318a625e5a827f27db75d2eda2be513b5e172e36",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178212",
-    "job_title": "Project Management Lead, Associate Director, Global Legal, E&C Ops",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Project-Management-Lead--Associate-Director--Global-Legal--E-C-Ops_R0178212",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8fc81c45df369a32e9eada690bec7c73ef6c0753572a5ed708fda926c101f1bc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178797",
-    "job_title": "Paramedic - No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "OK - Broken Arrow",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Broken-Arrow/Paramedic---No-Overnight-Shifts_R0178797-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8bc87d7dafee27bc9dedb81c0ec73bdeed0a64820cf3dfe63d8bc95b4f768fad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178795",
-    "job_title": "Licensed Practical Nurse - Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "OK - Broken Arrow",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Broken-Arrow/Licensed-Practical-Nurse---Day-One-Benefits_R0178795-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "37a53044359d3c8a4c240b7a30d31fb2d82ae985fc05dcbd45183cc841aa471b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
   },
   {
     "job_id": "workday-takeda-R0178788",
@@ -8962,6 +8684,314 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178378",
+    "job_title": "Associate Director, Early Pipeline, Patient and Market Access",
+    "employer_name": "Takeda",
+    "job_city": "MA - Cambridge - Kendall Square - 500",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge---Kendall-Square---500/Associate-Director--Early-Pipeline--Patient-and-Market-Access_R0178378",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "703c5e9f7b96b0c74ab18d28e52c5bf833b978d3c136d673c77712cb43a49070",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177772",
+    "job_title": "Associate Director, Market Access and Channel Strategy (FTP)",
+    "employer_name": "Takeda",
+    "job_city": "Lexington",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Lexington-MA/Associate-Director--Market-Access-and-Channel-Strategy_R0177772",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dcac6205a694e4f7fbcaccee0ef1de7cde8a87a74a8662dbca7aa54dd8be240b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177029",
+    "job_title": "Associate Director, Enterprise Strategy, Patient and Market Access",
+    "employer_name": "Takeda",
+    "job_city": "Lexington",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Lexington-MA/Associate-Director--Market-Access-Enterprise-Strategy_R0177029-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b601736de43d8dd78b74c66c0cccd01d94c32dc3b0327ee8516a2bb9058d1f98",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178808",
+    "job_title": "Phlebotomist (Evenings/Weekends)",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Phlebotomist--Evenings-Weekends-_R0178808",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9ce82a2a826b4fb0c889b60c194c40ed4409ab555d3ce23017127002150ce478",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178807",
+    "job_title": "Plasma Center Technician (Evenings/Weekends)",
+    "employer_name": "Takeda",
+    "job_city": "IN - Indianapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Indianapolis/Plasma-Center-Technician--Evenings-Weekends-_R0178807-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec43faf854e3b7e60e491a5f84dd90ef02f4ddcaec43867a509e4add1e2d7138",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178802",
+    "job_title": "Advanced EMT - (5K Sign on Bonus)",
+    "employer_name": "Takeda",
+    "job_city": "WI - Greenfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Advanced-EMT----5K-Sign-on-Bonus-_R0178802",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "749712806766aa3f1a26104f9bbafbde10c3a9bf07303e3feec225eaa2111101",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178801",
+    "job_title": "Paramedic - 5K Sign on Bonus - No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "WI - Greenfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Paramedic---5K-Sign-on-Bonus---No-Overnight-Shifts_R0178801-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "62f52094eb2189aadebc3aff0c4c48c0cb8dd55b4507d98dad522fe9c11ee171",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178799",
+    "job_title": "Licensed Practical Nurse (LPN/LVN) – $5,000 Sign‑On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "WI - Greenfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Licensed-Practical-Nurse--LPN-LVN-----5-000-Sign-On-Bonus_R0178799-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f9ec9e220e2cb1a30cc6d90c318a625e5a827f27db75d2eda2be513b5e172e36",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178212",
+    "job_title": "Project Management Lead, Associate Director, Global Legal, E&C Ops",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Project-Management-Lead--Associate-Director--Global-Legal--E-C-Ops_R0178212",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8fc81c45df369a32e9eada690bec7c73ef6c0753572a5ed708fda926c101f1bc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178797",
+    "job_title": "Paramedic - No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "OK - Broken Arrow",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Broken-Arrow/Paramedic---No-Overnight-Shifts_R0178797-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8bc87d7dafee27bc9dedb81c0ec73bdeed0a64820cf3dfe63d8bc95b4f768fad",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178795",
+    "job_title": "Licensed Practical Nurse - Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "OK - Broken Arrow",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Broken-Arrow/Licensed-Practical-Nurse---Day-One-Benefits_R0178795-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "37a53044359d3c8a4c240b7a30d31fb2d82ae985fc05dcbd45183cc841aa471b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11726,18 +11756,18 @@
     "job_posted_at": "2026-04-20T01:57:12.222Z"
   },
   {
-    "job_id": "lever-palantir-cfdb534d-6d07-4a67-b055-a81ebbf47f88",
+    "job_id": "lever-palantir-76b62a88-f991-4605-82ac-8834be151511",
     "job_title": "Global Mobility Specialist",
     "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "Washington",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/cfdb534d-6d07-4a67-b055-a81ebbf47f88/apply",
+    "job_apply_link": "https://jobs.lever.co/palantir/76b62a88-f991-4605-82ac-8834be151511/apply",
     "job_posted_at_datetime_utc": "2026-04-20T01:57:10.869Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "13cffb49ed14de4b4867ceeb6e70d7d8f79cc4e6a8eb8207651a36ef2a604ffe",
+    "fingerprint": "9ae265ca6d52fb8fe6fff2fd138810372ca42ee1945b7fd1a3770f26d4f0cce5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11755,18 +11785,18 @@
     "job_posted_at": "2026-04-20T01:57:10.869Z"
   },
   {
-    "job_id": "lever-palantir-76b62a88-f991-4605-82ac-8834be151511",
+    "job_id": "lever-palantir-cfdb534d-6d07-4a67-b055-a81ebbf47f88",
     "job_title": "Global Mobility Specialist",
     "employer_name": "Palantir",
-    "job_city": "Washington",
-    "job_state": "",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/76b62a88-f991-4605-82ac-8834be151511/apply",
+    "job_apply_link": "https://jobs.lever.co/palantir/cfdb534d-6d07-4a67-b055-a81ebbf47f88/apply",
     "job_posted_at_datetime_utc": "2026-04-20T01:57:10.869Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9ae265ca6d52fb8fe6fff2fd138810372ca42ee1945b7fd1a3770f26d4f0cce5",
+    "fingerprint": "13cffb49ed14de4b4867ceeb6e70d7d8f79cc4e6a8eb8207651a36ef2a604ffe",
     "tags": {
       "employment": "entry_level",
       "domains": [
