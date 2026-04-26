@@ -1167,34 +1167,6 @@
     "job_posted_at": "2026-04-24T07:20:10.483Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-064124",
-    "job_title": "Associate Director, Global Labeling Product Leader",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Associate-Director--Global-Labeling-Product-Leader_R-064124",
-    "job_posted_at_datetime_utc": "2026-04-24T07:19:43.804Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b0ea0529a9889fd48e3ad9aecb7f1e65a94249b41adf01a12af51c8eecdfa497",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:19:43.804Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-070334",
     "job_title": "Associate Clinical Account Specialist (Bronx, NY/New Jersey North) - Johnson and Johnson MedTech, Electrophysiology",
     "employer_name": "Johnson & Johnson",
@@ -1236,6 +1208,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f46dde41e9dfea81192e3e6a3deab68bf5cfd8e00ffecc63389c1b360c846e71",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:19:43.804Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-064124",
+    "job_title": "Associate Director, Global Labeling Product Leader",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Associate-Director--Global-Labeling-Product-Leader_R-064124",
+    "job_posted_at_datetime_utc": "2026-04-24T07:19:43.804Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b0ea0529a9889fd48e3ad9aecb7f1e65a94249b41adf01a12af51c8eecdfa497",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1392,34 +1392,6 @@
     "job_posted_at": "2026-04-24T07:19:04.657Z"
   },
   {
-    "job_id": "workday-cigna-26004897",
-    "job_title": "Encore Home Infusion Nurse - Accredo",
-    "employer_name": "Cigna",
-    "job_city": "Jacksonville",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Jacksonville-FL/Encore-Home-Infusion-Nurse---Accredo_26004897",
-    "job_posted_at_datetime_utc": "2026-04-24T07:18:44.976Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "76a7258bae78191a9bc30e41f3f77489a223c57bcdd0494bc814609893f3afa8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:18:44.976Z"
-  },
-  {
     "job_id": "workday-cigna-26005002",
     "job_title": "Home Infusion Nurse - Accredo - Stamford, CT",
     "employer_name": "Cigna",
@@ -1544,6 +1516,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fc5c16daa1c3f7f906c215eaaa2c0b975a9394d8c7234a5fd3c51b6ac50f7d16",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:18:44.976Z"
+  },
+  {
+    "job_id": "workday-cigna-26004897",
+    "job_title": "Encore Home Infusion Nurse - Accredo",
+    "employer_name": "Cigna",
+    "job_city": "Jacksonville",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Jacksonville-FL/Encore-Home-Infusion-Nurse---Accredo_26004897",
+    "job_posted_at_datetime_utc": "2026-04-24T07:18:44.976Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "76a7258bae78191a9bc30e41f3f77489a223c57bcdd0494bc814609893f3afa8",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2190,258 +2190,6 @@
     "job_posted_at": "2026-04-23T07:43:40.259Z"
   },
   {
-    "job_id": "workday-takeda-R0179069",
-    "job_title": "Spanish Bilingual Licensed Nurse, LPN or LVN",
-    "employer_name": "Takeda",
-    "job_city": "NV - Las Vegas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Spanish-Bilingual-Licensed-Nurse--LPN-or-LVN_R0179069-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a5816a3acd05be67148ef62b59cf16d0090f7cf25d87a5030b37f48309535ea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179070",
-    "job_title": "Spanish Bilingual Paramedic, EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "NV - Las Vegas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Spanish-Bilingual-Paramedic--EMT-P_R0179070-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1bc4eb5fa21ef54e47420ecd1e6aa12607a227fc5fe07cf7ca7d20ba582f670",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179068",
-    "job_title": "Spanish Bilingual Registered Nurse, RN",
-    "employer_name": "Takeda",
-    "job_city": "NV - Las Vegas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Spanish-Bilingual-Registered-Nurse--RN_R0179068-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d9c47923aac2a628974e1a3357053343033b368d3649af7bff80b3905c60b2b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179071",
-    "job_title": "Entry Level Phlebotomy Paid Training",
-    "employer_name": "Takeda",
-    "job_city": "ND - Bismarck",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/Entry-Level-Phlebotomy-Paid-Training_R0179071-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "724a8c95dec4b08699454490b7152a507958ead2b72e47517e66811ea1de1f47",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179073",
-    "job_title": "LPN Licensed Practical Nurse",
-    "employer_name": "Takeda",
-    "job_city": "ND - Bismarck",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/LPN-Licensed-Practical-Nurse_R0179073-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abe27a69fc4b1b87e72c00530f93006fed52649ca0637ec5ff9c9c622eebb440",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179074",
-    "job_title": "On Site Paramedic",
-    "employer_name": "Takeda",
-    "job_city": "ND - Bismarck",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/On-Site-Paramedic_R0179074-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "68c5ebd0368a74355d1e515e30b855c0b938fe73778585e6e1fd86ce62390079",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179072",
-    "job_title": "Registered Nurse RN",
-    "employer_name": "Takeda",
-    "job_city": "ND - Bismarck",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/Registered-Nurse-RN_R0179072-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9b5e9be6277c9b0c150f7abd09f1a4d31b5a101e4455d956c678485b9405bde7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179079",
-    "job_title": "Medical Screener/Phlebotomist - On the Job Training!",
-    "employer_name": "Takeda",
-    "job_city": "SC - Spartanburg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Medical-Screener-Phlebotomist---On-the-Job-Training-_R0179079-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6abd351837386a932df25fcfb6ca3e1fb3a9b40434caf23d45d3272a1d9dc5cd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179080",
-    "job_title": "Medical Support Specialist LPN, RN, or Paramedic required!",
-    "employer_name": "Takeda",
-    "job_city": "SC - Spartanburg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Medical-Support-Specialist-LPN--RN--or-Paramedic-required-_R0179080-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5511ff52fce6c3a8cb85a7e34dc376d5fc6e4c8749624ad8f4ffd94a3b5949d8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:21:43.378Z"
-  },
-  {
     "job_id": "workday-takeda-R0179087",
     "job_title": "Phlebotomist - Open Availability",
     "employer_name": "Takeda",
@@ -2722,6 +2470,258 @@
     "job_posted_at": "2026-04-23T07:21:43.378Z"
   },
   {
+    "job_id": "workday-takeda-R0179069",
+    "job_title": "Spanish Bilingual Licensed Nurse, LPN or LVN",
+    "employer_name": "Takeda",
+    "job_city": "NV - Las Vegas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Spanish-Bilingual-Licensed-Nurse--LPN-or-LVN_R0179069-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a5816a3acd05be67148ef62b59cf16d0090f7cf25d87a5030b37f48309535ea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179070",
+    "job_title": "Spanish Bilingual Paramedic, EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "NV - Las Vegas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Spanish-Bilingual-Paramedic--EMT-P_R0179070-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1bc4eb5fa21ef54e47420ecd1e6aa12607a227fc5fe07cf7ca7d20ba582f670",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179068",
+    "job_title": "Spanish Bilingual Registered Nurse, RN",
+    "employer_name": "Takeda",
+    "job_city": "NV - Las Vegas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Spanish-Bilingual-Registered-Nurse--RN_R0179068-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d9c47923aac2a628974e1a3357053343033b368d3649af7bff80b3905c60b2b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179071",
+    "job_title": "Entry Level Phlebotomy Paid Training",
+    "employer_name": "Takeda",
+    "job_city": "ND - Bismarck",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/Entry-Level-Phlebotomy-Paid-Training_R0179071-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "724a8c95dec4b08699454490b7152a507958ead2b72e47517e66811ea1de1f47",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179073",
+    "job_title": "LPN Licensed Practical Nurse",
+    "employer_name": "Takeda",
+    "job_city": "ND - Bismarck",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/LPN-Licensed-Practical-Nurse_R0179073-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abe27a69fc4b1b87e72c00530f93006fed52649ca0637ec5ff9c9c622eebb440",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179074",
+    "job_title": "On Site Paramedic",
+    "employer_name": "Takeda",
+    "job_city": "ND - Bismarck",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/On-Site-Paramedic_R0179074-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "68c5ebd0368a74355d1e515e30b855c0b938fe73778585e6e1fd86ce62390079",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179072",
+    "job_title": "Registered Nurse RN",
+    "employer_name": "Takeda",
+    "job_city": "ND - Bismarck",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/Registered-Nurse-RN_R0179072-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9b5e9be6277c9b0c150f7abd09f1a4d31b5a101e4455d956c678485b9405bde7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179079",
+    "job_title": "Medical Screener/Phlebotomist - On the Job Training!",
+    "employer_name": "Takeda",
+    "job_city": "SC - Spartanburg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Medical-Screener-Phlebotomist---On-the-Job-Training-_R0179079-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6abd351837386a932df25fcfb6ca3e1fb3a9b40434caf23d45d3272a1d9dc5cd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179080",
+    "job_title": "Medical Support Specialist LPN, RN, or Paramedic required!",
+    "employer_name": "Takeda",
+    "job_city": "SC - Spartanburg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Medical-Support-Specialist-LPN--RN--or-Paramedic-required-_R0179080-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5511ff52fce6c3a8cb85a7e34dc376d5fc6e4c8749624ad8f4ffd94a3b5949d8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:21:43.378Z"
+  },
+  {
     "job_id": "workday-td-bank-R_1486145",
     "job_title": "Equity Research Associate - Airlines",
     "employer_name": "TD Bank",
@@ -2948,6 +2948,62 @@
     "job_posted_at": "2026-04-23T07:19:56.444Z"
   },
   {
+    "job_id": "workday-kbr-R2120866",
+    "job_title": "Special Operations Licensed Clinical Social Worker (National Capital Region)",
+    "employer_name": "KBR",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC/Special-Operations-Licensed-Clinical-Social-Worker--National-Capital-Region-_R2120866",
+    "job_posted_at_datetime_utc": "2026-04-23T07:19:50.541Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be37baf3198672ec66a5bdfa85b2d70a47b72bfc378f24ca2143fe88c86995ce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:19:50.541Z"
+  },
+  {
+    "job_id": "workday-kbr-R2122533",
+    "job_title": "Special Operations Psychological/Mental Health Technician (JSOC, Fort Bragg, NC)",
+    "employer_name": "KBR",
+    "job_city": "Fort Liberty North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Psychological-Mental-Health-Technician--JSOC--Fort-Bragg--NC-_R2122533",
+    "job_posted_at_datetime_utc": "2026-04-23T07:19:50.541Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "12a6f9242b799346572b98ed13ca8108335601cd1a6c859d2c64dd63d6fe62fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:19:50.541Z"
+  },
+  {
     "job_id": "workday-kbr-R2122576",
     "job_title": "Special Operations Physical Therapist-TEMP POSITION, (Onsite - Fort Bragg, NC)",
     "employer_name": "KBR",
@@ -3004,46 +3060,18 @@
     "job_posted_at": "2026-04-23T07:19:50.541Z"
   },
   {
-    "job_id": "workday-kbr-R2120866",
-    "job_title": "Special Operations Licensed Clinical Social Worker (National Capital Region)",
-    "employer_name": "KBR",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC/Special-Operations-Licensed-Clinical-Social-Worker--National-Capital-Region-_R2120866",
-    "job_posted_at_datetime_utc": "2026-04-23T07:19:50.541Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be37baf3198672ec66a5bdfa85b2d70a47b72bfc378f24ca2143fe88c86995ce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:19:50.541Z"
-  },
-  {
-    "job_id": "workday-kbr-R2122533",
-    "job_title": "Special Operations Psychological/Mental Health Technician (JSOC, Fort Bragg, NC)",
-    "employer_name": "KBR",
-    "job_city": "Fort Liberty North Carolina",
+    "job_id": "workday-johnson-&-johnson-R-071434",
+    "job_title": "Associate Clinical Consultant/Clinical Consultant - (Baltimore, MD) - Johnson & Johnson MedTech – Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Baltimore",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Psychological-Mental-Health-Technician--JSOC--Fort-Bragg--NC-_R2122533",
-    "job_posted_at_datetime_utc": "2026-04-23T07:19:50.541Z",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Baltimore-Maryland-United-States/Associate-Clinical-Consultant-Clinical-Consultant----Baltimore--MD----Johnson---Johnson-MedTech---Heart-Recovery_R-071434-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:19:43.805Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "12a6f9242b799346572b98ed13ca8108335601cd1a6c859d2c64dd63d6fe62fd",
+    "fingerprint": "d181c2b70bef15b4c3b32e92e9bfc354f492580f17a766ce8f095789d690ce7f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3057,7 +3085,119 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:19:50.541Z"
+    "job_posted_at": "2026-04-23T07:19:43.805Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-055178",
+    "job_title": "Advanced Surgical Consultant - Newark, NJ - Johnson & Johnson MedTech, Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Newark",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Newark-New-Jersey-United-States/Advanced-Surgical-Consultant---Newark--NJ---Johnson---Johnson-MedTech--Heart-Recovery_R-055178-2",
+    "job_posted_at_datetime_utc": "2026-04-23T07:19:43.805Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4b2d2171568af16551f4e18f30f0ab0363e5493a2d464dec35c423264ea3e4d3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:19:43.805Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-067364",
+    "job_title": "Study Responsible Physician- Neuroscience (Pediatric Studies)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:19:43.805Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "85b83cbe8d438d46c55ed4143e76d0f22ffae4f3e3dd3b5f446712218cd9007a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:19:43.805Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-066499",
+    "job_title": "Study Responsible Physician- Neuroscience Late Development",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience-Late-Development_R-066499-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:19:43.805Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "942ea27a39fcb4cd42e3def7f420a3a5348ef02dba73eb88572fdfcf28f5b728",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:19:43.805Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-066453",
+    "job_title": "Study Responsible Physician- Neuroscience Late Development",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience-Late-Development_R-066453-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:19:43.805Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "942ea27a39fcb4cd42e3def7f420a3a5348ef02dba73eb88572fdfcf28f5b728",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:19:43.805Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-058923",
@@ -3242,146 +3382,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e90a3901ddbcb66d3d0ed2883e43d1c2b0d28d45c0545e4d818d9a1a44348cb6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:19:43.805Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-071434",
-    "job_title": "Associate Clinical Consultant/Clinical Consultant - (Baltimore, MD) - Johnson & Johnson MedTech – Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Baltimore-Maryland-United-States/Associate-Clinical-Consultant-Clinical-Consultant----Baltimore--MD----Johnson---Johnson-MedTech---Heart-Recovery_R-071434-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:19:43.805Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d181c2b70bef15b4c3b32e92e9bfc354f492580f17a766ce8f095789d690ce7f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:19:43.805Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-055178",
-    "job_title": "Advanced Surgical Consultant - Newark, NJ - Johnson & Johnson MedTech, Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Newark",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Newark-New-Jersey-United-States/Advanced-Surgical-Consultant---Newark--NJ---Johnson---Johnson-MedTech--Heart-Recovery_R-055178-2",
-    "job_posted_at_datetime_utc": "2026-04-23T07:19:43.805Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4b2d2171568af16551f4e18f30f0ab0363e5493a2d464dec35c423264ea3e4d3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:19:43.805Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-067364",
-    "job_title": "Study Responsible Physician- Neuroscience (Pediatric Studies)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:19:43.805Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "85b83cbe8d438d46c55ed4143e76d0f22ffae4f3e3dd3b5f446712218cd9007a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:19:43.805Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066499",
-    "job_title": "Study Responsible Physician- Neuroscience Late Development",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience-Late-Development_R-066499-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:19:43.805Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "942ea27a39fcb4cd42e3def7f420a3a5348ef02dba73eb88572fdfcf28f5b728",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:19:43.805Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066453",
-    "job_title": "Study Responsible Physician- Neuroscience Late Development",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience-Late-Development_R-066453-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:19:43.805Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "942ea27a39fcb4cd42e3def7f420a3a5348ef02dba73eb88572fdfcf28f5b728",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4358,118 +4358,6 @@
     "job_posted_at": "2026-04-22T07:10:26.126Z"
   },
   {
-    "job_id": "workday-takeda-R0178977",
-    "job_title": "Plasma Center Technician",
-    "employer_name": "Takeda",
-    "job_city": "CA - Pomona",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Pomona/Plasma-Center-Technician_R0178977-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e6ddf7fdc635fa5468f98da136684eb99e70330bda92e6031bda70c1e171a49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179000",
-    "job_title": "Plasma Center Nurse - RN",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mankato",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Registered-Nurse-RN_R0179000-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "642ad725498586622936d386be8fdb61b76f358c3ce442e929bf5ca75888b273",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178998",
-    "job_title": "Plasma Center Paramedic - EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mankato",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0178998-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c6891c8fa155b31329cced1093867031780e6e74bb2d7ae17387b7a4ed8eb705",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178989",
-    "job_title": "Lab Technician - 2nd Shift",
-    "employer_name": "Takeda",
-    "job_city": "GA - Social Circle - Baxter Pkwy",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Social-Circle---Baxter-Pkwy/Lab-Technician---2nd-Shift_R0178989-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "55d67c503b35c04ebc2264c7683c293487e4288ae938217a0ee659b9da28d2bb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
     "job_id": "workday-takeda-R0178932",
     "job_title": "Paramedic - No Overnight Shifts",
     "employer_name": "Takeda",
@@ -4874,6 +4762,118 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8050a19f48fbf3b1f8dc5ebde0737d89218e15b5da1fc385c55dfb7a28cca1f6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178977",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "CA - Pomona",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Pomona/Plasma-Center-Technician_R0178977-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9e6ddf7fdc635fa5468f98da136684eb99e70330bda92e6031bda70c1e171a49",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179000",
+    "job_title": "Plasma Center Nurse - RN",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mankato",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Registered-Nurse-RN_R0179000-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "642ad725498586622936d386be8fdb61b76f358c3ce442e929bf5ca75888b273",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178998",
+    "job_title": "Plasma Center Paramedic - EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mankato",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/On-Site-Paramedic_R0178998-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c6891c8fa155b31329cced1093867031780e6e74bb2d7ae17387b7a4ed8eb705",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178989",
+    "job_title": "Lab Technician - 2nd Shift",
+    "employer_name": "Takeda",
+    "job_city": "GA - Social Circle - Baxter Pkwy",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Social-Circle---Baxter-Pkwy/Lab-Technician---2nd-Shift_R0178989-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "55d67c503b35c04ebc2264c7683c293487e4288ae938217a0ee659b9da28d2bb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5765,6 +5765,34 @@
     "job_posted_at": "2026-04-21T15:39:53.072Z"
   },
   {
+    "job_id": "greenhouse-oscar-7809171",
+    "job_title": "Care Navigation Guide",
+    "employer_name": "Oscar Health",
+    "job_city": "Texas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "http://www.hioscar.com/careers/7809171?gh_jid=7809171",
+    "job_posted_at_datetime_utc": "2026-04-21T15:34:04.292Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "00cd294b99e3ff2979f146bff7eb9b13cd78432e5664f6ceb24c8df18659c0e8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-21T15:34:04.292Z"
+  },
+  {
     "job_id": "greenhouse-oscar-7815005",
     "job_title": "Care Navigation Guide",
     "employer_name": "Oscar Health",
@@ -5833,34 +5861,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "54f1c2f67a3b0ee8adcc1cd35f8df7bd1e10d71be9d28186595301fea1113ae7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-21T15:34:04.292Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7809171",
-    "job_title": "Care Navigation Guide",
-    "employer_name": "Oscar Health",
-    "job_city": "Texas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7809171?gh_jid=7809171",
-    "job_posted_at_datetime_utc": "2026-04-21T15:34:04.292Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "00cd294b99e3ff2979f146bff7eb9b13cd78432e5664f6ceb24c8df18659c0e8",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6973,6 +6973,34 @@
     "job_posted_at": "2026-04-21T07:01:10.984Z"
   },
   {
+    "job_id": "workday-philips-569652",
+    "job_title": "Clinical Application Specialist, DMS",
+    "employer_name": "Philips",
+    "job_city": "Home Based, United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Clinical-Application-Specialist--DMS_569652",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:10.984Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2ccedd40d03776c735d2d2e1944ba0a2a4f09cac658e326fdc6079b0b84e6717",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:01:10.984Z"
+  },
+  {
     "job_id": "workday-philips-576678",
     "job_title": "Quality Control Technician",
     "employer_name": "Philips",
@@ -7023,34 +7051,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:10.984Z"
-  },
-  {
-    "job_id": "workday-philips-569652",
-    "job_title": "Clinical Application Specialist, DMS",
-    "employer_name": "Philips",
-    "job_city": "Home Based, United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Clinical-Application-Specialist--DMS_569652",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:10.984Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2ccedd40d03776c735d2d2e1944ba0a2a4f09cac658e326fdc6079b0b84e6717",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -8110,18 +8110,18 @@
     "job_posted_at": "2026-04-20T07:10:16.470Z"
   },
   {
-    "job_id": "workday-abbott-31113914",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
+    "job_id": "workday-abbott-31148012",
+    "job_title": "Clinical Associate",
     "employer_name": "Abbott",
-    "job_city": "Colorado - Colorado Springs",
+    "job_city": "Georgia - Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
     "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
+    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8138,18 +8138,18 @@
     "job_posted_at": "2026-04-20T07:10:16.470Z"
   },
   {
-    "job_id": "workday-abbott-31148012",
-    "job_title": "Clinical Associate",
+    "job_id": "workday-abbott-31113914",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
     "employer_name": "Abbott",
-    "job_city": "Georgia - Atlanta",
+    "job_city": "Colorado - Colorado Springs",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
     "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
+    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9344,6 +9344,34 @@
     "job_posted_at": "2026-04-20T07:00:22.330Z"
   },
   {
+    "job_id": "workday-guidehouse-38453",
+    "job_title": "Patient Account Representative (Bilingual)",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Account-Representative--Bilingual-_38453",
+    "job_posted_at_datetime_utc": "2026-04-20T07:00:20.059Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "80a9f9d032cdd1ff66372a72447613615eb6254e315cc76ebe086e6c6aa23885",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:00:20.059Z"
+  },
+  {
     "job_id": "workday-guidehouse-38252",
     "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
     "employer_name": "Guidehouse",
@@ -9385,34 +9413,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ea0fb082428398e999ef9b616313b7046b5b5add78b2a684639d9b6175a711f3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:00:20.059Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38453",
-    "job_title": "Patient Account Representative (Bilingual)",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Account-Representative--Bilingual-_38453",
-    "job_posted_at_datetime_utc": "2026-04-20T07:00:20.059Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "80a9f9d032cdd1ff66372a72447613615eb6254e315cc76ebe086e6c6aa23885",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9963,35 +9963,6 @@
     "job_posted_at": "2026-04-20T07:00:10.814Z"
   },
   {
-    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Florida",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.255Z"
-  },
-  {
     "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -10369,18 +10340,18 @@
     "job_posted_at": "2026-04-20T01:59:19.255Z"
   },
   {
-    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
-    "job_title": "Part-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_id": "lever-includedhealth-4a7b27c1-2162-485c-90c7-6e002cf46c25",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Florida",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.195Z",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.255Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
+    "fingerprint": "51eb03fe358bd1aa41a676e404f6edeabc18ff5dcacca02149e9b35c9f63fed0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10390,12 +10361,12 @@
         "remote",
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:59:19.195Z"
+    "job_posted_at": "2026-04-20T01:59:19.255Z"
   },
   {
     "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
@@ -10419,6 +10390,35 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:59:19.195Z"
+  },
+  {
+    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
+    "job_title": "Part-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:59:19.195Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -10768,18 +10768,18 @@
     "job_posted_at": "2026-04-20T01:57:44.293Z"
   },
   {
-    "job_id": "greenhouse-spacex-8213433002",
-    "job_title": "Chemist (Starlink PCB)",
+    "job_id": "greenhouse-spacex-8213424002",
+    "job_title": "Chemical Lab Technician (Starlink PCB)",
     "employer_name": "SpaceX",
     "job_city": "Bastrop",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8213433002?gh_jid=8213433002",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8213424002?gh_jid=8213424002",
     "job_posted_at_datetime_utc": "2026-04-20T01:57:44.290Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "22a337ed239451e44db2f07847abbf57c957deeeb0f59291940525db1482a07b",
+    "fingerprint": "47b7178c188ccf182a70606bdf240672b6da32667c218490f495ef3e551d1081",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10807,18 +10807,18 @@
     "job_posted_at": "2026-04-20T01:57:44.290Z"
   },
   {
-    "job_id": "greenhouse-spacex-8213424002",
-    "job_title": "Chemical Lab Technician (Starlink PCB)",
+    "job_id": "greenhouse-spacex-8213433002",
+    "job_title": "Chemist (Starlink PCB)",
     "employer_name": "SpaceX",
     "job_city": "Bastrop",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8213424002?gh_jid=8213424002",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8213433002?gh_jid=8213433002",
     "job_posted_at_datetime_utc": "2026-04-20T01:57:44.290Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "47b7178c188ccf182a70606bdf240672b6da32667c218490f495ef3e551d1081",
+    "fingerprint": "22a337ed239451e44db2f07847abbf57c957deeeb0f59291940525db1482a07b",
     "tags": {
       "employment": "entry_level",
       "domains": [
