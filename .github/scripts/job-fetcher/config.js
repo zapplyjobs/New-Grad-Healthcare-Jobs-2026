@@ -20,6 +20,7 @@ module.exports = {
   // Branding text
   title: 'Healthcare Jobs 2026',
   tagline: '',  // No tagline for SEO repos
+  jobCountBadgeLabel: 'Healthcare Jobs',
 
   // Description paragraphs (with template variables)
   descriptionLine1: '🚀 Healthcare and nursing jobs for new graduates, updated in real time.',
