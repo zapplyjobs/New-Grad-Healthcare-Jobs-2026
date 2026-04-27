@@ -1809,6 +1809,34 @@
     "job_posted_at": "2026-04-27T01:04:43.609Z"
   },
   {
+    "job_id": "greenhouse-olsson-5168759008",
+    "job_title": "Construction Materials Testing - Lab Technician",
+    "employer_name": "Olsson",
+    "job_city": "Oklahoma City",
+    "job_state": "OK",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5168759008",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:43.398Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a6d41a06a4731198af8f62f8f8cf102453447fb0549cfc3f3fd1102f992ddb89",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T01:04:43.398Z"
+  },
+  {
     "job_id": "greenhouse-olsson-5131482008",
     "job_title": "Construction Materials Testing - Lab Technician",
     "employer_name": "Olsson",
@@ -1893,34 +1921,6 @@
     "job_posted_at": "2026-04-27T01:04:43.398Z"
   },
   {
-    "job_id": "greenhouse-olsson-5168759008",
-    "job_title": "Construction Materials Testing - Lab Technician",
-    "employer_name": "Olsson",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5168759008",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:43.398Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a6d41a06a4731198af8f62f8f8cf102453447fb0549cfc3f3fd1102f992ddb89",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T01:04:43.398Z"
-  },
-  {
     "job_id": "greenhouse-neuralink-7680569003",
     "job_title": "Clinical Research Associate",
     "employer_name": "Neuralink",
@@ -1947,35 +1947,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-27T01:04:43.168Z"
-  },
-  {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
   },
   {
     "job_id": "lever-includedhealth-310a88a1-7535-4534-8e5a-14c79cad5761",
@@ -2222,6 +2193,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b17785820fa40ef85ac1ee6ee00293a8c1e6027d559c9225bc62b5f60410e080",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3102,202 +3102,6 @@
     "job_posted_at": "2026-04-24T14:16:03.246Z"
   },
   {
-    "job_id": "workday-takeda-R0179178",
-    "job_title": "Emergency Medical Technician EMT-P - $5000 Sign On Bonus Available!",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Emergency-Medical-Technician-EMT-P----5000-Sign-On-Bonus-Available-_R0179178-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b28531d8dfe5a6f0dfcb46a578500961ec8aa0c310fb2183da8adc7a8e834508",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179180",
-    "job_title": "LPN - $5000 Sign On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/LPN----5000-Sign-On-Bonus_R0179180-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "822d3115b26cdf84cd380543dc46423786a127ed072946c6e8719298b840324b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179177",
-    "job_title": "Licensed Practical Nurse LPN - $5000 Sign On Bonus Available!",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Licensed-Practical-Nurse-LPN----5000-Sign-On-Bonus-Available-_R0179177-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b7a18564961fa4cee5494ea37d05133049607bf968c2a373af7c2eb031ca6567",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179184",
-    "job_title": "Medical Screener/Phlebotomist ($17 an hour) Part-Time with Benefits",
-    "employer_name": "Takeda",
-    "job_city": "TX - Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Medical-Screener-Phlebotomist---17-an-hour--Part-Time-with-Benefits_R0179184-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "455f31e040747cb9786c270a4ae8288e93c705429ecc1aeadbb31a0f2b1616ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179181",
-    "job_title": "Paramedic - $5000 Sign On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Paramedic----5000-Sign-On-Bonus_R0179181-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eb61db90f61d170604d68064a903548ac5a1949423fdd7a0bd02ae14432117c7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179183",
-    "job_title": "Plasma Center Technician - Part Time",
-    "employer_name": "Takeda",
-    "job_city": "TX - Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Plasma-Center-Technician---Part-Time_R0179183-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fbcd9e6aaea9771392b061fd69d45ba53cfadd6852ab8a1f45a40f5c6312c159",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:21:43.378Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179179",
-    "job_title": "Registered Nurse RN - $5000 Sign On Bonus Available!",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Registered-Nurse-RN----5000-Sign-On-Bonus-Available-_R0179179-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8b900f8d8347d486671e420b1012b57ad4ce797219030e7f5bfc69b0ebcc1a0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:21:43.378Z"
-  },
-  {
     "job_id": "workday-takeda-R0179175",
     "job_title": "Plasma Center Paramedic – EMT-P",
     "employer_name": "Takeda",
@@ -3634,18 +3438,18 @@
     "job_posted_at": "2026-04-24T07:21:43.378Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01349624",
-    "job_title": "Supervisor Nursing",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Las Vegas",
+    "job_id": "workday-takeda-R0179178",
+    "job_title": "Emergency Medical Technician EMT-P - $5000 Sign On Bonus Available!",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Supervisor-Nursing_R-01349624",
-    "job_posted_at_datetime_utc": "2026-04-24T07:21:27.888Z",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Emergency-Medical-Technician-EMT-P----5000-Sign-On-Bonus-Available-_R0179178-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "18253cdbd7e16656b8c0a6677cec34e3f3aad207f1aefb391be9f93de94e95bc",
+    "fingerprint": "b28531d8dfe5a6f0dfcb46a578500961ec8aa0c310fb2183da8adc7a8e834508",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3659,7 +3463,175 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:21:27.888Z"
+    "job_posted_at": "2026-04-24T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179180",
+    "job_title": "LPN - $5000 Sign On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/LPN----5000-Sign-On-Bonus_R0179180-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "822d3115b26cdf84cd380543dc46423786a127ed072946c6e8719298b840324b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179177",
+    "job_title": "Licensed Practical Nurse LPN - $5000 Sign On Bonus Available!",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Licensed-Practical-Nurse-LPN----5000-Sign-On-Bonus-Available-_R0179177-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b7a18564961fa4cee5494ea37d05133049607bf968c2a373af7c2eb031ca6567",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179184",
+    "job_title": "Medical Screener/Phlebotomist ($17 an hour) Part-Time with Benefits",
+    "employer_name": "Takeda",
+    "job_city": "TX - Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Medical-Screener-Phlebotomist---17-an-hour--Part-Time-with-Benefits_R0179184-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "455f31e040747cb9786c270a4ae8288e93c705429ecc1aeadbb31a0f2b1616ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179181",
+    "job_title": "Paramedic - $5000 Sign On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Paramedic----5000-Sign-On-Bonus_R0179181-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eb61db90f61d170604d68064a903548ac5a1949423fdd7a0bd02ae14432117c7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179183",
+    "job_title": "Plasma Center Technician - Part Time",
+    "employer_name": "Takeda",
+    "job_city": "TX - Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Plasma-Center-Technician---Part-Time_R0179183-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fbcd9e6aaea9771392b061fd69d45ba53cfadd6852ab8a1f45a40f5c6312c159",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:21:43.378Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179179",
+    "job_title": "Registered Nurse RN - $5000 Sign On Bonus Available!",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Registered-Nurse-RN----5000-Sign-On-Bonus-Available-_R0179179-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:21:43.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8b900f8d8347d486671e420b1012b57ad4ce797219030e7f5bfc69b0ebcc1a0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:21:43.378Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01348633",
@@ -3683,6 +3655,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:21:27.888Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01349624",
+    "job_title": "Supervisor Nursing",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Las Vegas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Supervisor-Nursing_R-01349624",
+    "job_posted_at_datetime_utc": "2026-04-24T07:21:27.888Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "18253cdbd7e16656b8c0a6677cec34e3f3aad207f1aefb391be9f93de94e95bc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -4056,34 +4056,6 @@
     "job_posted_at": "2026-04-24T07:19:04.657Z"
   },
   {
-    "job_id": "workday-cigna-26005002",
-    "job_title": "Home Infusion Nurse - Accredo - Stamford, CT",
-    "employer_name": "Cigna",
-    "job_city": "Stamford",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Stamford-CT/Home-Infusion-Nurse---Accredo---Stamford--CT_26005002-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:18:44.976Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "555e32139a44c3015207fb110e562c7eb2e9a4a017ef921658deeecab777eaec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:18:44.976Z"
-  },
-  {
     "job_id": "workday-cigna-26004547",
     "job_title": "Pharmacy Technician Representative - Accredo Specialty Pharmacy - Memphis, TN",
     "employer_name": "Cigna",
@@ -4208,6 +4180,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "76a7258bae78191a9bc30e41f3f77489a223c57bcdd0494bc814609893f3afa8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:18:44.976Z"
+  },
+  {
+    "job_id": "workday-cigna-26005002",
+    "job_title": "Home Infusion Nurse - Accredo - Stamford, CT",
+    "employer_name": "Cigna",
+    "job_city": "Stamford",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Stamford-CT/Home-Infusion-Nurse---Accredo---Stamford--CT_26005002-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:18:44.976Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "555e32139a44c3015207fb110e562c7eb2e9a4a017ef921658deeecab777eaec",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5920,34 +5920,6 @@
     "job_posted_at": "2026-04-23T07:19:50.541Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-068945",
-    "job_title": "Transcend: Deploy CE Experienced Analyst",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-068945-2",
-    "job_posted_at_datetime_utc": "2026-04-23T07:19:43.805Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e90a3901ddbcb66d3d0ed2883e43d1c2b0d28d45c0545e4d818d9a1a44348cb6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:19:43.805Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-071434",
     "job_title": "Associate Clinical Consultant/Clinical Consultant - (Baltimore, MD) - Johnson & Johnson MedTech – Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -6242,6 +6214,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "77513556f1199b4dd74a31c0bbc4e80e2af541b3774b6469c54822579524326b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:19:43.805Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068945",
+    "job_title": "Transcend: Deploy CE Experienced Analyst",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-068945-2",
+    "job_posted_at_datetime_utc": "2026-04-23T07:19:43.805Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e90a3901ddbcb66d3d0ed2883e43d1c2b0d28d45c0545e4d818d9a1a44348cb6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7134,90 +7134,6 @@
     "job_posted_at": "2026-04-22T07:10:36.168Z"
   },
   {
-    "job_id": "workday-abbott-31148136",
-    "job_title": "Clinical Specialist I, CPT - Peoria, IL",
-    "employer_name": "Abbott",
-    "job_city": "Illinois - Peoria",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Peoria/Clinical-Specialist-I--CPT---Peoria--IL_31148136",
-    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7b501de82959caae6773ed8d948b75bc979a1b29c14f58724e927d8aa000cb67",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:10:26.126Z"
-  },
-  {
-    "job_id": "workday-abbott-31148208",
-    "job_title": "Clinical Specialist I, CPT - Phoenix, AZ",
-    "employer_name": "Abbott",
-    "job_city": "Arizona - Phoenix",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist-I--CPT---Phoenix--AZ_31148208-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "44b6cca59e81a588717088824060cbea18fe8ff358b4f8f763bf5f29ad071817",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:10:26.126Z"
-  },
-  {
-    "job_id": "workday-abbott-31144768",
-    "job_title": "Associate Scientist Product Development R&D - Nutrition - Columbus, OH",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Associate-Scientist-Product-Development-R-D---Nutrition---Columbus--OH_31144768-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af9754466412de8b9140d6b25652c8d7dd73c2a60a7718a823bf7924ca20fc5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:10:26.126Z"
-  },
-  {
     "job_id": "workday-abbott-31148364",
     "job_title": "Clinical Specialist I, CPT - Phoenix, AZ",
     "employer_name": "Abbott",
@@ -7295,6 +7211,90 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:10:26.126Z"
+  },
+  {
+    "job_id": "workday-abbott-31148136",
+    "job_title": "Clinical Specialist I, CPT - Peoria, IL",
+    "employer_name": "Abbott",
+    "job_city": "Illinois - Peoria",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Peoria/Clinical-Specialist-I--CPT---Peoria--IL_31148136",
+    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7b501de82959caae6773ed8d948b75bc979a1b29c14f58724e927d8aa000cb67",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:10:26.126Z"
+  },
+  {
+    "job_id": "workday-abbott-31148208",
+    "job_title": "Clinical Specialist I, CPT - Phoenix, AZ",
+    "employer_name": "Abbott",
+    "job_city": "Arizona - Phoenix",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist-I--CPT---Phoenix--AZ_31148208-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "44b6cca59e81a588717088824060cbea18fe8ff358b4f8f763bf5f29ad071817",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:10:26.126Z"
+  },
+  {
+    "job_id": "workday-abbott-31144768",
+    "job_title": "Associate Scientist Product Development R&D - Nutrition - Columbus, OH",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Associate-Scientist-Product-Development-R-D---Nutrition---Columbus--OH_31144768-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:10:26.126Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af9754466412de8b9140d6b25652c8d7dd73c2a60a7718a823bf7924ca20fc5f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -10057,6 +10057,34 @@
     "job_posted_at": "2026-04-21T07:01:57.336Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01349500",
+    "job_title": "QC Scientist I",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/QC-Scientist-I_R-01349500",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:43.171Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e631abb1081d2ba9bdf9330972fb1e9f0e50b39b4fb72595e351f04250e01396",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:01:43.171Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01349110",
     "job_title": "Technical Sales Specialist, Proteomics Workflow and Beads",
     "employer_name": "Thermo Fisher Scientific",
@@ -10074,34 +10102,6 @@
       "domains": [
         "healthcare",
         "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:43.171Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01349500",
-    "job_title": "QC Scientist I",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/QC-Scientist-I_R-01349500",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:43.171Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e631abb1081d2ba9bdf9330972fb1e9f0e50b39b4fb72595e351f04250e01396",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
       ],
       "locations": [
         "us"
@@ -11532,18 +11532,18 @@
     "job_posted_at": "2026-04-20T07:10:16.470Z"
   },
   {
-    "job_id": "workday-abbott-31113914",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
+    "job_id": "workday-abbott-31148012",
+    "job_title": "Clinical Associate",
     "employer_name": "Abbott",
-    "job_city": "Colorado - Colorado Springs",
+    "job_city": "Georgia - Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
     "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
+    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11560,18 +11560,18 @@
     "job_posted_at": "2026-04-20T07:10:16.470Z"
   },
   {
-    "job_id": "workday-abbott-31148012",
-    "job_title": "Clinical Associate",
+    "job_id": "workday-abbott-31113914",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO",
     "employer_name": "Abbott",
-    "job_city": "Georgia - Atlanta",
+    "job_city": "Colorado - Colorado Springs",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Associate_31148012-1",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
     "job_posted_at_datetime_utc": "2026-04-20T07:10:16.470Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b29e2c3b28e26ffe9e674b1e7b98d851b99573859b9c84dd73c051c8c448af38",
+    "fingerprint": "a18656407544f35f708d868829ebd3179c9c4610dd831a4b7f4b3a38c460df83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11671,118 +11671,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-20T07:02:19.862Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178756",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "GA - Morrow",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Morrow/Medical-Screener_R0178756",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ccfa6b845a0943ad4fb3507ff571f334a713f65927d76947cd75243769c92794",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177895",
-    "job_title": "Associate Director, Global Marketing Thoracic, Oncology Business Unit",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Associate-Director--Global-Marketing-Thoracic--Oncology-Business-Unit_R0177895",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe4a486be5304974bc50a8c0dca67840f91c2565449e37f7180ff99e3412fb52",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178773",
-    "job_title": "Part Time Registered Nurse",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178769",
-    "job_title": "Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "MN - Moorhead",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0178769-1",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T07:01:57.336Z"
   },
   {
     "job_id": "workday-takeda-R0178378",
@@ -12414,6 +12302,118 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "069c3dbde6a2824c8047d237d54f9b4cbb7a822c98b854d6d7e9da6638c33c6c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178756",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "GA - Morrow",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Morrow/Medical-Screener_R0178756",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ccfa6b845a0943ad4fb3507ff571f334a713f65927d76947cd75243769c92794",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177895",
+    "job_title": "Associate Director, Global Marketing Thoracic, Oncology Business Unit",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Associate-Director--Global-Marketing-Thoracic--Oncology-Business-Unit_R0177895",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe4a486be5304974bc50a8c0dca67840f91c2565449e37f7180ff99e3412fb52",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178773",
+    "job_title": "Part Time Registered Nurse",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Registered-Nurse_R0178773-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7df9968f7d8383fd406679f86ff880c21c7f25024f006039f94b26cebcfce8cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178769",
+    "job_title": "Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "MN - Moorhead",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Phlebotomist_R0178769-1",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c00982c8b26b5da3b33577786d46779a33b2d856047571f56e754eabe67d974f",
     "tags": {
       "employment": "entry_level",
       "domains": [
