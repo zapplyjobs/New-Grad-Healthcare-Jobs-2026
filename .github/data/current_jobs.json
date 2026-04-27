@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "workday-walmart-R-2112572",
+    "job_title": "(USA) Pharmacy Technician, Central Fill, Health And Wellness Central Operations - Health And Wellness",
+    "employer_name": "Walmart",
+    "job_city": "(USA) MD FREDERICK 07638 WM ON CAMPUS/RX FACILITIES",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MD-FREDERICK-07638-WM-ON-CAMPUSRX-FACILITIES/XMLNAME--USA--Pharmacy-Technician--Central-Fill--Health-And-Wellness-Central-Operations---Health-And-Wellness_R-2112572-1",
+    "job_posted_at_datetime_utc": "2026-04-27T14:56:21.721Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "64a3da08bcb53ec7749f73fcb9b5a9eaa1b8428aea6f31b377b536b63f0a3bd7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T14:56:21.721Z"
+  },
+  {
     "job_id": "workday-medtronic-R64799",
     "job_title": "Clinical Specialist CRM - Palm Beach Gardens / Jupiter",
     "employer_name": "Medtronic",
@@ -8,7 +38,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jupiter-Florida-United-States-of-America/Clinical-Specialist-CRM---Palm-Beach-Gardens---Jupiter_R64799-2",
-    "job_posted_at_datetime_utc": "2026-04-27T14:39:25.914Z",
+    "job_posted_at_datetime_utc": "2026-04-27T14:54:24.919Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4aca185b2150fdeb21dd36a44f808c753865bf0a786a9c73d6798d2cc980a96c",
@@ -25,7 +55,119 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-27T14:39:25.914Z"
+    "job_posted_at": "2026-04-27T14:54:24.919Z"
+  },
+  {
+    "job_id": "workday-guidehouse-35052",
+    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
+    "employer_name": "Guidehouse",
+    "job_city": "US IL Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_35052",
+    "job_posted_at_datetime_utc": "2026-04-27T14:53:24.112Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T14:53:24.112Z"
+  },
+  {
+    "job_id": "workday-guidehouse-36911",
+    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
+    "employer_name": "Guidehouse",
+    "job_city": "US IL Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_36911",
+    "job_posted_at_datetime_utc": "2026-04-27T14:53:24.112Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T14:53:24.112Z"
+  },
+  {
+    "job_id": "workday-merck-&-co.-R388888",
+    "job_title": "Physician Editor",
+    "employer_name": "Merck & Co.",
+    "job_city": "Pennsylvania - North Wales",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Physician-Editor_R388888",
+    "job_posted_at_datetime_utc": "2026-04-27T14:23:43.673Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d70a101c30e42363c0c187ab6eb70abc9ea2d231d57ec15bd8e8af3ecf33eb0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T14:23:43.673Z"
+  },
+  {
+    "job_id": "workday-idexx-J-052273",
+    "job_title": "Data Billing Associate - Veterinary Software",
+    "employer_name": "IDEXX",
+    "job_city": "Westbrook",
+    "job_state": "ME",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273",
+    "job_posted_at_datetime_utc": "2026-04-27T14:22:43.384Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2da70852ce88fbfe85ffc8b0e342a37c1809a29f75dd484048cc0a6e567e816b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T14:22:43.384Z"
   },
   {
     "job_id": "sr-AbbVie-3743990012831126",
@@ -94,7 +236,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Missoula/Advanced-EMT--AEMT_R0179211",
-    "job_posted_at_datetime_utc": "2026-04-27T14:09:16.220Z",
+    "job_posted_at_datetime_utc": "2026-04-27T13:52:51.117Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3384945a438e83a540214be79ed45db8d949cac23add2ded147a21efc106ed51",
@@ -111,7 +253,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-27T14:09:16.220Z"
+    "job_posted_at": "2026-04-27T13:52:51.117Z"
   },
   {
     "job_id": "workday-takeda-R0179210",
@@ -122,7 +264,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Missoula/Paramedic-EMT-P_R0179210-1",
-    "job_posted_at_datetime_utc": "2026-04-27T14:09:16.220Z",
+    "job_posted_at_datetime_utc": "2026-04-27T13:52:51.117Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1f38753a3f35cc6b60ed955450bb6bf11eb141ecd5c5597b723efb414e04a238",
@@ -139,63 +281,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-27T14:09:16.220Z"
-  },
-  {
-    "job_id": "workday-merck-&-co.-R388888",
-    "job_title": "Physician Editor",
-    "employer_name": "Merck & Co.",
-    "job_city": "Pennsylvania - North Wales",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Physician-Editor_R388888",
-    "job_posted_at_datetime_utc": "2026-04-27T14:07:40.037Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d70a101c30e42363c0c187ab6eb70abc9ea2d231d57ec15bd8e8af3ecf33eb0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T14:07:40.037Z"
-  },
-  {
-    "job_id": "workday-idexx-J-052273",
-    "job_title": "Data Billing Associate - Veterinary Software",
-    "employer_name": "IDEXX",
-    "job_city": "Westbrook",
-    "job_state": "ME",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273",
-    "job_posted_at_datetime_utc": "2026-04-27T14:06:34.434Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2da70852ce88fbfe85ffc8b0e342a37c1809a29f75dd484048cc0a6e567e816b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T14:06:34.434Z"
+    "job_posted_at": "2026-04-27T13:52:51.117Z"
   },
   {
     "job_id": "workday-medtronic-R63211",
@@ -206,7 +292,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
-    "job_posted_at_datetime_utc": "2026-04-27T13:35:17.143Z",
+    "job_posted_at_datetime_utc": "2026-04-27T13:51:42.742Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
@@ -223,7 +309,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-27T13:35:17.143Z"
+    "job_posted_at": "2026-04-27T13:51:42.742Z"
   },
   {
     "job_id": "workday-takeda-R0179206",
@@ -1574,6 +1660,63 @@
     "job_posted_at": "2026-04-27T02:58:13.886Z"
   },
   {
+    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
+    "job_title": "Part-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
+    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
     "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
     "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
     "employer_name": "Ro",
@@ -1792,63 +1935,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
-    "job_title": "Part-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
-    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -4558,90 +4644,6 @@
     "job_posted_at": "2026-04-24T07:09:07.302Z"
   },
   {
-    "job_id": "workday-cigna-26002095",
-    "job_title": "Patient Services Representative - Evernorth",
-    "employer_name": "Cigna",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Pittsburgh-PA/Patient-Services-Representative---Evernorth_26002095",
-    "job_posted_at_datetime_utc": "2026-04-24T07:09:06.815Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8e25b33e17cabe93482b26d6f1febfd329786e27e8d2f325d74e349e9743f446",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:09:06.815Z"
-  },
-  {
-    "job_id": "workday-cigna-26004858",
-    "job_title": "Pharmacy Technician Representative - Accredo Specialty Pharmacy - Corona, CA",
-    "employer_name": "Cigna",
-    "job_city": "Corona",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Corona-CA/Pharmacy-Technician-Representative---Accredo-Specialty-Pharmacy---Corona--CA_26004858-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:09:06.815Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9203889e19ac392a2b370473c58421827c03d20b9f3e82ccef81b763b5e2f68b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:09:06.815Z"
-  },
-  {
-    "job_id": "workday-cigna-26001961",
-    "job_title": "Patient Care Coordinator, Specialty Pharmacy- Evernorth",
-    "employer_name": "Cigna",
-    "job_city": "United States Work at Home",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Patient-Care-Coordinator--Specialty-Pharmacy--Evernorth_26001961",
-    "job_posted_at_datetime_utc": "2026-04-24T07:09:06.815Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fc5c16daa1c3f7f906c215eaaa2c0b975a9394d8c7234a5fd3c51b6ac50f7d16",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:09:06.815Z"
-  },
-  {
     "job_id": "workday-cigna-26004897",
     "job_title": "Encore Home Infusion Nurse - Accredo",
     "employer_name": "Cigna",
@@ -4738,6 +4740,90 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2a702b532bc7641404482998f1d2ccbd275a11e95110d15d5ddc1513ce3dfc44",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:09:06.815Z"
+  },
+  {
+    "job_id": "workday-cigna-26002095",
+    "job_title": "Patient Services Representative - Evernorth",
+    "employer_name": "Cigna",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Pittsburgh-PA/Patient-Services-Representative---Evernorth_26002095",
+    "job_posted_at_datetime_utc": "2026-04-24T07:09:06.815Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8e25b33e17cabe93482b26d6f1febfd329786e27e8d2f325d74e349e9743f446",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:09:06.815Z"
+  },
+  {
+    "job_id": "workday-cigna-26004858",
+    "job_title": "Pharmacy Technician Representative - Accredo Specialty Pharmacy - Corona, CA",
+    "employer_name": "Cigna",
+    "job_city": "Corona",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Corona-CA/Pharmacy-Technician-Representative---Accredo-Specialty-Pharmacy---Corona--CA_26004858-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:09:06.815Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9203889e19ac392a2b370473c58421827c03d20b9f3e82ccef81b763b5e2f68b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:09:06.815Z"
+  },
+  {
+    "job_id": "workday-cigna-26001961",
+    "job_title": "Patient Care Coordinator, Specialty Pharmacy- Evernorth",
+    "employer_name": "Cigna",
+    "job_city": "United States Work at Home",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Patient-Care-Coordinator--Specialty-Pharmacy--Evernorth_26001961",
+    "job_posted_at_datetime_utc": "2026-04-24T07:09:06.815Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc5c16daa1c3f7f906c215eaaa2c0b975a9394d8c7234a5fd3c51b6ac50f7d16",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6169,62 +6255,6 @@
     "job_posted_at": "2026-04-23T07:11:39.093Z"
   },
   {
-    "job_id": "workday-medtronic-R63536",
-    "job_title": "Clinical Specialist - Cardiac Rhythm Management (CRM)",
-    "employer_name": "Medtronic",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-York-New-York-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management--CRM-_R63536-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:10:56.482Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ae52de201bc3d5f798b014f03c2a13084030e2938bf670fd58673785d608a8c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:10:56.482Z"
-  },
-  {
-    "job_id": "workday-medtronic-R64925",
-    "job_title": "Associate Clinical Specialist - Cardiac Rhythm Management - Peoria, IL",
-    "employer_name": "Medtronic",
-    "job_city": "Peoria",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Peoria-Illinois-United-States-of-America/Associate-Clinical-Specialist---Cardiac-Rhythm-Management---Peoria--IL_R64925-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:10:56.482Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ad13ac4d5ad30625f2729155c4b38116c6f7250b86a7379cd4d06646186f3186",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:10:56.482Z"
-  },
-  {
     "job_id": "workday-medtronic-R59398",
     "job_title": "Executive Robotic Sales Program Management- Robotic Surgical Technologies (Texas)",
     "employer_name": "Medtronic",
@@ -6274,6 +6304,62 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:10:56.482Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63536",
+    "job_title": "Clinical Specialist - Cardiac Rhythm Management (CRM)",
+    "employer_name": "Medtronic",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-York-New-York-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management--CRM-_R63536-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:10:56.482Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ae52de201bc3d5f798b014f03c2a13084030e2938bf670fd58673785d608a8c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:10:56.482Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64925",
+    "job_title": "Associate Clinical Specialist - Cardiac Rhythm Management - Peoria, IL",
+    "employer_name": "Medtronic",
+    "job_city": "Peoria",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Peoria-Illinois-United-States-of-America/Associate-Clinical-Specialist---Cardiac-Rhythm-Management---Peoria--IL_R64925-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:10:56.482Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ad13ac4d5ad30625f2729155c4b38116c6f7250b86a7379cd4d06646186f3186",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -8757,6 +8843,34 @@
     "job_posted_at": "2026-04-22T07:00:39.288Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-070988",
+    "job_title": "Senior Manager/Associate Director, Clinical Sciences, Oncology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Manager-Associate-Director--Clinical-Sciences--Oncology_R-070988-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:00:39.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3c3c4b7462f9d1d860c55870faf84e292b92d3591bbe712ec59d737f1e6739cf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:00:39.287Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-048214",
     "job_title": "Oncology Sales Specialist - North Jersey - Johnson & Johnson Innovative Medicine",
     "employer_name": "Johnson & Johnson",
@@ -8826,34 +8940,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "daf398865edba6b8580a3f0747ff3aff165764c6fc51efd437f29711eba267e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:00:39.287Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-070988",
-    "job_title": "Senior Manager/Associate Director, Clinical Sciences, Oncology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Manager-Associate-Director--Clinical-Sciences--Oncology_R-070988-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:00:39.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3c3c4b7462f9d1d860c55870faf84e292b92d3591bbe712ec59d737f1e6739cf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10785,34 +10871,6 @@
     "job_posted_at": "2026-04-21T07:01:10.984Z"
   },
   {
-    "job_id": "workday-philips-569652",
-    "job_title": "Clinical Application Specialist, DMS",
-    "employer_name": "Philips",
-    "job_city": "Home Based, United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Clinical-Application-Specialist--DMS_569652",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:10.984Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2ccedd40d03776c735d2d2e1944ba0a2a4f09cac658e326fdc6079b0b84e6717",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:10.984Z"
-  },
-  {
     "job_id": "workday-philips-576678",
     "job_title": "Quality Control Technician",
     "employer_name": "Philips",
@@ -10863,6 +10921,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:01:10.984Z"
+  },
+  {
+    "job_id": "workday-philips-569652",
+    "job_title": "Clinical Application Specialist, DMS",
+    "employer_name": "Philips",
+    "job_city": "Home Based, United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Clinical-Application-Specialist--DMS_569652",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:10.984Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2ccedd40d03776c735d2d2e1944ba0a2a4f09cac658e326fdc6079b0b84e6717",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -11667,34 +11753,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-04-20T18:49:52.407Z"
-  },
-  {
-    "job_id": "workday-guidehouse-37545",
-    "job_title": "Associate Director/Managing Consultant - Payer/Provider Health - 340B Program Optimization",
-    "employer_name": "Guidehouse",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Associate-Director-Managing-Consultant---Payer-Provider-Health---340B-Program-Optimization_37545",
-    "job_posted_at_datetime_utc": "2026-04-20T15:07:34.380Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "89e38b3ac39ae238b056203824937acd883e421bdea03a44dfb6318495356cf5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-20T15:07:34.380Z"
   }
 ]
