@@ -1,5 +1,120 @@
 [
   {
+    "job_id": "workday-walmart-R-2491975",
+    "job_title": "Pharmacist Manager - Sam's",
+    "employer_name": "Walmart",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Dallas-TX/Pharmacist-Manager---Sam-s_R-2491975",
+    "job_posted_at_datetime_utc": "2026-04-27T17:08:03.206Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "072ee7ee5d102b6512b5fdcad25bc5d48d619f3048e1a9f43c64cd310214de4e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T17:08:03.206Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179228",
+    "job_title": "Entry Level Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "IN - Fort Wayne - Getz Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Getz-Rd/Entry-Level-Medical-Screener_R0179228-1",
+    "job_posted_at_datetime_utc": "2026-04-27T17:07:14.438Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ccc37136d224efb508c18bad826cba53ccfcc944c0bb53582a9260df49e07ee6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T17:07:14.438Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38252",
+    "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Part-Time-Oncology-Data-Specialist---Certified--remote-_38252",
+    "job_posted_at_datetime_utc": "2026-04-27T17:04:43.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d726854432dc6fccf63cb619295824a1be96752ce300df1c7994ff891acfa890",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T17:04:43.036Z"
+  },
+  {
+    "job_id": "workday-idexx-J-052663",
+    "job_title": "Medical Laboratory Technician",
+    "employer_name": "IDEXX",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/New-York-NY/Medical-Laboratory-Technician_J-052663",
+    "job_posted_at_datetime_utc": "2026-04-27T17:04:34.830Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d78e3563b065df8833519a2e274c320f8d390d390c686c65ff49014ca49dc69b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T17:04:34.830Z"
+  },
+  {
     "job_id": "workday-guidehouse-38204",
     "job_title": "Patient Financial Services - Credit Balance Specialist",
     "employer_name": "Guidehouse",
@@ -1448,46 +1563,18 @@
     "job_posted_at": "2026-04-27T02:58:16.690Z"
   },
   {
-    "job_id": "greenhouse-oscar-7507028",
+    "job_id": "greenhouse-oscar-7450345",
     "job_title": "Associate, Case Management Strategic Operations",
     "employer_name": "Oscar Health",
-    "job_city": "Tempe",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7507028?gh_jid=7507028",
+    "job_apply_link": "http://www.hioscar.com/careers/7450345?gh_jid=7450345",
     "job_posted_at_datetime_utc": "2026-04-27T02:58:16.507Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e2817cfa8d81466a958c53e142d9537e44db20a334ed6c2fc4c1d112e64cff4f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:16.507Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7507027",
-    "job_title": "Associate, Case Management Strategic Operations",
-    "employer_name": "Oscar Health",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7507027?gh_jid=7507027",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.507Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a0332fca3381a9bfee0965e0a3de98aec6556a041c07da67bfdc3e5f7ac227cb",
+    "fingerprint": "505141fc7a43d5dcb38d9624e260faa5fa8f6926ae24d458c9da047705459222",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1532,18 +1619,46 @@
     "job_posted_at": "2026-04-27T02:58:16.507Z"
   },
   {
-    "job_id": "greenhouse-oscar-7450345",
+    "job_id": "greenhouse-oscar-7507027",
     "job_title": "Associate, Case Management Strategic Operations",
     "employer_name": "Oscar Health",
-    "job_city": "New York",
+    "job_city": "Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7450345?gh_jid=7450345",
+    "job_apply_link": "http://www.hioscar.com/careers/7507027?gh_jid=7507027",
     "job_posted_at_datetime_utc": "2026-04-27T02:58:16.507Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "505141fc7a43d5dcb38d9624e260faa5fa8f6926ae24d458c9da047705459222",
+    "fingerprint": "a0332fca3381a9bfee0965e0a3de98aec6556a041c07da67bfdc3e5f7ac227cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:16.507Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7507028",
+    "job_title": "Associate, Case Management Strategic Operations",
+    "employer_name": "Oscar Health",
+    "job_city": "Tempe",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "http://www.hioscar.com/careers/7507028?gh_jid=7507028",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.507Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e2817cfa8d81466a958c53e142d9537e44db20a334ed6c2fc4c1d112e64cff4f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1819,35 +1934,6 @@
     "job_posted_at": "2026-04-27T02:58:13.886Z"
   },
   {
-    "job_id": "lever-includedhealth-7353ca09-47ae-451b-9189-de11a94d40df",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/7353ca09-47ae-451b-9189-de11a94d40df/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2893ff0a5fcac2a607ce2ebcc482af803778cf6e698e4b9b901c529c09a1004",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.886Z"
-  },
-  {
     "job_id": "lever-includedhealth-773dfdcc-f68a-4b79-afd6-ace918a45d76",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -2005,6 +2091,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.886Z"
+  },
+  {
+    "job_id": "lever-includedhealth-7353ca09-47ae-451b-9189-de11a94d40df",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/7353ca09-47ae-451b-9189-de11a94d40df/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d2893ff0a5fcac2a607ce2ebcc482af803778cf6e698e4b9b901c529c09a1004",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3417,18 +3532,18 @@
     "job_posted_at": "2026-04-27T00:28:41.049Z"
   },
   {
-    "job_id": "greenhouse-oscar-7648599",
+    "job_id": "greenhouse-oscar-7648597",
     "job_title": "Manager, Strategic Value & Investment Analysis",
     "employer_name": "Oscar Health",
-    "job_city": "Tempe",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7648599?gh_jid=7648599",
+    "job_apply_link": "http://www.hioscar.com/careers/7648597?gh_jid=7648597",
     "job_posted_at_datetime_utc": "2026-04-27T00:28:41.048Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3f886d45434d417a272e0e5744d14d321e4fc3431c672a4dbbf81df8bc1db588",
+    "fingerprint": "bc0128969408111f330df24a25572a89663abe5b01cd9658e4afbdd871aedeec",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3445,18 +3560,18 @@
     "job_posted_at": "2026-04-27T00:28:41.048Z"
   },
   {
-    "job_id": "greenhouse-oscar-7648597",
+    "job_id": "greenhouse-oscar-7648599",
     "job_title": "Manager, Strategic Value & Investment Analysis",
     "employer_name": "Oscar Health",
-    "job_city": "New York",
+    "job_city": "Tempe",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7648597?gh_jid=7648597",
+    "job_apply_link": "http://www.hioscar.com/careers/7648599?gh_jid=7648599",
     "job_posted_at_datetime_utc": "2026-04-27T00:28:41.048Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bc0128969408111f330df24a25572a89663abe5b01cd9658e4afbdd871aedeec",
+    "fingerprint": "3f886d45434d417a272e0e5744d14d321e4fc3431c672a4dbbf81df8bc1db588",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4753,6 +4868,34 @@
     "job_posted_at": "2026-04-24T07:10:04.853Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-072050",
+    "job_title": "Key Account Manager, Oncology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Horsham-Pennsylvania-United-States-of-America/Key-Account-Manager--Oncology_R-072050-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:10:04.852Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ddee12d24450bf057ef8fb254cb5587432118d7f48d21b7c264467f891f76bee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:10:04.852Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-070334",
     "job_title": "Associate Clinical Account Specialist (Bronx, NY/New Jersey North) - Johnson and Johnson MedTech, Electrophysiology",
     "employer_name": "Johnson & Johnson",
@@ -4803,34 +4946,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:10:04.852Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-072050",
-    "job_title": "Key Account Manager, Oncology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Horsham-Pennsylvania-United-States-of-America/Key-Account-Manager--Oncology_R-072050-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:10:04.852Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ddee12d24450bf057ef8fb254cb5587432118d7f48d21b7c264467f891f76bee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -6898,6 +7013,174 @@
     "job_posted_at": "2026-04-23T07:10:14.976Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-064404",
+    "job_title": "Field Clinical Specialist - Shockwave Medical (Cleveland, OH)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Cleveland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cleveland-Ohio-United-States/Field-Clinical-Specialist---Shockwave-Medical--Cleveland--OH-_R-064404-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c697089ad371ac9b86dacaafcedc3db76705b6ffd8bff1d8a27692662b0720f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:10:04.853Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-071230",
+    "job_title": "Field Clinical Specialist - Shockwave Medical (Lansing, MI)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Lansing",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Lansing-Michigan-United-States/Field-Clinical-Specialist---Shockwave-Medical--Lansing--MI-_R-071230-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "77513556f1199b4dd74a31c0bbc4e80e2af541b3774b6469c54822579524326b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:10:04.853Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068945",
+    "job_title": "Transcend: Deploy CE Experienced Analyst",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-068945-2",
+    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e90a3901ddbcb66d3d0ed2883e43d1c2b0d28d45c0545e4d818d9a1a44348cb6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:10:04.853Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-071434",
+    "job_title": "Associate Clinical Consultant/Clinical Consultant - (Baltimore, MD) - Johnson & Johnson MedTech – Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Baltimore-Maryland-United-States/Associate-Clinical-Consultant-Clinical-Consultant----Baltimore--MD----Johnson---Johnson-MedTech---Heart-Recovery_R-071434-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d181c2b70bef15b4c3b32e92e9bfc354f492580f17a766ce8f095789d690ce7f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:10:04.853Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-064494",
+    "job_title": "Field Reimbursement Manager (Oncology)– (Dakotas Territory) – Johnson & Johnson HCS, Inc",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Minnesota Any City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Minnesota-Any-City/Field-Reimbursement-Manager--Oncology----Dakotas-Territory----Johnson---Johnson-HCS--Inc_R-064494-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f7348d30f838c135268468ebd77ac4ec013387ae06909e3be0a78917e47cbc2a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:10:04.853Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-055178",
+    "job_title": "Advanced Surgical Consultant - Newark, NJ - Johnson & Johnson MedTech, Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Newark",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Newark-New-Jersey-United-States/Advanced-Surgical-Consultant---Newark--NJ---Johnson---Johnson-MedTech--Heart-Recovery_R-055178-2",
+    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4b2d2171568af16551f4e18f30f0ab0363e5493a2d464dec35c423264ea3e4d3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:10:04.853Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-067364",
     "job_title": "Study Responsible Physician- Neuroscience (Pediatric Studies)",
     "employer_name": "Johnson & Johnson",
@@ -7117,174 +7400,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:10:04.853Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-064404",
-    "job_title": "Field Clinical Specialist - Shockwave Medical (Cleveland, OH)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Cleveland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cleveland-Ohio-United-States/Field-Clinical-Specialist---Shockwave-Medical--Cleveland--OH-_R-064404-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9c697089ad371ac9b86dacaafcedc3db76705b6ffd8bff1d8a27692662b0720f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:10:04.853Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-071230",
-    "job_title": "Field Clinical Specialist - Shockwave Medical (Lansing, MI)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Lansing",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Lansing-Michigan-United-States/Field-Clinical-Specialist---Shockwave-Medical--Lansing--MI-_R-071230-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "77513556f1199b4dd74a31c0bbc4e80e2af541b3774b6469c54822579524326b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:10:04.853Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068945",
-    "job_title": "Transcend: Deploy CE Experienced Analyst",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-068945-2",
-    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e90a3901ddbcb66d3d0ed2883e43d1c2b0d28d45c0545e4d818d9a1a44348cb6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:10:04.853Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-071434",
-    "job_title": "Associate Clinical Consultant/Clinical Consultant - (Baltimore, MD) - Johnson & Johnson MedTech – Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Baltimore-Maryland-United-States/Associate-Clinical-Consultant-Clinical-Consultant----Baltimore--MD----Johnson---Johnson-MedTech---Heart-Recovery_R-071434-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d181c2b70bef15b4c3b32e92e9bfc354f492580f17a766ce8f095789d690ce7f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:10:04.853Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-064494",
-    "job_title": "Field Reimbursement Manager (Oncology)– (Dakotas Territory) – Johnson & Johnson HCS, Inc",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Minnesota Any City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Minnesota-Any-City/Field-Reimbursement-Manager--Oncology----Dakotas-Territory----Johnson---Johnson-HCS--Inc_R-064494-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7348d30f838c135268468ebd77ac4ec013387ae06909e3be0a78917e47cbc2a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:10:04.853Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-055178",
-    "job_title": "Advanced Surgical Consultant - Newark, NJ - Johnson & Johnson MedTech, Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Newark",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Newark-New-Jersey-United-States/Advanced-Surgical-Consultant---Newark--NJ---Johnson---Johnson-MedTech--Heart-Recovery_R-055178-2",
-    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4b2d2171568af16551f4e18f30f0ab0363e5493a2d464dec35c423264ea3e4d3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -7516,18 +7631,18 @@
     "job_posted_at": "2026-04-23T07:00:23.987Z"
   },
   {
-    "job_id": "greenhouse-oscar-7819672",
+    "job_id": "greenhouse-oscar-7812522",
     "job_title": "Associate, UM Regulatory Operations",
     "employer_name": "Oscar Health",
-    "job_city": "Tempe",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7819672?gh_jid=7819672",
+    "job_apply_link": "http://www.hioscar.com/careers/7812522?gh_jid=7812522",
     "job_posted_at_datetime_utc": "2026-04-22T22:39:52.161Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "752eceaaf7c8054f18d1c6b484c5430a8d167c90e199927895c3e47270564abb",
+    "fingerprint": "2e03cc83834ac7d235aea86fa30774a8bc95b0d03f9885c1bb6432c94a977fbb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7544,18 +7659,18 @@
     "job_posted_at": "2026-04-22T22:39:52.161Z"
   },
   {
-    "job_id": "greenhouse-oscar-7812522",
+    "job_id": "greenhouse-oscar-7819672",
     "job_title": "Associate, UM Regulatory Operations",
     "employer_name": "Oscar Health",
-    "job_city": "New York",
+    "job_city": "Tempe",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7812522?gh_jid=7812522",
+    "job_apply_link": "http://www.hioscar.com/careers/7819672?gh_jid=7819672",
     "job_posted_at_datetime_utc": "2026-04-22T22:39:52.161Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2e03cc83834ac7d235aea86fa30774a8bc95b0d03f9885c1bb6432c94a977fbb",
+    "fingerprint": "752eceaaf7c8054f18d1c6b484c5430a8d167c90e199927895c3e47270564abb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8055,34 +8170,6 @@
     "job_posted_at": "2026-04-22T07:09:21.864Z"
   },
   {
-    "job_id": "workday-cigna-26004598",
-    "job_title": "Pharmacy Technician Associate Representative - Freedom Fertility/VFP",
-    "employer_name": "Cigna",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/MA-Waltham-335-Bear-Hill-Rd/Pharmacy-Technician-Associate-Representative---Freedom-Fertility-VFP_26004598",
-    "job_posted_at_datetime_utc": "2026-04-22T07:09:06.816Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4e4ed0bf71ff413a9639a017d4d9afcc05ac64c67d6bfa1d3db250fc851292b7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:09:06.816Z"
-  },
-  {
     "job_id": "workday-cigna-26004428",
     "job_title": "Home Infusion Nurse, Per Diem - Accredo - Albuquerque, NM",
     "employer_name": "Cigna",
@@ -8123,6 +8210,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8c01c7ceae41d711801429ee47f176663a7bf47924ef76864839a919358e70ea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:09:06.816Z"
+  },
+  {
+    "job_id": "workday-cigna-26004598",
+    "job_title": "Pharmacy Technician Associate Representative - Freedom Fertility/VFP",
+    "employer_name": "Cigna",
+    "job_city": "MA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/MA-Waltham-335-Bear-Hill-Rd/Pharmacy-Technician-Associate-Representative---Freedom-Fertility-VFP_26004598",
+    "job_posted_at_datetime_utc": "2026-04-22T07:09:06.816Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4e4ed0bf71ff413a9639a017d4d9afcc05ac64c67d6bfa1d3db250fc851292b7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8334,6 +8449,174 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-22T07:08:15.172Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178973",
+    "job_title": "Part Time Plasma Center Technician- Phlebotomy",
+    "employer_name": "Takeda",
+    "job_city": "CA - Visalia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Plasma-Center-Technician--Phlebotomy_R0178973-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7f34310215279c5caee68cc078ee275c434daed18cbda214193c34844a6e4482",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178981",
+    "job_title": "Entry Level Phlebotomist - Paid Training",
+    "employer_name": "Takeda",
+    "job_city": "MN - Mounds View",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mounds-View/Entry-Level-Phlebotomist---Paid-Training_R0178981-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "98a2f724e9c31935d404efe9ac55b4bdd0f154c22d210e7c3366bdf9586c4d9d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178976",
+    "job_title": "Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Medical-Screener_R0178976-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d692d36b60b9bf5ac416af382d3fc9fa0bb347cfde01911ade3d1bdd9f7b2a15",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178997",
+    "job_title": "Paramedic - Sign On Bonus Available!",
+    "employer_name": "Takeda",
+    "job_city": "MN - Moorhead",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Paramedic---Sign-On-Bonus-Available-_R0178997-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a9e149cdbffb056dee344b19ce6a5db03836b9f4a80bb07fade415895146c9f7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178985",
+    "job_title": "Part Time Phlebotomy",
+    "employer_name": "Takeda",
+    "job_city": "MN - Saint Paul",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Saint-Paul/Part-Time-Phlebotomy_R0178985-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4ee6cddaf72b6e76dd08b764e1d34adb37162b69ebee6b355669cb274bbbcc61",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178975",
+    "job_title": "Phlebotomist – Paid Training",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Phlebotomist---Paid-Training_R0178975-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4f74ce80a2e8028cf44c31adf13e809d4ea9d476af7544fc2e1e2c6ffc580442",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:02:45.399Z"
   },
   {
     "job_id": "workday-takeda-R0178986",
@@ -8700,174 +8983,6 @@
     "job_posted_at": "2026-04-22T07:02:45.399Z"
   },
   {
-    "job_id": "workday-takeda-R0178973",
-    "job_title": "Part Time Plasma Center Technician- Phlebotomy",
-    "employer_name": "Takeda",
-    "job_city": "CA - Visalia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Plasma-Center-Technician--Phlebotomy_R0178973-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7f34310215279c5caee68cc078ee275c434daed18cbda214193c34844a6e4482",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178981",
-    "job_title": "Entry Level Phlebotomist - Paid Training",
-    "employer_name": "Takeda",
-    "job_city": "MN - Mounds View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mounds-View/Entry-Level-Phlebotomist---Paid-Training_R0178981-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "98a2f724e9c31935d404efe9ac55b4bdd0f154c22d210e7c3366bdf9586c4d9d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178976",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Medical-Screener_R0178976-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d692d36b60b9bf5ac416af382d3fc9fa0bb347cfde01911ade3d1bdd9f7b2a15",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178997",
-    "job_title": "Paramedic - Sign On Bonus Available!",
-    "employer_name": "Takeda",
-    "job_city": "MN - Moorhead",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Paramedic---Sign-On-Bonus-Available-_R0178997-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a9e149cdbffb056dee344b19ce6a5db03836b9f4a80bb07fade415895146c9f7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178985",
-    "job_title": "Part Time Phlebotomy",
-    "employer_name": "Takeda",
-    "job_city": "MN - Saint Paul",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Saint-Paul/Part-Time-Phlebotomy_R0178985-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4ee6cddaf72b6e76dd08b764e1d34adb37162b69ebee6b355669cb274bbbcc61",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178975",
-    "job_title": "Phlebotomist – Paid Training",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Phlebotomist---Paid-Training_R0178975-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:02:45.399Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4f74ce80a2e8028cf44c31adf13e809d4ea9d476af7544fc2e1e2c6ffc580442",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:02:45.399Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01349801",
     "job_title": "Field Application Scientist, Proteomics",
     "employer_name": "Thermo Fisher Scientific",
@@ -9205,34 +9320,6 @@
     "job_posted_at": "2026-04-22T07:00:39.288Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-070988",
-    "job_title": "Senior Manager/Associate Director, Clinical Sciences, Oncology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Manager-Associate-Director--Clinical-Sciences--Oncology_R-070988-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:00:39.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3c3c4b7462f9d1d860c55870faf84e292b92d3591bbe712ec59d737f1e6739cf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:00:39.287Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-048214",
     "job_title": "Oncology Sales Specialist - North Jersey - Johnson & Johnson Innovative Medicine",
     "employer_name": "Johnson & Johnson",
@@ -9302,6 +9389,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "daf398865edba6b8580a3f0747ff3aff165764c6fc51efd437f29711eba267e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:00:39.287Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-070988",
+    "job_title": "Senior Manager/Associate Director, Clinical Sciences, Oncology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Manager-Associate-Director--Clinical-Sciences--Oncology_R-070988-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:00:39.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3c3c4b7462f9d1d860c55870faf84e292b92d3591bbe712ec59d737f1e6739cf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9743,18 +9858,18 @@
     "job_posted_at": "2026-04-21T15:39:53.072Z"
   },
   {
-    "job_id": "greenhouse-oscar-7809171",
+    "job_id": "greenhouse-oscar-7815003",
     "job_title": "Care Navigation Guide",
     "employer_name": "Oscar Health",
-    "job_city": "Texas",
+    "job_city": "Florida",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7809171?gh_jid=7809171",
+    "job_apply_link": "http://www.hioscar.com/careers/7815003?gh_jid=7815003",
     "job_posted_at_datetime_utc": "2026-04-21T15:34:04.292Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "00cd294b99e3ff2979f146bff7eb9b13cd78432e5664f6ceb24c8df18659c0e8",
+    "fingerprint": "54f1c2f67a3b0ee8adcc1cd35f8df7bd1e10d71be9d28186595301fea1113ae7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9771,18 +9886,18 @@
     "job_posted_at": "2026-04-21T15:34:04.292Z"
   },
   {
-    "job_id": "greenhouse-oscar-7815003",
+    "job_id": "greenhouse-oscar-7809171",
     "job_title": "Care Navigation Guide",
     "employer_name": "Oscar Health",
-    "job_city": "Florida",
+    "job_city": "Texas",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7815003?gh_jid=7815003",
+    "job_apply_link": "http://www.hioscar.com/careers/7809171?gh_jid=7809171",
     "job_posted_at_datetime_utc": "2026-04-21T15:34:04.292Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "54f1c2f67a3b0ee8adcc1cd35f8df7bd1e10d71be9d28186595301fea1113ae7",
+    "fingerprint": "00cd294b99e3ff2979f146bff7eb9b13cd78432e5664f6ceb24c8df18659c0e8",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11488,6 +11603,34 @@
     "job_posted_at": "2026-04-21T07:00:25.251Z"
   },
   {
+    "job_id": "workday-medtronic-R64830",
+    "job_title": "Clinical Specialist CRM - Wichita",
+    "employer_name": "Medtronic",
+    "job_city": "Wichita",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Wichita-Kansas-United-States-of-America/Clinical-Specialist-CRM---Wichita_R64830-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:00:25.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be51213bce25716211df01920dec1a4421920d2efd676865a442031e9cdd05c5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:00:25.251Z"
+  },
+  {
     "job_id": "workday-medtronic-R60860",
     "job_title": "Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA",
     "employer_name": "Medtronic",
@@ -11528,34 +11671,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8b9feb42f396dd37ce7c9344cffc0704cdbe9aa67330571a51860a24d72313eb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:00:25.251Z"
-  },
-  {
-    "job_id": "workday-medtronic-R64830",
-    "job_title": "Clinical Specialist CRM - Wichita",
-    "employer_name": "Medtronic",
-    "job_city": "Wichita",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Wichita-Kansas-United-States-of-America/Clinical-Specialist-CRM---Wichita_R64830-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:00:25.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be51213bce25716211df01920dec1a4421920d2efd676865a442031e9cdd05c5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11919,18 +12034,18 @@
     "job_posted_at": "2026-04-20T22:10:34.587Z"
   },
   {
-    "job_id": "greenhouse-oscar-7813046",
+    "job_id": "greenhouse-oscar-7813060",
     "job_title": "Associate, Care Navigation Programs",
     "employer_name": "Oscar Health",
-    "job_city": "Tempe",
+    "job_city": "Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7813046?gh_jid=7813046",
+    "job_apply_link": "http://www.hioscar.com/careers/7813060?gh_jid=7813060",
     "job_posted_at_datetime_utc": "2026-04-20T22:10:34.587Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d86bd526fa4bcf10cec15454c1bf9ff1068a3d347c784bdf69b4b56e18b7578b",
+    "fingerprint": "69f6b8029b04a16374d0823660a044c4788b768b1335392a7c99c21654193ebf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11947,18 +12062,18 @@
     "job_posted_at": "2026-04-20T22:10:34.587Z"
   },
   {
-    "job_id": "greenhouse-oscar-7813060",
+    "job_id": "greenhouse-oscar-7813046",
     "job_title": "Associate, Care Navigation Programs",
     "employer_name": "Oscar Health",
-    "job_city": "Atlanta",
+    "job_city": "Tempe",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7813060?gh_jid=7813060",
+    "job_apply_link": "http://www.hioscar.com/careers/7813046?gh_jid=7813046",
     "job_posted_at_datetime_utc": "2026-04-20T22:10:34.587Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "69f6b8029b04a16374d0823660a044c4788b768b1335392a7c99c21654193ebf",
+    "fingerprint": "d86bd526fa4bcf10cec15454c1bf9ff1068a3d347c784bdf69b4b56e18b7578b",
     "tags": {
       "employment": "entry_level",
       "domains": [
