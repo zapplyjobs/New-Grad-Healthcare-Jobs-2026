@@ -36,7 +36,8 @@ module.exports = {
   // Feature flags
   features: {
     internships: false,
-    moreResources: true
+    moreResources: true,
+    showVisaColumn: false  // OUT-VISA-1: Healthcare roles rarely sponsor visas (2.5% fill rate)
   },
 
   // Job categorization — fallback for jobs not matching any keyword in job_categories.json
