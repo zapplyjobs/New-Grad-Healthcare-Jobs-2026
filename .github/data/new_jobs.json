@@ -6607,35 +6607,6 @@
     "job_posted_at": "2026-04-24T07:10:04.853Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-070334",
-    "job_title": "Associate Clinical Account Specialist (Bronx, NY/New Jersey North) - Johnson and Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Associate-Clinical-Account-Specialist--Bronx--NY-New-Jersey-North----Johnson-and-Johnson-MedTech--Electrophysiology_R-070334-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:10:04.852Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "963705b08dfb007b4e451b6e0a7b9aad945103242f8b76e9531133f31c90e9e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:10:04.852Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-067604",
     "job_title": "Associate Director, Biomarker Strategy (Neuroscience)",
     "employer_name": "Johnson & Johnson",
@@ -6680,6 +6651,35 @@
       "employment": "entry_level",
       "domains": [
         "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:10:04.852Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-070334",
+    "job_title": "Associate Clinical Account Specialist (Bronx, NY/New Jersey North) - Johnson and Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Associate-Clinical-Account-Specialist--Bronx--NY-New-Jersey-North----Johnson-and-Johnson-MedTech--Electrophysiology_R-070334-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:10:04.852Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "963705b08dfb007b4e451b6e0a7b9aad945103242f8b76e9531133f31c90e9e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
       ],
       "locations": [
         "us"
@@ -8471,62 +8471,6 @@
     "job_posted_at": "2026-04-23T07:11:39.093Z"
   },
   {
-    "job_id": "workday-medtronic-R59398",
-    "job_title": "Executive Robotic Sales Program Management- Robotic Surgical Technologies (Texas)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Robotic-Program-Manager---Robotic-Surgical-Technologies--Texas-_R59398-2",
-    "job_posted_at_datetime_utc": "2026-04-23T07:10:56.482Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2931dcfd7a0eccd715331309b90267823c1e610364c189bd92493a07bbaeeb05",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:10:56.482Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63576",
-    "job_title": "Clinical Specialist - Cardiac Rhythm Management (West Virginia/Pennsylvania)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Morgantown-West-Virginia-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management--West-Virginia-Pennsylvania-_R63576-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:10:56.482Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "db4fa58fbe8277d60ab217117695da571a3c8ab4f9c3b053f2f179ee3ce03383",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:10:56.482Z"
-  },
-  {
     "job_id": "workday-medtronic-R63536",
     "job_title": "Clinical Specialist - Cardiac Rhythm Management (CRM)",
     "employer_name": "Medtronic",
@@ -8576,6 +8520,62 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:10:56.482Z"
+  },
+  {
+    "job_id": "workday-medtronic-R59398",
+    "job_title": "Executive Robotic Sales Program Management- Robotic Surgical Technologies (Texas)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Robotic-Program-Manager---Robotic-Surgical-Technologies--Texas-_R59398-2",
+    "job_posted_at_datetime_utc": "2026-04-23T07:10:56.482Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2931dcfd7a0eccd715331309b90267823c1e610364c189bd92493a07bbaeeb05",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:10:56.482Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63576",
+    "job_title": "Clinical Specialist - Cardiac Rhythm Management (West Virginia/Pennsylvania)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Morgantown-West-Virginia-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management--West-Virginia-Pennsylvania-_R63576-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:10:56.482Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "db4fa58fbe8277d60ab217117695da571a3c8ab4f9c3b053f2f179ee3ce03383",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -8750,34 +8750,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-23T07:10:14.976Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-067928",
-    "job_title": "Associate Director, Neuroscience R&D Precision Measures Strategy Integration Leader",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Associate-Director--Neuroscience-R-D-Precision-Measures-Strategy-Integration-Leader_R-067928-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6b98fb952eff8358d135d1a5863a97ae065ef2a04e28458979c51227049c70bb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:10:04.853Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-064404",
@@ -9139,6 +9111,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:10:04.853Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-067928",
+    "job_title": "Associate Director, Neuroscience R&D Precision Measures Strategy Integration Leader",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Associate-Director--Neuroscience-R-D-Precision-Measures-Strategy-Integration-Leader_R-067928-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b98fb952eff8358d135d1a5863a97ae065ef2a04e28458979c51227049c70bb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -10078,6 +10078,34 @@
     "job_posted_at": "2026-04-22T07:08:15.172Z"
   },
   {
+    "job_id": "workday-abbott-31148357",
+    "job_title": "Occupational Health Nurse",
+    "employer_name": "Abbott",
+    "job_city": "Missouri - Kansas City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Occupational-Health-Nurse_31148357-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:08:15.172Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "40985bec488246fa393a24249eff9af686bfe79da123d69a7f36b82355c1dd04",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:08:15.172Z"
+  },
+  {
     "job_id": "workday-abbott-31148136",
     "job_title": "Clinical Specialist I, CPT - Peoria, IL",
     "employer_name": "Abbott",
@@ -10155,34 +10183,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:08:15.172Z"
-  },
-  {
-    "job_id": "workday-abbott-31148357",
-    "job_title": "Occupational Health Nurse",
-    "employer_name": "Abbott",
-    "job_city": "Missouri - Kansas City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Occupational-Health-Nurse_31148357-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:08:15.172Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "40985bec488246fa393a24249eff9af686bfe79da123d69a7f36b82355c1dd04",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -10947,18 +10947,18 @@
     "job_posted_at": "2026-04-22T07:00:53.996Z"
   },
   {
-    "job_id": "workday-kbr-R2122466",
-    "job_title": "Special Operations Certified Athletic Trainer (AFSOC GSU/Southern Pines, NC)",
+    "job_id": "workday-kbr-R2122469",
+    "job_title": "Special Operations Clinical Psychologist (Coronado, CA)",
     "employer_name": "KBR",
-    "job_city": "Fort Liberty",
+    "job_city": "San Diego",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Certified-Athletic-Trainer--AFSOC-GSU-Southern-Pines--NC-_R2122466",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/San-Diego-California/Special-Operations-Clinical-Psychologist--Coronado--CA-_R2122469",
     "job_posted_at_datetime_utc": "2026-04-22T07:00:47.856Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "85a663bc64a4a348481464e9012f5393004dde4cc9768bbbb1bfde60b303e827",
+    "fingerprint": "722142ab5570e50e8a00895c878cd5a8f831f3f9d422b1e72befd8241b501e60",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10975,18 +10975,18 @@
     "job_posted_at": "2026-04-22T07:00:47.856Z"
   },
   {
-    "job_id": "workday-kbr-R2122469",
-    "job_title": "Special Operations Clinical Psychologist (Coronado, CA)",
+    "job_id": "workday-kbr-R2122466",
+    "job_title": "Special Operations Certified Athletic Trainer (AFSOC GSU/Southern Pines, NC)",
     "employer_name": "KBR",
-    "job_city": "San Diego",
+    "job_city": "Fort Liberty",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/San-Diego-California/Special-Operations-Clinical-Psychologist--Coronado--CA-_R2122469",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Certified-Athletic-Trainer--AFSOC-GSU-Southern-Pines--NC-_R2122466",
     "job_posted_at_datetime_utc": "2026-04-22T07:00:47.856Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "722142ab5570e50e8a00895c878cd5a8f831f3f9d422b1e72befd8241b501e60",
+    "fingerprint": "85a663bc64a4a348481464e9012f5393004dde4cc9768bbbb1bfde60b303e827",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11826,62 +11826,6 @@
     "job_posted_at": "2026-04-21T07:12:47.509Z"
   },
   {
-    "job_id": "workday-takeda-R0178463",
-    "job_title": "Specialty Business Manager IBD, Jackson, MS",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "MS",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Mississippi---Virtual/Specialty-Business-Manager-IBD--Jackson--MS_R0178463",
-    "job_posted_at_datetime_utc": "2026-04-21T07:12:03.355Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03f7a0b71bc280f25a21175e9f115baca8a4ce290723acaff7064d699348aab9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:12:03.355Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178385",
-    "job_title": "Specialty Business Manager IBD Cincinnati, OH",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Ohio---Virtual/Specialty-Business-Manager-IBD-Cincinnati--OH_R0178385",
-    "job_posted_at_datetime_utc": "2026-04-21T07:12:03.355Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dffbd88e34ac3cf73b9cea2db934da8bb1ec4f3dc55bf971ac4a55c26c9daa62",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:12:03.355Z"
-  },
-  {
     "job_id": "workday-takeda-R0178384",
     "job_title": "Specialty Business Manager IBD, Indianapolis North",
     "employer_name": "Takeda",
@@ -12062,6 +12006,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fd8a84157e8e860310277b5cd27a0799fd01b36fccbedc812a480f3c593d94f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:12:03.355Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178463",
+    "job_title": "Specialty Business Manager IBD, Jackson, MS",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "MS",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Mississippi---Virtual/Specialty-Business-Manager-IBD--Jackson--MS_R0178463",
+    "job_posted_at_datetime_utc": "2026-04-21T07:12:03.355Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03f7a0b71bc280f25a21175e9f115baca8a4ce290723acaff7064d699348aab9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:12:03.355Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178385",
+    "job_title": "Specialty Business Manager IBD Cincinnati, OH",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Ohio---Virtual/Specialty-Business-Manager-IBD-Cincinnati--OH_R0178385",
+    "job_posted_at_datetime_utc": "2026-04-21T07:12:03.355Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dffbd88e34ac3cf73b9cea2db934da8bb1ec4f3dc55bf971ac4a55c26c9daa62",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12498,34 +12498,6 @@
     "job_posted_at": "2026-04-21T07:08:15.174Z"
   },
   {
-    "job_id": "workday-abbott-31145897",
-    "job_title": "Global Clinical Education Specialist -Cardiac Rhythm Management Product Launches",
-    "employer_name": "Abbott",
-    "job_city": "United States > Austin : 8701 Bee Caves Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Austin--8701-Bee-Caves-Rd/Education-Resource-Specialist_31145897-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:08:15.173Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0fbc4fbe603b1ec3ccef05a014fe38b3eb9cca608538a19f79024175cd9c74f0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:08:15.173Z"
-  },
-  {
     "job_id": "workday-abbott-31147789",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -12547,6 +12519,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:08:15.173Z"
+  },
+  {
+    "job_id": "workday-abbott-31145897",
+    "job_title": "Global Clinical Education Specialist -Cardiac Rhythm Management Product Launches",
+    "employer_name": "Abbott",
+    "job_city": "United States > Austin : 8701 Bee Caves Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Austin--8701-Bee-Caves-Rd/Education-Resource-Specialist_31145897-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:08:15.173Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0fbc4fbe603b1ec3ccef05a014fe38b3eb9cca608538a19f79024175cd9c74f0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -12580,34 +12580,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-21T07:02:35.138Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178895",
-    "job_title": "Registered Nurse (RN) – BSN Required",
-    "employer_name": "Takeda",
-    "job_city": "MD - Salisbury",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Salisbury/Registered-Nurse--RN----BSN-Required_R0178895-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:57.336Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9da8fc29be56d97b47fec55f91916ce90734e92372500f6b16fd80e8f9c15f7c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:57.336Z"
   },
   {
     "job_id": "workday-takeda-R0178893",
@@ -12799,6 +12771,34 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:01:57.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178895",
+    "job_title": "Registered Nurse (RN) – BSN Required",
+    "employer_name": "Takeda",
+    "job_city": "MD - Salisbury",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Salisbury/Registered-Nurse--RN----BSN-Required_R0178895-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:57.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9da8fc29be56d97b47fec55f91916ce90734e92372500f6b16fd80e8f9c15f7c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -13658,33 +13658,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-21T07:00:10.814Z"
-  },
-  {
-    "job_id": "greenhouse-biohub-7835072",
-    "job_title": "Research Associate, NGS Assay Development, Virtual Immune System",
-    "employer_name": "Chan Zuckerberg Biohub",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/biohub/jobs/7835072",
-    "job_posted_at_datetime_utc": "2026-04-21T05:20:58.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4a6ea9e45f7aaca8d4982308964578bc7127c7053753a6d45eaa42d1def31a66",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-21T05:20:58.000Z"
   }
 ]
