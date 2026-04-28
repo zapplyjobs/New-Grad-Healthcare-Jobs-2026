@@ -12911,49 +12911,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-21T23:02:35.284Z"
-  },
-  {
-    "job_id": "greenhouse-intrinsicrobotics-5972972004",
-    "job_title": "Robotics and Automation Technician (Lab Technician)",
-    "employer_name": "Intrinsic Robotics",
-    "job_city": "Mountain View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5972972004?gh_jid=5972972004",
-    "job_posted_at_datetime_utc": "2026-04-21T21:05:50.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "afb071249f706203d40d3aca856bf7f9c439fd5209ad925bba2b0232d1d9be5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "cad",
-        "hmi",
-        "plc",
-        "robotics",
-        "soldering"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T21:05:50.000Z"
   }
 ]
