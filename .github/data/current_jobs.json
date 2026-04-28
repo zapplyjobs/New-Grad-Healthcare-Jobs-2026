@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "workday-walmart-R-2492656",
+    "job_title": "Pharmacy Tech Sam's part-time hourly",
+    "employer_name": "Walmart",
+    "job_city": "(USA) FL JACKSONVILLE 08253 SAM'S CLUB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-FL-JACKSONVILLE-08253-SAMS-CLUB/Pharmacy-Tech-Sam-s-part-time-hourly_R-2492656",
+    "job_posted_at_datetime_utc": "2026-04-28T03:54:28.854Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "68987cb823459d1eade9d72b0aa72cc863aca7f5a0e913668a378352719f1ff3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T03:54:28.854Z"
+  },
+  {
     "job_id": "workday-walmart-R-2492660",
     "job_title": "Pharmacy Tech Certified Sam's part-time hourly",
     "employer_name": "Walmart",
@@ -3272,34 +3302,6 @@
     "job_posted_at": "2026-04-27T02:58:16.690Z"
   },
   {
-    "job_id": "greenhouse-oscar-7507027",
-    "job_title": "Associate, Case Management Strategic Operations",
-    "employer_name": "Oscar Health",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7507027?gh_jid=7507027",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.507Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a0332fca3381a9bfee0965e0a3de98aec6556a041c07da67bfdc3e5f7ac227cb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:16.507Z"
-  },
-  {
     "job_id": "greenhouse-oscar-7450345",
     "job_title": "Associate, Case Management Strategic Operations",
     "employer_name": "Oscar Health",
@@ -3368,6 +3370,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e2817cfa8d81466a958c53e142d9537e44db20a334ed6c2fc4c1d112e64cff4f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:16.507Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7507027",
+    "job_title": "Associate, Case Management Strategic Operations",
+    "employer_name": "Oscar Health",
+    "job_city": "Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "http://www.hioscar.com/careers/7507027?gh_jid=7507027",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.507Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a0332fca3381a9bfee0965e0a3de98aec6556a041c07da67bfdc3e5f7ac227cb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3467,6 +3497,35 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-04-27T02:58:13.887Z"
+  },
+  {
+    "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Tennessee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/29af260c-cc9b-4fe9-b358-6135fd5909be/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8dc6d786070fe4eb14ba2508d9f931a2707af0984d2e9a5ddbc3098afbc41724",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.886Z"
   },
   {
     "job_id": "lever-includedhealth-387371b0-98f7-4b7f-a274-bef090372ae2",
@@ -3788,35 +3847,6 @@
     "job_posted_at": "2026-04-27T02:58:13.886Z"
   },
   {
-    "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Tennessee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/29af260c-cc9b-4fe9-b358-6135fd5909be/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8dc6d786070fe4eb14ba2508d9f931a2707af0984d2e9a5ddbc3098afbc41724",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.886Z"
-  },
-  {
     "job_id": "lever-includedhealth-7353ca09-47ae-451b-9189-de11a94d40df",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -3844,6 +3874,92 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-04-27T02:58:13.886Z"
+  },
+  {
+    "job_id": "lever-ro-61b4e90e-0340-439d-ae46-9e72ebbfed4a",
+    "job_title": "Full-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/ro/61b4e90e-0340-439d-ae46-9e72ebbfed4a/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f5b195d38935cb0974acd06d48e6a9674dd5ffc43d2bc2c117ba581f0155938f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
+    "job_title": "Part-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
+    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
   },
   {
     "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
@@ -4042,76 +4158,18 @@
     "job_posted_at": "2026-04-27T02:58:13.553Z"
   },
   {
-    "job_id": "lever-ro-61b4e90e-0340-439d-ae46-9e72ebbfed4a",
-    "job_title": "Full-Time, Virtual Physician",
-    "employer_name": "Ro",
+    "job_id": "greenhouse-guidepoint-8342632002",
+    "job_title": "Client Success - Healthcare Corporate Specialist (NYC)",
+    "employer_name": "Guidepoint",
     "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/ro/61b4e90e-0340-439d-ae46-9e72ebbfed4a/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f5b195d38935cb0974acd06d48e6a9674dd5ffc43d2bc2c117ba581f0155938f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
-    "job_title": "Part-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
-    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_apply_link": "https://job-boards.greenhouse.io/guidepoint/jobs/8342632002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.988Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
+    "fingerprint": "eeaf18c58b29b9e724f0e17a427601d3a96300a89adebee42a71a3a8da905e7e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4120,12 +4178,12 @@
       "locations": [
         "us"
       ],
-      "experience": "entry_level",
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:09.988Z"
   },
   {
     "job_id": "greenhouse-guidepoint-8453033002",
@@ -4149,34 +4207,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:09.988Z"
-  },
-  {
-    "job_id": "greenhouse-guidepoint-8342632002",
-    "job_title": "Client Success - Healthcare Corporate Specialist (NYC)",
-    "employer_name": "Guidepoint",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/guidepoint/jobs/8342632002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.988Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eeaf18c58b29b9e724f0e17a427601d3a96300a89adebee42a71a3a8da905e7e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -4695,6 +4725,35 @@
     "job_posted_at": "2026-04-27T01:04:43.168Z"
   },
   {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
     "job_id": "lever-includedhealth-310a88a1-7535-4534-8e5a-14c79cad5761",
     "job_title": "Nurse Care Manager, Adult",
     "employer_name": "Included Health",
@@ -4852,35 +4911,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7684,62 +7714,6 @@
     "job_posted_at": "2026-04-23T07:18:53.990Z"
   },
   {
-    "job_id": "workday-takeda-R0179069",
-    "job_title": "Spanish Bilingual Licensed Nurse, LPN or LVN",
-    "employer_name": "Takeda",
-    "job_city": "NV - Las Vegas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Spanish-Bilingual-Licensed-Nurse--LPN-or-LVN_R0179069-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:12:03.355Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a5816a3acd05be67148ef62b59cf16d0090f7cf25d87a5030b37f48309535ea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:12:03.355Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179070",
-    "job_title": "Spanish Bilingual Paramedic, EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "NV - Las Vegas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Spanish-Bilingual-Paramedic--EMT-P_R0179070-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:12:03.355Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1bc4eb5fa21ef54e47420ecd1e6aa12607a227fc5fe07cf7ca7d20ba582f670",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:12:03.355Z"
-  },
-  {
     "job_id": "workday-takeda-R0179068",
     "job_title": "Spanish Bilingual Registered Nurse, RN",
     "employer_name": "Takeda",
@@ -7936,18 +7910,18 @@
     "job_posted_at": "2026-04-23T07:12:03.355Z"
   },
   {
-    "job_id": "workday-takeda-R0179049",
-    "job_title": "LPN (Day One Benefits)",
+    "job_id": "workday-takeda-R0179069",
+    "job_title": "Spanish Bilingual Licensed Nurse, LPN or LVN",
     "employer_name": "Takeda",
-    "job_city": "TX - Houston - North",
+    "job_city": "NV - Las Vegas",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/LPN--Day-One-Benefits-_R0179049-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:12:03.354Z",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Spanish-Bilingual-Licensed-Nurse--LPN-or-LVN_R0179069-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:12:03.355Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "886ccf00256a96e647ddc30915c6ac769c5004ebf96ba25a1d233015320e03d9",
+    "fingerprint": "8a5816a3acd05be67148ef62b59cf16d0090f7cf25d87a5030b37f48309535ea",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7961,21 +7935,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:12:03.354Z"
+    "job_posted_at": "2026-04-23T07:12:03.355Z"
   },
   {
-    "job_id": "workday-takeda-R0179022",
-    "job_title": "Clinical Scientist, Neuroimmunology & Specialty Care, PDT",
+    "job_id": "workday-takeda-R0179070",
+    "job_title": "Spanish Bilingual Paramedic, EMT-P",
     "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
+    "job_city": "NV - Las Vegas",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Clinical-Scientist--Neuroimmunology---Specialty-Care--PDT_R0179022",
-    "job_posted_at_datetime_utc": "2026-04-23T07:12:03.354Z",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Spanish-Bilingual-Paramedic--EMT-P_R0179070-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:12:03.355Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1852c64ad44111c82ed333da446e07ec0c0edef166b4d0462c8d7dcb24f53168",
+    "fingerprint": "e1bc4eb5fa21ef54e47420ecd1e6aa12607a227fc5fe07cf7ca7d20ba582f670",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7989,7 +7963,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:12:03.354Z"
+    "job_posted_at": "2026-04-23T07:12:03.355Z"
   },
   {
     "job_id": "workday-takeda-R0177800",
@@ -8340,6 +8314,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1a17bd0ad3b8e6d8a5891bc8cd2430c23da319f1d76a6d9eb0a64ed275664a4e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:12:03.354Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179049",
+    "job_title": "LPN (Day One Benefits)",
+    "employer_name": "Takeda",
+    "job_city": "TX - Houston - North",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---North/LPN--Day-One-Benefits-_R0179049-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:12:03.354Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "886ccf00256a96e647ddc30915c6ac769c5004ebf96ba25a1d233015320e03d9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:12:03.354Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179022",
+    "job_title": "Clinical Scientist, Neuroimmunology & Specialty Care, PDT",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Clinical-Scientist--Neuroimmunology---Specialty-Care--PDT_R0179022",
+    "job_posted_at_datetime_utc": "2026-04-23T07:12:03.354Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1852c64ad44111c82ed333da446e07ec0c0edef166b4d0462c8d7dcb24f53168",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8722,6 +8752,34 @@
     "job_posted_at": "2026-04-23T07:10:14.976Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-071230",
+    "job_title": "Field Clinical Specialist - Shockwave Medical (Lansing, MI)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Lansing",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Lansing-Michigan-United-States/Field-Clinical-Specialist---Shockwave-Medical--Lansing--MI-_R-071230-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "77513556f1199b4dd74a31c0bbc4e80e2af541b3774b6469c54822579524326b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:10:04.853Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-071434",
     "job_title": "Associate Clinical Consultant/Clinical Consultant - (Baltimore, MD) - Johnson & Johnson MedTech – Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -9044,34 +9102,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9c697089ad371ac9b86dacaafcedc3db76705b6ffd8bff1d8a27692662b0720f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:10:04.853Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-071230",
-    "job_title": "Field Clinical Specialist - Shockwave Medical (Lansing, MI)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Lansing",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Lansing-Michigan-United-States/Field-Clinical-Specialist---Shockwave-Medical--Lansing--MI-_R-071230-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:10:04.853Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "77513556f1199b4dd74a31c0bbc4e80e2af541b3774b6469c54822579524326b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10048,6 +10078,34 @@
     "job_posted_at": "2026-04-22T07:08:15.172Z"
   },
   {
+    "job_id": "workday-abbott-31144768",
+    "job_title": "Associate Scientist Product Development R&D - Nutrition - Columbus, OH",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Associate-Scientist-Product-Development-R-D---Nutrition---Columbus--OH_31144768-1",
+    "job_posted_at_datetime_utc": "2026-04-22T07:08:15.172Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af9754466412de8b9140d6b25652c8d7dd73c2a60a7718a823bf7924ca20fc5f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-22T07:08:15.172Z"
+  },
+  {
     "job_id": "workday-abbott-31148357",
     "job_title": "Occupational Health Nurse",
     "employer_name": "Abbott",
@@ -10125,34 +10183,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-22T07:08:15.172Z"
-  },
-  {
-    "job_id": "workday-abbott-31144768",
-    "job_title": "Associate Scientist Product Development R&D - Nutrition - Columbus, OH",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Associate-Scientist-Product-Development-R-D---Nutrition---Columbus--OH_31144768-1",
-    "job_posted_at_datetime_utc": "2026-04-22T07:08:15.172Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af9754466412de8b9140d6b25652c8d7dd73c2a60a7718a823bf7924ca20fc5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -13312,34 +13342,6 @@
     "job_posted_at": "2026-04-21T07:00:25.251Z"
   },
   {
-    "job_id": "workday-medtronic-R64830",
-    "job_title": "Clinical Specialist CRM - Wichita",
-    "employer_name": "Medtronic",
-    "job_city": "Wichita",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Wichita-Kansas-United-States-of-America/Clinical-Specialist-CRM---Wichita_R64830-1",
-    "job_posted_at_datetime_utc": "2026-04-21T07:00:25.251Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be51213bce25716211df01920dec1a4421920d2efd676865a442031e9cdd05c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:00:25.251Z"
-  },
-  {
     "job_id": "workday-medtronic-R60860",
     "job_title": "Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA",
     "employer_name": "Medtronic",
@@ -13380,6 +13382,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8b9feb42f396dd37ce7c9344cffc0704cdbe9aa67330571a51860a24d72313eb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:00:25.251Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64830",
+    "job_title": "Clinical Specialist CRM - Wichita",
+    "employer_name": "Medtronic",
+    "job_city": "Wichita",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Wichita-Kansas-United-States-of-America/Clinical-Specialist-CRM---Wichita_R64830-1",
+    "job_posted_at_datetime_utc": "2026-04-21T07:00:25.251Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be51213bce25716211df01920dec1a4421920d2efd676865a442031e9cdd05c5",
     "tags": {
       "employment": "entry_level",
       "domains": [
