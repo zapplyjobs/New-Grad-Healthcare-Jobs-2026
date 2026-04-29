@@ -5223,36 +5223,6 @@
     "job_posted_at": "2026-04-27T02:58:44.845Z"
   },
   {
-    "job_id": "ashby-dandy-b3e9f989-e008-4da0-ab95-d1d929dadf52",
-    "job_title": "Dental Field Trainer - Near Major Airport",
-    "employer_name": "Dandy",
-    "job_city": "USA - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "USA - Remote",
-    "job_apply_link": "https://jobs.ashbyhq.com/dandy/b3e9f989-e008-4da0-ab95-d1d929dadf52/application",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:22.749Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "28c890761486dbbaa3f0aadd8d0a1db5c9c1494350c723c856d77247f1b3b141",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-27T02:58:22.749Z"
-  },
-  {
     "job_id": "ashby-dandy-48dac57e-d572-4a6b-a91a-b471b26dd0fc",
     "job_title": "Dental Field Trainer - West Coast",
     "employer_name": "Dandy",
@@ -5296,6 +5266,36 @@
     "job_employment_type": "FullTime",
     "salary": null,
     "fingerprint": "92ac501168a8a4c092ce245e63920fc6c32de845cc0ebfe74439b0e889a7bf11",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-27T02:58:22.749Z"
+  },
+  {
+    "job_id": "ashby-dandy-b3e9f989-e008-4da0-ab95-d1d929dadf52",
+    "job_title": "Dental Field Trainer - Near Major Airport",
+    "employer_name": "Dandy",
+    "job_city": "USA - Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "USA - Remote",
+    "job_apply_link": "https://jobs.ashbyhq.com/dandy/b3e9f989-e008-4da0-ab95-d1d929dadf52/application",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:22.749Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "28c890761486dbbaa3f0aadd8d0a1db5c9c1494350c723c856d77247f1b3b141",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6279,122 +6279,6 @@
     "job_posted_at": "2026-04-27T02:58:13.886Z"
   },
   {
-    "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
-    "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
-    "employer_name": "Ro",
-    "job_city": "Romeoville",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Romeoville, IL",
-    "job_apply_link": "https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8ba5f376eb0aff17049ca4fbfa92a711c45d640ba4824c232c014e2c8aeb55c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-c739f69c-ed8a-4089-9183-ac94b2b06f90",
-    "job_title": "Compounding Pharmacy Technician - Boynton Beach, FL (Temp)",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boynton Beach, FL",
-    "job_apply_link": "https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe99e915bbf2d449b8280eeee7318dd2d5dae6df96941af55cdcf8df9a92a385",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-966f81e6-c82e-4060-8721-3ba58a9cebc6",
-    "job_title": "Fulfillment Pharmacist - Boynton Beach, FL",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boynton Beach, FL",
-    "job_apply_link": "https://jobs.lever.co/ro/966f81e6-c82e-4060-8721-3ba58a9cebc6/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b47c702e0b81b954fc9e533b675ce9b7fc8b2831f769bed521d5f318c395a7f0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-185af8b6-587d-45d5-99b2-0d0af1b3d252",
-    "job_title": "Fulfillment Pharmacist - Romeoville, IL",
-    "employer_name": "Ro",
-    "job_city": "Romeoville",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Romeoville, IL",
-    "job_apply_link": "https://jobs.lever.co/ro/185af8b6-587d-45d5-99b2-0d0af1b3d252/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf59b5cdb6cabeab78826cc29d6b14caf7dfdd073db53fa2166cb320247538b2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
     "job_id": "lever-ro-b77adac9-786e-4233-9f06-ea85d9ce7eba",
     "job_title": "Fulfillment Pharmacy Technician - Boynton Beach, FL",
     "employer_name": "Ro",
@@ -6564,6 +6448,122 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
+    "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
+    "employer_name": "Ro",
+    "job_city": "Romeoville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Romeoville, IL",
+    "job_apply_link": "https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8ba5f376eb0aff17049ca4fbfa92a711c45d640ba4824c232c014e2c8aeb55c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-c739f69c-ed8a-4089-9183-ac94b2b06f90",
+    "job_title": "Compounding Pharmacy Technician - Boynton Beach, FL (Temp)",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boynton Beach, FL",
+    "job_apply_link": "https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe99e915bbf2d449b8280eeee7318dd2d5dae6df96941af55cdcf8df9a92a385",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-966f81e6-c82e-4060-8721-3ba58a9cebc6",
+    "job_title": "Fulfillment Pharmacist - Boynton Beach, FL",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boynton Beach, FL",
+    "job_apply_link": "https://jobs.lever.co/ro/966f81e6-c82e-4060-8721-3ba58a9cebc6/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b47c702e0b81b954fc9e533b675ce9b7fc8b2831f769bed521d5f318c395a7f0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-185af8b6-587d-45d5-99b2-0d0af1b3d252",
+    "job_title": "Fulfillment Pharmacist - Romeoville, IL",
+    "employer_name": "Ro",
+    "job_city": "Romeoville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Romeoville, IL",
+    "job_apply_link": "https://jobs.lever.co/ro/185af8b6-587d-45d5-99b2-0d0af1b3d252/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf59b5cdb6cabeab78826cc29d6b14caf7dfdd073db53fa2166cb320247538b2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -7155,36 +7155,6 @@
     "job_posted_at": "2026-04-27T01:04:43.168Z"
   },
   {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
     "job_id": "lever-includedhealth-310a88a1-7535-4534-8e5a-14c79cad5761",
     "job_title": "Nurse Care Manager, Adult",
     "employer_name": "Included Health",
@@ -7348,6 +7318,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8865,35 +8865,6 @@
     "job_posted_at": "2026-04-24T07:06:41.928Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01349624",
-    "job_title": "Supervisor Nursing",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Las Vegas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Las Vegas, Nevada, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Supervisor-Nursing_R-01349624",
-    "job_posted_at_datetime_utc": "2026-04-24T07:06:25.444Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "18253cdbd7e16656b8c0a6677cec34e3f3aad207f1aefb391be9f93de94e95bc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:06:25.444Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01348633",
     "job_title": "Scientist, Formulations",
     "employer_name": "Thermo Fisher Scientific",
@@ -8916,6 +8887,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:06:25.444Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01349624",
+    "job_title": "Supervisor Nursing",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Las Vegas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Las Vegas, Nevada, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Supervisor-Nursing_R-01349624",
+    "job_posted_at_datetime_utc": "2026-04-24T07:06:25.444Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "18253cdbd7e16656b8c0a6677cec34e3f3aad207f1aefb391be9f93de94e95bc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -9952,6 +9952,122 @@
     "job_posted_at": "2026-04-23T07:12:03.354Z"
   },
   {
+    "job_id": "workday-takeda-R0177800",
+    "job_title": "Training Manager, FTP",
+    "employer_name": "Takeda",
+    "job_city": "MA - Virtual",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MA - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Virtual/Training-Manager--FTP_R0177800-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe92fb58198eb4f7e9648d7a535a48f973dfd24868c123c5752e464ae8ee01d4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:06:41.928Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176923",
+    "job_title": "Training Manager, GI",
+    "employer_name": "Takeda",
+    "job_city": "MA - Virtual",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MA - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Virtual/Training-Manager--GI_R0176923-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6f7f66051f1c8cf830594d42f597a4c1d5f4e55dbd0103dd211bf43c2fec1698",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:06:41.928Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179087",
+    "job_title": "Phlebotomist - Open Availability",
+    "employer_name": "Takeda",
+    "job_city": "OK - Oklahoma City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - OK - Oklahoma City",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/Phlebotomist---Open-Availability_R0179087-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a482eb6462f62ac73f9b122c2f1ac11306f7af8377d56cd55270a795e04b778f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:06:41.928Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179085",
+    "job_title": "Entry Level Phlebotomy Technician - Fast Paced Environment (On-site Training + Immediate Benefits!)",
+    "employer_name": "Takeda",
+    "job_city": "IL - Harwood Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Harwood Heights",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Harwood-Heights/Entry-Level-Phlebotomy-Technician---Fast-Paced-Environment--On-site-Training---Immediate-Benefits--_R0179085-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "16dbbaaa4e194aff86bb351ca35ff03eb2337d16b7e031c90e49451f8630a7a9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:06:41.928Z"
+  },
+  {
     "job_id": "workday-takeda-R0179038",
     "job_title": "Rare Disease Business Manager - Boston, MA",
     "employer_name": "Takeda",
@@ -10400,122 +10516,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5511ff52fce6c3a8cb85a7e34dc376d5fc6e4c8749624ad8f4ffd94a3b5949d8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:06:41.928Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177800",
-    "job_title": "Training Manager, FTP",
-    "employer_name": "Takeda",
-    "job_city": "MA - Virtual",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MA - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Virtual/Training-Manager--FTP_R0177800-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe92fb58198eb4f7e9648d7a535a48f973dfd24868c123c5752e464ae8ee01d4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:06:41.928Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176923",
-    "job_title": "Training Manager, GI",
-    "employer_name": "Takeda",
-    "job_city": "MA - Virtual",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MA - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Virtual/Training-Manager--GI_R0176923-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6f7f66051f1c8cf830594d42f597a4c1d5f4e55dbd0103dd211bf43c2fec1698",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:06:41.928Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179087",
-    "job_title": "Phlebotomist - Open Availability",
-    "employer_name": "Takeda",
-    "job_city": "OK - Oklahoma City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - OK - Oklahoma City",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/Phlebotomist---Open-Availability_R0179087-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a482eb6462f62ac73f9b122c2f1ac11306f7af8377d56cd55270a795e04b778f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:06:41.928Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179085",
-    "job_title": "Entry Level Phlebotomy Technician - Fast Paced Environment (On-site Training + Immediate Benefits!)",
-    "employer_name": "Takeda",
-    "job_city": "IL - Harwood Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IL - Harwood Heights",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Harwood-Heights/Entry-Level-Phlebotomy-Technician---Fast-Paced-Environment--On-site-Training---Immediate-Benefits--_R0179085-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "16dbbaaa4e194aff86bb351ca35ff03eb2337d16b7e031c90e49451f8630a7a9",
     "tags": {
       "employment": "entry_level",
       "domains": [
