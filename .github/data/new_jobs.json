@@ -5295,6 +5295,36 @@
     "job_posted_at": "2026-04-27T07:22:52.763Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-071798",
+    "job_title": "Associate Clinical Account Specialist (Corpus Christi, TX / Rio Grande Valley) - Johnson and Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Corpus Christi",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Corpus Christi, Texas, United States",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Corpus-Christi-Texas-United-States/Associate-Clinical-Account-Specialist--Corpus-Christi--TX---Rio-Grande-Valley----Johnson-and-Johnson-MedTech--Electrophysiology_R-071798",
+    "job_posted_at_datetime_utc": "2026-04-27T07:22:45.485Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "97c19b017f5d37577d21b966844a1740755fc55bbd5c5103a341e707985bb69b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:22:45.485Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-068431",
     "job_title": "Field Clinical Specialist - Shockwave Medical (Northern Virginia)",
     "employer_name": "Johnson & Johnson",
@@ -5428,36 +5458,6 @@
       "employment": "entry_level",
       "domains": [
         "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:22:45.485Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-071798",
-    "job_title": "Associate Clinical Account Specialist (Corpus Christi, TX / Rio Grande Valley) - Johnson and Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Corpus Christi",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Corpus Christi, Texas, United States",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Corpus-Christi-Texas-United-States/Associate-Clinical-Account-Specialist--Corpus-Christi--TX---Rio-Grande-Valley----Johnson-and-Johnson-MedTech--Electrophysiology_R-071798",
-    "job_posted_at_datetime_utc": "2026-04-27T07:22:45.485Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "97c19b017f5d37577d21b966844a1740755fc55bbd5c5103a341e707985bb69b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
       ],
       "locations": [
         "us"
@@ -7230,156 +7230,6 @@
     "job_posted_at": "2026-04-27T02:58:13.887Z"
   },
   {
-    "job_id": "lever-includedhealth-b7c71562-c4d7-434f-80dc-82a2e94e28fd",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Texas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Texas",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/b7c71562-c4d7-434f-80dc-82a2e94e28fd/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cfaead0b718aa7033c3cdef0c113f39af70215ab9eb4ed97b3c6c42e94a47dea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.886Z"
-  },
-  {
-    "job_id": "lever-includedhealth-c628a50b-9412-43d8-af5e-82b0cbd1c97c",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Massachusetts",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/c628a50b-9412-43d8-af5e-82b0cbd1c97c/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b6431b3002007fc5b061dabd22ece2a6007900f4f2d7a58cb45f1730ff4755e9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.886Z"
-  },
-  {
-    "job_id": "lever-includedhealth-cda7ea26-c4ad-4c72-8b63-aa73d9c16783",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/cda7ea26-c4ad-4c72-8b63-aa73d9c16783/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "45e51fb61398b98ec0f3d0691facc71fc4659df40f3935c576059d6277619708",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.886Z"
-  },
-  {
-    "job_id": "lever-includedhealth-cf53b4dd-8e28-49cd-9845-fac2f05ee0f3",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Virginia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Virginia",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/cf53b4dd-8e28-49cd-9845-fac2f05ee0f3/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "acd3d2d0f27f8d498fb849ea838fe97f8e0bbfbec7fb20f3c1f4738305cb38cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.886Z"
-  },
-  {
-    "job_id": "lever-includedhealth-e373a9af-b559-4888-babf-707c0168e0d7",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Georgia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Georgia",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.886Z"
-  },
-  {
     "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -7573,6 +7423,156 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b233dafa03e8858c8084cb7cb1df79f5c22b246b28e271d4424d0155e7e34528",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.886Z"
+  },
+  {
+    "job_id": "lever-includedhealth-b7c71562-c4d7-434f-80dc-82a2e94e28fd",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Texas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Texas",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/b7c71562-c4d7-434f-80dc-82a2e94e28fd/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cfaead0b718aa7033c3cdef0c113f39af70215ab9eb4ed97b3c6c42e94a47dea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.886Z"
+  },
+  {
+    "job_id": "lever-includedhealth-c628a50b-9412-43d8-af5e-82b0cbd1c97c",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Massachusetts",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/c628a50b-9412-43d8-af5e-82b0cbd1c97c/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b6431b3002007fc5b061dabd22ece2a6007900f4f2d7a58cb45f1730ff4755e9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.886Z"
+  },
+  {
+    "job_id": "lever-includedhealth-cda7ea26-c4ad-4c72-8b63-aa73d9c16783",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/cda7ea26-c4ad-4c72-8b63-aa73d9c16783/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "45e51fb61398b98ec0f3d0691facc71fc4659df40f3935c576059d6277619708",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.886Z"
+  },
+  {
+    "job_id": "lever-includedhealth-cf53b4dd-8e28-49cd-9845-fac2f05ee0f3",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Virginia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Virginia",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/cf53b4dd-8e28-49cd-9845-fac2f05ee0f3/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "acd3d2d0f27f8d498fb849ea838fe97f8e0bbfbec7fb20f3c1f4738305cb38cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.886Z"
+  },
+  {
+    "job_id": "lever-includedhealth-e373a9af-b559-4888-babf-707c0168e0d7",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Georgia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Georgia",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8351,19 +8351,19 @@
     "job_posted_at": "2026-04-27T01:04:43.609Z"
   },
   {
-    "job_id": "greenhouse-olsson-5131482008",
+    "job_id": "greenhouse-olsson-5168759008",
     "job_title": "Construction Materials Testing - Lab Technician",
     "employer_name": "Olsson",
-    "job_city": "Olathe",
-    "job_state": "KS",
+    "job_city": "Oklahoma City",
+    "job_state": "OK",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Olathe, KS",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5131482008",
+    "job_location": "Oklahoma City, OK",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5168759008",
     "job_posted_at_datetime_utc": "2026-04-27T01:04:43.398Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ccf35d51582a8cb1c389dc9712889a66118a747d3a887515ad0ec835cf1e70f2",
+    "fingerprint": "a6d41a06a4731198af8f62f8f8cf102453447fb0549cfc3f3fd1102f992ddb89",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8409,19 +8409,19 @@
     "job_posted_at": "2026-04-27T01:04:43.398Z"
   },
   {
-    "job_id": "greenhouse-olsson-5168759008",
+    "job_id": "greenhouse-olsson-5062253008",
     "job_title": "Construction Materials Testing - Lab Technician",
     "employer_name": "Olsson",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
+    "job_city": "Lincoln",
+    "job_state": "NE",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Oklahoma City, OK",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5168759008",
+    "job_location": "Lincoln, NE",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5062253008",
     "job_posted_at_datetime_utc": "2026-04-27T01:04:43.398Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a6d41a06a4731198af8f62f8f8cf102453447fb0549cfc3f3fd1102f992ddb89",
+    "fingerprint": "50129a78ed1680c59ab7575b2e114fbb29d2e90aba6f7c26f8eaff9deff9f441",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8438,19 +8438,19 @@
     "job_posted_at": "2026-04-27T01:04:43.398Z"
   },
   {
-    "job_id": "greenhouse-olsson-5062253008",
+    "job_id": "greenhouse-olsson-5131482008",
     "job_title": "Construction Materials Testing - Lab Technician",
     "employer_name": "Olsson",
-    "job_city": "Lincoln",
-    "job_state": "NE",
+    "job_city": "Olathe",
+    "job_state": "KS",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Lincoln, NE",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5062253008",
+    "job_location": "Olathe, KS",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5131482008",
     "job_posted_at_datetime_utc": "2026-04-27T01:04:43.398Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "50129a78ed1680c59ab7575b2e114fbb29d2e90aba6f7c26f8eaff9deff9f441",
+    "fingerprint": "ccf35d51582a8cb1c389dc9712889a66118a747d3a887515ad0ec835cf1e70f2",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8494,6 +8494,96 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-27T01:04:43.168Z"
+  },
+  {
+    "job_id": "lever-includedhealth-b7290833-c901-42ce-a94a-5369d6b01cdf",
+    "job_title": "Pediatric Behavioral Health Nurse Care Manager",
+    "employer_name": "Included Health",
+    "job_city": "Colorado",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Colorado",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/b7290833-c901-42ce-a94a-5369d6b01cdf/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a01f69ac8d7ebcbc0805893eed0c07a18f031482c3afeffdb862ffef46a5bf8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
+    "job_id": "lever-includedhealth-c199c441-a47c-4dbd-bfae-139a17e782b6",
+    "job_title": "Pediatric Behavioral Health Nurse Care Manager",
+    "employer_name": "Included Health",
+    "job_city": "Arizona",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Arizona",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/c199c441-a47c-4dbd-bfae-139a17e782b6/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
   },
   {
     "job_id": "lever-includedhealth-310a88a1-7535-4534-8e5a-14c79cad5761",
@@ -8599,96 +8689,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "efa5aedfee38ce174c596181b0ac1e29663bd7db1155556f969fb3185ed2992f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
-    "job_id": "lever-includedhealth-b7290833-c901-42ce-a94a-5369d6b01cdf",
-    "job_title": "Pediatric Behavioral Health Nurse Care Manager",
-    "employer_name": "Included Health",
-    "job_city": "Colorado",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Colorado",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/b7290833-c901-42ce-a94a-5369d6b01cdf/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a01f69ac8d7ebcbc0805893eed0c07a18f031482c3afeffdb862ffef46a5bf8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
-    "job_id": "lever-includedhealth-c199c441-a47c-4dbd-bfae-139a17e782b6",
-    "job_title": "Pediatric Behavioral Health Nurse Care Manager",
-    "employer_name": "Included Health",
-    "job_city": "Arizona",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Arizona",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/c199c441-a47c-4dbd-bfae-139a17e782b6/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9771,6 +9771,122 @@
     "job_posted_at": "2026-04-24T07:08:15.171Z"
   },
   {
+    "job_id": "workday-takeda-R0179172",
+    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "WI - Onalaska",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Onalaska",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0179172-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22d15add8bc4361ae7a0e5139a7ab709ceb6e77b58fbe2b2e772d7231b299c46",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:06:41.928Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179171",
+    "job_title": "Plasma Center Licensed Practical Nurse (LPN) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "WI - Onalaska",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Onalaska",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Licensed-Practical-Nurse--LPN----Immediate-Benefits-_R0179171-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "14b33cd9aea49b6405372228938cc5ea66af124fe46bd6a51d681801b03637ef",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:06:41.928Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179170",
+    "job_title": "Medical Support Specialist (EMT, AEMT, EMTI) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "WI - Onalaska",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Onalaska",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Medical-Support-Specialist--EMT--AEMT--EMTI----Immediate-Benefits-_R0179170-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b0f5590415091b31c71e169b8c1c6c2b9467cae7d9ccfdfcff16185d4d39b16",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:06:41.928Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179142",
+    "job_title": "LPN – Day One benefits",
+    "employer_name": "Takeda",
+    "job_city": "MO - Springfield - McCurry Ave",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MO - Springfield - McCurry Ave",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---McCurry-Ave/LPN---Day-One-benefits_R0179142-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f3c4714a8964793f6775651d1052ae1dce99720793bf0b023c1c158b9633f6aa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:06:41.928Z"
+  },
+  {
     "job_id": "workday-takeda-R0179130",
     "job_title": "Center Supervisor",
     "employer_name": "Takeda",
@@ -10090,19 +10206,19 @@
     "job_posted_at": "2026-04-24T07:06:41.928Z"
   },
   {
-    "job_id": "workday-takeda-R0179172",
-    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "WI - Onalaska",
+    "job_id": "workday-thermo-fisher-scientific-R-01348633",
+    "job_title": "Scientist, Formulations",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Collegeville",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - WI - Onalaska",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0179172-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:06:41.928Z",
+    "job_location": "Collegeville, Pennsylvania, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/Scientist--Formulations_R-01348633",
+    "job_posted_at_datetime_utc": "2026-04-24T07:06:25.444Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "22d15add8bc4361ae7a0e5139a7ab709ceb6e77b58fbe2b2e772d7231b299c46",
+    "fingerprint": "12baad7d596e3ed057e587503c8673c317f171407dc7dc3c74c4097d8d126a51",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10111,99 +10227,12 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:06:41.928Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179171",
-    "job_title": "Plasma Center Licensed Practical Nurse (LPN) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "WI - Onalaska",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Onalaska",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Licensed-Practical-Nurse--LPN----Immediate-Benefits-_R0179171-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:06:41.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "14b33cd9aea49b6405372228938cc5ea66af124fe46bd6a51d681801b03637ef",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:06:41.928Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179170",
-    "job_title": "Medical Support Specialist (EMT, AEMT, EMTI) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "WI - Onalaska",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Onalaska",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Medical-Support-Specialist--EMT--AEMT--EMTI----Immediate-Benefits-_R0179170-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:06:41.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6b0f5590415091b31c71e169b8c1c6c2b9467cae7d9ccfdfcff16185d4d39b16",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:06:41.928Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179142",
-    "job_title": "LPN – Day One benefits",
-    "employer_name": "Takeda",
-    "job_city": "MO - Springfield - McCurry Ave",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MO - Springfield - McCurry Ave",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---McCurry-Ave/LPN---Day-One-benefits_R0179142-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:06:41.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f3c4714a8964793f6775651d1052ae1dce99720793bf0b023c1c158b9633f6aa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:06:41.928Z"
+    "job_posted_at": "2026-04-24T07:06:25.444Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01349624",
@@ -10228,35 +10257,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:06:25.444Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01348633",
-    "job_title": "Scientist, Formulations",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Collegeville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Collegeville, Pennsylvania, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/Scientist--Formulations_R-01348633",
-    "job_posted_at_datetime_utc": "2026-04-24T07:06:25.444Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "12baad7d596e3ed057e587503c8673c317f171407dc7dc3c74c4097d8d126a51",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -10527,6 +10527,35 @@
     "job_posted_at": "2026-04-24T07:03:52.356Z"
   },
   {
+    "job_id": "workday-cigna-26004897",
+    "job_title": "Encore Home Infusion Nurse - Accredo",
+    "employer_name": "Cigna",
+    "job_city": "Jacksonville",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Jacksonville, FL",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Jacksonville-FL/Encore-Home-Infusion-Nurse---Accredo_26004897",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:33.706Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "76a7258bae78191a9bc30e41f3f77489a223c57bcdd0494bc814609893f3afa8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:33.706Z"
+  },
+  {
     "job_id": "workday-cigna-26000746",
     "job_title": "Contract Manager, Hospital & Physician Negotiations - Hybrid - Pittsburgh, PA",
     "employer_name": "Cigna",
@@ -10614,35 +10643,6 @@
     "job_posted_at": "2026-04-24T07:03:33.706Z"
   },
   {
-    "job_id": "workday-cigna-26004897",
-    "job_title": "Encore Home Infusion Nurse - Accredo",
-    "employer_name": "Cigna",
-    "job_city": "Jacksonville",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Jacksonville, FL",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Jacksonville-FL/Encore-Home-Infusion-Nurse---Accredo_26004897",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:33.706Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "76a7258bae78191a9bc30e41f3f77489a223c57bcdd0494bc814609893f3afa8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:33.706Z"
-  },
-  {
     "job_id": "workday-cigna-26001961",
     "job_title": "Patient Care Coordinator, Specialty Pharmacy- Evernorth",
     "employer_name": "Cigna",
@@ -10701,6 +10701,35 @@
     "job_posted_at": "2026-04-24T07:03:31.283Z"
   },
   {
+    "job_id": "workday-abbott-31143919",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "3 Locations",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Milwaukee/Clinical-Specialist_31143919-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:02:45.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51f911fcd1fcdebb3d3520249cf0f2121f0371bc67d89b0d23e3265dd7a8fea8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:02:45.289Z"
+  },
+  {
     "job_id": "workday-abbott-31148217",
     "job_title": "Clinical Specialist, Vessel Closure - Salt Lake City",
     "employer_name": "Abbott",
@@ -10743,35 +10772,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "82bda75946cf77732088e4ddef643cb4ca50cd6f25519f6bf48f45b92ff85e24",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:02:45.289Z"
-  },
-  {
-    "job_id": "workday-abbott-31143919",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "3 Locations",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Milwaukee/Clinical-Specialist_31143919-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:02:45.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51f911fcd1fcdebb3d3520249cf0f2121f0371bc67d89b0d23e3265dd7a8fea8",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12106,64 +12106,6 @@
     "job_posted_at": "2026-04-23T07:04:57.637Z"
   },
   {
-    "job_id": "workday-kbr-R2122576",
-    "job_title": "Special Operations Physical Therapist-TEMP POSITION, (Onsite - Fort Bragg, NC)",
-    "employer_name": "KBR",
-    "job_city": "Fayetteville North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fayetteville North Carolina + 1 more",
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Physical-Therapist-TEMP-POSITION---Onsite---Fort-Bragg--NC-_R2122576",
-    "job_posted_at_datetime_utc": "2026-04-23T07:04:48.768Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2700ffb64d72d3b48b2724243c1ed1d110fc2397cd36258a0ae79d464162eab0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:04:48.768Z"
-  },
-  {
-    "job_id": "workday-kbr-R2122577",
-    "job_title": "Special Operations Performance Dietitian (4/160 SOAR. JBLM, WA)",
-    "employer_name": "KBR",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Joint-Base-Lewis-McChord-Washington/Special-Operations-Performance-Dietitian--4-160-SOAR-JBLM--WA-_R2122577",
-    "job_posted_at_datetime_utc": "2026-04-23T07:04:48.768Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9d05d3c015ce284784581c1ca5dc13b87af0d047acd65bfbe4e6b89c93ae50ad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:04:48.768Z"
-  },
-  {
     "job_id": "workday-kbr-R2120866",
     "job_title": "Special Operations Licensed Clinical Social Worker (National Capital Region)",
     "employer_name": "KBR",
@@ -12206,6 +12148,64 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "12a6f9242b799346572b98ed13ca8108335601cd1a6c859d2c64dd63d6fe62fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:04:48.768Z"
+  },
+  {
+    "job_id": "workday-kbr-R2122576",
+    "job_title": "Special Operations Physical Therapist-TEMP POSITION, (Onsite - Fort Bragg, NC)",
+    "employer_name": "KBR",
+    "job_city": "Fayetteville North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fayetteville North Carolina + 1 more",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Physical-Therapist-TEMP-POSITION---Onsite---Fort-Bragg--NC-_R2122576",
+    "job_posted_at_datetime_utc": "2026-04-23T07:04:48.768Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2700ffb64d72d3b48b2724243c1ed1d110fc2397cd36258a0ae79d464162eab0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:04:48.768Z"
+  },
+  {
+    "job_id": "workday-kbr-R2122577",
+    "job_title": "Special Operations Performance Dietitian (4/160 SOAR. JBLM, WA)",
+    "employer_name": "KBR",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Joint-Base-Lewis-McChord-Washington/Special-Operations-Performance-Dietitian--4-160-SOAR-JBLM--WA-_R2122577",
+    "job_posted_at_datetime_utc": "2026-04-23T07:04:48.768Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9d05d3c015ce284784581c1ca5dc13b87af0d047acd65bfbe4e6b89c93ae50ad",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12802,35 +12802,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-22T22:39:52.161Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012779056",
-    "job_title": "Associate Scientist I/II, Formulation & Process Development",
-    "employer_name": "AbbVie",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Diego, CA",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012779056",
-    "job_posted_at_datetime_utc": "2026-04-22T20:24:42.669Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "b21454dfa57348e692c6e20adcd80fcf135e668572410a752778b0b5450c2c5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-22T20:24:42.669Z"
   }
 ]
