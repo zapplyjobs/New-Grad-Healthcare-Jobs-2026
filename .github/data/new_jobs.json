@@ -1547,6 +1547,64 @@
     "job_posted_at": "2026-04-29T15:37:38.434Z"
   },
   {
+    "job_id": "workday-takeda-R0178077",
+    "job_title": "Specialty Business Manager, IBD - Brooklyn, NY (Manhattan, Brooklyn and Staten Island)",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/New-York---Virtual/Specialty-Business-Manager--IBD---Brooklyn--NY--Manhattan--Brooklyn-and-Staten-Island-_R0178077",
+    "job_posted_at_datetime_utc": "2026-04-29T15:36:50.898Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "68d615f5142de822feb15ab94c5a92e6e1f0b08d6f725594a85dea101af2bddc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T15:36:50.898Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179359",
+    "job_title": "Paramedic – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "MO - Kansas City - 82nd Ter",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MO - Kansas City - 82nd Ter",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/LPN---Day-One-Benefits_R0179359-1",
+    "job_posted_at_datetime_utc": "2026-04-29T15:36:50.898Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "59a034aef801cb24bca85212c81f59d00c8158c10f11b466a131d015c9a5680f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T15:36:50.898Z"
+  },
+  {
     "job_id": "workday-takeda-R0178475",
     "job_title": "Specialty Business Manager- IBD,  New Brunswick, NJ",
     "employer_name": "Takeda",
@@ -1618,64 +1676,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "507557079108148772e05d3bba31592bc40964983c398dc0c5e9ea28c5ad964c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T15:36:50.898Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178077",
-    "job_title": "Specialty Business Manager, IBD - Brooklyn, NY (Manhattan, Brooklyn and Staten Island)",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/New-York---Virtual/Specialty-Business-Manager--IBD---Brooklyn--NY--Manhattan--Brooklyn-and-Staten-Island-_R0178077",
-    "job_posted_at_datetime_utc": "2026-04-29T15:36:50.898Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "68d615f5142de822feb15ab94c5a92e6e1f0b08d6f725594a85dea101af2bddc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T15:36:50.898Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179359",
-    "job_title": "Paramedic – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - 82nd Ter",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MO - Kansas City - 82nd Ter",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/LPN---Day-One-Benefits_R0179359-1",
-    "job_posted_at_datetime_utc": "2026-04-29T15:36:50.898Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "59a034aef801cb24bca85212c81f59d00c8158c10f11b466a131d015c9a5680f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5733,35 +5733,6 @@
     "job_posted_at": "2026-04-27T07:23:33.680Z"
   },
   {
-    "job_id": "workday-medtronic-R65320",
-    "job_title": "Vascular Clinical Specialist - Winston/Salem, Greensboro",
-    "employer_name": "Medtronic",
-    "job_city": "Winston Salem",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Winston Salem, North Carolina, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Winston-Salem-North-Carolina-United-States-of-America/Vascular-Clinical-Specialist---Winston-Salem--Greensboro_R65320-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:23:33.679Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d52373d49335c116d2ee483375a91d6d939f24c833effcdc5218b06379492c38",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:23:33.679Z"
-  },
-  {
     "job_id": "workday-medtronic-R65233",
     "job_title": "Vascular Clinical Specialist - Chicago",
     "employer_name": "Medtronic",
@@ -5849,6 +5820,35 @@
     "job_posted_at": "2026-04-27T07:23:33.679Z"
   },
   {
+    "job_id": "workday-medtronic-R65320",
+    "job_title": "Vascular Clinical Specialist - Winston/Salem, Greensboro",
+    "employer_name": "Medtronic",
+    "job_city": "Winston Salem",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Winston Salem, North Carolina, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Winston-Salem-North-Carolina-United-States-of-America/Vascular-Clinical-Specialist---Winston-Salem--Greensboro_R65320-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:23:33.679Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d52373d49335c116d2ee483375a91d6d939f24c833effcdc5218b06379492c38",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:23:33.679Z"
+  },
+  {
     "job_id": "workday-moog-R-26-16311",
     "job_title": "Engineering Laboratory Technician - 2nd or 3rd Shift",
     "employer_name": "Moog",
@@ -5905,6 +5905,36 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-27T07:22:52.763Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-071798",
+    "job_title": "Associate Clinical Account Specialist (Corpus Christi, TX / Rio Grande Valley) - Johnson and Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Corpus Christi",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Corpus Christi, Texas, United States",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Corpus-Christi-Texas-United-States/Associate-Clinical-Account-Specialist--Corpus-Christi--TX---Rio-Grande-Valley----Johnson-and-Johnson-MedTech--Electrophysiology_R-071798",
+    "job_posted_at_datetime_utc": "2026-04-27T07:22:45.485Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "97c19b017f5d37577d21b966844a1740755fc55bbd5c5103a341e707985bb69b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:22:45.485Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-068431",
@@ -6040,36 +6070,6 @@
       "employment": "entry_level",
       "domains": [
         "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:22:45.485Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-071798",
-    "job_title": "Associate Clinical Account Specialist (Corpus Christi, TX / Rio Grande Valley) - Johnson and Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Corpus Christi",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Corpus Christi, Texas, United States",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Corpus-Christi-Texas-United-States/Associate-Clinical-Account-Specialist--Corpus-Christi--TX---Rio-Grande-Valley----Johnson-and-Johnson-MedTech--Electrophysiology_R-071798",
-    "job_posted_at_datetime_utc": "2026-04-27T07:22:45.485Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "97c19b017f5d37577d21b966844a1740755fc55bbd5c5103a341e707985bb69b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
       ],
       "locations": [
         "us"
@@ -6841,6 +6841,64 @@
     "job_posted_at": "2026-04-27T07:20:51.813Z"
   },
   {
+    "job_id": "workday-abbott-31113914",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO; Denver, CO",
+    "employer_name": "Abbott",
+    "job_city": "Colorado - Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Colorado - Colorado Springs",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
+    "job_posted_at_datetime_utc": "2026-04-27T07:20:51.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3c0c9e72ae6b6dee2b5feb128d51c79427f386cd30d3587ad96c0f0a1c4ce0c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:20:51.813Z"
+  },
+  {
+    "job_id": "workday-abbott-31144820",
+    "job_title": "Clinical Associate",
+    "employer_name": "Abbott",
+    "job_city": "Missouri - Kansas City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Missouri - Kansas City",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Clinical-Specialist_31144820",
+    "job_posted_at_datetime_utc": "2026-04-27T07:20:51.813Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b775a7055d862d14c675326d305673993981b5c82f9829d17e20eb70c09019cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:20:51.813Z"
+  },
+  {
     "job_id": "workday-abbott-31146064",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
     "employer_name": "Abbott",
@@ -6999,64 +7057,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3faec5e9f928e98dfed2eca74b26f2602cf8d9a2bd31c052279f699417a97ba4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:20:51.813Z"
-  },
-  {
-    "job_id": "workday-abbott-31113914",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO; Denver, CO",
-    "employer_name": "Abbott",
-    "job_city": "Colorado - Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Colorado - Colorado Springs",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
-    "job_posted_at_datetime_utc": "2026-04-27T07:20:51.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3c0c9e72ae6b6dee2b5feb128d51c79427f386cd30d3587ad96c0f0a1c4ce0c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:20:51.813Z"
-  },
-  {
-    "job_id": "workday-abbott-31144820",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "Missouri - Kansas City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Missouri - Kansas City",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Missouri---Kansas-City/Clinical-Specialist_31144820",
-    "job_posted_at_datetime_utc": "2026-04-27T07:20:51.813Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b775a7055d862d14c675326d305673993981b5c82f9829d17e20eb70c09019cc",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7462,64 +7462,6 @@
     "job_posted_at": "2026-04-27T02:58:17.210Z"
   },
   {
-    "job_id": "greenhouse-personalisinc-6680748003",
-    "job_title": "Client Experience Associate (Temp - 6 Months)",
-    "employer_name": "Personalis",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fremont, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/6680748003",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.690Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f1398e73df5336799e82a44da2cb0c89466cf2ab507d5012dfba15dfd4e6aac5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:16.690Z"
-  },
-  {
-    "job_id": "greenhouse-personalisinc-7652731003",
-    "job_title": "Client Experience Specialist",
-    "employer_name": "Personalis",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fremont, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7652731003",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.690Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "537dd1d1ea3732dc0cd0d762ae80dfb4bcae65c03b8529b386ebf0f755039660",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:16.690Z"
-  },
-  {
     "job_id": "greenhouse-personalisinc-7645093003",
     "job_title": "Clinical Lab Associate 1",
     "employer_name": "Personalis",
@@ -7631,6 +7573,64 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:16.690Z"
+  },
+  {
+    "job_id": "greenhouse-personalisinc-6680748003",
+    "job_title": "Client Experience Associate (Temp - 6 Months)",
+    "employer_name": "Personalis",
+    "job_city": "Fremont",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fremont, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/6680748003",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.690Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f1398e73df5336799e82a44da2cb0c89466cf2ab507d5012dfba15dfd4e6aac5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:16.690Z"
+  },
+  {
+    "job_id": "greenhouse-personalisinc-7652731003",
+    "job_title": "Client Experience Specialist",
+    "employer_name": "Personalis",
+    "job_city": "Fremont",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fremont, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7652731003",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.690Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "537dd1d1ea3732dc0cd0d762ae80dfb4bcae65c03b8529b386ebf0f755039660",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -8641,35 +8641,6 @@
     "job_posted_at": "2026-04-27T02:58:07.302Z"
   },
   {
-    "job_id": "greenhouse-bridgewater89-8408478002",
-    "job_title": "Equities Research Associate, Asia Solutions",
-    "employer_name": "Bridgewater Associates",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York City",
-    "job_apply_link": "https://job-boards.greenhouse.io/bridgewater89/jobs/8408478002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:07.029Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2af28d1eb0dbe82fd2b39e76e6d6e6878173d664cca90b65e235bf0faec381ad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:07.029Z"
-  },
-  {
     "job_id": "greenhouse-bridgewater89-8294673002",
     "job_title": "Client Investment Research Associate",
     "employer_name": "Bridgewater Associates",
@@ -8692,6 +8663,35 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:07.029Z"
+  },
+  {
+    "job_id": "greenhouse-bridgewater89-8408478002",
+    "job_title": "Equities Research Associate, Asia Solutions",
+    "employer_name": "Bridgewater Associates",
+    "job_city": "New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York City",
+    "job_apply_link": "https://job-boards.greenhouse.io/bridgewater89/jobs/8408478002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:07.029Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2af28d1eb0dbe82fd2b39e76e6d6e6878173d664cca90b65e235bf0faec381ad",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -9108,6 +9108,36 @@
     "job_posted_at": "2026-04-27T01:04:43.168Z"
   },
   {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
     "job_id": "lever-includedhealth-310a88a1-7535-4534-8e5a-14c79cad5761",
     "job_title": "Nurse Care Manager, Adult",
     "employer_name": "Included Health",
@@ -9271,36 +9301,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11934,6 +11934,151 @@
     "job_posted_at": "2026-04-23T07:12:03.354Z"
   },
   {
+    "job_id": "workday-takeda-R0179073",
+    "job_title": "LPN Licensed Practical Nurse",
+    "employer_name": "Takeda",
+    "job_city": "ND - Bismarck",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - ND - Bismarck",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/LPN-Licensed-Practical-Nurse_R0179073-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abe27a69fc4b1b87e72c00530f93006fed52649ca0637ec5ff9c9c622eebb440",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:06:41.928Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179074",
+    "job_title": "On Site Paramedic",
+    "employer_name": "Takeda",
+    "job_city": "ND - Bismarck",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - ND - Bismarck",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/On-Site-Paramedic_R0179074-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "68c5ebd0368a74355d1e515e30b855c0b938fe73778585e6e1fd86ce62390079",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:06:41.928Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179072",
+    "job_title": "Registered Nurse RN",
+    "employer_name": "Takeda",
+    "job_city": "ND - Bismarck",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - ND - Bismarck",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/Registered-Nurse-RN_R0179072-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9b5e9be6277c9b0c150f7abd09f1a4d31b5a101e4455d956c678485b9405bde7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:06:41.928Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179079",
+    "job_title": "Medical Screener/Phlebotomist - On the Job Training!",
+    "employer_name": "Takeda",
+    "job_city": "SC - Spartanburg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - SC - Spartanburg",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Medical-Screener-Phlebotomist---On-the-Job-Training-_R0179079-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6abd351837386a932df25fcfb6ca3e1fb3a9b40434caf23d45d3272a1d9dc5cd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:06:41.928Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179080",
+    "job_title": "Medical Support Specialist LPN, RN, or Paramedic required!",
+    "employer_name": "Takeda",
+    "job_city": "SC - Spartanburg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - SC - Spartanburg",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Medical-Support-Specialist-LPN--RN--or-Paramedic-required-_R0179080-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5511ff52fce6c3a8cb85a7e34dc376d5fc6e4c8749624ad8f4ffd94a3b5949d8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T07:06:41.928Z"
+  },
+  {
     "job_id": "workday-takeda-R0177800",
     "job_title": "Training Manager, FTP",
     "employer_name": "Takeda",
@@ -12295,151 +12440,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "724a8c95dec4b08699454490b7152a507958ead2b72e47517e66811ea1de1f47",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:06:41.928Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179073",
-    "job_title": "LPN Licensed Practical Nurse",
-    "employer_name": "Takeda",
-    "job_city": "ND - Bismarck",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - ND - Bismarck",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/LPN-Licensed-Practical-Nurse_R0179073-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abe27a69fc4b1b87e72c00530f93006fed52649ca0637ec5ff9c9c622eebb440",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:06:41.928Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179074",
-    "job_title": "On Site Paramedic",
-    "employer_name": "Takeda",
-    "job_city": "ND - Bismarck",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - ND - Bismarck",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/On-Site-Paramedic_R0179074-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "68c5ebd0368a74355d1e515e30b855c0b938fe73778585e6e1fd86ce62390079",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:06:41.928Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179072",
-    "job_title": "Registered Nurse RN",
-    "employer_name": "Takeda",
-    "job_city": "ND - Bismarck",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - ND - Bismarck",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Bismarck/Registered-Nurse-RN_R0179072-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9b5e9be6277c9b0c150f7abd09f1a4d31b5a101e4455d956c678485b9405bde7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:06:41.928Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179079",
-    "job_title": "Medical Screener/Phlebotomist - On the Job Training!",
-    "employer_name": "Takeda",
-    "job_city": "SC - Spartanburg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - SC - Spartanburg",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Medical-Screener-Phlebotomist---On-the-Job-Training-_R0179079-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6abd351837386a932df25fcfb6ca3e1fb3a9b40434caf23d45d3272a1d9dc5cd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T07:06:41.928Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179080",
-    "job_title": "Medical Support Specialist LPN, RN, or Paramedic required!",
-    "employer_name": "Takeda",
-    "job_city": "SC - Spartanburg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - SC - Spartanburg",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Medical-Support-Specialist-LPN--RN--or-Paramedic-required-_R0179080-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:06:41.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5511ff52fce6c3a8cb85a7e34dc376d5fc6e4c8749624ad8f4ffd94a3b5949d8",
     "tags": {
       "employment": "entry_level",
       "domains": [
