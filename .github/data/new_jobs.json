@@ -1838,35 +1838,6 @@
     "job_posted_at": "2026-04-29T16:40:03.600Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01351115",
-    "job_title": "Associate Scientist, Separations",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Wilmington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Wilmington, Delaware, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-Delaware-USA/Associate-Scientist--Separations_R-01351115",
-    "job_posted_at_datetime_utc": "2026-04-29T16:29:45.694Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "945ce8c43691c552dc9e4776ec44c5987ce5ca2189d557f8be61863fb26da79f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T16:29:45.694Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01348720",
     "job_title": "Associate Scientist, Bioanalytical Methods",
     "employer_name": "Thermo Fisher Scientific",
@@ -1889,6 +1860,35 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T16:29:45.694Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01351115",
+    "job_title": "Associate Scientist, Separations",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Wilmington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Wilmington, Delaware, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-Delaware-USA/Associate-Scientist--Separations_R-01351115",
+    "job_posted_at_datetime_utc": "2026-04-29T16:29:45.694Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "945ce8c43691c552dc9e4776ec44c5987ce5ca2189d557f8be61863fb26da79f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -3247,6 +3247,64 @@
     "job_posted_at": "2026-04-28T07:12:28.711Z"
   },
   {
+    "job_id": "workday-takeda-R0179272",
+    "job_title": "LPN - 1,500 Sign On Bonus - Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - KS - Lenexa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/LPN---1-500-Sign-On-Bonus---Day-One-Benefits_R0179272-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87e839896c309621ca7bfef2817a07807d49244843d372f4610e40d396b5a6d2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179274",
+    "job_title": "Paramedic – $1,500 Sign On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - KS - Lenexa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/Paramedic----1-500-Sign-On-Bonus_R0179274-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "518a6f0d03056c8b0dcb30e0d5f2d45d4bb8e56f71ec8baf052319b74e6cb36d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:53.048Z"
+  },
+  {
     "job_id": "workday-takeda-R0179324",
     "job_title": "Bilingual Plasma Center Nurse (RN)",
     "employer_name": "Takeda",
@@ -3624,64 +3682,6 @@
     "job_posted_at": "2026-04-28T07:03:53.048Z"
   },
   {
-    "job_id": "workday-takeda-R0179272",
-    "job_title": "LPN - 1,500 Sign On Bonus - Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - KS - Lenexa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/LPN---1-500-Sign-On-Bonus---Day-One-Benefits_R0179272-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "87e839896c309621ca7bfef2817a07807d49244843d372f4610e40d396b5a6d2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179274",
-    "job_title": "Paramedic – $1,500 Sign On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - KS - Lenexa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/Paramedic----1-500-Sign-On-Bonus_R0179274-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "518a6f0d03056c8b0dcb30e0d5f2d45d4bb8e56f71ec8baf052319b74e6cb36d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:53.048Z"
-  },
-  {
     "job_id": "workday-takeda-R0179271",
     "job_title": "Plasma Center Experienced Phlebotomist - Day 1 Benefits",
     "employer_name": "Takeda",
@@ -3887,35 +3887,6 @@
     "job_posted_at": "2026-04-28T07:03:28.409Z"
   },
   {
-    "job_id": "workday-medtronic-R65318",
-    "job_title": "Vascular Clinical Specialist - Los Angeles, CA",
-    "employer_name": "Medtronic",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Los Angeles, California, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Vascular-Clinical-Specialist--_R65318-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:41.448Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8aee7a654b88edd604d430f7675d6c2019856bd7f4d1c9b10af80b28640ebea2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:41.448Z"
-  },
-  {
     "job_id": "workday-medtronic-R65369",
     "job_title": "Clinical Specialist, Pain Interventions - Orlando, FL",
     "employer_name": "Medtronic",
@@ -3987,6 +3958,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "eb7cb9e58afc331803dbd777338fdf0dab227e848473365df89f07bfa486bd02",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:41.448Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65318",
+    "job_title": "Vascular Clinical Specialist - Los Angeles, CA",
+    "employer_name": "Medtronic",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Los Angeles, California, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Vascular-Clinical-Specialist--_R65318-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:41.448Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8aee7a654b88edd604d430f7675d6c2019856bd7f4d1c9b10af80b28640ebea2",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6801,6 +6801,64 @@
     "job_posted_at": "2026-04-27T07:03:39.178Z"
   },
   {
+    "job_id": "workday-medtronic-R64799",
+    "job_title": "Clinical Specialist CRM - Palm Beach Gardens / Jupiter",
+    "employer_name": "Medtronic",
+    "job_city": "Jupiter",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Jupiter, Florida, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jupiter-Florida-United-States-of-America/Clinical-Specialist-CRM---Palm-Beach-Gardens---Jupiter_R64799-2",
+    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4aca185b2150fdeb21dd36a44f808c753865bf0a786a9c73d6798d2cc980a96c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:02:41.449Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63211",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
+    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:02:41.449Z"
+  },
+  {
     "job_id": "workday-medtronic-R65320",
     "job_title": "Vascular Clinical Specialist - Winston/Salem, Greensboro",
     "employer_name": "Medtronic",
@@ -6939,64 +6997,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:02:41.449Z"
-  },
-  {
-    "job_id": "workday-medtronic-R64799",
-    "job_title": "Clinical Specialist CRM - Palm Beach Gardens / Jupiter",
-    "employer_name": "Medtronic",
-    "job_city": "Jupiter",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Jupiter, Florida, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jupiter-Florida-United-States-of-America/Clinical-Specialist-CRM---Palm-Beach-Gardens---Jupiter_R64799-2",
-    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4aca185b2150fdeb21dd36a44f808c753865bf0a786a9c73d6798d2cc980a96c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:02:41.449Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63211",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
-    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -8220,6 +8220,36 @@
     "job_posted_at": "2026-04-27T02:58:13.887Z"
   },
   {
+    "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Tennessee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Tennessee",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/29af260c-cc9b-4fe9-b358-6135fd5909be/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8dc6d786070fe4eb14ba2508d9f931a2707af0984d2e9a5ddbc3098afbc41724",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.886Z"
+  },
+  {
     "job_id": "lever-includedhealth-387371b0-98f7-4b7f-a274-bef090372ae2",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -8520,36 +8550,6 @@
     "job_posted_at": "2026-04-27T02:58:13.886Z"
   },
   {
-    "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Tennessee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Tennessee",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/29af260c-cc9b-4fe9-b358-6135fd5909be/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8dc6d786070fe4eb14ba2508d9f931a2707af0984d2e9a5ddbc3098afbc41724",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.886Z"
-  },
-  {
     "job_id": "lever-includedhealth-49388cfa-e860-41d2-ab8a-b19d59e025b5",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -8608,6 +8608,65 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-04-27T02:58:13.886Z"
+  },
+  {
+    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
+    "job_title": "Part-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "New York, NY or Remote",
+    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
+    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boynton Beach, FL",
+    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
   },
   {
     "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
@@ -8836,65 +8895,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
-    "job_title": "Part-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "New York, NY or Remote",
-    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
-    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boynton Beach, FL",
-    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -10687,6 +10687,93 @@
     "job_posted_at": "2026-04-24T07:04:13.988Z"
   },
   {
+    "job_id": "workday-takeda-R0179172",
+    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "WI - Onalaska",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Onalaska",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0179172-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22d15add8bc4361ae7a0e5139a7ab709ceb6e77b58fbe2b2e772d7231b299c46",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179171",
+    "job_title": "Plasma Center Licensed Practical Nurse (LPN) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "WI - Onalaska",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Onalaska",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Licensed-Practical-Nurse--LPN----Immediate-Benefits-_R0179171-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "14b33cd9aea49b6405372228938cc5ea66af124fe46bd6a51d681801b03637ef",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179170",
+    "job_title": "Medical Support Specialist (EMT, AEMT, EMTI) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "WI - Onalaska",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Onalaska",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Medical-Support-Specialist--EMT--AEMT--EMTI----Immediate-Benefits-_R0179170-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b0f5590415091b31c71e169b8c1c6c2b9467cae7d9ccfdfcff16185d4d39b16",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
     "job_id": "workday-takeda-R0179142",
     "job_title": "LPN – Day One benefits",
     "employer_name": "Takeda",
@@ -11035,93 +11122,6 @@
     "job_posted_at": "2026-04-24T07:03:53.048Z"
   },
   {
-    "job_id": "workday-takeda-R0179172",
-    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "WI - Onalaska",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Onalaska",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0179172-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22d15add8bc4361ae7a0e5139a7ab709ceb6e77b58fbe2b2e772d7231b299c46",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179171",
-    "job_title": "Plasma Center Licensed Practical Nurse (LPN) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "WI - Onalaska",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Onalaska",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Licensed-Practical-Nurse--LPN----Immediate-Benefits-_R0179171-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "14b33cd9aea49b6405372228938cc5ea66af124fe46bd6a51d681801b03637ef",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179170",
-    "job_title": "Medical Support Specialist (EMT, AEMT, EMTI) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "WI - Onalaska",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Onalaska",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Medical-Support-Specialist--EMT--AEMT--EMTI----Immediate-Benefits-_R0179170-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6b0f5590415091b31c71e169b8c1c6c2b9467cae7d9ccfdfcff16185d4d39b16",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01348633",
     "job_title": "Scientist, Formulations",
     "employer_name": "Thermo Fisher Scientific",
@@ -11238,19 +11238,19 @@
     "job_posted_at": "2026-04-24T07:03:33.706Z"
   },
   {
-    "job_id": "workday-abbott-31148217",
-    "job_title": "Clinical Specialist, Vessel Closure - Salt Lake City",
+    "job_id": "workday-abbott-31143919",
+    "job_title": "Clinical Specialist",
     "employer_name": "Abbott",
-    "job_city": "Utah - Salt Lake City",
+    "job_city": "3 Locations",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "United States - Utah - Salt Lake City",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Utah---Salt-Lake-City/Clinical-Specialist--Vessel-Closure---Salt-Lake-City_31148217-1",
+    "job_location": "3 Locations",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Milwaukee/Clinical-Specialist_31143919-1",
     "job_posted_at_datetime_utc": "2026-04-24T07:02:45.289Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "cf1b2086cff50df8bb236da1be978220d1274911b62447917c4ad0325305c58a",
+    "fingerprint": "51f911fcd1fcdebb3d3520249cf0f2121f0371bc67d89b0d23e3265dd7a8fea8",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11267,19 +11267,19 @@
     "job_posted_at": "2026-04-24T07:02:45.289Z"
   },
   {
-    "job_id": "workday-abbott-31143919",
-    "job_title": "Clinical Specialist",
+    "job_id": "workday-abbott-31148217",
+    "job_title": "Clinical Specialist, Vessel Closure - Salt Lake City",
     "employer_name": "Abbott",
-    "job_city": "3 Locations",
+    "job_city": "Utah - Salt Lake City",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "3 Locations",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Milwaukee/Clinical-Specialist_31143919-1",
+    "job_location": "United States - Utah - Salt Lake City",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Utah---Salt-Lake-City/Clinical-Specialist--Vessel-Closure---Salt-Lake-City_31148217-1",
     "job_posted_at_datetime_utc": "2026-04-24T07:02:45.289Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "51f911fcd1fcdebb3d3520249cf0f2121f0371bc67d89b0d23e3265dd7a8fea8",
+    "fingerprint": "cf1b2086cff50df8bb236da1be978220d1274911b62447917c4ad0325305c58a",
     "tags": {
       "employment": "entry_level",
       "domains": [
