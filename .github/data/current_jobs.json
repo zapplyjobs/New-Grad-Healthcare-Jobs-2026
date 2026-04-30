@@ -1,5 +1,63 @@
 [
   {
+    "job_id": "workday-takeda-R0175140",
+    "job_title": "Licensed Practical Nurse – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Joliet",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Licensed-Practical-Nurse---Day-One-Benefits_R0175140-1",
+    "job_posted_at_datetime_utc": "2026-04-30T20:30:51.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "14a4f66b2f1d7559ffaa6e55bf57292fb020d4efc4113426c1b1d12f2b0acc96",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T20:30:51.310Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175135",
+    "job_title": "Paramedic – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Joliet",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Paramedic---No-Overnight-Shifts_R0175135-1",
+    "job_posted_at_datetime_utc": "2026-04-30T20:30:51.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f792450a52ef929ede6a55a06d52f50c1752109ea80c4184537c32a195055faf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T20:30:51.310Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01334329",
     "job_title": "Field Service Engineer (Electron Microscopy)(REMOTE)",
     "employer_name": "Thermo Fisher Scientific",
@@ -27,6 +85,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T20:16:49.656Z"
   },
   {
@@ -4257,35 +4325,6 @@
     "job_posted_at": "2026-04-28T07:12:49.311Z"
   },
   {
-    "job_id": "workday-abbott-31148866",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Columbus",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
-    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:12:28.711Z"
-  },
-  {
     "job_id": "workday-abbott-31148530",
     "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
     "employer_name": "Abbott",
@@ -4357,6 +4396,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:12:28.711Z"
+  },
+  {
+    "job_id": "workday-abbott-31148866",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Ohio - Columbus",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
+    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5160,19 +5228,19 @@
     "job_posted_at": "2026-04-28T07:02:29.822Z"
   },
   {
-    "job_id": "workday-leidos-R-00181991",
-    "job_title": "Military Family Life Counselor - HealthySteps - Tripler",
+    "job_id": "workday-leidos-R-00181957",
+    "job_title": "Military Family Life Counselor - CDC - MCB, Hawaii",
     "employer_name": "Leidos",
-    "job_city": "Honolulu",
+    "job_city": "Marine Corps Base Kaneohe Bay",
     "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Honolulu, HI",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Military-Family-Life-Counselor---HealthySteps---Tripler_R-00181991",
+    "job_location": "Marine Corps Base Kaneohe Bay, HI",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Marine-Corps-Base-Kaneohe-Bay-HI/Military-Family-Life-Counselor---CDC---MCB--Hawaii_R-00181957",
     "job_posted_at_datetime_utc": "2026-04-28T07:01:59.485Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f3def2c33dcd49a0c3a829ba09e849e79d8eb943c78c7c74d1fa6b3fa300e4c9",
+    "fingerprint": "e0580d1f4ad5d6105c90ebae171f048b6f6f2f3bc2a26750a52d7dfd3b495aab",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5189,19 +5257,19 @@
     "job_posted_at": "2026-04-28T07:01:59.485Z"
   },
   {
-    "job_id": "workday-leidos-R-00181957",
-    "job_title": "Military Family Life Counselor - CDC - MCB, Hawaii",
+    "job_id": "workday-leidos-R-00181991",
+    "job_title": "Military Family Life Counselor - HealthySteps - Tripler",
     "employer_name": "Leidos",
-    "job_city": "Marine Corps Base Kaneohe Bay",
+    "job_city": "Honolulu",
     "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Marine Corps Base Kaneohe Bay, HI",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Marine-Corps-Base-Kaneohe-Bay-HI/Military-Family-Life-Counselor---CDC---MCB--Hawaii_R-00181957",
+    "job_location": "Honolulu, HI",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Military-Family-Life-Counselor---HealthySteps---Tripler_R-00181991",
     "job_posted_at_datetime_utc": "2026-04-28T07:01:59.485Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e0580d1f4ad5d6105c90ebae171f048b6f6f2f3bc2a26750a52d7dfd3b495aab",
+    "fingerprint": "f3def2c33dcd49a0c3a829ba09e849e79d8eb943c78c7c74d1fa6b3fa300e4c9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5334,19 +5402,19 @@
     "job_posted_at": "2026-04-28T07:01:44.568Z"
   },
   {
-    "job_id": "workday-guidehouse-38969",
-    "job_title": "Laboratory Technician",
+    "job_id": "workday-guidehouse-38564",
+    "job_title": "Payer Enrollment Specialist",
     "employer_name": "Guidehouse",
-    "job_city": "US MD Bethesda",
+    "job_city": "AL, Birmingham",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "US MD Bethesda + 1 more",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Laboratory-Technician_38969",
+    "job_location": "US - AL, Birmingham",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_38564",
     "job_posted_at_datetime_utc": "2026-04-28T07:01:15.169Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "7de77d4a2b63d4ab4c6ff84c9e37c51be13db0b447a1d93628827a639eee4b1b",
+    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5363,19 +5431,19 @@
     "job_posted_at": "2026-04-28T07:01:15.169Z"
   },
   {
-    "job_id": "workday-guidehouse-38564",
-    "job_title": "Payer Enrollment Specialist",
+    "job_id": "workday-guidehouse-38969",
+    "job_title": "Laboratory Technician",
     "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
+    "job_city": "US MD Bethesda",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "US - AL, Birmingham",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_38564",
+    "job_location": "US MD Bethesda + 1 more",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Laboratory-Technician_38969",
     "job_posted_at_datetime_utc": "2026-04-28T07:01:15.169Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
+    "fingerprint": "7de77d4a2b63d4ab4c6ff84c9e37c51be13db0b447a1d93628827a639eee4b1b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5668,6 +5736,35 @@
     "job_posted_at": "2026-04-28T07:00:41.882Z"
   },
   {
+    "job_id": "workday-cigna-26003883",
+    "job_title": "Certified Pharmacy Technician, Inbound Phones - Remote, TN - Accredo Specialty Pharmacy",
+    "employer_name": "Cigna",
+    "job_city": "United States Work at Home",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States Work at Home",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Certified-Pharmacy-Technician--Inbound-Phones---Remote--TN---Accredo-Specialty-Pharmacy_26003883",
+    "job_posted_at_datetime_utc": "2026-04-28T07:00:35.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "23ad3b6ed99478d0a38b1d501eb93c7f7a3f529ddf3becbb94f8ad06661781dc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:00:35.378Z"
+  },
+  {
     "job_id": "workday-cigna-26003177",
     "job_title": "PT Inpatient Telepharmacist - Evening & Overnight Shifts - Remote",
     "employer_name": "Cigna",
@@ -5797,35 +5894,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e2dd1154dd23fd4307ca8d238df750f133655634ce150295e03a4e7a2072407d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:00:35.378Z"
-  },
-  {
-    "job_id": "workday-cigna-26003883",
-    "job_title": "Certified Pharmacy Technician, Inbound Phones - Remote, TN - Accredo Specialty Pharmacy",
-    "employer_name": "Cigna",
-    "job_city": "United States Work at Home",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States Work at Home",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Certified-Pharmacy-Technician--Inbound-Phones---Remote--TN---Accredo-Specialty-Pharmacy_26003883",
-    "job_posted_at_datetime_utc": "2026-04-28T07:00:35.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "23ad3b6ed99478d0a38b1d501eb93c7f7a3f529ddf3becbb94f8ad06661781dc",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7385,6 +7453,180 @@
     "job_posted_at": "2026-04-27T07:12:28.712Z"
   },
   {
+    "job_id": "workday-takeda-R0179205",
+    "job_title": "Licensed Practical Nurse - Immediate Benefits - Bilingual",
+    "employer_name": "Takeda",
+    "job_city": "CO - Thornton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - CO - Thornton",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Licensed-Practical-Nurse---Immediate-Benefits---Bilingual_R0179205-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d20b5bd65222b621a1b08d905c035e713793c65e8d2b0118b9cad6dd30eb7ba",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179204",
+    "job_title": "Spanish Speaking RN",
+    "employer_name": "Takeda",
+    "job_city": "CO - Thornton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - CO - Thornton",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Spanish-Speaking-RN_R0179204-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9fe65608c7d80326e31bc8ffe7e3b03109c9a553386e2585e4fc23f73b0d5994",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179203",
+    "job_title": "Plasma Center Nurse - RN- Part-Time, Friday/Weekend Availability",
+    "employer_name": "Takeda",
+    "job_city": "CO - Thornton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - CO - Thornton",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Plasma-Center-Nurse---RN--Part-Time--Friday-Weekend-Availability_R0179203-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c0f939721f2b3ebc52b96586f6e9ebdeaf1137fadea59f61745deafe43e438a2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179202",
+    "job_title": "Part Time Paramedic/EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "CO - Thornton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - CO - Thornton",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Part-Time-Paramedic-EMT-P_R0179202-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3ee886c5c0072140d755e0d1d1020b206a0242b01cd80beb26d21ac8fd65c2a4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179201",
+    "job_title": "Paramedic/EMT-P- Part-Time, Friday/Weekend Availability",
+    "employer_name": "Takeda",
+    "job_city": "CO - Thornton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - CO - Thornton",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Paramedic-EMT-P--Part-Time--Friday-Weekend-Availability_R0179201-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec2e5f94f590d27671cd0981afe762f77302c9d6dbe0c09ac4ff9255c3d8ec43",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179200",
+    "job_title": "Plasma Center Nurse - LPN-  Part-Time, Friday/Weekend Availability",
+    "employer_name": "Takeda",
+    "job_city": "CO - Thornton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - CO - Thornton",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Plasma-Center-Nurse---LPN---Part-Time--Friday-Weekend-Availability_R0179200-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e24909f5b2c091e9676cabac53772c1c66a87322780c32e2611aa22ad5ac5640",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
+  },
+  {
     "job_id": "workday-takeda-R0177695",
     "job_title": "Licensed Practical Nurse (LPN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
     "employer_name": "Takeda",
@@ -7717,180 +7959,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1ed883f34ceebd534260b62863e2d6037ed7e46292c0776bac21ff004ccd3d0a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179205",
-    "job_title": "Licensed Practical Nurse - Immediate Benefits - Bilingual",
-    "employer_name": "Takeda",
-    "job_city": "CO - Thornton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - CO - Thornton",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Licensed-Practical-Nurse---Immediate-Benefits---Bilingual_R0179205-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d20b5bd65222b621a1b08d905c035e713793c65e8d2b0118b9cad6dd30eb7ba",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179204",
-    "job_title": "Spanish Speaking RN",
-    "employer_name": "Takeda",
-    "job_city": "CO - Thornton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - CO - Thornton",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Spanish-Speaking-RN_R0179204-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9fe65608c7d80326e31bc8ffe7e3b03109c9a553386e2585e4fc23f73b0d5994",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179203",
-    "job_title": "Plasma Center Nurse - RN- Part-Time, Friday/Weekend Availability",
-    "employer_name": "Takeda",
-    "job_city": "CO - Thornton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - CO - Thornton",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Plasma-Center-Nurse---RN--Part-Time--Friday-Weekend-Availability_R0179203-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c0f939721f2b3ebc52b96586f6e9ebdeaf1137fadea59f61745deafe43e438a2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179202",
-    "job_title": "Part Time Paramedic/EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "CO - Thornton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - CO - Thornton",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Part-Time-Paramedic-EMT-P_R0179202-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3ee886c5c0072140d755e0d1d1020b206a0242b01cd80beb26d21ac8fd65c2a4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179201",
-    "job_title": "Paramedic/EMT-P- Part-Time, Friday/Weekend Availability",
-    "employer_name": "Takeda",
-    "job_city": "CO - Thornton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - CO - Thornton",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Paramedic-EMT-P--Part-Time--Friday-Weekend-Availability_R0179201-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec2e5f94f590d27671cd0981afe762f77302c9d6dbe0c09ac4ff9255c3d8ec43",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179200",
-    "job_title": "Plasma Center Nurse - LPN-  Part-Time, Friday/Weekend Availability",
-    "employer_name": "Takeda",
-    "job_city": "CO - Thornton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - CO - Thornton",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Thornton/Plasma-Center-Nurse---LPN---Part-Time--Friday-Weekend-Availability_R0179200-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e24909f5b2c091e9676cabac53772c1c66a87322780c32e2611aa22ad5ac5640",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8422,35 +8490,6 @@
     "job_posted_at": "2026-04-27T07:01:44.568Z"
   },
   {
-    "job_id": "workday-guidehouse-36911",
-    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
-    "employer_name": "Guidehouse",
-    "job_city": "US IL Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US IL Chicago + 1 more",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_36911",
-    "job_posted_at_datetime_utc": "2026-04-27T07:01:15.170Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:01:15.170Z"
-  },
-  {
     "job_id": "workday-guidehouse-38252",
     "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
     "employer_name": "Guidehouse",
@@ -8550,6 +8589,35 @@
     "job_is_remote": false,
     "job_location": "US IL Chicago + 1 more",
     "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_35052",
+    "job_posted_at_datetime_utc": "2026-04-27T07:01:15.170Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:01:15.170Z"
+  },
+  {
+    "job_id": "workday-guidehouse-36911",
+    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
+    "employer_name": "Guidehouse",
+    "job_city": "US IL Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US IL Chicago + 1 more",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_36911",
     "job_posted_at_datetime_utc": "2026-04-27T07:01:15.170Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -9764,6 +9832,64 @@
     "job_posted_at": "2026-04-27T02:58:13.886Z"
   },
   {
+    "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
+    "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
+    "employer_name": "Ro",
+    "job_city": "Romeoville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Romeoville, IL",
+    "job_apply_link": "https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8ba5f376eb0aff17049ca4fbfa92a711c45d640ba4824c232c014e2c8aeb55c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-c739f69c-ed8a-4089-9183-ac94b2b06f90",
+    "job_title": "Compounding Pharmacy Technician - Boynton Beach, FL (Temp)",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boynton Beach, FL",
+    "job_apply_link": "https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe99e915bbf2d449b8280eeee7318dd2d5dae6df96941af55cdcf8df9a92a385",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
     "job_id": "lever-ro-966f81e6-c82e-4060-8721-3ba58a9cebc6",
     "job_title": "Fulfillment Pharmacist - Boynton Beach, FL",
     "employer_name": "Ro",
@@ -9962,64 +10088,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
-    "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
-    "employer_name": "Ro",
-    "job_city": "Romeoville",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Romeoville, IL",
-    "job_apply_link": "https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8ba5f376eb0aff17049ca4fbfa92a711c45d640ba4824c232c014e2c8aeb55c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-c739f69c-ed8a-4089-9183-ac94b2b06f90",
-    "job_title": "Compounding Pharmacy Technician - Boynton Beach, FL (Temp)",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boynton Beach, FL",
-    "job_apply_link": "https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe99e915bbf2d449b8280eeee7318dd2d5dae6df96941af55cdcf8df9a92a385",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
