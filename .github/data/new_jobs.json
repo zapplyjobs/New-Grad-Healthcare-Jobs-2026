@@ -1360,19 +1360,19 @@
     "job_posted_at": "2026-04-30T14:57:30.090Z"
   },
   {
-    "job_id": "workday-takeda-R0178389",
-    "job_title": "Specialty Business Managers, IBD - Fayetteville, AR",
+    "job_id": "workday-takeda-R0178917",
+    "job_title": "Specialty Business Manager, IBD - Omaha, NE",
     "employer_name": "Takeda",
-    "job_city": "AR - Fayetteville",
+    "job_city": "NE - Omaha",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - AR - Fayetteville",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AR---Fayetteville/Specialty-Business-Managers--IBD---Fayetteville--AR_R0178389",
+    "job_location": "USA - NE - Omaha",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Specialty-Business-Manager--IBD---Omaha--NE_R0178917",
     "job_posted_at_datetime_utc": "2026-04-30T14:57:30.089Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "8d1199ca3214480d07eee52399d332f3465670221325c830d4e677e24072f54d",
+    "fingerprint": "2970ab6ba5185174feb2d90073a72dc51f4a5d33bc227a6959e593324d1f5800",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1389,19 +1389,19 @@
     "job_posted_at": "2026-04-30T14:57:30.089Z"
   },
   {
-    "job_id": "workday-takeda-R0178917",
-    "job_title": "Specialty Business Manager, IBD - Omaha, NE",
+    "job_id": "workday-takeda-R0178389",
+    "job_title": "Specialty Business Managers, IBD - Fayetteville, AR",
     "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
+    "job_city": "AR - Fayetteville",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - NE - Omaha",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Specialty-Business-Manager--IBD---Omaha--NE_R0178917",
+    "job_location": "USA - AR - Fayetteville",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AR---Fayetteville/Specialty-Business-Managers--IBD---Fayetteville--AR_R0178389",
     "job_posted_at_datetime_utc": "2026-04-30T14:57:30.089Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2970ab6ba5185174feb2d90073a72dc51f4a5d33bc227a6959e593324d1f5800",
+    "fingerprint": "8d1199ca3214480d07eee52399d332f3465670221325c830d4e677e24072f54d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4108,35 +4108,6 @@
     "job_posted_at": "2026-04-28T07:12:49.311Z"
   },
   {
-    "job_id": "workday-abbott-31148530",
-    "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
-    "employer_name": "Abbott",
-    "job_city": "North Carolina - Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - North Carolina - Charlotte",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Charlotte/Associate-Clinical-Specialist--CRM---Charlotte--NC_31148530-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:12:28.711Z"
-  },
-  {
     "job_id": "workday-abbott-31149022",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -4208,6 +4179,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:12:28.711Z"
+  },
+  {
+    "job_id": "workday-abbott-31148530",
+    "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - North Carolina - Charlotte",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Charlotte/Associate-Clinical-Specialist--CRM---Charlotte--NC_31148530-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4775,35 +4775,6 @@
     "job_posted_at": "2026-04-28T07:03:39.177Z"
   },
   {
-    "job_id": "workday-philips-577791",
-    "job_title": "Labeling Specialist- Medical Device- Image Guided Therapy",
-    "employer_name": "Philips",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "3 Locations",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Colorado-Springs-Colorado-United-States/Labeling-Specialist--Medical-Device--Image-Guided-Therapy_577791",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:28.409Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3366a68cf3a14e6522939f3794a9df0d6cad30afe234428cd3636cb24de67305",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:28.409Z"
-  },
-  {
     "job_id": "workday-philips-579348",
     "job_title": "Cardiology Clinical Product Manager- Pediatric Sonographer",
     "employer_name": "Philips",
@@ -4857,6 +4828,35 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:28.409Z"
+  },
+  {
+    "job_id": "workday-philips-577791",
+    "job_title": "Labeling Specialist- Medical Device- Image Guided Therapy",
+    "employer_name": "Philips",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "3 Locations",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Colorado-Springs-Colorado-United-States/Labeling-Specialist--Medical-Device--Image-Guided-Therapy_577791",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:28.409Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3366a68cf3a14e6522939f3794a9df0d6cad30afe234428cd3636cb24de67305",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -6655,6 +6655,94 @@
     "job_posted_at": "2026-04-27T07:12:50.977Z"
   },
   {
+    "job_id": "workday-abbott-31148766",
+    "job_title": "Clinical Specialist, CRM (Kearney, NE)",
+    "employer_name": "Abbott",
+    "job_city": "Nebraska - Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "United States - Nebraska - Remote",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Remote/Clinical-Specialist--CRM--Kearney--NE-_31148766-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cde241bd89fefec125f6651e84b8a4fdf62a7690cb8d763fc20fee1dfcbe73fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:12:28.712Z"
+  },
+  {
+    "job_id": "workday-abbott-31148535",
+    "job_title": "Associate Clinical Specialist, CRM - Washington DC",
+    "employer_name": "Abbott",
+    "job_city": "Washington DC - Washington DC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Washington DC - Washington DC",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington-DC---Washington-DC/Associate-Clinical-Specialist--CRM---Washington-DC_31148535-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "20d43f2842bc1e295f332c74c6f780b23d4bec24b8ee8df7558c12c7159cb3d5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:12:28.712Z"
+  },
+  {
+    "job_id": "workday-abbott-31148758",
+    "job_title": "Executive Clinical Specialist, Vessel Closure - Knoxville, TN",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Knoxville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Tennessee - Knoxville",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Executive-Clinical-Specialist--Vessel-Closure---Knoxville--TN_31148758-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b6d69b4189eb1ee7d4eb602cb2780d5741500c3910ecac0ec21cb250cfa27c66",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:12:28.712Z"
+  },
+  {
     "job_id": "workday-abbott-31113914",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO; Denver, CO",
     "employer_name": "Abbott",
@@ -7103,94 +7191,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "57ba8bbd77a9ee4cd6a06104c84f801166bbb10fb7992cb1542a410852c7b383",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:12:28.712Z"
-  },
-  {
-    "job_id": "workday-abbott-31148766",
-    "job_title": "Clinical Specialist, CRM (Kearney, NE)",
-    "employer_name": "Abbott",
-    "job_city": "Nebraska - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "United States - Nebraska - Remote",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Remote/Clinical-Specialist--CRM--Kearney--NE-_31148766-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cde241bd89fefec125f6651e84b8a4fdf62a7690cb8d763fc20fee1dfcbe73fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:12:28.712Z"
-  },
-  {
-    "job_id": "workday-abbott-31148535",
-    "job_title": "Associate Clinical Specialist, CRM - Washington DC",
-    "employer_name": "Abbott",
-    "job_city": "Washington DC - Washington DC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Washington DC - Washington DC",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington-DC---Washington-DC/Associate-Clinical-Specialist--CRM---Washington-DC_31148535-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "20d43f2842bc1e295f332c74c6f780b23d4bec24b8ee8df7558c12c7159cb3d5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:12:28.712Z"
-  },
-  {
-    "job_id": "workday-abbott-31148758",
-    "job_title": "Executive Clinical Specialist, Vessel Closure - Knoxville, TN",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Knoxville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Tennessee - Knoxville",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Executive-Clinical-Specialist--Vessel-Closure---Knoxville--TN_31148758-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b6d69b4189eb1ee7d4eb602cb2780d5741500c3910ecac0ec21cb250cfa27c66",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8450,19 +8450,19 @@
     "job_posted_at": "2026-04-27T07:01:15.169Z"
   },
   {
-    "job_id": "workday-idexx-J-052273",
-    "job_title": "Data Billing Associate - Veterinary Software",
+    "job_id": "workday-idexx-J-052663",
+    "job_title": "Medical Laboratory Technician",
     "employer_name": "IDEXX",
-    "job_city": "Westbrook",
-    "job_state": "ME",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Westbrook, ME",
-    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/New-York-NY/Medical-Laboratory-Technician_J-052663",
     "job_posted_at_datetime_utc": "2026-04-27T07:01:07.467Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2da70852ce88fbfe85ffc8b0e342a37c1809a29f75dd484048cc0a6e567e816b",
+    "fingerprint": "d78e3563b065df8833519a2e274c320f8d390d390c686c65ff49014ca49dc69b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8479,19 +8479,19 @@
     "job_posted_at": "2026-04-27T07:01:07.467Z"
   },
   {
-    "job_id": "workday-idexx-J-052663",
-    "job_title": "Medical Laboratory Technician",
+    "job_id": "workday-idexx-J-052273",
+    "job_title": "Data Billing Associate - Veterinary Software",
     "employer_name": "IDEXX",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "Westbrook",
+    "job_state": "ME",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/New-York-NY/Medical-Laboratory-Technician_J-052663",
+    "job_location": "Westbrook, ME",
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273",
     "job_posted_at_datetime_utc": "2026-04-27T07:01:07.467Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d78e3563b065df8833519a2e274c320f8d390d390c686c65ff49014ca49dc69b",
+    "fingerprint": "2da70852ce88fbfe85ffc8b0e342a37c1809a29f75dd484048cc0a6e567e816b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9615,36 +9615,6 @@
     "job_posted_at": "2026-04-27T02:58:13.886Z"
   },
   {
-    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
-    "job_title": "Part-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "New York, NY or Remote",
-    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
     "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
     "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
     "employer_name": "Ro",
@@ -9861,6 +9831,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f5b195d38935cb0974acd06d48e6a9674dd5ffc43d2bc2c117ba581f0155938f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
+    "job_title": "Part-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "New York, NY or Remote",
+    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11750,6 +11750,93 @@
     "job_posted_at": "2026-04-24T07:04:13.988Z"
   },
   {
+    "job_id": "workday-takeda-R0179181",
+    "job_title": "Paramedic - $5000 Sign On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - NE - Omaha",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Paramedic----5000-Sign-On-Bonus_R0179181-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eb61db90f61d170604d68064a903548ac5a1949423fdd7a0bd02ae14432117c7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179183",
+    "job_title": "Plasma Center Technician - Part Time",
+    "employer_name": "Takeda",
+    "job_city": "TX - Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Austin",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Plasma-Center-Technician---Part-Time_R0179183-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fbcd9e6aaea9771392b061fd69d45ba53cfadd6852ab8a1f45a40f5c6312c159",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179179",
+    "job_title": "Registered Nurse RN - $5000 Sign On Bonus Available!",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - NE - Omaha",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Registered-Nurse-RN----5000-Sign-On-Bonus-Available-_R0179179-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8b900f8d8347d486671e420b1012b57ad4ce797219030e7f5bfc69b0ebcc1a0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
     "job_id": "workday-takeda-R0179172",
     "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
     "employer_name": "Takeda",
@@ -12082,93 +12169,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "455f31e040747cb9786c270a4ae8288e93c705429ecc1aeadbb31a0f2b1616ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179181",
-    "job_title": "Paramedic - $5000 Sign On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - NE - Omaha",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Paramedic----5000-Sign-On-Bonus_R0179181-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eb61db90f61d170604d68064a903548ac5a1949423fdd7a0bd02ae14432117c7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179183",
-    "job_title": "Plasma Center Technician - Part Time",
-    "employer_name": "Takeda",
-    "job_city": "TX - Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Austin",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Plasma-Center-Technician---Part-Time_R0179183-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fbcd9e6aaea9771392b061fd69d45ba53cfadd6852ab8a1f45a40f5c6312c159",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179179",
-    "job_title": "Registered Nurse RN - $5000 Sign On Bonus Available!",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - NE - Omaha",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Registered-Nurse-RN----5000-Sign-On-Bonus-Available-_R0179179-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8b900f8d8347d486671e420b1012b57ad4ce797219030e7f5bfc69b0ebcc1a0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12563,6 +12563,35 @@
     "job_posted_at": "2026-04-24T07:00:51.044Z"
   },
   {
+    "job_id": "workday-cigna-26000746",
+    "job_title": "Contract Manager, Hospital & Physician Negotiations - Hybrid - Pittsburgh, PA",
+    "employer_name": "Cigna",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Pittsburgh, PA + 5 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Pittsburgh-PA/Contract-Manager--Hospital---Physician-Negotiations---Hybrid---Pittsburgh--PA_26000746",
+    "job_posted_at_datetime_utc": "2026-04-24T07:00:35.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "649bf16cbfb6d6b52a1a6cb8b13d161dfc146062665744ed1dfb626bd4866c9f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:00:35.378Z"
+  },
+  {
     "job_id": "workday-cigna-26004547",
     "job_title": "Pharmacy Technician Representative - Accredo Specialty Pharmacy - Memphis, TN",
     "employer_name": "Cigna",
@@ -12605,35 +12634,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9203889e19ac392a2b370473c58421827c03d20b9f3e82ccef81b763b5e2f68b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:00:35.378Z"
-  },
-  {
-    "job_id": "workday-cigna-26000746",
-    "job_title": "Contract Manager, Hospital & Physician Negotiations - Hybrid - Pittsburgh, PA",
-    "employer_name": "Cigna",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Pittsburgh, PA + 5 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Pittsburgh-PA/Contract-Manager--Hospital---Physician-Negotiations---Hybrid---Pittsburgh--PA_26000746",
-    "job_posted_at_datetime_utc": "2026-04-24T07:00:35.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "649bf16cbfb6d6b52a1a6cb8b13d161dfc146062665744ed1dfb626bd4866c9f",
     "tags": {
       "employment": "entry_level",
       "domains": [
