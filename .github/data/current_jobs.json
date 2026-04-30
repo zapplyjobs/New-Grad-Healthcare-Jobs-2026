@@ -1,5 +1,153 @@
 [
   {
+    "job_id": "workday-takeda-R0179453",
+    "job_title": "Plasma Center Nurse- RN",
+    "employer_name": "Takeda",
+    "job_city": "WA - Vancouver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WA - Vancouver",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WA---Vancouver/Plasma-Center-Nurse--RN_R0179453-1",
+    "job_posted_at_datetime_utc": "2026-04-30T17:33:56.410Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0b8b49105b5e96855db7aa3cdf167ce2fe79318ffb737f2c97b71360bd216832",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T17:33:56.410Z"
+  },
+  {
+    "job_id": "workday-cigna-26005004",
+    "job_title": "Home Infusion Nurse - Accredo - Springfield, MA",
+    "employer_name": "Cigna",
+    "job_city": "Springfield",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Springfield, MA + 1 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Springfield-MA/Home-Infusion-Nurse---Accredo---Springfield--MA_26005004",
+    "job_posted_at_datetime_utc": "2026-04-30T17:30:18.229Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cc769d7f3667fd03cbcf94cf0a3ab4453981f8402ee958030df63bb0fa4be1dd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T17:30:18.229Z"
+  },
+  {
+    "job_id": "sr-AbbVie-3743990012894276",
+    "job_title": "Oncology Nurse Educator - New England",
+    "employer_name": "AbbVie",
+    "job_city": "Providence",
+    "job_state": "RI",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Providence, RI",
+    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012894276",
+    "job_posted_at_datetime_utc": "2026-04-30T17:25:31.292Z",
+    "job_employment_type": "full-time",
+    "salary": null,
+    "fingerprint": "d2f12603773b1987ceebfdc0f017300d0c94ed96355f22883cdc632bdfdde825",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-04-30T17:25:31.292Z"
+  },
+  {
+    "job_id": "sr-AbbVie-3743990012894121",
+    "job_title": "Oncology Nurse Educator - New England",
+    "employer_name": "AbbVie",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Hartford, CT",
+    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012894121",
+    "job_posted_at_datetime_utc": "2026-04-30T17:24:14.989Z",
+    "job_employment_type": "full-time",
+    "salary": null,
+    "fingerprint": "649b27baf50653b753f0b4d044182a36d84e19c99ab3f59df0bf2c5bc4805866",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-04-30T17:24:14.989Z"
+  },
+  {
+    "job_id": "sr-AbbVie-3743990012894116",
+    "job_title": "Oncology Specialist - New York",
+    "employer_name": "AbbVie",
+    "job_city": "Syracuse",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Syracuse, NY",
+    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012894116",
+    "job_posted_at_datetime_utc": "2026-04-30T17:23:01.171Z",
+    "job_employment_type": "full-time",
+    "salary": null,
+    "fingerprint": "376fdd44a47ade26a2c75786a8719d1c402e081107fe124a240f08929e4077b8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-04-30T17:23:01.171Z"
+  },
+  {
     "job_id": "workday-takeda-R0179451",
     "job_title": "Paramedic – No Overnight Shifts",
     "employer_name": "Takeda",
@@ -672,19 +820,19 @@
     "job_posted_at": "2026-04-30T14:57:30.090Z"
   },
   {
-    "job_id": "workday-takeda-R0178917",
-    "job_title": "Specialty Business Manager, IBD - Omaha, NE",
+    "job_id": "workday-takeda-R0178389",
+    "job_title": "Specialty Business Managers, IBD - Fayetteville, AR",
     "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
+    "job_city": "AR - Fayetteville",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - NE - Omaha",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Specialty-Business-Manager--IBD---Omaha--NE_R0178917",
+    "job_location": "USA - AR - Fayetteville",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AR---Fayetteville/Specialty-Business-Managers--IBD---Fayetteville--AR_R0178389",
     "job_posted_at_datetime_utc": "2026-04-30T14:57:30.089Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2970ab6ba5185174feb2d90073a72dc51f4a5d33bc227a6959e593324d1f5800",
+    "fingerprint": "8d1199ca3214480d07eee52399d332f3465670221325c830d4e677e24072f54d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -701,19 +849,19 @@
     "job_posted_at": "2026-04-30T14:57:30.089Z"
   },
   {
-    "job_id": "workday-takeda-R0178389",
-    "job_title": "Specialty Business Managers, IBD - Fayetteville, AR",
+    "job_id": "workday-takeda-R0178917",
+    "job_title": "Specialty Business Manager, IBD - Omaha, NE",
     "employer_name": "Takeda",
-    "job_city": "AR - Fayetteville",
+    "job_city": "NE - Omaha",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - AR - Fayetteville",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AR---Fayetteville/Specialty-Business-Managers--IBD---Fayetteville--AR_R0178389",
+    "job_location": "USA - NE - Omaha",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Specialty-Business-Manager--IBD---Omaha--NE_R0178917",
     "job_posted_at_datetime_utc": "2026-04-30T14:57:30.089Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "8d1199ca3214480d07eee52399d332f3465670221325c830d4e677e24072f54d",
+    "fingerprint": "2970ab6ba5185174feb2d90073a72dc51f4a5d33bc227a6959e593324d1f5800",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2073,7 +2221,7 @@
   },
   {
     "job_id": "workday-athenahealth-R14954",
-    "job_title": "Associate, Revenue Cycle Case & Escalation Management",
+    "job_title": "Associate, Revenue Cycle Case & Escalation Management , Claim Resolution",
     "employer_name": "athenahealth",
     "job_city": "Belfast",
     "job_state": "ME",
@@ -2084,7 +2232,7 @@
     "job_posted_at_datetime_utc": "2026-04-29T16:52:50.892Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "90352d0558f2dc860d0b8626ef8092faa3fc0fc75b8c675bbde94640790ed6b8",
+    "fingerprint": "45cb816c5a228303d0182925caf07127cd2f517c005a922794dd07fc26b1bdb4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3274,36 +3422,6 @@
     "job_posted_at": "2026-04-28T15:59:29.762Z"
   },
   {
-    "job_id": "sr-AbbVie-3743990012850524",
-    "job_title": "Oncology Specialist - New York",
-    "employer_name": "AbbVie",
-    "job_city": "Syracuse",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Syracuse, NY",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012850524",
-    "job_posted_at_datetime_utc": "2026-04-28T13:35:21.015Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "376fdd44a47ade26a2c75786a8719d1c402e081107fe124a240f08929e4077b8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-28T13:35:21.015Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-072014",
     "job_title": "Associate Clinical Consultant or Clinical Consultant (Orlando, FL) - Johnson & Johnson MedTech – Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -4117,36 +4235,6 @@
     "job_posted_at": "2026-04-28T07:03:39.177Z"
   },
   {
-    "job_id": "workday-philips-580988",
-    "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Washington, DC)",
-    "employer_name": "Philips",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Washington, District of Columbia, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Devices--Washington--DC-_580988-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:28.409Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e9e39e9d1c84db9b7bd4d803309a01fc24d1564719517703b88b9ab810f320f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:28.409Z"
-  },
-  {
     "job_id": "workday-philips-577791",
     "job_title": "Labeling Specialist- Medical Device- Image Guided Therapy",
     "employer_name": "Philips",
@@ -4194,6 +4282,36 @@
       "domains": [
         "healthcare",
         "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:28.409Z"
+  },
+  {
+    "job_id": "workday-philips-580988",
+    "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Washington, DC)",
+    "employer_name": "Philips",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Washington, District of Columbia, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Devices--Washington--DC-_580988-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:28.409Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e9e39e9d1c84db9b7bd4d803309a01fc24d1564719517703b88b9ab810f320f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
       ],
       "locations": [
         "us"
@@ -4527,19 +4645,19 @@
     "job_posted_at": "2026-04-28T07:01:44.568Z"
   },
   {
-    "job_id": "workday-guidehouse-38969",
-    "job_title": "Laboratory Technician",
+    "job_id": "workday-guidehouse-38564",
+    "job_title": "Payer Enrollment Specialist",
     "employer_name": "Guidehouse",
-    "job_city": "US MD Bethesda",
+    "job_city": "AL, Birmingham",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "US MD Bethesda + 1 more",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Laboratory-Technician_38969",
+    "job_location": "US - AL, Birmingham",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_38564",
     "job_posted_at_datetime_utc": "2026-04-28T07:01:15.169Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "7de77d4a2b63d4ab4c6ff84c9e37c51be13db0b447a1d93628827a639eee4b1b",
+    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4556,19 +4674,19 @@
     "job_posted_at": "2026-04-28T07:01:15.169Z"
   },
   {
-    "job_id": "workday-guidehouse-38564",
-    "job_title": "Payer Enrollment Specialist",
+    "job_id": "workday-guidehouse-38969",
+    "job_title": "Laboratory Technician",
     "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
+    "job_city": "US MD Bethesda",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "US - AL, Birmingham",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_38564",
+    "job_location": "US MD Bethesda + 1 more",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Laboratory-Technician_38969",
     "job_posted_at_datetime_utc": "2026-04-28T07:01:15.169Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
+    "fingerprint": "7de77d4a2b63d4ab4c6ff84c9e37c51be13db0b447a1d93628827a639eee4b1b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5997,6 +6115,35 @@
     "job_posted_at": "2026-04-27T07:12:50.977Z"
   },
   {
+    "job_id": "workday-abbott-31116458",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Coos Bay, OR",
+    "employer_name": "Abbott",
+    "job_city": "Oregon - Salem",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Oregon - Salem",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Oregon---Salem/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Grants-Pass--OR_31116458",
+    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "57ba8bbd77a9ee4cd6a06104c84f801166bbb10fb7992cb1542a410852c7b383",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:12:28.712Z"
+  },
+  {
     "job_id": "workday-abbott-31148766",
     "job_title": "Clinical Specialist, CRM (Kearney, NE)",
     "employer_name": "Abbott",
@@ -6504,35 +6651,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ec5962b2c2e8ba214175ee125695b8776e600d5ec8537777e89770bddce511f9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:12:28.712Z"
-  },
-  {
-    "job_id": "workday-abbott-31116458",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Coos Bay, OR",
-    "employer_name": "Abbott",
-    "job_city": "Oregon - Salem",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Oregon - Salem",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Oregon---Salem/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Grants-Pass--OR_31116458",
-    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "57ba8bbd77a9ee4cd6a06104c84f801166bbb10fb7992cb1542a410852c7b383",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7149,35 +7267,6 @@
     "job_posted_at": "2026-04-27T07:03:39.178Z"
   },
   {
-    "job_id": "workday-medtronic-R63211",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
-    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:02:41.449Z"
-  },
-  {
     "job_id": "workday-medtronic-R65320",
     "job_title": "Vascular Clinical Specialist - Winston/Salem, Greensboro",
     "employer_name": "Medtronic",
@@ -7345,6 +7434,35 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:02:41.449Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63211",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
+    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -9249,35 +9367,6 @@
     "job_posted_at": "2026-04-27T02:58:13.553Z"
   },
   {
-    "job_id": "greenhouse-guidepoint-8342632002",
-    "job_title": "Client Success - Healthcare Corporate Specialist (NYC)",
-    "employer_name": "Guidepoint",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/guidepoint/jobs/8342632002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.988Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eeaf18c58b29b9e724f0e17a427601d3a96300a89adebee42a71a3a8da905e7e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:09.988Z"
-  },
-  {
     "job_id": "greenhouse-guidepoint-8453033002",
     "job_title": "Client Service Healthcare Associate",
     "employer_name": "Guidepoint",
@@ -9300,6 +9389,35 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:09.988Z"
+  },
+  {
+    "job_id": "greenhouse-guidepoint-8342632002",
+    "job_title": "Client Success - Healthcare Corporate Specialist (NYC)",
+    "employer_name": "Guidepoint",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/guidepoint/jobs/8342632002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.988Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eeaf18c58b29b9e724f0e17a427601d3a96300a89adebee42a71a3a8da905e7e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -9555,35 +9673,6 @@
     "job_posted_at": "2026-04-27T01:04:43.609Z"
   },
   {
-    "job_id": "greenhouse-olsson-5168759008",
-    "job_title": "Construction Materials Testing - Lab Technician",
-    "employer_name": "Olsson",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Oklahoma City, OK",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5168759008",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:43.398Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a6d41a06a4731198af8f62f8f8cf102453447fb0549cfc3f3fd1102f992ddb89",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T01:04:43.398Z"
-  },
-  {
     "job_id": "greenhouse-olsson-5179372008",
     "job_title": "Construction Materials Testing - Lab Technician",
     "employer_name": "Olsson",
@@ -9626,6 +9715,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ccf35d51582a8cb1c389dc9712889a66118a747d3a887515ad0ec835cf1e70f2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T01:04:43.398Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-5168759008",
+    "job_title": "Construction Materials Testing - Lab Technician",
+    "employer_name": "Olsson",
+    "job_city": "Oklahoma City",
+    "job_state": "OK",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Oklahoma City, OK",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5168759008",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:43.398Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a6d41a06a4731198af8f62f8f8cf102453447fb0549cfc3f3fd1102f992ddb89",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9698,6 +9816,66 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-27T01:04:43.168Z"
+  },
+  {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
+    "job_id": "lever-includedhealth-310a88a1-7535-4534-8e5a-14c79cad5761",
+    "job_title": "Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Denver",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Denver, CO",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/310a88a1-7535-4534-8e5a-14c79cad5761/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "496c1c8b583d67bf28219c36d53a1ae58b9edbcb3e74b78b26c7c3b39b58fbc1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
   },
   {
     "job_id": "lever-includedhealth-75b48925-1e23-47f5-944e-4eea63ceeb5d",
@@ -9833,66 +10011,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
-    "job_id": "lever-includedhealth-310a88a1-7535-4534-8e5a-14c79cad5761",
-    "job_title": "Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Denver, CO",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/310a88a1-7535-4534-8e5a-14c79cad5761/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "496c1c8b583d67bf28219c36d53a1ae58b9edbcb3e74b78b26c7c3b39b58fbc1",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11092,6 +11210,122 @@
     "job_posted_at": "2026-04-24T07:04:13.988Z"
   },
   {
+    "job_id": "workday-takeda-R0179130",
+    "job_title": "Center Supervisor",
+    "employer_name": "Takeda",
+    "job_city": "ID - Hayden",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - ID - Hayden",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ID---Hayden/Center-Supervisor_R0179130",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8f671604d8895e589ea52d9004fea3418b78e8b15c5f36a956b9ed0706de4280",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179127",
+    "job_title": "Paramedic/EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "CO - Aurora",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - CO - Aurora",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Paramedic-EMT-P_R0179127-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bbdbf4d8e571a1f9886d9fd5442f6cc8a527c71f4fb4f7e34686bd53e1103d00",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179124",
+    "job_title": "Licensed Nurse, LPN or LVN",
+    "employer_name": "Takeda",
+    "job_city": "CO - Aurora",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - CO - Aurora",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Licensed-Nurse--LPN-or-LVN_R0179124-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5dce8b74d068a5fa51ccf2aeb12ff85fbd686137ab67ec6df95289f64d2b94e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179126",
+    "job_title": "Registered Nurse, RN",
+    "employer_name": "Takeda",
+    "job_city": "CO - Aurora",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - CO - Aurora",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Registered-Nurse--RN_R0179126-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e86105d7cd141621bc65a2bae1b3efa7e906de3e0799bd6669ff41847f688b0f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
     "job_id": "workday-takeda-R0179178",
     "job_title": "Emergency Medical Technician EMT-P - $5000 Sign On Bonus Available!",
     "employer_name": "Takeda",
@@ -11395,122 +11629,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f3c4714a8964793f6775651d1052ae1dce99720793bf0b023c1c158b9633f6aa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179130",
-    "job_title": "Center Supervisor",
-    "employer_name": "Takeda",
-    "job_city": "ID - Hayden",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - ID - Hayden",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ID---Hayden/Center-Supervisor_R0179130",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8f671604d8895e589ea52d9004fea3418b78e8b15c5f36a956b9ed0706de4280",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179127",
-    "job_title": "Paramedic/EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "CO - Aurora",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - CO - Aurora",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Paramedic-EMT-P_R0179127-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bbdbf4d8e571a1f9886d9fd5442f6cc8a527c71f4fb4f7e34686bd53e1103d00",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179124",
-    "job_title": "Licensed Nurse, LPN or LVN",
-    "employer_name": "Takeda",
-    "job_city": "CO - Aurora",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - CO - Aurora",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Licensed-Nurse--LPN-or-LVN_R0179124-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5dce8b74d068a5fa51ccf2aeb12ff85fbd686137ab67ec6df95289f64d2b94e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179126",
-    "job_title": "Registered Nurse, RN",
-    "employer_name": "Takeda",
-    "job_city": "CO - Aurora",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - CO - Aurora",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Registered-Nurse--RN_R0179126-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e86105d7cd141621bc65a2bae1b3efa7e906de3e0799bd6669ff41847f688b0f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12232,35 +12350,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-23T17:47:58.979Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012793866",
-    "job_title": "Oncology Nurse Educator - New England",
-    "employer_name": "AbbVie",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Boston, MA",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012793866",
-    "job_posted_at_datetime_utc": "2026-04-23T17:37:54.598Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "ff030743526bb0d528b6d9776beeaecd7ab12fe358fa55f4287a2b1fbfb9b2ad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-23T17:37:54.598Z"
   }
 ]
