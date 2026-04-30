@@ -874,7 +874,7 @@
     "job_posted_at": "2026-04-29T18:21:22.671Z"
   },
   {
-    "job_id": "workday-leidos-R-00182066",
+    "job_id": "workday-leidos-R-00182057",
     "job_title": "Military Family Life School Counselor - Fort Bliss, TX",
     "employer_name": "Leidos",
     "job_city": "El Paso",
@@ -882,7 +882,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "El Paso, TX",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/El-Paso-TX/Military-Family-Life-School-Counselor---Fort-Bliss--TX_R-00182066",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/El-Paso-TX/Military-Family-Life-School-Counselor---Fort-Bliss--TX_R-00182057",
     "job_posted_at_datetime_utc": "2026-04-29T18:21:17.115Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -903,7 +903,7 @@
     "job_posted_at": "2026-04-29T18:21:17.115Z"
   },
   {
-    "job_id": "workday-leidos-R-00182057",
+    "job_id": "workday-leidos-R-00182066",
     "job_title": "Military Family Life School Counselor - Fort Bliss, TX",
     "employer_name": "Leidos",
     "job_city": "El Paso",
@@ -911,7 +911,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "El Paso, TX",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/El-Paso-TX/Military-Family-Life-School-Counselor---Fort-Bliss--TX_R-00182057",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/El-Paso-TX/Military-Family-Life-School-Counselor---Fort-Bliss--TX_R-00182066",
     "job_posted_at_datetime_utc": "2026-04-29T18:21:17.115Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -2575,6 +2575,64 @@
     "job_posted_at": "2026-04-28T07:12:49.311Z"
   },
   {
+    "job_id": "workday-abbott-31147603",
+    "job_title": "Clinical Specialist, MCS - Nashville",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Tennessee - Nashville",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:12:28.711Z"
+  },
+  {
+    "job_id": "workday-abbott-31148866",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Ohio - Columbus",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
+    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:12:28.711Z"
+  },
+  {
     "job_id": "workday-abbott-31148530",
     "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
     "employer_name": "Abbott",
@@ -2655,64 +2713,6 @@
         "us"
       ],
       "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:12:28.711Z"
-  },
-  {
-    "job_id": "workday-abbott-31147603",
-    "job_title": "Clinical Specialist, MCS - Nashville",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Tennessee - Nashville",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:12:28.711Z"
-  },
-  {
-    "job_id": "workday-abbott-31148866",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Columbus",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
-    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -3779,19 +3779,19 @@
     "job_posted_at": "2026-04-28T07:01:44.568Z"
   },
   {
-    "job_id": "workday-guidehouse-38564",
-    "job_title": "Payer Enrollment Specialist",
+    "job_id": "workday-guidehouse-38969",
+    "job_title": "Laboratory Technician",
     "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
+    "job_city": "US MD Bethesda",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "US - AL, Birmingham",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_38564",
+    "job_location": "US MD Bethesda + 1 more",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Laboratory-Technician_38969",
     "job_posted_at_datetime_utc": "2026-04-28T07:01:15.169Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
+    "fingerprint": "7de77d4a2b63d4ab4c6ff84c9e37c51be13db0b447a1d93628827a639eee4b1b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3808,19 +3808,19 @@
     "job_posted_at": "2026-04-28T07:01:15.169Z"
   },
   {
-    "job_id": "workday-guidehouse-38969",
-    "job_title": "Laboratory Technician",
+    "job_id": "workday-guidehouse-38564",
+    "job_title": "Payer Enrollment Specialist",
     "employer_name": "Guidehouse",
-    "job_city": "US MD Bethesda",
+    "job_city": "AL, Birmingham",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "US MD Bethesda + 1 more",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Laboratory-Technician_38969",
+    "job_location": "US - AL, Birmingham",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_38564",
     "job_posted_at_datetime_utc": "2026-04-28T07:01:15.169Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "7de77d4a2b63d4ab4c6ff84c9e37c51be13db0b447a1d93628827a639eee4b1b",
+    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6372,6 +6372,35 @@
     "job_posted_at": "2026-04-27T07:03:39.178Z"
   },
   {
+    "job_id": "workday-medtronic-R63211",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
+    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:02:41.449Z"
+  },
+  {
     "job_id": "workday-medtronic-R65320",
     "job_title": "Vascular Clinical Specialist - Winston/Salem, Greensboro",
     "employer_name": "Medtronic",
@@ -6539,35 +6568,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:02:41.449Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63211",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
-    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7520,35 +7520,6 @@
     "job_posted_at": "2026-04-27T02:58:17.210Z"
   },
   {
-    "job_id": "greenhouse-personalisinc-7689649003",
-    "job_title": "Sample Accessioner 1 (Temp)",
-    "employer_name": "Personalis",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fremont, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7689649003",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.690Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef2921dec187c0486bac988529ca4e88fee9e31f2af56f88a2215859a814c1f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:16.690Z"
-  },
-  {
     "job_id": "greenhouse-personalisinc-6680748003",
     "job_title": "Client Experience Associate (Temp - 6 Months)",
     "employer_name": "Personalis",
@@ -7689,6 +7660,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:16.690Z"
+  },
+  {
+    "job_id": "greenhouse-personalisinc-7689649003",
+    "job_title": "Sample Accessioner 1 (Temp)",
+    "employer_name": "Personalis",
+    "job_city": "Fremont",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fremont, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7689649003",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.690Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ef2921dec187c0486bac988529ca4e88fee9e31f2af56f88a2215859a814c1f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -8290,6 +8290,65 @@
     "job_posted_at": "2026-04-27T02:58:13.886Z"
   },
   {
+    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
+    "job_title": "Part-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "New York, NY or Remote",
+    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
+    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boynton Beach, FL",
+    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
     "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
     "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
     "employer_name": "Ro",
@@ -8516,65 +8575,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
-    "job_title": "Part-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "New York, NY or Remote",
-    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064",
-    "job_title": "Per Diem Pharmacist - Boynton Beach, FL",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boynton Beach, FL",
-    "job_apply_link": "https://jobs.lever.co/ro/6c415bd2-d6d7-4c0d-aaa6-7625cb7f0064/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2524dced0c363c2bd87f54a14a2c94ad2f2ba803452da7b34ec4509af1961edc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -11051,6 +11051,35 @@
     "job_posted_at": "2026-04-24T07:03:33.706Z"
   },
   {
+    "job_id": "workday-abbott-31148217",
+    "job_title": "Clinical Specialist, Vessel Closure - Salt Lake City",
+    "employer_name": "Abbott",
+    "job_city": "Utah - Salt Lake City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Utah - Salt Lake City",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Utah---Salt-Lake-City/Clinical-Specialist--Vessel-Closure---Salt-Lake-City_31148217-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:02:45.289Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf1b2086cff50df8bb236da1be978220d1274911b62447917c4ad0325305c58a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:02:45.289Z"
+  },
+  {
     "job_id": "workday-abbott-31148229",
     "job_title": "Production Chemist I",
     "employer_name": "Abbott",
@@ -11093,35 +11122,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "51f911fcd1fcdebb3d3520249cf0f2121f0371bc67d89b0d23e3265dd7a8fea8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:02:45.289Z"
-  },
-  {
-    "job_id": "workday-abbott-31148217",
-    "job_title": "Clinical Specialist, Vessel Closure - Salt Lake City",
-    "employer_name": "Abbott",
-    "job_city": "Utah - Salt Lake City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Utah - Salt Lake City",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Utah---Salt-Lake-City/Clinical-Specialist--Vessel-Closure---Salt-Lake-City_31148217-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:02:45.289Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf1b2086cff50df8bb236da1be978220d1274911b62447917c4ad0325305c58a",
     "tags": {
       "employment": "entry_level",
       "domains": [
