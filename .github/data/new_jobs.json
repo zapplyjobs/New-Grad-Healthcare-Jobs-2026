@@ -2575,6 +2575,35 @@
     "job_posted_at": "2026-04-28T07:12:49.311Z"
   },
   {
+    "job_id": "workday-abbott-31148866",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Ohio - Columbus",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
+    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:12:28.711Z"
+  },
+  {
     "job_id": "workday-abbott-31148530",
     "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
     "employer_name": "Abbott",
@@ -2646,35 +2675,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:12:28.711Z"
-  },
-  {
-    "job_id": "workday-abbott-31148866",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Columbus",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
-    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3478,19 +3478,19 @@
     "job_posted_at": "2026-04-28T07:02:29.822Z"
   },
   {
-    "job_id": "workday-leidos-R-00181957",
-    "job_title": "Military Family Life Counselor - CDC - MCB, Hawaii",
+    "job_id": "workday-leidos-R-00181991",
+    "job_title": "Military Family Life Counselor - HealthySteps - Tripler",
     "employer_name": "Leidos",
-    "job_city": "Marine Corps Base Kaneohe Bay",
+    "job_city": "Honolulu",
     "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Marine Corps Base Kaneohe Bay, HI",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Marine-Corps-Base-Kaneohe-Bay-HI/Military-Family-Life-Counselor---CDC---MCB--Hawaii_R-00181957",
+    "job_location": "Honolulu, HI",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Military-Family-Life-Counselor---HealthySteps---Tripler_R-00181991",
     "job_posted_at_datetime_utc": "2026-04-28T07:01:59.485Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e0580d1f4ad5d6105c90ebae171f048b6f6f2f3bc2a26750a52d7dfd3b495aab",
+    "fingerprint": "f3def2c33dcd49a0c3a829ba09e849e79d8eb943c78c7c74d1fa6b3fa300e4c9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3507,19 +3507,19 @@
     "job_posted_at": "2026-04-28T07:01:59.485Z"
   },
   {
-    "job_id": "workday-leidos-R-00181991",
-    "job_title": "Military Family Life Counselor - HealthySteps - Tripler",
+    "job_id": "workday-leidos-R-00181957",
+    "job_title": "Military Family Life Counselor - CDC - MCB, Hawaii",
     "employer_name": "Leidos",
-    "job_city": "Honolulu",
+    "job_city": "Marine Corps Base Kaneohe Bay",
     "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Honolulu, HI",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Military-Family-Life-Counselor---HealthySteps---Tripler_R-00181991",
+    "job_location": "Marine Corps Base Kaneohe Bay, HI",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Marine-Corps-Base-Kaneohe-Bay-HI/Military-Family-Life-Counselor---CDC---MCB--Hawaii_R-00181957",
     "job_posted_at_datetime_utc": "2026-04-28T07:01:59.485Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f3def2c33dcd49a0c3a829ba09e849e79d8eb943c78c7c74d1fa6b3fa300e4c9",
+    "fingerprint": "e0580d1f4ad5d6105c90ebae171f048b6f6f2f3bc2a26750a52d7dfd3b495aab",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6245,6 +6245,35 @@
     "job_posted_at": "2026-04-27T07:03:39.178Z"
   },
   {
+    "job_id": "workday-medtronic-R63211",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
+    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:02:41.449Z"
+  },
+  {
     "job_id": "workday-medtronic-R65320",
     "job_title": "Vascular Clinical Specialist - Winston/Salem, Greensboro",
     "employer_name": "Medtronic",
@@ -6412,35 +6441,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:02:41.449Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63211",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
-    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -10131,6 +10131,209 @@
     "job_posted_at": "2026-04-24T07:04:13.988Z"
   },
   {
+    "job_id": "workday-takeda-R0179178",
+    "job_title": "Emergency Medical Technician EMT-P - $5000 Sign On Bonus Available!",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - NE - Omaha",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Emergency-Medical-Technician-EMT-P----5000-Sign-On-Bonus-Available-_R0179178-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b28531d8dfe5a6f0dfcb46a578500961ec8aa0c310fb2183da8adc7a8e834508",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179180",
+    "job_title": "LPN - $5000 Sign On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - NE - Omaha",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/LPN----5000-Sign-On-Bonus_R0179180-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "822d3115b26cdf84cd380543dc46423786a127ed072946c6e8719298b840324b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179177",
+    "job_title": "Licensed Practical Nurse LPN - $5000 Sign On Bonus Available!",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - NE - Omaha",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Licensed-Practical-Nurse-LPN----5000-Sign-On-Bonus-Available-_R0179177-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b7a18564961fa4cee5494ea37d05133049607bf968c2a373af7c2eb031ca6567",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179184",
+    "job_title": "Medical Screener/Phlebotomist ($17 an hour) Part-Time with Benefits",
+    "employer_name": "Takeda",
+    "job_city": "TX - Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Austin",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Medical-Screener-Phlebotomist---17-an-hour--Part-Time-with-Benefits_R0179184-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "455f31e040747cb9786c270a4ae8288e93c705429ecc1aeadbb31a0f2b1616ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179181",
+    "job_title": "Paramedic - $5000 Sign On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - NE - Omaha",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Paramedic----5000-Sign-On-Bonus_R0179181-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eb61db90f61d170604d68064a903548ac5a1949423fdd7a0bd02ae14432117c7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179183",
+    "job_title": "Plasma Center Technician - Part Time",
+    "employer_name": "Takeda",
+    "job_city": "TX - Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Austin",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Plasma-Center-Technician---Part-Time_R0179183-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fbcd9e6aaea9771392b061fd69d45ba53cfadd6852ab8a1f45a40f5c6312c159",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179179",
+    "job_title": "Registered Nurse RN - $5000 Sign On Bonus Available!",
+    "employer_name": "Takeda",
+    "job_city": "NE - Omaha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - NE - Omaha",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Registered-Nurse-RN----5000-Sign-On-Bonus-Available-_R0179179-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8b900f8d8347d486671e420b1012b57ad4ce797219030e7f5bfc69b0ebcc1a0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
     "job_id": "workday-takeda-R0179172",
     "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
     "employer_name": "Takeda",
@@ -10347,209 +10550,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e86105d7cd141621bc65a2bae1b3efa7e906de3e0799bd6669ff41847f688b0f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179178",
-    "job_title": "Emergency Medical Technician EMT-P - $5000 Sign On Bonus Available!",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - NE - Omaha",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Emergency-Medical-Technician-EMT-P----5000-Sign-On-Bonus-Available-_R0179178-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b28531d8dfe5a6f0dfcb46a578500961ec8aa0c310fb2183da8adc7a8e834508",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179180",
-    "job_title": "LPN - $5000 Sign On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - NE - Omaha",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/LPN----5000-Sign-On-Bonus_R0179180-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "822d3115b26cdf84cd380543dc46423786a127ed072946c6e8719298b840324b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179177",
-    "job_title": "Licensed Practical Nurse LPN - $5000 Sign On Bonus Available!",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - NE - Omaha",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Licensed-Practical-Nurse-LPN----5000-Sign-On-Bonus-Available-_R0179177-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b7a18564961fa4cee5494ea37d05133049607bf968c2a373af7c2eb031ca6567",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179184",
-    "job_title": "Medical Screener/Phlebotomist ($17 an hour) Part-Time with Benefits",
-    "employer_name": "Takeda",
-    "job_city": "TX - Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Austin",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Medical-Screener-Phlebotomist---17-an-hour--Part-Time-with-Benefits_R0179184-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "455f31e040747cb9786c270a4ae8288e93c705429ecc1aeadbb31a0f2b1616ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179181",
-    "job_title": "Paramedic - $5000 Sign On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - NE - Omaha",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Paramedic----5000-Sign-On-Bonus_R0179181-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eb61db90f61d170604d68064a903548ac5a1949423fdd7a0bd02ae14432117c7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179183",
-    "job_title": "Plasma Center Technician - Part Time",
-    "employer_name": "Takeda",
-    "job_city": "TX - Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Austin",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Plasma-Center-Technician---Part-Time_R0179183-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fbcd9e6aaea9771392b061fd69d45ba53cfadd6852ab8a1f45a40f5c6312c159",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179179",
-    "job_title": "Registered Nurse RN - $5000 Sign On Bonus Available!",
-    "employer_name": "Takeda",
-    "job_city": "NE - Omaha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - NE - Omaha",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NE---Omaha/Registered-Nurse-RN----5000-Sign-On-Bonus-Available-_R0179179-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8b900f8d8347d486671e420b1012b57ad4ce797219030e7f5bfc69b0ebcc1a0",
     "tags": {
       "employment": "entry_level",
       "domains": [
