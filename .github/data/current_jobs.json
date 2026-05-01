@@ -1,5 +1,34 @@
 [
   {
+    "job_id": "workday-cigna-26004429",
+    "job_title": "Home Infusion Nurse, Per Diem – Accredo - Springfield, IL",
+    "employer_name": "Cigna",
+    "job_city": "Springfield",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Springfield, IL",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Springfield-IL/Home-Infusion-Nurse--Per-Diem---Accredo---Springfield--IL_26004429",
+    "job_posted_at_datetime_utc": "2026-05-01T03:51:03.093Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a5b7332f39b912820feccaa5bdeea2c08aef9edc8624af22b64a3ba723485949",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T03:51:03.093Z"
+  },
+  {
     "job_id": "workday-cigna-26004297",
     "job_title": "Cardiopulmonary Nurse Specialist - Accredo - Indiana and Kentucky",
     "employer_name": "Cigna",
@@ -2793,19 +2822,19 @@
     "job_posted_at": "2026-04-29T23:56:29.095Z"
   },
   {
-    "job_id": "greenhouse-oscar-7819672",
+    "job_id": "greenhouse-oscar-7812522",
     "job_title": "Associate, UM Regulatory Operations",
     "employer_name": "Oscar Health",
-    "job_city": "Tempe",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7819672?gh_jid=7819672",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7812522?gh_jid=7812522",
     "job_posted_at_datetime_utc": "2026-04-29T23:03:15.230Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "752eceaaf7c8054f18d1c6b484c5430a8d167c90e199927895c3e47270564abb",
+    "fingerprint": "2e03cc83834ac7d235aea86fa30774a8bc95b0d03f9885c1bb6432c94a977fbb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2822,19 +2851,19 @@
     "job_posted_at": "2026-04-29T23:03:15.230Z"
   },
   {
-    "job_id": "greenhouse-oscar-7812522",
+    "job_id": "greenhouse-oscar-7819672",
     "job_title": "Associate, UM Regulatory Operations",
     "employer_name": "Oscar Health",
-    "job_city": "New York",
+    "job_city": "Tempe",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7812522?gh_jid=7812522",
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7819672?gh_jid=7819672",
     "job_posted_at_datetime_utc": "2026-04-29T23:03:15.230Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2e03cc83834ac7d235aea86fa30774a8bc95b0d03f9885c1bb6432c94a977fbb",
+    "fingerprint": "752eceaaf7c8054f18d1c6b484c5430a8d167c90e199927895c3e47270564abb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5101,35 +5130,6 @@
     "job_posted_at": "2026-04-28T07:12:49.311Z"
   },
   {
-    "job_id": "workday-abbott-31148530",
-    "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
-    "employer_name": "Abbott",
-    "job_city": "North Carolina - Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - North Carolina - Charlotte",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Charlotte/Associate-Clinical-Specialist--CRM---Charlotte--NC_31148530-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:12:28.711Z"
-  },
-  {
     "job_id": "workday-abbott-31149022",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -5215,6 +5215,122 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-28T07:12:28.711Z"
+  },
+  {
+    "job_id": "workday-abbott-31148530",
+    "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - North Carolina - Charlotte",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Charlotte/Associate-Clinical-Specialist--CRM---Charlotte--NC_31148530-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:12:28.711Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178846",
+    "job_title": "Rare Disease Business Manager-LSD- Michigan",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Michigan - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Michigan---Virtual/Rare-Disease-Business-Manager-LSD--Michigan_R0178846-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "340393eea0936fadf80c7bbdee063acf5a7b9aab92035c8c09d2f0bdf00cbaf8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179272",
+    "job_title": "LPN - 1,500 Sign On Bonus - Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - KS - Lenexa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/LPN---1-500-Sign-On-Bonus---Day-One-Benefits_R0179272-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87e839896c309621ca7bfef2817a07807d49244843d372f4610e40d396b5a6d2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179274",
+    "job_title": "Paramedic – $1,500 Sign On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - KS - Lenexa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/Paramedic----1-500-Sign-On-Bonus_R0179274-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "518a6f0d03056c8b0dcb30e0d5f2d45d4bb8e56f71ec8baf052319b74e6cb36d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:53.048Z"
   },
   {
     "job_id": "workday-takeda-R0179324",
@@ -5565,93 +5681,6 @@
     "job_posted_at": "2026-04-28T07:03:53.048Z"
   },
   {
-    "job_id": "workday-takeda-R0178846",
-    "job_title": "Rare Disease Business Manager-LSD- Michigan",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Michigan - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Michigan---Virtual/Rare-Disease-Business-Manager-LSD--Michigan_R0178846-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "340393eea0936fadf80c7bbdee063acf5a7b9aab92035c8c09d2f0bdf00cbaf8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179272",
-    "job_title": "LPN - 1,500 Sign On Bonus - Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - KS - Lenexa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/LPN---1-500-Sign-On-Bonus---Day-One-Benefits_R0179272-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "87e839896c309621ca7bfef2817a07807d49244843d372f4610e40d396b5a6d2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179274",
-    "job_title": "Paramedic – $1,500 Sign On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - KS - Lenexa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/Paramedic----1-500-Sign-On-Bonus_R0179274-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "518a6f0d03056c8b0dcb30e0d5f2d45d4bb8e56f71ec8baf052319b74e6cb36d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:53.048Z"
-  },
-  {
     "job_id": "workday-takeda-R0179271",
     "job_title": "Plasma Center Experienced Phlebotomist - Day 1 Benefits",
     "employer_name": "Takeda",
@@ -5679,35 +5708,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-28T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01348744",
-    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Diego, California, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:39.177Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:39.177Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01350148",
@@ -5768,34 +5768,33 @@
     "job_posted_at": "2026-04-28T07:03:39.177Z"
   },
   {
-    "job_id": "workday-philips-580988",
-    "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Washington, DC)",
-    "employer_name": "Philips",
-    "job_city": "Washington",
+    "job_id": "workday-thermo-fisher-scientific-R-01348744",
+    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "San Diego",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Washington, District of Columbia, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Devices--Washington--DC-_580988-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:28.409Z",
+    "job_location": "San Diego, California, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:39.177Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e9e39e9d1c84db9b7bd4d803309a01fc24d1564719517703b88b9ab810f320f1",
+    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "healthcare",
-        "sales"
+        "healthcare"
       ],
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:28.409Z"
+    "job_posted_at": "2026-04-28T07:03:39.177Z"
   },
   {
     "job_id": "workday-philips-577791",
@@ -5845,6 +5844,36 @@
       "domains": [
         "healthcare",
         "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:28.409Z"
+  },
+  {
+    "job_id": "workday-philips-580988",
+    "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Washington, DC)",
+    "employer_name": "Philips",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Washington, District of Columbia, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Devices--Washington--DC-_580988-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:28.409Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e9e39e9d1c84db9b7bd4d803309a01fc24d1564719517703b88b9ab810f320f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
       ],
       "locations": [
         "us"
@@ -6062,6 +6091,35 @@
     "job_posted_at": "2026-04-28T07:01:59.485Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-066222",
+    "job_title": "Transcend: Deploy CE Experienced Analyst",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Titusville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Titusville, New Jersey, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-066222-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:01:44.568Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f48fdb24767fa5ea6dde88369c8f93f7138b18cdcbc660713a2e05e564b67ee2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:01:44.568Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-071558",
     "job_title": "Associate Clinical Consultant (Hackensack, NJ) - Johnson & Johnson MedTech – Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -6133,35 +6191,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d8b05ada5b928067e13aa7b5f540a7ef801ddf98a533d8f12eb1271872041f06",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:01:44.568Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066222",
-    "job_title": "Transcend: Deploy CE Experienced Analyst",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Titusville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Titusville, New Jersey, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-066222-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:01:44.568Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f48fdb24767fa5ea6dde88369c8f93f7138b18cdcbc660713a2e05e564b67ee2",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6938,19 +6967,19 @@
     "job_posted_at": "2026-04-27T22:32:22.579Z"
   },
   {
-    "job_id": "greenhouse-oscar-7813060",
+    "job_id": "greenhouse-oscar-7809167",
     "job_title": "Associate, Care Navigation Programs",
     "employer_name": "Oscar Health",
-    "job_city": "Atlanta",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Atlanta, Georgia, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7813060?gh_jid=7813060",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7809167?gh_jid=7809167",
     "job_posted_at_datetime_utc": "2026-04-27T22:17:08.975Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "69f6b8029b04a16374d0823660a044c4788b768b1335392a7c99c21654193ebf",
+    "fingerprint": "1d76569452b0ab680390d1e2311d16a27135fdac2b8fabd1ceb35ed580531781",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6967,19 +6996,19 @@
     "job_posted_at": "2026-04-27T22:17:08.975Z"
   },
   {
-    "job_id": "greenhouse-oscar-7813046",
+    "job_id": "greenhouse-oscar-7813060",
     "job_title": "Associate, Care Navigation Programs",
     "employer_name": "Oscar Health",
-    "job_city": "Tempe",
+    "job_city": "Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7813046?gh_jid=7813046",
+    "job_location": "Atlanta, Georgia, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7813060?gh_jid=7813060",
     "job_posted_at_datetime_utc": "2026-04-27T22:17:08.975Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d86bd526fa4bcf10cec15454c1bf9ff1068a3d347c784bdf69b4b56e18b7578b",
+    "fingerprint": "69f6b8029b04a16374d0823660a044c4788b768b1335392a7c99c21654193ebf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7025,19 +7054,19 @@
     "job_posted_at": "2026-04-27T22:17:08.975Z"
   },
   {
-    "job_id": "greenhouse-oscar-7809167",
+    "job_id": "greenhouse-oscar-7813046",
     "job_title": "Associate, Care Navigation Programs",
     "employer_name": "Oscar Health",
-    "job_city": "New York",
+    "job_city": "Tempe",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7809167?gh_jid=7809167",
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7813046?gh_jid=7813046",
     "job_posted_at_datetime_utc": "2026-04-27T22:17:08.975Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1d76569452b0ab680390d1e2311d16a27135fdac2b8fabd1ceb35ed580531781",
+    "fingerprint": "d86bd526fa4bcf10cec15454c1bf9ff1068a3d347c784bdf69b4b56e18b7578b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7676,6 +7705,94 @@
     "job_posted_at": "2026-04-27T07:12:28.712Z"
   },
   {
+    "job_id": "workday-abbott-31148766",
+    "job_title": "Clinical Specialist, CRM (Kearney, NE)",
+    "employer_name": "Abbott",
+    "job_city": "Nebraska - Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "United States - Nebraska - Remote",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Remote/Clinical-Specialist--CRM--Kearney--NE-_31148766-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cde241bd89fefec125f6651e84b8a4fdf62a7690cb8d763fc20fee1dfcbe73fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:12:28.712Z"
+  },
+  {
+    "job_id": "workday-abbott-31148535",
+    "job_title": "Associate Clinical Specialist, CRM - Washington DC",
+    "employer_name": "Abbott",
+    "job_city": "Washington DC - Washington DC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Washington DC - Washington DC",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington-DC---Washington-DC/Associate-Clinical-Specialist--CRM---Washington-DC_31148535-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "20d43f2842bc1e295f332c74c6f780b23d4bec24b8ee8df7558c12c7159cb3d5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:12:28.712Z"
+  },
+  {
+    "job_id": "workday-abbott-31148758",
+    "job_title": "Executive Clinical Specialist, Vessel Closure - Knoxville, TN",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Knoxville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Tennessee - Knoxville",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Executive-Clinical-Specialist--Vessel-Closure---Knoxville--TN_31148758-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b6d69b4189eb1ee7d4eb602cb2780d5741500c3910ecac0ec21cb250cfa27c66",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:12:28.712Z"
+  },
+  {
     "job_id": "workday-abbott-31113914",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO; Denver, CO",
     "employer_name": "Abbott",
@@ -8111,94 +8228,6 @@
     "job_posted_at": "2026-04-27T07:12:28.712Z"
   },
   {
-    "job_id": "workday-abbott-31148766",
-    "job_title": "Clinical Specialist, CRM (Kearney, NE)",
-    "employer_name": "Abbott",
-    "job_city": "Nebraska - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "United States - Nebraska - Remote",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Remote/Clinical-Specialist--CRM--Kearney--NE-_31148766-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cde241bd89fefec125f6651e84b8a4fdf62a7690cb8d763fc20fee1dfcbe73fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:12:28.712Z"
-  },
-  {
-    "job_id": "workday-abbott-31148535",
-    "job_title": "Associate Clinical Specialist, CRM - Washington DC",
-    "employer_name": "Abbott",
-    "job_city": "Washington DC - Washington DC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Washington DC - Washington DC",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington-DC---Washington-DC/Associate-Clinical-Specialist--CRM---Washington-DC_31148535-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "20d43f2842bc1e295f332c74c6f780b23d4bec24b8ee8df7558c12c7159cb3d5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:12:28.712Z"
-  },
-  {
-    "job_id": "workday-abbott-31148758",
-    "job_title": "Executive Clinical Specialist, Vessel Closure - Knoxville, TN",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Knoxville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Tennessee - Knoxville",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Executive-Clinical-Specialist--Vessel-Closure---Knoxville--TN_31148758-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:12:28.712Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b6d69b4189eb1ee7d4eb602cb2780d5741500c3910ecac0ec21cb250cfa27c66",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:12:28.712Z"
-  },
-  {
     "job_id": "workday-abbott-31144820",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -8226,6 +8255,209 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-27T07:12:28.712Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177695",
+    "job_title": "Licensed Practical Nurse (LPN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
+    "employer_name": "Takeda",
+    "job_city": "TX - Georgetown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Georgetown",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Licensed-Practical-Nurse--LPN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177695-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05292f85f8c7a08e6d395da41ede5f420fb4ccbd749d4baea8ff7bc7ee1ebf7a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177697",
+    "job_title": "Registered Nurse (RN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
+    "employer_name": "Takeda",
+    "job_city": "TX - Georgetown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Georgetown",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Registered-Nurse--RN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177697-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02b94966e09459e6213ab7abe00ae9f184ad15673d4359207dee6295f5fbad8a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177696",
+    "job_title": "EMT-P, Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
+    "employer_name": "Takeda",
+    "job_city": "TX - Georgetown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Georgetown",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/EMT-P--Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177696-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a262bcf999e8c626b0fb3251069d9b7518fee644648153a62c264d032bbcf192",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177318",
+    "job_title": "Head, Global Clinical Science & Medical Affairs for Marketed Products",
+    "employer_name": "Takeda",
+    "job_city": "MA - Cambridge - Kendall Square - 500",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MA - Cambridge - Kendall Square - 500",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge---Kendall-Square---500/Head--Global-Clinical-Science---Medical-Affairs-for-Marketed-Products_R0177318-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5b5ef9798acf6add99b1db5f32081ec542445597205374b928c5d6d26339201",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179242",
+    "job_title": "Medical Support Specialist – RN (Immediate Benefits!)   Fond du Lac",
+    "employer_name": "Takeda",
+    "job_city": "WI - Fond du Lac",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Fond du Lac",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---RN--Immediate-Benefits-----Fond-du-Lac_R0179242-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d072eb57391e6c306aa0e100c8113dadc8c25a559263f0874f8da996c67b1d0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179241",
+    "job_title": "Medical Support Specialist – EMT (Immediate Benefits!)   Fond du Lac",
+    "employer_name": "Takeda",
+    "job_city": "WI - Fond du Lac",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Fond du Lac",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---EMT--Immediate-Benefits-----Fond-du-Lac_R0179241-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e687443d4972d505974318283bb4913e74dde665d9b93b9733debdae4204862f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179239",
+    "job_title": "Medical Support Specialist – LPN (Immediate Benefits!)   Fond du Lac",
+    "employer_name": "Takeda",
+    "job_city": "WI - Fond du Lac",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Fond du Lac",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---LPN--Immediate-Benefits-----Fond-du-Lac_R0179239-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d139fdcaef71a1ef21811c81b124ebfbfa33221a0705f038fbe131669d54bf29",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:53.048Z"
   },
   {
     "job_id": "workday-takeda-R0179232",
@@ -8547,209 +8779,6 @@
     "job_posted_at": "2026-04-27T07:03:53.048Z"
   },
   {
-    "job_id": "workday-takeda-R0177695",
-    "job_title": "Licensed Practical Nurse (LPN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
-    "employer_name": "Takeda",
-    "job_city": "TX - Georgetown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Georgetown",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Licensed-Practical-Nurse--LPN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177695-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05292f85f8c7a08e6d395da41ede5f420fb4ccbd749d4baea8ff7bc7ee1ebf7a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177697",
-    "job_title": "Registered Nurse (RN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
-    "employer_name": "Takeda",
-    "job_city": "TX - Georgetown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Georgetown",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Registered-Nurse--RN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177697-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02b94966e09459e6213ab7abe00ae9f184ad15673d4359207dee6295f5fbad8a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177696",
-    "job_title": "EMT-P, Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
-    "employer_name": "Takeda",
-    "job_city": "TX - Georgetown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Georgetown",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/EMT-P--Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177696-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a262bcf999e8c626b0fb3251069d9b7518fee644648153a62c264d032bbcf192",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177318",
-    "job_title": "Head, Global Clinical Science & Medical Affairs for Marketed Products",
-    "employer_name": "Takeda",
-    "job_city": "MA - Cambridge - Kendall Square - 500",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MA - Cambridge - Kendall Square - 500",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge---Kendall-Square---500/Head--Global-Clinical-Science---Medical-Affairs-for-Marketed-Products_R0177318-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5b5ef9798acf6add99b1db5f32081ec542445597205374b928c5d6d26339201",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179242",
-    "job_title": "Medical Support Specialist – RN (Immediate Benefits!)   Fond du Lac",
-    "employer_name": "Takeda",
-    "job_city": "WI - Fond du Lac",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Fond du Lac",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---RN--Immediate-Benefits-----Fond-du-Lac_R0179242-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d072eb57391e6c306aa0e100c8113dadc8c25a559263f0874f8da996c67b1d0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179241",
-    "job_title": "Medical Support Specialist – EMT (Immediate Benefits!)   Fond du Lac",
-    "employer_name": "Takeda",
-    "job_city": "WI - Fond du Lac",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Fond du Lac",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---EMT--Immediate-Benefits-----Fond-du-Lac_R0179241-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e687443d4972d505974318283bb4913e74dde665d9b93b9733debdae4204862f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179239",
-    "job_title": "Medical Support Specialist – LPN (Immediate Benefits!)   Fond du Lac",
-    "employer_name": "Takeda",
-    "job_city": "WI - Fond du Lac",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Fond du Lac",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---LPN--Immediate-Benefits-----Fond-du-Lac_R0179239-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d139fdcaef71a1ef21811c81b124ebfbfa33221a0705f038fbe131669d54bf29",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:53.048Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01340356",
     "job_title": "Quality Engineer - Clinical Labeling",
     "employer_name": "Thermo Fisher Scientific",
@@ -8797,6 +8826,35 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-27T07:03:39.178Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63211",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
+    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:02:41.449Z"
   },
   {
     "job_id": "workday-medtronic-R65320",
@@ -8973,35 +9031,6 @@
     "job_posted_at": "2026-04-27T07:02:41.449Z"
   },
   {
-    "job_id": "workday-medtronic-R63211",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
-    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:02:41.449Z"
-  },
-  {
     "job_id": "workday-moog-R-26-16311",
     "job_title": "Engineering Laboratory Technician - 2nd or 3rd Shift",
     "employer_name": "Moog",
@@ -9058,6 +9087,35 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-27T07:01:55.724Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-071713",
+    "job_title": "Associate Clinical Consultant (Houston Southeast) - Johnson & Johnson MedTech – Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston, Texas, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Houston-Texas-United-States-of-America/Associate-Clinical-Consultant--Houston-Southeast----Johnson---Johnson-MedTech---Heart-Recovery_R-071713-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:01:44.569Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b4d08b3601a8934aff47cb32a1789075a6009da576b325d9e4acf8ef920b3c95",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:01:44.569Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-068431",
@@ -9176,35 +9234,6 @@
     "job_posted_at": "2026-04-27T07:01:44.569Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-071713",
-    "job_title": "Associate Clinical Consultant (Houston Southeast) - Johnson & Johnson MedTech – Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston, Texas, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Houston-Texas-United-States-of-America/Associate-Clinical-Consultant--Houston-Southeast----Johnson---Johnson-MedTech---Heart-Recovery_R-071713-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:01:44.569Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b4d08b3601a8934aff47cb32a1789075a6009da576b325d9e4acf8ef920b3c95",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:01:44.569Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-071788",
     "job_title": "Associate Clinical Account Specialist (Houston, TX) - Johnson and Johnson MedTech, Electrophysiology",
     "employer_name": "Johnson & Johnson",
@@ -9263,6 +9292,66 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-27T07:01:44.568Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38252",
+    "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "US - Remote",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Part-Time-Oncology-Data-Specialist---Certified--remote-_38252",
+    "job_posted_at_datetime_utc": "2026-04-27T07:01:15.170Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d726854432dc6fccf63cb619295824a1be96752ce300df1c7994ff891acfa890",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:01:15.170Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38204",
+    "job_title": "Patient Financial Services - Credit Balance Specialist",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Birmingham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - AL, Birmingham",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Financial-Services---Credit-Balance-Specialist_38204",
+    "job_posted_at_datetime_utc": "2026-04-27T07:01:15.170Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4b5be365c7c878a30b59ab5c6c79b4599565271a31709376750191fc069bad40",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:01:15.170Z"
   },
   {
     "job_id": "workday-guidehouse-35404",
@@ -9341,66 +9430,6 @@
       "employment": "entry_level",
       "domains": [
         "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:01:15.170Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38252",
-    "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
-    "employer_name": "Guidehouse",
-    "job_city": "Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "US - Remote",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Part-Time-Oncology-Data-Specialist---Certified--remote-_38252",
-    "job_posted_at_datetime_utc": "2026-04-27T07:01:15.170Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d726854432dc6fccf63cb619295824a1be96752ce300df1c7994ff891acfa890",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:01:15.170Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38204",
-    "job_title": "Patient Financial Services - Credit Balance Specialist",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - AL, Birmingham",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Financial-Services---Credit-Balance-Specialist_38204",
-    "job_posted_at_datetime_utc": "2026-04-27T07:01:15.170Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4b5be365c7c878a30b59ab5c6c79b4599565271a31709376750191fc069bad40",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "finance"
       ],
       "locations": [
         "us"
@@ -10607,36 +10636,6 @@
     "job_posted_at": "2026-04-27T02:58:13.886Z"
   },
   {
-    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
-    "job_title": "Part-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "New York, NY or Remote",
-    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
     "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
     "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
     "employer_name": "Ro",
@@ -10824,6 +10823,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f5b195d38935cb0974acd06d48e6a9674dd5ffc43d2bc2c117ba581f0155938f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
+    "job_title": "Part-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "New York, NY or Remote",
+    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11350,36 +11379,6 @@
     "job_posted_at": "2026-04-27T01:04:43.168Z"
   },
   {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
     "job_id": "lever-includedhealth-310a88a1-7535-4534-8e5a-14c79cad5761",
     "job_title": "Nurse Care Manager, Adult",
     "employer_name": "Included Health",
@@ -11543,6 +11542,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11857,19 +11886,19 @@
     "job_posted_at": "2026-04-27T00:28:46.438Z"
   },
   {
-    "job_id": "greenhouse-oscar-7584310",
+    "job_id": "greenhouse-oscar-7559065",
     "job_title": "UM Program Operations Manager",
     "employer_name": "Oscar Health",
-    "job_city": "Tempe",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7584310?gh_jid=7584310",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7559065?gh_jid=7559065",
     "job_posted_at_datetime_utc": "2026-04-27T00:28:41.049Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a57e20c6edd0f45b400d9c4e217d4ebfbac940ac3de47d607348ef23e8a2085f",
+    "fingerprint": "24d6350723f20568c0bdc048879110c92d1333d733ff52e193ea3a5bd51e47cd",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11886,19 +11915,19 @@
     "job_posted_at": "2026-04-27T00:28:41.049Z"
   },
   {
-    "job_id": "greenhouse-oscar-7559065",
+    "job_id": "greenhouse-oscar-7584310",
     "job_title": "UM Program Operations Manager",
     "employer_name": "Oscar Health",
-    "job_city": "New York",
+    "job_city": "Tempe",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7559065?gh_jid=7559065",
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7584310?gh_jid=7584310",
     "job_posted_at_datetime_utc": "2026-04-27T00:28:41.049Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "24d6350723f20568c0bdc048879110c92d1333d733ff52e193ea3a5bd51e47cd",
+    "fingerprint": "a57e20c6edd0f45b400d9c4e217d4ebfbac940ac3de47d607348ef23e8a2085f",
     "tags": {
       "employment": "entry_level",
       "domains": [
