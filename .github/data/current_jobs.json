@@ -1146,7 +1146,7 @@
   },
   {
     "job_id": "workday-takeda-R0175135",
-    "job_title": "Paramedic – No Overnight Shifts",
+    "job_title": "Paramedic ��� No Overnight Shifts",
     "employer_name": "Takeda",
     "job_city": "IL - Joliet",
     "job_state": "",
@@ -1157,7 +1157,7 @@
     "job_posted_at_datetime_utc": "2026-04-30T20:30:51.310Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f792450a52ef929ede6a55a06d52f50c1752109ea80c4184537c32a195055faf",
+    "fingerprint": "f1ccb22026c03ebed4f22f7227c7b61878aa1b20514f7845642f944ac5e0f66b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2223,35 +2223,6 @@
     "job_posted_at": "2026-04-30T15:12:16.638Z"
   },
   {
-    "job_id": "workday-globus-medical-JR106630",
-    "job_title": "Fast Track Spine Specialist (Ohio)",
-    "employer_name": "Globus Medical",
-    "job_city": "Ohio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ohio",
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Ohio/Fast-Track-Spine-Specialist--Ohio-_JR106630",
-    "job_posted_at_datetime_utc": "2026-04-30T15:08:30.354Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e7f0dba57f304b337f88c8106c24cbe71ed6298c005d457898a4632bf5571334",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T15:08:30.354Z"
-  },
-  {
     "job_id": "workday-globus-medical-JR106632",
     "job_title": "Fast Track Spine Specialist (Chicago, IL)",
     "employer_name": "Globus Medical",
@@ -2294,6 +2265,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8a3c9401389d9dc398423bcf5450a9e66818ef6d3dab020d9953cb419724e315",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T15:08:30.354Z"
+  },
+  {
+    "job_id": "workday-globus-medical-JR106630",
+    "job_title": "Fast Track Spine Specialist (Ohio)",
+    "employer_name": "Globus Medical",
+    "job_city": "Ohio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ohio",
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Ohio/Fast-Track-Spine-Specialist--Ohio-_JR106630",
+    "job_posted_at_datetime_utc": "2026-04-30T15:08:30.354Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e7f0dba57f304b337f88c8106c24cbe71ed6298c005d457898a4632bf5571334",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3247,6 +3247,35 @@
     "job_posted_at": "2026-04-29T07:11:44.597Z"
   },
   {
+    "job_id": "workday-abbott-31149034",
+    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
+    "employer_name": "Abbott",
+    "job_city": "Texas - Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Texas - Houston",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:11:17.345Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:11:17.345Z"
+  },
+  {
     "job_id": "workday-abbott-31149132",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -3334,19 +3363,19 @@
     "job_posted_at": "2026-04-29T07:11:17.345Z"
   },
   {
-    "job_id": "workday-abbott-31149034",
-    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
-    "employer_name": "Abbott",
-    "job_city": "Texas - Houston",
+    "job_id": "workday-takeda-R0178215",
+    "job_title": "Specialty Business Manager, IBD",
+    "employer_name": "Takeda",
+    "job_city": "GA - Savannah",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "United States - Texas - Houston",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:11:17.345Z",
+    "job_location": "USA - GA - Savannah",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Savannah/Specialty-Business-Manager--IBD_R0178215",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
+    "fingerprint": "507557079108148772e05d3bba31592bc40964983c398dc0c5e9ea28c5ad964c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3360,7 +3389,152 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:11:17.345Z"
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178225",
+    "job_title": "Specialty Business Manager - IBD",
+    "employer_name": "Takeda",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, GA",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Atlanta-GA/Specialty-Business-Manager---IBD_R0178225-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "accbe8d926a60234e5518dcd57c9c44fdd4b299bdfb49b106d4f114f585421dd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179356",
+    "job_title": "RN – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "MO - Kansas City - 82nd Ter",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MO - Kansas City - 82nd Ter",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/RN---Day-One-Benefits_R0179356-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2284c9dab11caf872a02714d251fb7ab8a4740637dfa106b227e517e1091457d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179351",
+    "job_title": "RN - $1,500 Sign on Bonus",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - KS - Lenexa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/RN---Day-One-Benefits_R0179351-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3eba634da1495d0deab08451c8470426d1e4b0965b77df57f30241402104d29c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179355",
+    "job_title": "Medical Support Specialist",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - AZ - Mesa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Support-Specialist_R0179355-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a87a752f6580e89a0f7b86a54db6d7a02063049062c0aa02285716a1f807401f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179405",
+    "job_title": "Part Time Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Largo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - FL - Largo",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
   },
   {
     "job_id": "workday-takeda-R0178551",
@@ -3898,180 +4072,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "afcdca6a4c016c5cc61521d8c0544f74bf2f5c9aadb172b5713330d0923da532",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178215",
-    "job_title": "Specialty Business Manager, IBD",
-    "employer_name": "Takeda",
-    "job_city": "GA - Savannah",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - GA - Savannah",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Savannah/Specialty-Business-Manager--IBD_R0178215",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "507557079108148772e05d3bba31592bc40964983c398dc0c5e9ea28c5ad964c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178225",
-    "job_title": "Specialty Business Manager - IBD",
-    "employer_name": "Takeda",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, GA",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Atlanta-GA/Specialty-Business-Manager---IBD_R0178225-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "accbe8d926a60234e5518dcd57c9c44fdd4b299bdfb49b106d4f114f585421dd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179356",
-    "job_title": "RN – Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - 82nd Ter",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MO - Kansas City - 82nd Ter",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/RN---Day-One-Benefits_R0179356-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2284c9dab11caf872a02714d251fb7ab8a4740637dfa106b227e517e1091457d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179351",
-    "job_title": "RN - $1,500 Sign on Bonus",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - KS - Lenexa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/RN---Day-One-Benefits_R0179351-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3eba634da1495d0deab08451c8470426d1e4b0965b77df57f30241402104d29c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179355",
-    "job_title": "Medical Support Specialist",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Mesa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - AZ - Mesa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Support-Specialist_R0179355-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a87a752f6580e89a0f7b86a54db6d7a02063049062c0aa02285716a1f807401f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179405",
-    "job_title": "Part Time Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Largo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - FL - Largo",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5200,6 +5200,35 @@
     "job_posted_at": "2026-04-28T07:11:41.597Z"
   },
   {
+    "job_id": "workday-abbott-31148866",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Ohio - Columbus",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
+    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:11:17.346Z"
+  },
+  {
     "job_id": "workday-abbott-31148530",
     "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
     "employer_name": "Abbott",
@@ -5271,35 +5300,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:11:17.346Z"
-  },
-  {
-    "job_id": "workday-abbott-31148866",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Columbus",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
-    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6364,64 +6364,6 @@
     "job_posted_at": "2026-04-28T07:00:35.431Z"
   },
   {
-    "job_id": "workday-cigna-26003177",
-    "job_title": "PT Inpatient Telepharmacist - Evening & Overnight Shifts - Remote",
-    "employer_name": "Cigna",
-    "job_city": "United States Work at Home",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States Work at Home",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/PT-Inpatient-Telepharmacist---Evening---Overnight-Shifts---Remote_26003177-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:00:35.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "27b45792b12bba257640c10a33b0ae0773ecdb3786a7df8de7558d6d60a8542f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:00:35.378Z"
-  },
-  {
-    "job_id": "workday-cigna-26000500",
-    "job_title": "Home Infusion Nurse - Accredo - Madison, WI",
-    "employer_name": "Cigna",
-    "job_city": "Waukesha",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Waukesha, WI",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Waukesha-WI/Home-Infusion-Nurse---Accredo---Milwaukee--WI_26000500",
-    "job_posted_at_datetime_utc": "2026-04-28T07:00:35.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1810716b4d4415160dcc9d7c8b13732f2901e7d04c992cd6381dda6e36e195b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:00:35.378Z"
-  },
-  {
     "job_id": "workday-cigna-26004064",
     "job_title": "Pharmacy Technician Associate Representative - Express Scripts Pharmacy - Whitestown, IN",
     "employer_name": "Cigna",
@@ -6509,6 +6451,64 @@
     "job_posted_at": "2026-04-28T07:00:35.378Z"
   },
   {
+    "job_id": "workday-cigna-26003177",
+    "job_title": "PT Inpatient Telepharmacist - Evening & Overnight Shifts - Remote",
+    "employer_name": "Cigna",
+    "job_city": "United States Work at Home",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States Work at Home",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/PT-Inpatient-Telepharmacist---Evening---Overnight-Shifts---Remote_26003177-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:00:35.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "27b45792b12bba257640c10a33b0ae0773ecdb3786a7df8de7558d6d60a8542f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:00:35.378Z"
+  },
+  {
+    "job_id": "workday-cigna-26000500",
+    "job_title": "Home Infusion Nurse - Accredo - Madison, WI",
+    "employer_name": "Cigna",
+    "job_city": "Waukesha",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Waukesha, WI",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Waukesha-WI/Home-Infusion-Nurse---Accredo---Milwaukee--WI_26000500",
+    "job_posted_at_datetime_utc": "2026-04-28T07:00:35.378Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1810716b4d4415160dcc9d7c8b13732f2901e7d04c992cd6381dda6e36e195b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:00:35.378Z"
+  },
+  {
     "job_id": "workday-cigna-26004903",
     "job_title": "Nurse Case Manager (FT Queue) - Evernorth Health Services -Remote",
     "employer_name": "Cigna",
@@ -6536,35 +6536,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-28T07:00:35.378Z"
-  },
-  {
-    "job_id": "workday-idexx-J-052873",
-    "job_title": "Veterinary Lab Technician",
-    "employer_name": "IDEXX",
-    "job_city": "Brookfield",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Brookfield, WI",
-    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Brookfield-WI/Veterinary-Lab-Technician_J-052873",
-    "job_posted_at_datetime_utc": "2026-04-28T07:00:33.533Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f68cb1b5d2d20549c4b39f95c50dde3b1c80b4789764ac91e5d91ec920bd2f05",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:00:33.533Z"
   },
   {
     "job_id": "workday-idexx-J-050476",
@@ -6609,6 +6580,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "78ad7f9394559eaa48c90320a1c2e756342442a46a732df9f034b1526a488a77",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:00:33.533Z"
+  },
+  {
+    "job_id": "workday-idexx-J-052873",
+    "job_title": "Veterinary Lab Technician",
+    "employer_name": "IDEXX",
+    "job_city": "Brookfield",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Brookfield, WI",
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Brookfield-WI/Veterinary-Lab-Technician_J-052873",
+    "job_posted_at_datetime_utc": "2026-04-28T07:00:33.533Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f68cb1b5d2d20549c4b39f95c50dde3b1c80b4789764ac91e5d91ec920bd2f05",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7775,6 +7775,94 @@
     "job_posted_at": "2026-04-27T07:11:34.440Z"
   },
   {
+    "job_id": "workday-abbott-31148766",
+    "job_title": "Clinical Specialist, CRM (Kearney, NE)",
+    "employer_name": "Abbott",
+    "job_city": "Nebraska - Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "United States - Nebraska - Remote",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Remote/Clinical-Specialist--CRM--Kearney--NE-_31148766-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cde241bd89fefec125f6651e84b8a4fdf62a7690cb8d763fc20fee1dfcbe73fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31148535",
+    "job_title": "Associate Clinical Specialist, CRM - Washington DC",
+    "employer_name": "Abbott",
+    "job_city": "Washington DC - Washington DC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Washington DC - Washington DC",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington-DC---Washington-DC/Associate-Clinical-Specialist--CRM---Washington-DC_31148535-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "20d43f2842bc1e295f332c74c6f780b23d4bec24b8ee8df7558c12c7159cb3d5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31148758",
+    "job_title": "Executive Clinical Specialist, Vessel Closure - Knoxville, TN",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Knoxville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Tennessee - Knoxville",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Executive-Clinical-Specialist--Vessel-Closure---Knoxville--TN_31148758-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b6d69b4189eb1ee7d4eb602cb2780d5741500c3910ecac0ec21cb250cfa27c66",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
     "job_id": "workday-abbott-31137792",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Albany, NY",
     "employer_name": "Abbott",
@@ -8223,94 +8311,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "57ba8bbd77a9ee4cd6a06104c84f801166bbb10fb7992cb1542a410852c7b383",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31148766",
-    "job_title": "Clinical Specialist, CRM (Kearney, NE)",
-    "employer_name": "Abbott",
-    "job_city": "Nebraska - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "United States - Nebraska - Remote",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Remote/Clinical-Specialist--CRM--Kearney--NE-_31148766-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cde241bd89fefec125f6651e84b8a4fdf62a7690cb8d763fc20fee1dfcbe73fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31148535",
-    "job_title": "Associate Clinical Specialist, CRM - Washington DC",
-    "employer_name": "Abbott",
-    "job_city": "Washington DC - Washington DC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Washington DC - Washington DC",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington-DC---Washington-DC/Associate-Clinical-Specialist--CRM---Washington-DC_31148535-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "20d43f2842bc1e295f332c74c6f780b23d4bec24b8ee8df7558c12c7159cb3d5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31148758",
-    "job_title": "Executive Clinical Specialist, Vessel Closure - Knoxville, TN",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Knoxville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Tennessee - Knoxville",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Executive-Clinical-Specialist--Vessel-Closure---Knoxville--TN_31148758-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b6d69b4189eb1ee7d4eb602cb2780d5741500c3910ecac0ec21cb250cfa27c66",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9936,6 +9936,35 @@
     "job_posted_at": "2026-04-27T02:58:17.210Z"
   },
   {
+    "job_id": "greenhouse-personalisinc-7689649003",
+    "job_title": "Sample Accessioner 1 (Temp)",
+    "employer_name": "Personalis",
+    "job_city": "Fremont",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fremont, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7689649003",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.690Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ef2921dec187c0486bac988529ca4e88fee9e31f2af56f88a2215859a814c1f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:16.690Z"
+  },
+  {
     "job_id": "greenhouse-personalisinc-6680748003",
     "job_title": "Client Experience Associate (Temp - 6 Months)",
     "employer_name": "Personalis",
@@ -10076,35 +10105,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:16.690Z"
-  },
-  {
-    "job_id": "greenhouse-personalisinc-7689649003",
-    "job_title": "Sample Accessioner 1 (Temp)",
-    "employer_name": "Personalis",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fremont, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7689649003",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.690Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef2921dec187c0486bac988529ca4e88fee9e31f2af56f88a2215859a814c1f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
