@@ -1146,7 +1146,7 @@
   },
   {
     "job_id": "workday-takeda-R0175135",
-    "job_title": "Paramedic ��� No Overnight Shifts",
+    "job_title": "Paramedic – No Overnight Shifts",
     "employer_name": "Takeda",
     "job_city": "IL - Joliet",
     "job_state": "",
@@ -1157,7 +1157,7 @@
     "job_posted_at_datetime_utc": "2026-04-30T20:30:51.310Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f1ccb22026c03ebed4f22f7227c7b61878aa1b20514f7845642f944ac5e0f66b",
+    "fingerprint": "f792450a52ef929ede6a55a06d52f50c1752109ea80c4184537c32a195055faf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3247,35 +3247,6 @@
     "job_posted_at": "2026-04-29T07:11:44.597Z"
   },
   {
-    "job_id": "workday-abbott-31149034",
-    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
-    "employer_name": "Abbott",
-    "job_city": "Texas - Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Texas - Houston",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:11:17.345Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:11:17.345Z"
-  },
-  {
     "job_id": "workday-abbott-31149132",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -3363,19 +3334,19 @@
     "job_posted_at": "2026-04-29T07:11:17.345Z"
   },
   {
-    "job_id": "workday-takeda-R0179405",
-    "job_title": "Part Time Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Largo",
+    "job_id": "workday-abbott-31149034",
+    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
+    "employer_name": "Abbott",
+    "job_city": "Texas - Houston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - FL - Largo",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_location": "United States - Texas - Houston",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:11:17.345Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
+    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3389,7 +3360,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
+    "job_posted_at": "2026-04-29T07:11:17.345Z"
   },
   {
     "job_id": "workday-takeda-R0178551",
@@ -4072,6 +4043,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a87a752f6580e89a0f7b86a54db6d7a02063049062c0aa02285716a1f807401f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179405",
+    "job_title": "Part Time Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Largo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - FL - Largo",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5200,64 +5200,6 @@
     "job_posted_at": "2026-04-28T07:11:41.597Z"
   },
   {
-    "job_id": "workday-abbott-31149022",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "Florida - Orlando",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Florida - Orlando",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Orlando/Clinical-Associate_31149022-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3939e8e756781dde548b32fcbdaa1431b11da8df1582bd738c2f8b6601756d53",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:11:17.346Z"
-  },
-  {
-    "job_id": "workday-abbott-31147603",
-    "job_title": "Clinical Specialist, MCS - Nashville",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Tennessee - Nashville",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:11:17.346Z"
-  },
-  {
     "job_id": "workday-abbott-31148866",
     "job_title": "Clinical Specialist",
     "employer_name": "Abbott",
@@ -5300,6 +5242,64 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:11:17.346Z"
+  },
+  {
+    "job_id": "workday-abbott-31149022",
+    "job_title": "Clinical Associate",
+    "employer_name": "Abbott",
+    "job_city": "Florida - Orlando",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Florida - Orlando",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Orlando/Clinical-Associate_31149022-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3939e8e756781dde548b32fcbdaa1431b11da8df1582bd738c2f8b6601756d53",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:11:17.346Z"
+  },
+  {
+    "job_id": "workday-abbott-31147603",
+    "job_title": "Clinical Specialist, MCS - Nashville",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Tennessee - Nashville",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6625,19 +6625,19 @@
     "job_posted_at": "2026-04-28T07:00:33.533Z"
   },
   {
-    "job_id": "workday-entegris-REQ-11585",
-    "job_title": "Research Associate",
+    "job_id": "workday-entegris-REQ-11570",
+    "job_title": "Analytical Lab Technician I",
     "employer_name": "Entegris",
-    "job_city": "Aurora",
-    "job_state": "IL",
+    "job_city": "San Luis Obispo",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Aurora, IL",
-    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Research-Associate_REQ-11585-1",
+    "job_location": "San Luis Obispo, CA",
+    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Analytical-Lab-Technician-I_REQ-11570",
     "job_posted_at_datetime_utc": "2026-04-28T07:00:17.202Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2b80e50cd23cfc5d37308fb52c6b945c5ec5c4c55ef66e07d870d1e20e2e0310",
+    "fingerprint": "3d6343c57568740dbf022dfe3c30fa00d920e420cb7063b8f5aef2c2c5948bba",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6654,19 +6654,19 @@
     "job_posted_at": "2026-04-28T07:00:17.202Z"
   },
   {
-    "job_id": "workday-entegris-REQ-11570",
-    "job_title": "Analytical Lab Technician I",
+    "job_id": "workday-entegris-REQ-11585",
+    "job_title": "Research Associate",
     "employer_name": "Entegris",
-    "job_city": "San Luis Obispo",
-    "job_state": "CA",
+    "job_city": "Aurora",
+    "job_state": "IL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "San Luis Obispo, CA",
-    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Analytical-Lab-Technician-I_REQ-11570",
+    "job_location": "Aurora, IL",
+    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Research-Associate_REQ-11585-1",
     "job_posted_at_datetime_utc": "2026-04-28T07:00:17.202Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3d6343c57568740dbf022dfe3c30fa00d920e420cb7063b8f5aef2c2c5948bba",
+    "fingerprint": "2b80e50cd23cfc5d37308fb52c6b945c5ec5c4c55ef66e07d870d1e20e2e0310",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9159,35 +9159,6 @@
     "job_posted_at": "2026-04-27T07:01:12.848Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-071713",
-    "job_title": "Associate Clinical Consultant (Houston Southeast) - Johnson & Johnson MedTech – Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston, Texas, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Houston-Texas-United-States-of-America/Associate-Clinical-Consultant--Houston-Southeast----Johnson---Johnson-MedTech---Heart-Recovery_R-071713-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:01:06.492Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b4d08b3601a8934aff47cb32a1789075a6009da576b325d9e4acf8ef920b3c95",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:01:06.492Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-071788",
     "job_title": "Associate Clinical Account Specialist (Houston, TX) - Johnson and Johnson MedTech, Electrophysiology",
     "employer_name": "Johnson & Johnson",
@@ -9348,6 +9319,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "070fbe5f359d0ac1825da5b56ca6f6ab41986031d41c4b5ad9acb76f26d69b5f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:01:06.492Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-071713",
+    "job_title": "Associate Clinical Consultant (Houston Southeast) - Johnson & Johnson MedTech – Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston, Texas, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Houston-Texas-United-States-of-America/Associate-Clinical-Consultant--Houston-Southeast----Johnson---Johnson-MedTech---Heart-Recovery_R-071713-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:01:06.492Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b4d08b3601a8934aff47cb32a1789075a6009da576b325d9e4acf8ef920b3c95",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10316,36 +10316,6 @@
     "job_posted_at": "2026-04-27T02:58:13.887Z"
   },
   {
-    "job_id": "lever-includedhealth-e373a9af-b559-4888-babf-707c0168e0d7",
-    "job_title": "Mental Health Therapist",
-    "employer_name": "Included Health",
-    "job_city": "Georgia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Georgia",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.886Z"
-  },
-  {
     "job_id": "lever-includedhealth-29af260c-cc9b-4fe9-b358-6135fd5909be",
     "job_title": "Mental Health Therapist",
     "employer_name": "Included Health",
@@ -10629,6 +10599,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "acd3d2d0f27f8d498fb849ea838fe97f8e0bbfbec7fb20f3c1f4738305cb38cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.886Z"
+  },
+  {
+    "job_id": "lever-includedhealth-e373a9af-b559-4888-babf-707c0168e0d7",
+    "job_title": "Mental Health Therapist",
+    "employer_name": "Included Health",
+    "job_city": "Georgia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Georgia",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/e373a9af-b559-4888-babf-707c0168e0d7/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.886Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f6432b443f30654bd5747d7970e61b29527790caa2819c0adb6db283b50b7091",
     "tags": {
       "employment": "entry_level",
       "domains": [
