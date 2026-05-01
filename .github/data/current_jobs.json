@@ -5171,35 +5171,6 @@
     "job_posted_at": "2026-04-28T07:12:49.311Z"
   },
   {
-    "job_id": "workday-abbott-31148866",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Columbus",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
-    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:12:28.711Z"
-  },
-  {
     "job_id": "workday-abbott-31148530",
     "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
     "employer_name": "Abbott",
@@ -5287,19 +5258,19 @@
     "job_posted_at": "2026-04-28T07:12:28.711Z"
   },
   {
-    "job_id": "workday-takeda-R0179272",
-    "job_title": "LPN - 1,500 Sign On Bonus - Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
+    "job_id": "workday-abbott-31148866",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - KS - Lenexa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/LPN---1-500-Sign-On-Bonus---Day-One-Benefits_R0179272-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
+    "job_location": "United States - Ohio - Columbus",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
+    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "87e839896c309621ca7bfef2817a07807d49244843d372f4610e40d396b5a6d2",
+    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5313,36 +5284,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179274",
-    "job_title": "Paramedic – $1,500 Sign On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - KS - Lenexa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/Paramedic----1-500-Sign-On-Bonus_R0179274-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "518a6f0d03056c8b0dcb30e0d5f2d45d4bb8e56f71ec8baf052319b74e6cb36d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:53.048Z"
+    "job_posted_at": "2026-04-28T07:12:28.711Z"
   },
   {
     "job_id": "workday-takeda-R0179324",
@@ -5706,6 +5648,64 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "340393eea0936fadf80c7bbdee063acf5a7b9aab92035c8c09d2f0bdf00cbaf8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179272",
+    "job_title": "LPN - 1,500 Sign On Bonus - Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - KS - Lenexa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/LPN---1-500-Sign-On-Bonus---Day-One-Benefits_R0179272-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87e839896c309621ca7bfef2817a07807d49244843d372f4610e40d396b5a6d2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179274",
+    "job_title": "Paramedic – $1,500 Sign On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - KS - Lenexa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/Paramedic----1-500-Sign-On-Bonus_R0179274-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "518a6f0d03056c8b0dcb30e0d5f2d45d4bb8e56f71ec8baf052319b74e6cb36d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7008,35 +7008,6 @@
     "job_posted_at": "2026-04-27T22:32:22.579Z"
   },
   {
-    "job_id": "greenhouse-oscar-7813046",
-    "job_title": "Associate, Care Navigation Programs",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7813046?gh_jid=7813046",
-    "job_posted_at_datetime_utc": "2026-04-27T22:17:08.975Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d86bd526fa4bcf10cec15454c1bf9ff1068a3d347c784bdf69b4b56e18b7578b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T22:17:08.975Z"
-  },
-  {
     "job_id": "greenhouse-oscar-7809167",
     "job_title": "Associate, Care Navigation Programs",
     "employer_name": "Oscar Health",
@@ -7108,6 +7079,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4eadfe355b3f7e7712b3de571e2ba828c9574e3c95cf662dbacf7e2d3894b5be",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T22:17:08.975Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7813046",
+    "job_title": "Associate, Care Navigation Programs",
+    "employer_name": "Oscar Health",
+    "job_city": "Tempe",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7813046?gh_jid=7813046",
+    "job_posted_at_datetime_utc": "2026-04-27T22:17:08.975Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d86bd526fa4bcf10cec15454c1bf9ff1068a3d347c784bdf69b4b56e18b7578b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8869,64 +8869,6 @@
     "job_posted_at": "2026-04-27T07:03:39.178Z"
   },
   {
-    "job_id": "workday-medtronic-R64799",
-    "job_title": "Clinical Specialist CRM - Palm Beach Gardens / Jupiter",
-    "employer_name": "Medtronic",
-    "job_city": "Jupiter",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Jupiter, Florida, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jupiter-Florida-United-States-of-America/Clinical-Specialist-CRM---Palm-Beach-Gardens---Jupiter_R64799-2",
-    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4aca185b2150fdeb21dd36a44f808c753865bf0a786a9c73d6798d2cc980a96c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:02:41.449Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63211",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
-    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:02:41.449Z"
-  },
-  {
     "job_id": "workday-medtronic-R65233",
     "job_title": "Vascular Clinical Specialist - Chicago",
     "employer_name": "Medtronic",
@@ -9007,6 +8949,64 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:02:41.449Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64799",
+    "job_title": "Clinical Specialist CRM - Palm Beach Gardens / Jupiter",
+    "employer_name": "Medtronic",
+    "job_city": "Jupiter",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Jupiter, Florida, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jupiter-Florida-United-States-of-America/Clinical-Specialist-CRM---Palm-Beach-Gardens---Jupiter_R64799-2",
+    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4aca185b2150fdeb21dd36a44f808c753865bf0a786a9c73d6798d2cc980a96c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:02:41.449Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63211",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
+    "job_posted_at_datetime_utc": "2026-04-27T07:02:41.449Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -9628,37 +9628,6 @@
     "job_posted_at": "2026-04-27T07:00:24.558Z"
   },
   {
-    "job_id": "ashby-hinge-health-1e4f194d-67e9-457c-89ce-387355f2e500",
-    "job_title": "Physical Therapist, Pelvic Health (Flex)",
-    "employer_name": "Hinge Health",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote US",
-    "job_apply_link": "https://jobs.ashbyhq.com/hinge-health/1e4f194d-67e9-457c-89ce-387355f2e500/application",
-    "job_posted_at_datetime_utc": "2026-04-27T02:59:38.765Z",
-    "job_employment_type": "PartTime",
-    "salary": null,
-    "fingerprint": "8c3fae8c64107f8a5bd537d74ed5529d228fb757e3deadd165378852fbd3f797",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations",
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-27T02:59:38.765Z"
-  },
-  {
     "job_id": "ashby-hinge-health-2c5c58a9-5176-4ca7-b6bc-a832a375ea2f",
     "job_title": "Health Economist",
     "employer_name": "Hinge Health",
@@ -9683,6 +9652,37 @@
         "remote"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-27T02:59:38.765Z"
+  },
+  {
+    "job_id": "ashby-hinge-health-1e4f194d-67e9-457c-89ce-387355f2e500",
+    "job_title": "Physical Therapist, Pelvic Health (Flex)",
+    "employer_name": "Hinge Health",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote US",
+    "job_apply_link": "https://jobs.ashbyhq.com/hinge-health/1e4f194d-67e9-457c-89ce-387355f2e500/application",
+    "job_posted_at_datetime_utc": "2026-04-27T02:59:38.765Z",
+    "job_employment_type": "PartTime",
+    "salary": null,
+    "fingerprint": "8c3fae8c64107f8a5bd537d74ed5529d228fb757e3deadd165378852fbd3f797",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -12843,93 +12843,6 @@
     "job_posted_at": "2026-04-24T07:04:13.988Z"
   },
   {
-    "job_id": "workday-takeda-R0179172",
-    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "WI - Onalaska",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Onalaska",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0179172-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22d15add8bc4361ae7a0e5139a7ab709ceb6e77b58fbe2b2e772d7231b299c46",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179171",
-    "job_title": "Plasma Center Licensed Practical Nurse (LPN) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "WI - Onalaska",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Onalaska",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Licensed-Practical-Nurse--LPN----Immediate-Benefits-_R0179171-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "14b33cd9aea49b6405372228938cc5ea66af124fe46bd6a51d681801b03637ef",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179170",
-    "job_title": "Medical Support Specialist (EMT, AEMT, EMTI) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "WI - Onalaska",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Onalaska",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Medical-Support-Specialist--EMT--AEMT--EMTI----Immediate-Benefits-_R0179170-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6b0f5590415091b31c71e169b8c1c6c2b9467cae7d9ccfdfcff16185d4d39b16",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
     "job_id": "workday-takeda-R0179142",
     "job_title": "LPN – Day One benefits",
     "employer_name": "Takeda",
@@ -13262,6 +13175,93 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f8b900f8d8347d486671e420b1012b57ad4ce797219030e7f5bfc69b0ebcc1a0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179172",
+    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "WI - Onalaska",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Onalaska",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0179172-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22d15add8bc4361ae7a0e5139a7ab709ceb6e77b58fbe2b2e772d7231b299c46",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179171",
+    "job_title": "Plasma Center Licensed Practical Nurse (LPN) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "WI - Onalaska",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Onalaska",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Licensed-Practical-Nurse--LPN----Immediate-Benefits-_R0179171-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "14b33cd9aea49b6405372228938cc5ea66af124fe46bd6a51d681801b03637ef",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179170",
+    "job_title": "Medical Support Specialist (EMT, AEMT, EMTI) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "WI - Onalaska",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Onalaska",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Medical-Support-Specialist--EMT--AEMT--EMTI----Immediate-Benefits-_R0179170-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b0f5590415091b31c71e169b8c1c6c2b9467cae7d9ccfdfcff16185d4d39b16",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -13625,150 +13625,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-24T07:01:10.578Z"
-  },
-  {
-    "job_id": "workday-entegris-REQ-11212",
-    "job_title": "Scientist I, Research Associate",
-    "employer_name": "Entegris",
-    "job_city": "San Luis Obispo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Luis Obispo, CA",
-    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Scientist-I--Research-Associate_REQ-11212",
-    "job_posted_at_datetime_utc": "2026-04-24T07:00:51.044Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7c9c9f31d9c863b38b9b8ded08dc289b46ff71ee634e3bc0a2d09349b4f56806",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:00:51.044Z"
-  },
-  {
-    "job_id": "workday-cigna-26000746",
-    "job_title": "Provider Contracting Advisor - Hospital & Physician Negotiations - Hybrid - Pittsburgh, PA",
-    "employer_name": "Cigna",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Pittsburgh, PA + 5 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Pittsburgh-PA/Contract-Manager--Hospital---Physician-Negotiations---Hybrid---Pittsburgh--PA_26000746",
-    "job_posted_at_datetime_utc": "2026-04-24T07:00:35.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6540fa75a38d05082388cd27845c8359a5624d1cbac8f7c20cd48116b3e930aa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:00:35.378Z"
-  },
-  {
-    "job_id": "workday-cigna-26004547",
-    "job_title": "Pharmacy Technician Representative - Accredo Specialty Pharmacy - Memphis, TN",
-    "employer_name": "Cigna",
-    "job_city": "Memphis",
-    "job_state": "TN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Memphis, TN",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Memphis-TN/Pharmacy-Technician-Representative---Accredo-Specialty-Pharmacy---Memphis--TN_26004547",
-    "job_posted_at_datetime_utc": "2026-04-24T07:00:35.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2a702b532bc7641404482998f1d2ccbd275a11e95110d15d5ddc1513ce3dfc44",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:00:35.378Z"
-  },
-  {
-    "job_id": "workday-cigna-26004858",
-    "job_title": "Pharmacy Technician Representative - Accredo Specialty Pharmacy - Corona, CA",
-    "employer_name": "Cigna",
-    "job_city": "Corona",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Corona, CA",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Corona-CA/Pharmacy-Technician-Representative---Accredo-Specialty-Pharmacy---Corona--CA_26004858-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:00:35.378Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9203889e19ac392a2b370473c58421827c03d20b9f3e82ccef81b763b5e2f68b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:00:35.378Z"
-  },
-  {
-    "job_id": "workday-carrier-global-30202948",
-    "job_title": "Rentals Equipment Coordinator",
-    "employer_name": "Carrier Global",
-    "job_city": "Houston, 100 Southbelt Industrial Drive, Houston, TX, 77047 USA",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "CAT27: CRS-Houston, 100 Southbelt Industrial Drive, Houston, TX, 77047 USA",
-    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT27-CRS-Houston-100-Southbelt-Industrial-Drive-Houston-TX-77047-USA/Rentals-Equipment-Coordinator_30202948",
-    "job_posted_at_datetime_utc": "2026-04-24T07:00:27.003Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8bd2b8c4c8eac6d4ac3cb88b617db323dc57f6ec014f176c3a6269f8ba044278",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:00:27.003Z"
   }
 ]
