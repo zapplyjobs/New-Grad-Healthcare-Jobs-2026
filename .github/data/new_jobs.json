@@ -5014,35 +5014,6 @@
     "job_posted_at": "2026-04-28T07:12:49.311Z"
   },
   {
-    "job_id": "workday-abbott-31148866",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Columbus",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
-    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:12:28.711Z"
-  },
-  {
     "job_id": "workday-abbott-31148530",
     "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
     "employer_name": "Abbott",
@@ -5130,19 +5101,19 @@
     "job_posted_at": "2026-04-28T07:12:28.711Z"
   },
   {
-    "job_id": "workday-takeda-R0179272",
-    "job_title": "LPN - 1,500 Sign On Bonus - Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
+    "job_id": "workday-abbott-31148866",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - KS - Lenexa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/LPN---1-500-Sign-On-Bonus---Day-One-Benefits_R0179272-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
+    "job_location": "United States - Ohio - Columbus",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
+    "job_posted_at_datetime_utc": "2026-04-28T07:12:28.711Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "87e839896c309621ca7bfef2817a07807d49244843d372f4610e40d396b5a6d2",
+    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5156,36 +5127,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179274",
-    "job_title": "Paramedic – $1,500 Sign On Bonus",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - KS - Lenexa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/Paramedic----1-500-Sign-On-Bonus_R0179274-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "518a6f0d03056c8b0dcb30e0d5f2d45d4bb8e56f71ec8baf052319b74e6cb36d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:53.048Z"
+    "job_posted_at": "2026-04-28T07:12:28.711Z"
   },
   {
     "job_id": "workday-takeda-R0179324",
@@ -5549,6 +5491,64 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "340393eea0936fadf80c7bbdee063acf5a7b9aab92035c8c09d2f0bdf00cbaf8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179272",
+    "job_title": "LPN - 1,500 Sign On Bonus - Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - KS - Lenexa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/LPN---1-500-Sign-On-Bonus---Day-One-Benefits_R0179272-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87e839896c309621ca7bfef2817a07807d49244843d372f4610e40d396b5a6d2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179274",
+    "job_title": "Paramedic – $1,500 Sign On Bonus",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - KS - Lenexa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/Paramedic----1-500-Sign-On-Bonus_R0179274-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "518a6f0d03056c8b0dcb30e0d5f2d45d4bb8e56f71ec8baf052319b74e6cb36d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10520,6 +10520,36 @@
     "job_posted_at": "2026-04-27T02:58:13.886Z"
   },
   {
+    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
+    "job_title": "Part-Time, Virtual Physician",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "New York, NY or Remote",
+    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
     "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
     "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
     "employer_name": "Ro",
@@ -10707,36 +10737,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f5b195d38935cb0974acd06d48e6a9674dd5ffc43d2bc2c117ba581f0155938f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-7fe97b9f-13d2-4042-9687-c04580d8a982",
-    "job_title": "Part-Time, Virtual Physician",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "New York, NY or Remote",
-    "job_apply_link": "https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4e5aadd5fb09732f1415a987263670391ba6018f1817b5a4470262409897a82",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11263,36 +11263,6 @@
     "job_posted_at": "2026-04-27T01:04:43.168Z"
   },
   {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
     "job_id": "lever-includedhealth-310a88a1-7535-4534-8e5a-14c79cad5761",
     "job_title": "Nurse Care Manager, Adult",
     "employer_name": "Included Health",
@@ -11456,6 +11426,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12655,93 +12655,6 @@
     "job_posted_at": "2026-04-24T07:04:13.988Z"
   },
   {
-    "job_id": "workday-takeda-R0179172",
-    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "WI - Onalaska",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Onalaska",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0179172-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22d15add8bc4361ae7a0e5139a7ab709ceb6e77b58fbe2b2e772d7231b299c46",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179171",
-    "job_title": "Plasma Center Licensed Practical Nurse (LPN) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "WI - Onalaska",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Onalaska",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Licensed-Practical-Nurse--LPN----Immediate-Benefits-_R0179171-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "14b33cd9aea49b6405372228938cc5ea66af124fe46bd6a51d681801b03637ef",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179170",
-    "job_title": "Medical Support Specialist (EMT, AEMT, EMTI) – Immediate Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "WI - Onalaska",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Onalaska",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Medical-Support-Specialist--EMT--AEMT--EMTI----Immediate-Benefits-_R0179170-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6b0f5590415091b31c71e169b8c1c6c2b9467cae7d9ccfdfcff16185d4d39b16",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:03:53.048Z"
-  },
-  {
     "job_id": "workday-takeda-R0179142",
     "job_title": "LPN – Day One benefits",
     "employer_name": "Takeda",
@@ -13074,6 +12987,93 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f8b900f8d8347d486671e420b1012b57ad4ce797219030e7f5bfc69b0ebcc1a0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179172",
+    "job_title": "Plasma Center Registered Nurse (RN) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "WI - Onalaska",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Onalaska",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Registered-Nurse--RN----Immediate-Benefits-_R0179172-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22d15add8bc4361ae7a0e5139a7ab709ceb6e77b58fbe2b2e772d7231b299c46",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179171",
+    "job_title": "Plasma Center Licensed Practical Nurse (LPN) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "WI - Onalaska",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Onalaska",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Plasma-Center-Licensed-Practical-Nurse--LPN----Immediate-Benefits-_R0179171-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "14b33cd9aea49b6405372228938cc5ea66af124fe46bd6a51d681801b03637ef",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-24T07:03:53.048Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179170",
+    "job_title": "Medical Support Specialist (EMT, AEMT, EMTI) – Immediate Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "WI - Onalaska",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Onalaska",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Onalaska/Medical-Support-Specialist--EMT--AEMT--EMTI----Immediate-Benefits-_R0179170-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:03:53.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b0f5590415091b31c71e169b8c1c6c2b9467cae7d9ccfdfcff16185d4d39b16",
     "tags": {
       "employment": "entry_level",
       "domains": [
