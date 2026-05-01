@@ -3247,19 +3247,19 @@
     "job_posted_at": "2026-04-30T00:10:49.576Z"
   },
   {
-    "job_id": "greenhouse-oscar-7819672",
+    "job_id": "greenhouse-oscar-7812522",
     "job_title": "Associate, UM Regulatory Operations",
     "employer_name": "Oscar Health",
-    "job_city": "Tempe",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7819672?gh_jid=7819672",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7812522?gh_jid=7812522",
     "job_posted_at_datetime_utc": "2026-04-29T23:03:15.230Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "752eceaaf7c8054f18d1c6b484c5430a8d167c90e199927895c3e47270564abb",
+    "fingerprint": "2e03cc83834ac7d235aea86fa30774a8bc95b0d03f9885c1bb6432c94a977fbb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3276,19 +3276,19 @@
     "job_posted_at": "2026-04-29T23:03:15.230Z"
   },
   {
-    "job_id": "greenhouse-oscar-7812522",
+    "job_id": "greenhouse-oscar-7819672",
     "job_title": "Associate, UM Regulatory Operations",
     "employer_name": "Oscar Health",
-    "job_city": "New York",
+    "job_city": "Tempe",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7812522?gh_jid=7812522",
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7819672?gh_jid=7819672",
     "job_posted_at_datetime_utc": "2026-04-29T23:03:15.230Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2e03cc83834ac7d235aea86fa30774a8bc95b0d03f9885c1bb6432c94a977fbb",
+    "fingerprint": "752eceaaf7c8054f18d1c6b484c5430a8d167c90e199927895c3e47270564abb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3689,6 +3689,35 @@
     "job_posted_at": "2026-04-29T07:11:44.597Z"
   },
   {
+    "job_id": "workday-abbott-31149132",
+    "job_title": "Clinical Associate",
+    "employer_name": "Abbott",
+    "job_city": "California - San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - California - San Francisco",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Francisco/Clinical-Associate_31149132-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:11:17.345Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "79258ecc158730b550915d7c8255e5b32bcae14f3354bcd80cc0ae1baf10cda9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:11:17.345Z"
+  },
+  {
     "job_id": "workday-abbott-31147606",
     "job_title": "Clinical Specialist, Vessel Closure - Phoenix/Tucson, AZ",
     "employer_name": "Abbott",
@@ -3760,35 +3789,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:11:17.345Z"
-  },
-  {
-    "job_id": "workday-abbott-31149132",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "California - San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - California - San Francisco",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Francisco/Clinical-Associate_31149132-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:11:17.345Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "79258ecc158730b550915d7c8255e5b32bcae14f3354bcd80cc0ae1baf10cda9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5642,6 +5642,35 @@
     "job_posted_at": "2026-04-28T07:11:41.597Z"
   },
   {
+    "job_id": "workday-abbott-31148866",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Ohio - Columbus",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
+    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:11:17.346Z"
+  },
+  {
     "job_id": "workday-abbott-31148530",
     "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
     "employer_name": "Abbott",
@@ -5713,35 +5742,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:11:17.346Z"
-  },
-  {
-    "job_id": "workday-abbott-31148866",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Columbus",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
-    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5843,64 +5843,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-28T07:03:08.772Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176875",
-    "job_title": "Plasma Center Manager",
-    "employer_name": "Takeda",
-    "job_city": "MA - Worcester",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MA - Worcester",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Worcester/Plasma-Center-Manager_R0176875-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bbbce83f9c5ee8faadfd1825c70f1cfcc9202e8b1b3709028a2db8387fc9e941",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178846",
-    "job_title": "Rare Disease Business Manager-LSD- Michigan",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Michigan - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Michigan---Virtual/Rare-Disease-Business-Manager-LSD--Michigan_R0178846-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "340393eea0936fadf80c7bbdee063acf5a7b9aab92035c8c09d2f0bdf00cbaf8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
   },
   {
     "job_id": "workday-takeda-R0179324",
@@ -6222,6 +6164,64 @@
     "job_posted_at": "2026-04-28T07:03:08.771Z"
   },
   {
+    "job_id": "workday-takeda-R0176875",
+    "job_title": "Plasma Center Manager",
+    "employer_name": "Takeda",
+    "job_city": "MA - Worcester",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MA - Worcester",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Worcester/Plasma-Center-Manager_R0176875-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bbbce83f9c5ee8faadfd1825c70f1cfcc9202e8b1b3709028a2db8387fc9e941",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178846",
+    "job_title": "Rare Disease Business Manager-LSD- Michigan",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Michigan - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Michigan---Virtual/Rare-Disease-Business-Manager-LSD--Michigan_R0178846-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "340393eea0936fadf80c7bbdee063acf5a7b9aab92035c8c09d2f0bdf00cbaf8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01350148",
     "job_title": "QC Scientist I",
     "employer_name": "Thermo Fisher Scientific",
@@ -6309,36 +6309,6 @@
     "job_posted_at": "2026-04-28T07:02:55.631Z"
   },
   {
-    "job_id": "workday-philips-579348",
-    "job_title": "Cardiology Clinical Product Manager- Pediatric Sonographer",
-    "employer_name": "Philips",
-    "job_city": "Cambridge (US)",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cambridge (US), Massachusetts, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Cardiology-Clinical-Product-Manager--Pediatric-Sonographer_579348-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:44.221Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d681651e8d37d401e208e48a24e2644ce6b79fc06ee4dfe6db17f8bde1ae1e20",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:44.221Z"
-  },
-  {
     "job_id": "workday-philips-580988",
     "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Washington, DC)",
     "employer_name": "Philips",
@@ -6357,6 +6327,36 @@
       "domains": [
         "healthcare",
         "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:44.221Z"
+  },
+  {
+    "job_id": "workday-philips-579348",
+    "job_title": "Cardiology Clinical Product Manager- Pediatric Sonographer",
+    "employer_name": "Philips",
+    "job_city": "Cambridge (US)",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cambridge (US), Massachusetts, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Cardiology-Clinical-Product-Manager--Pediatric-Sonographer_579348-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:44.221Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d681651e8d37d401e208e48a24e2644ce6b79fc06ee4dfe6db17f8bde1ae1e20",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "product"
       ],
       "locations": [
         "us"
@@ -6396,6 +6396,35 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-28T07:02:44.220Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65318",
+    "job_title": "Vascular Clinical Specialist - Los Angeles, CA",
+    "employer_name": "Medtronic",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Los Angeles, California, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Vascular-Clinical-Specialist--_R65318-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:01:56.502Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8aee7a654b88edd604d430f7675d6c2019856bd7f4d1c9b10af80b28640ebea2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:01:56.502Z"
   },
   {
     "job_id": "workday-medtronic-R65369",
@@ -6469,35 +6498,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "eb7cb9e58afc331803dbd777338fdf0dab227e848473365df89f07bfa486bd02",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:01:56.502Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65318",
-    "job_title": "Vascular Clinical Specialist - Los Angeles, CA",
-    "employer_name": "Medtronic",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Los Angeles, California, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Vascular-Clinical-Specialist--_R65318-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:01:56.502Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8aee7a654b88edd604d430f7675d6c2019856bd7f4d1c9b10af80b28640ebea2",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7537,19 +7537,19 @@
     "job_posted_at": "2026-04-27T22:17:08.975Z"
   },
   {
-    "job_id": "greenhouse-oscar-7813060",
+    "job_id": "greenhouse-oscar-7813059",
     "job_title": "Associate, Care Navigation Programs",
     "employer_name": "Oscar Health",
-    "job_city": "Atlanta",
+    "job_city": "Dallas",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Atlanta, Georgia, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7813060?gh_jid=7813060",
+    "job_location": "Dallas, Texas, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7813059?gh_jid=7813059",
     "job_posted_at_datetime_utc": "2026-04-27T22:17:08.975Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "69f6b8029b04a16374d0823660a044c4788b768b1335392a7c99c21654193ebf",
+    "fingerprint": "4eadfe355b3f7e7712b3de571e2ba828c9574e3c95cf662dbacf7e2d3894b5be",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7566,19 +7566,19 @@
     "job_posted_at": "2026-04-27T22:17:08.975Z"
   },
   {
-    "job_id": "greenhouse-oscar-7813059",
+    "job_id": "greenhouse-oscar-7813060",
     "job_title": "Associate, Care Navigation Programs",
     "employer_name": "Oscar Health",
-    "job_city": "Dallas",
+    "job_city": "Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Dallas, Texas, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7813059?gh_jid=7813059",
+    "job_location": "Atlanta, Georgia, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7813060?gh_jid=7813060",
     "job_posted_at_datetime_utc": "2026-04-27T22:17:08.975Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4eadfe355b3f7e7712b3de571e2ba828c9574e3c95cf662dbacf7e2d3894b5be",
+    "fingerprint": "69f6b8029b04a16374d0823660a044c4788b768b1335392a7c99c21654193ebf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9398,64 +9398,6 @@
     "job_posted_at": "2026-04-27T07:02:41.449Z"
   },
   {
-    "job_id": "workday-medtronic-R64799",
-    "job_title": "Clinical Specialist CRM - Palm Beach Gardens / Jupiter",
-    "employer_name": "Medtronic",
-    "job_city": "Jupiter",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Jupiter, Florida, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jupiter-Florida-United-States-of-America/Clinical-Specialist-CRM---Palm-Beach-Gardens---Jupiter_R64799-2",
-    "job_posted_at_datetime_utc": "2026-04-27T07:01:56.502Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4aca185b2150fdeb21dd36a44f808c753865bf0a786a9c73d6798d2cc980a96c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:01:56.502Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63211",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
-    "job_posted_at_datetime_utc": "2026-04-27T07:01:56.502Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:01:56.502Z"
-  },
-  {
     "job_id": "workday-medtronic-R65233",
     "job_title": "Vascular Clinical Specialist - Chicago",
     "employer_name": "Medtronic",
@@ -9536,6 +9478,64 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:01:56.502Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64799",
+    "job_title": "Clinical Specialist CRM - Palm Beach Gardens / Jupiter",
+    "employer_name": "Medtronic",
+    "job_city": "Jupiter",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Jupiter, Florida, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jupiter-Florida-United-States-of-America/Clinical-Specialist-CRM---Palm-Beach-Gardens---Jupiter_R64799-2",
+    "job_posted_at_datetime_utc": "2026-04-27T07:01:56.502Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4aca185b2150fdeb21dd36a44f808c753865bf0a786a9c73d6798d2cc980a96c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:01:56.502Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63211",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
+    "job_posted_at_datetime_utc": "2026-04-27T07:01:56.502Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -9983,19 +9983,19 @@
     "job_posted_at": "2026-04-27T07:00:39.224Z"
   },
   {
-    "job_id": "workday-idexx-J-052663",
-    "job_title": "Medical Laboratory Technician",
+    "job_id": "workday-idexx-J-052273",
+    "job_title": "Data Billing Associate - Veterinary Software",
     "employer_name": "IDEXX",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "Westbrook",
+    "job_state": "ME",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/New-York-NY/Medical-Laboratory-Technician_J-052663",
+    "job_location": "Westbrook, ME",
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273",
     "job_posted_at_datetime_utc": "2026-04-27T07:00:33.533Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d78e3563b065df8833519a2e274c320f8d390d390c686c65ff49014ca49dc69b",
+    "fingerprint": "2da70852ce88fbfe85ffc8b0e342a37c1809a29f75dd484048cc0a6e567e816b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10012,19 +10012,19 @@
     "job_posted_at": "2026-04-27T07:00:33.533Z"
   },
   {
-    "job_id": "workday-idexx-J-052273",
-    "job_title": "Data Billing Associate - Veterinary Software",
+    "job_id": "workday-idexx-J-052663",
+    "job_title": "Medical Laboratory Technician",
     "employer_name": "IDEXX",
-    "job_city": "Westbrook",
-    "job_state": "ME",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Westbrook, ME",
-    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/New-York-NY/Medical-Laboratory-Technician_J-052663",
     "job_posted_at_datetime_utc": "2026-04-27T07:00:33.533Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2da70852ce88fbfe85ffc8b0e342a37c1809a29f75dd484048cc0a6e567e816b",
+    "fingerprint": "d78e3563b065df8833519a2e274c320f8d390d390c686c65ff49014ca49dc69b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10554,35 +10554,6 @@
     "job_posted_at": "2026-04-27T02:58:16.690Z"
   },
   {
-    "job_id": "greenhouse-oscar-7507028",
-    "job_title": "Associate, Case Management Strategic Operations",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7507028?gh_jid=7507028",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.507Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e2817cfa8d81466a958c53e142d9537e44db20a334ed6c2fc4c1d112e64cff4f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:16.507Z"
-  },
-  {
     "job_id": "greenhouse-oscar-7507023",
     "job_title": "Associate, Case Management Strategic Operations",
     "employer_name": "Oscar Health",
@@ -10612,19 +10583,19 @@
     "job_posted_at": "2026-04-27T02:58:16.507Z"
   },
   {
-    "job_id": "greenhouse-oscar-7450345",
+    "job_id": "greenhouse-oscar-7507028",
     "job_title": "Associate, Case Management Strategic Operations",
     "employer_name": "Oscar Health",
-    "job_city": "New York",
+    "job_city": "Tempe",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7450345?gh_jid=7450345",
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7507028?gh_jid=7507028",
     "job_posted_at_datetime_utc": "2026-04-27T02:58:16.507Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "505141fc7a43d5dcb38d9624e260faa5fa8f6926ae24d458c9da047705459222",
+    "fingerprint": "e2817cfa8d81466a958c53e142d9537e44db20a334ed6c2fc4c1d112e64cff4f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10654,6 +10625,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a0332fca3381a9bfee0965e0a3de98aec6556a041c07da67bfdc3e5f7ac227cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:16.507Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7450345",
+    "job_title": "Associate, Case Management Strategic Operations",
+    "employer_name": "Oscar Health",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7450345?gh_jid=7450345",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.507Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "505141fc7a43d5dcb38d9624e260faa5fa8f6926ae24d458c9da047705459222",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11891,66 +11891,6 @@
     "job_posted_at": "2026-04-27T01:04:43.168Z"
   },
   {
-    "job_id": "lever-includedhealth-b7290833-c901-42ce-a94a-5369d6b01cdf",
-    "job_title": "Pediatric Behavioral Health Nurse Care Manager",
-    "employer_name": "Included Health",
-    "job_city": "Colorado",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Colorado",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/b7290833-c901-42ce-a94a-5369d6b01cdf/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a01f69ac8d7ebcbc0805893eed0c07a18f031482c3afeffdb862ffef46a5bf8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
-    "job_id": "lever-includedhealth-c199c441-a47c-4dbd-bfae-139a17e782b6",
-    "job_title": "Pediatric Behavioral Health Nurse Care Manager",
-    "employer_name": "Included Health",
-    "job_city": "Arizona",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Arizona",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/c199c441-a47c-4dbd-bfae-139a17e782b6/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
     "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
     "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
     "employer_name": "Included Health",
@@ -12084,6 +12024,66 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "efa5aedfee38ce174c596181b0ac1e29663bd7db1155556f969fb3185ed2992f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
+    "job_id": "lever-includedhealth-b7290833-c901-42ce-a94a-5369d6b01cdf",
+    "job_title": "Pediatric Behavioral Health Nurse Care Manager",
+    "employer_name": "Included Health",
+    "job_city": "Colorado",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Colorado",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/b7290833-c901-42ce-a94a-5369d6b01cdf/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a01f69ac8d7ebcbc0805893eed0c07a18f031482c3afeffdb862ffef46a5bf8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
+    "job_id": "lever-includedhealth-c199c441-a47c-4dbd-bfae-139a17e782b6",
+    "job_title": "Pediatric Behavioral Health Nurse Care Manager",
+    "employer_name": "Included Health",
+    "job_city": "Arizona",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Arizona",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/c199c441-a47c-4dbd-bfae-139a17e782b6/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12429,19 +12429,19 @@
     "job_posted_at": "2026-04-27T00:28:46.438Z"
   },
   {
-    "job_id": "greenhouse-oscar-7559065",
+    "job_id": "greenhouse-oscar-7584310",
     "job_title": "UM Program Operations Manager",
     "employer_name": "Oscar Health",
-    "job_city": "New York",
+    "job_city": "Tempe",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7559065?gh_jid=7559065",
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7584310?gh_jid=7584310",
     "job_posted_at_datetime_utc": "2026-04-27T00:28:41.049Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "24d6350723f20568c0bdc048879110c92d1333d733ff52e193ea3a5bd51e47cd",
+    "fingerprint": "a57e20c6edd0f45b400d9c4e217d4ebfbac940ac3de47d607348ef23e8a2085f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12458,19 +12458,19 @@
     "job_posted_at": "2026-04-27T00:28:41.049Z"
   },
   {
-    "job_id": "greenhouse-oscar-7584310",
+    "job_id": "greenhouse-oscar-7559065",
     "job_title": "UM Program Operations Manager",
     "employer_name": "Oscar Health",
-    "job_city": "Tempe",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7584310?gh_jid=7584310",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7559065?gh_jid=7559065",
     "job_posted_at_datetime_utc": "2026-04-27T00:28:41.049Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a57e20c6edd0f45b400d9c4e217d4ebfbac940ac3de47d607348ef23e8a2085f",
+    "fingerprint": "24d6350723f20568c0bdc048879110c92d1333d733ff52e193ea3a5bd51e47cd",
     "tags": {
       "employment": "entry_level",
       "domains": [
