@@ -303,70 +303,6 @@
     "job_posted_at": "2026-05-02T04:34:48.976Z"
   },
   {
-    "job_id": "workday-walmart-R-2497141",
-    "job_title": "Part-Time Pharmacy Tech Certified Sam's",
-    "employer_name": "Walmart",
-    "job_city": "(USA) PA YORK 08161 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) PA YORK 08161 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-PA-YORK-08161-SAMS-CLUB/Part-Time-Pharmacy-Tech-Certified-Sam-s_R-2497141",
-    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2b36c7662d9ffa3f9222621bf3e742a040474a6378df6334baf5b807d353c95",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-02T00:22:27.996Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2497076",
-    "job_title": "Pharmacist Manager - Sam's Pharmacy",
-    "employer_name": "Walmart",
-    "job_city": "West Mifflin",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "West Mifflin, PA",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/West-Mifflin-PA/Pharmacist-Manager---Sam-s-Pharmacy_R-2497076",
-    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2089dd24587c9f8a5263ece40ef654e5eb92b953bca5141eb9b2e7fbd7a0e4c1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-02T00:22:27.996Z"
-  },
-  {
     "job_id": "workday-walmart-R-2497399",
     "job_title": "(USA) Pharmacy Tech Certified Sam's",
     "employer_name": "Walmart",
@@ -412,6 +348,70 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "575937aa1cb57413e690e485c2011f1d0f49303722995a683f1e337f19db86d3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-02T00:22:27.996Z"
+  },
+  {
+    "job_id": "workday-walmart-R-2497141",
+    "job_title": "Part-Time Pharmacy Tech Certified Sam's",
+    "employer_name": "Walmart",
+    "job_city": "(USA) PA YORK 08161 SAM'S CLUB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "(USA) PA YORK 08161 SAM'S CLUB",
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-PA-YORK-08161-SAMS-CLUB/Part-Time-Pharmacy-Tech-Certified-Sam-s_R-2497141",
+    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d2b36c7662d9ffa3f9222621bf3e742a040474a6378df6334baf5b807d353c95",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-02T00:22:27.996Z"
+  },
+  {
+    "job_id": "workday-walmart-R-2497076",
+    "job_title": "Pharmacist Manager - Sam's Pharmacy",
+    "employer_name": "Walmart",
+    "job_city": "West Mifflin",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "West Mifflin, PA",
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/West-Mifflin-PA/Pharmacist-Manager---Sam-s-Pharmacy_R-2497076",
+    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2089dd24587c9f8a5263ece40ef654e5eb92b953bca5141eb9b2e7fbd7a0e4c1",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3035,126 +3035,6 @@
     "job_posted_at": "2026-04-30T13:31:47.835Z"
   },
   {
-    "job_id": "workday-takeda-R0176991",
-    "job_title": "Sr Mgr, Medical Content SME",
-    "employer_name": "Takeda",
-    "job_city": "Lexington",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Lexington, MA",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Lexington-MA/Sr-Mgr--Medical-Content-SME-_R0176991-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "577f9450d61a0b61a2d4e5e38050f0f294d6e563f0c1551086dc07c842426c6b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:47:33.640Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179421",
-    "job_title": "Paramedic/EMT-P- Day 1 Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "TX - Abilene",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Abilene",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Paramedic-EMT-P--Day-1-Benefits-_R0179421-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50ba5d7119fa7dda3d4f3a934e26200d339c9f6debaed16cfe66be2ebed28f25",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:47:33.640Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179420",
-    "job_title": "Plasma Center Nurse- LPN- Day 1 Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "TX - Abilene",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Abilene",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--LPN--Day-1-Benefits-_R0179420-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a539bfb1b1f78f88bdedb6b8ad58356a88fe00677c23a54fe5b9896051392ac7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:47:33.640Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179419",
-    "job_title": "Plasma Center Nurse- RN- Day 1 Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "TX - Abilene",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Abilene",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--RN--Day-1-Benefits-_R0179419-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e5b1e6b620bf60418da0a68c5554fa80af20bee6d69a57d511fd63c6a640c1e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:47:33.640Z"
-  },
-  {
     "job_id": "workday-takeda-R0175138",
     "job_title": "EMT – I – No Overnight Shifts",
     "employer_name": "Takeda",
@@ -3635,19 +3515,19 @@
     "job_posted_at": "2026-04-30T07:47:33.640Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01347202",
-    "job_title": "Field Applications Scientist, Proteomics (Remote - MD/DC)",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "District of Columbia",
-    "job_state": "",
+    "job_id": "workday-takeda-R0176991",
+    "job_title": "Sr Mgr, Medical Content SME",
+    "employer_name": "Takeda",
+    "job_city": "Lexington",
+    "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "District of Columbia + 5 more",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/Field-Applications-Scientist--Proteomics--Remote---MD-DC-_R-01347202",
-    "job_posted_at_datetime_utc": "2026-04-30T07:47:17.555Z",
+    "job_location": "Lexington, MA",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Lexington-MA/Sr-Mgr--Medical-Content-SME-_R0176991-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bfe4d27bd0bff791fd49d2de138e05b3d6917663511d015a74a9bae9d7e73be4",
+    "fingerprint": "577f9450d61a0b61a2d4e5e38050f0f294d6e563f0c1551086dc07c842426c6b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3662,7 +3542,97 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:47:17.555Z"
+    "job_posted_at": "2026-04-30T07:47:33.640Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179421",
+    "job_title": "Paramedic/EMT-P- Day 1 Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "TX - Abilene",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Abilene",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Paramedic-EMT-P--Day-1-Benefits-_R0179421-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50ba5d7119fa7dda3d4f3a934e26200d339c9f6debaed16cfe66be2ebed28f25",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:47:33.640Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179420",
+    "job_title": "Plasma Center Nurse- LPN- Day 1 Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "TX - Abilene",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Abilene",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--LPN--Day-1-Benefits-_R0179420-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a539bfb1b1f78f88bdedb6b8ad58356a88fe00677c23a54fe5b9896051392ac7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:47:33.640Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179419",
+    "job_title": "Plasma Center Nurse- RN- Day 1 Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "TX - Abilene",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Abilene",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--RN--Day-1-Benefits-_R0179419-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9e5b1e6b620bf60418da0a68c5554fa80af20bee6d69a57d511fd63c6a640c1e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:47:33.640Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01349605",
@@ -3779,6 +3749,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "db6da49de3e8a649457655d698a67b7e9a4e79a75a3932fb90b73f0a416701e1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:47:17.555Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01347202",
+    "job_title": "Field Applications Scientist, Proteomics (Remote - MD/DC)",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "District of Columbia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "District of Columbia + 5 more",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/Field-Applications-Scientist--Proteomics--Remote---MD-DC-_R-01347202",
+    "job_posted_at_datetime_utc": "2026-04-30T07:47:17.555Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bfe4d27bd0bff791fd49d2de138e05b3d6917663511d015a74a9bae9d7e73be4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4307,36 +4307,6 @@
     "job_posted_at": "2026-04-30T07:44:58.961Z"
   },
   {
-    "job_id": "workday-cigna-26004741",
-    "job_title": "Pharmacy Technician - Accredo - Norcross, GA",
-    "employer_name": "Cigna",
-    "job_city": "Norcross",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Norcross, GA + 1 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Norcross-GA/Pharmacy-Technician---Accredo---Norcross--GA_26004741",
-    "job_posted_at_datetime_utc": "2026-04-30T07:44:21.390Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:44:21.390Z"
-  },
-  {
     "job_id": "workday-cigna-26004418",
     "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
     "employer_name": "Cigna",
@@ -4427,6 +4397,36 @@
     "job_posted_at": "2026-04-30T07:44:21.390Z"
   },
   {
+    "job_id": "workday-cigna-26004741",
+    "job_title": "Pharmacy Technician - Accredo - Norcross, GA",
+    "employer_name": "Cigna",
+    "job_city": "Norcross",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Norcross, GA + 1 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Norcross-GA/Pharmacy-Technician---Accredo---Norcross--GA_26004741",
+    "job_posted_at_datetime_utc": "2026-04-30T07:44:21.390Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:44:21.390Z"
+  },
+  {
     "job_id": "workday-caterpillar-R0000366643",
     "job_title": "Nurse (1st Shift)",
     "employer_name": "Caterpillar",
@@ -4455,36 +4455,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-30T07:44:19.084Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65662",
-    "job_title": "Cardiac Rhythm Management Associate Clinical Specialist - Little Rock",
-    "employer_name": "Medtronic",
-    "job_city": "Little Rock",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Little Rock, Arkansas, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist---Little-Rock_R65662",
-    "job_posted_at_datetime_utc": "2026-04-30T07:34:55.982Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b6665d45d8e5c6b1c4b82d6ebeae96e3f5fcfb957ddad2950739548f53a42d55",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:34:55.982Z"
   },
   {
     "job_id": "workday-medtronic-R65554",
@@ -4530,6 +4500,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1543a476c0ec443f71ccd7d8ed8a850100b94e51689911bc4ad3f5f8f98eafca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:34:55.982Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65662",
+    "job_title": "Cardiac Rhythm Management Associate Clinical Specialist - Little Rock",
+    "employer_name": "Medtronic",
+    "job_city": "Little Rock",
+    "job_state": "AR",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Little Rock, Arkansas, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist---Little-Rock_R65662",
+    "job_posted_at_datetime_utc": "2026-04-30T07:34:55.982Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b6665d45d8e5c6b1c4b82d6ebeae96e3f5fcfb957ddad2950739548f53a42d55",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9027,36 +9027,6 @@
     "job_posted_at": "2026-04-27T22:32:22.579Z"
   },
   {
-    "job_id": "greenhouse-oscar-7813059",
-    "job_title": "Associate, Care Navigation Programs",
-    "employer_name": "Oscar Health",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas, Texas, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7813059?gh_jid=7813059",
-    "job_posted_at_datetime_utc": "2026-04-27T22:17:08.975Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4eadfe355b3f7e7712b3de571e2ba828c9574e3c95cf662dbacf7e2d3894b5be",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T22:17:08.975Z"
-  },
-  {
     "job_id": "greenhouse-oscar-7813060",
     "job_title": "Associate, Care Navigation Programs",
     "employer_name": "Oscar Health",
@@ -9130,6 +9100,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1d76569452b0ab680390d1e2311d16a27135fdac2b8fabd1ceb35ed580531781",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T22:17:08.975Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7813059",
+    "job_title": "Associate, Care Navigation Programs",
+    "employer_name": "Oscar Health",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas, Texas, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7813059?gh_jid=7813059",
+    "job_posted_at_datetime_utc": "2026-04-27T22:17:08.975Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4eadfe355b3f7e7712b3de571e2ba828c9574e3c95cf662dbacf7e2d3894b5be",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9820,6 +9820,36 @@
     "job_posted_at": "2026-04-27T07:11:17.347Z"
   },
   {
+    "job_id": "workday-abbott-31113914",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO; Denver, CO",
+    "employer_name": "Abbott",
+    "job_city": "Colorado - Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Colorado - Colorado Springs",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3c0c9e72ae6b6dee2b5feb128d51c79427f386cd30d3587ad96c0f0a1c4ce0c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
     "job_id": "workday-abbott-31147362",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bremen, GA",
     "employer_name": "Abbott",
@@ -10314,36 +10344,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1b9c581c5605db7455af414dbc1d1c7a4ca07a88710893ad548dfaa3803b19e1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31113914",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO; Denver, CO",
-    "employer_name": "Abbott",
-    "job_city": "Colorado - Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Colorado - Colorado Springs",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3c0c9e72ae6b6dee2b5feb128d51c79427f386cd30d3587ad96c0f0a1c4ce0c8",
     "tags": {
       "employment": "entry_level",
       "domains": [
