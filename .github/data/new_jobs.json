@@ -4307,66 +4307,6 @@
     "job_posted_at": "2026-04-30T07:44:58.961Z"
   },
   {
-    "job_id": "workday-cigna-26004741",
-    "job_title": "Pharmacy Technician - Accredo - Norcross, GA",
-    "employer_name": "Cigna",
-    "job_city": "Norcross",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Norcross, GA + 1 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Norcross-GA/Pharmacy-Technician---Accredo---Norcross--GA_26004741",
-    "job_posted_at_datetime_utc": "2026-04-30T07:44:21.390Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:44:21.390Z"
-  },
-  {
-    "job_id": "workday-cigna-26004418",
-    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
-    "employer_name": "Cigna",
-    "job_city": "Clinic Arlington County Clarendon Blvd",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
-    "job_posted_at_datetime_utc": "2026-04-30T07:44:21.390Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:44:21.390Z"
-  },
-  {
     "job_id": "workday-cigna-26004429",
     "job_title": "Home Infusion Nurse, Per Diem – Accredo - Springfield, IL",
     "employer_name": "Cigna",
@@ -4427,6 +4367,66 @@
     "job_posted_at": "2026-04-30T07:44:21.390Z"
   },
   {
+    "job_id": "workday-cigna-26004741",
+    "job_title": "Pharmacy Technician - Accredo - Norcross, GA",
+    "employer_name": "Cigna",
+    "job_city": "Norcross",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Norcross, GA + 1 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Norcross-GA/Pharmacy-Technician---Accredo---Norcross--GA_26004741",
+    "job_posted_at_datetime_utc": "2026-04-30T07:44:21.390Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:44:21.390Z"
+  },
+  {
+    "job_id": "workday-cigna-26004418",
+    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
+    "employer_name": "Cigna",
+    "job_city": "Clinic Arlington County Clarendon Blvd",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
+    "job_posted_at_datetime_utc": "2026-04-30T07:44:21.390Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:44:21.390Z"
+  },
+  {
     "job_id": "workday-caterpillar-R0000366643",
     "job_title": "Nurse (1st Shift)",
     "employer_name": "Caterpillar",
@@ -4455,36 +4455,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-30T07:44:19.084Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65662",
-    "job_title": "Cardiac Rhythm Management Associate Clinical Specialist - Little Rock",
-    "employer_name": "Medtronic",
-    "job_city": "Little Rock",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Little Rock, Arkansas, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist---Little-Rock_R65662",
-    "job_posted_at_datetime_utc": "2026-04-30T07:34:55.982Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b6665d45d8e5c6b1c4b82d6ebeae96e3f5fcfb957ddad2950739548f53a42d55",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:34:55.982Z"
   },
   {
     "job_id": "workday-medtronic-R65554",
@@ -4530,6 +4500,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1543a476c0ec443f71ccd7d8ed8a850100b94e51689911bc4ad3f5f8f98eafca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:34:55.982Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65662",
+    "job_title": "Cardiac Rhythm Management Associate Clinical Specialist - Little Rock",
+    "employer_name": "Medtronic",
+    "job_city": "Little Rock",
+    "job_state": "AR",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Little Rock, Arkansas, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist---Little-Rock_R65662",
+    "job_posted_at_datetime_utc": "2026-04-30T07:34:55.982Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b6665d45d8e5c6b1c4b82d6ebeae96e3f5fcfb957ddad2950739548f53a42d55",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5169,6 +5169,36 @@
     "job_posted_at": "2026-04-29T07:11:44.597Z"
   },
   {
+    "job_id": "workday-abbott-31149034",
+    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
+    "employer_name": "Abbott",
+    "job_city": "Texas - Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Texas - Houston",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:11:17.345Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:11:17.345Z"
+  },
+  {
     "job_id": "workday-abbott-31149132",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -5242,36 +5272,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "95ec9e1cd957eeec6b076ae7d9619405674bd04222a0c60e0ac4be545afd46ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:11:17.345Z"
-  },
-  {
-    "job_id": "workday-abbott-31149034",
-    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
-    "employer_name": "Abbott",
-    "job_city": "Texas - Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Texas - Houston",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:11:17.345Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7158,6 +7158,36 @@
     "job_posted_at": "2026-04-28T07:11:41.597Z"
   },
   {
+    "job_id": "workday-abbott-31148866",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Ohio - Columbus",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
+    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:11:17.346Z"
+  },
+  {
     "job_id": "workday-abbott-31148530",
     "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
     "employer_name": "Abbott",
@@ -7231,36 +7261,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:11:17.346Z"
-  },
-  {
-    "job_id": "workday-abbott-31148866",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Columbus",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
-    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7940,6 +7940,36 @@
     "job_posted_at": "2026-04-28T07:02:44.220Z"
   },
   {
+    "job_id": "workday-medtronic-R65318",
+    "job_title": "Vascular Clinical Specialist - Los Angeles, CA",
+    "employer_name": "Medtronic",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Los Angeles, California, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Vascular-Clinical-Specialist--_R65318-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:01:56.502Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8aee7a654b88edd604d430f7675d6c2019856bd7f4d1c9b10af80b28640ebea2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:01:56.502Z"
+  },
+  {
     "job_id": "workday-medtronic-R65369",
     "job_title": "Clinical Specialist, Pain Interventions - Orlando, FL",
     "employer_name": "Medtronic",
@@ -8013,36 +8043,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "eb7cb9e58afc331803dbd777338fdf0dab227e848473365df89f07bfa486bd02",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:01:56.502Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65318",
-    "job_title": "Vascular Clinical Specialist - Los Angeles, CA",
-    "employer_name": "Medtronic",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Los Angeles, California, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Vascular-Clinical-Specialist--_R65318-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:01:56.502Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8aee7a654b88edd604d430f7675d6c2019856bd7f4d1c9b10af80b28640ebea2",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10361,66 +10361,6 @@
     "job_posted_at": "2026-04-27T07:11:17.347Z"
   },
   {
-    "job_id": "workday-takeda-R0179241",
-    "job_title": "Medical Support Specialist – EMT (Immediate Benefits!)   Fond du Lac",
-    "employer_name": "Takeda",
-    "job_city": "WI - Fond du Lac",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Fond du Lac",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---EMT--Immediate-Benefits-----Fond-du-Lac_R0179241-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e687443d4972d505974318283bb4913e74dde665d9b93b9733debdae4204862f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179239",
-    "job_title": "Medical Support Specialist – LPN (Immediate Benefits!)   Fond du Lac",
-    "employer_name": "Takeda",
-    "job_city": "WI - Fond du Lac",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Fond du Lac",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---LPN--Immediate-Benefits-----Fond-du-Lac_R0179239-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d139fdcaef71a1ef21811c81b124ebfbfa33221a0705f038fbe131669d54bf29",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
-  },
-  {
     "job_id": "workday-takeda-R0179232",
     "job_title": "Medical Screener/Phlebotomist",
     "employer_name": "Takeda",
@@ -10884,6 +10824,66 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3d072eb57391e6c306aa0e100c8113dadc8c25a559263f0874f8da996c67b1d0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179241",
+    "job_title": "Medical Support Specialist – EMT (Immediate Benefits!)   Fond du Lac",
+    "employer_name": "Takeda",
+    "job_city": "WI - Fond du Lac",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Fond du Lac",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---EMT--Immediate-Benefits-----Fond-du-Lac_R0179241-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e687443d4972d505974318283bb4913e74dde665d9b93b9733debdae4204862f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179239",
+    "job_title": "Medical Support Specialist – LPN (Immediate Benefits!)   Fond du Lac",
+    "employer_name": "Takeda",
+    "job_city": "WI - Fond du Lac",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Fond du Lac",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---LPN--Immediate-Benefits-----Fond-du-Lac_R0179239-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d139fdcaef71a1ef21811c81b124ebfbfa33221a0705f038fbe131669d54bf29",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11403,6 +11403,36 @@
     "job_posted_at": "2026-04-27T07:01:06.492Z"
   },
   {
+    "job_id": "workday-guidehouse-38932",
+    "job_title": "Patient Coordinator",
+    "employer_name": "Guidehouse",
+    "job_city": "US MD Bethesda",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US MD Bethesda + 1 more",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Patient-Coordinator_38932",
+    "job_posted_at_datetime_utc": "2026-04-27T07:00:39.224Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9abd8382b74bb03d7eaaa95850314c8600152e43a198e4f73a77770b2e561c53",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:00:39.224Z"
+  },
+  {
     "job_id": "workday-guidehouse-38252",
     "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
     "employer_name": "Guidehouse",
@@ -11539,36 +11569,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 2
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:00:39.224Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38932",
-    "job_title": "Patient Coordinator",
-    "employer_name": "Guidehouse",
-    "job_city": "US MD Bethesda",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US MD Bethesda + 1 more",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Patient-Coordinator_38932",
-    "job_posted_at_datetime_utc": "2026-04-27T07:00:39.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9abd8382b74bb03d7eaaa95850314c8600152e43a198e4f73a77770b2e561c53",
     "tags": {
       "employment": "entry_level",
       "domains": [
