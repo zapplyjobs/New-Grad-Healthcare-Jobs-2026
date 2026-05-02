@@ -205,11 +205,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Medtronic** | Prin. Clinical Specialist - SVI - Houston | Houston, Texas, U... | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Prin-Clinical-Specialist---SVI---Houston_R65669-1) |
-| 🏢 **Medtronic** | CRM Clinical Specialist - Hartford, CT | Hartford, Connect... | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1) |
+| 🏢 **Medtronic** | CRM Clinical Specialist - Hartford, CT | Hartford, Connect... | 10h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1) |
 | 🏢 **Medtronic** | Clinical Specialist, Neurovascular - New Orleans, LA | New Orleans, Loui... | 11h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-Orleans-Louisiana-United-States-of-America/Clinical-Specialist--Neurovascular---New-Orleans--LA_R65711-2) |
 | 🏢 **AbbVie** | Oncology Specialist - Seattle, WA | Seattle, WA | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012921432) |
-| 🏢 **AbbVie** | Oncology Specialist - New York | Albany, NY | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012916842) |
-| 🏢 **AbbVie** | Oncology Specialist - New York | Syracuse, NY | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012916936) |
+| 🏢 **AbbVie** | Oncology Specialist - New York | Albany, NY | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012916842) |
+| 🏢 **AbbVie** | Oncology Specialist - New York | Syracuse, NY | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012916936) |
 | 🏢 **Globus Medical** | Associate Spine Specialist (Detroit, MI) | Michigan | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Michigan/Associate-Spine-Specialist--Detroit--MI-_JR106593) |
 | 🏢 **Globus Medical** | Fast Track Spine Specialist (Ohio) | Ohio | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Ohio/Fast-Track-Spine-Specialist--Ohio-_JR106630) |
 | 🏢 **Globus Medical** | Fast Track Spine Specialist (Chicago, IL) | Illinois | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Illinois/Fast-Track-Spine-Specialist--Chicago--IL-_JR106632) |
@@ -272,8 +272,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Northrop Grumman** | Firefighter 1 (EMT-B Certified) | California | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Firefighter-1--EMT-B-Certified-_R10231634) |
-| 🏢 **Guidehouse** | Biologist | MD, Baltimore | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Biologist_39023) |
+| 🏢 **Northrop Grumman** | Firefighter 1 (EMT-B Certified) | California | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Firefighter-1--EMT-B-Certified-_R10231634) |
+| 🏢 **Guidehouse** | Biologist | MD, Baltimore | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Biologist_39023) |
 | 🏢 **Walmart** | Pharmacy Tech Certified Sam's- PT | (USA) SD SIOUX FA... | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-SD-SIOUX-FALLS-08165-SAMS-CLUB/Pharmacy-Tech-Certified-Sam-s--PT_R-2496521) |
 | 🏢 **Takeda** | Experienced Phlebotomist | NY | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Latham/Plasma-Center-Senior-Technician_R0178130) |
 | 🏢 **Johnson & Johnson** | Marketing Specialist - Oncology Hematology -- Guaynabo, PR | Guaynabo, Puerto ... | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Guaynabo-Puerto-Rico-United-States-of-America/Marketing-Specialist---Oncology-Hematology_R-072661-1) |
@@ -281,16 +281,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | Rare Disease Business Manager, PI (Mobile, AL) | Virtual | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Alabama---Virtual/Rare-Disease-Business-Manager--PI--Mobile--AL-_R0179253) |
 | 🏢 **Exact Sciences** | Specimen Processor | Phoenix, AZ | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Specimen-Processor_R26-12957) |
 | 🏢 **Walmart** | Pharmacy Tech Certified Sam's - Part Time | Louisville, KY | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Louisville-KY/Pharmacy-Tech-Certified-Sam-s---Part-Time_R-2496458) |
-| 🏢 **Globus Medical** | Corporate Pilot | Audubon, PA | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Corporate-Pilot_JR105264) |
-| 🏢 **Takeda** | Quality Manager | TX | 10h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Corpus-Christi/Quality-Manager_R0179478-1) |
+| 🏢 **Globus Medical** | Corporate Pilot | Audubon, PA | 10h | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Corporate-Pilot_JR105264) |
+| 🏢 **Takeda** | Quality Manager | TX | 11h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Corpus-Christi/Quality-Manager_R0179478-1) |
 | 🏢 **Walmart** | Part-Time Pharmacy Tech Certified Sam's | Snellville, GA | 11h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Snellville-GA/Part-Time-Pharmacy-Tech-Certified-Sam-s_R-2496367) |
 | 🏢 **Cigna** | Home Infusion Nurse, 32 hours - Accredo - Bismarck, ND | Bismarck, ND | 11h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bismarck-ND/Home-Infusion-Nurse--32-hours---Accredo---Bismarck--ND_25016795) |
-| 🏢 **Cigna** | Home Infusion Nurse, Per Diem – Accredo - Springfield, IL | Springfield, IL | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Springfield-IL/Home-Infusion-Nurse--Per-Diem---Accredo---Springfield--IL_26004429) |
+| 🏢 **Cigna** | Home Infusion Nurse, Per Diem – Accredo - Springfield, IL | Springfield, IL | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Springfield-IL/Home-Infusion-Nurse--Per-Diem---Accredo---Springfield--IL_26004429) |
 | 🏢 **Cigna** | Cardiopulmonary Nurse Specialist - Accredo - Indiana and Kentucky | Louisville, KY + ... | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Louisville-KY/Cardiopulmonary-Nurse-Specialist---Accredo---Indiana-and-Kentucky_26004297) |
 | 🏢 **Guidehouse** | Biologist | MD, Baltimore | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Biologist_38987) |
 | 🏢 **AbbVie** | Finance Manager, Oncology - Demand Planning | Mettawa, IL | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012924595) |
 | 🏢 **AbbVie** | Hematology Clinical Account Specialist - Jacksonville, FL | Jacksonville, FL | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012921848) |
-| 🏢 **AbbVie** | Oncology Account Executive - White Plains, NY | White Plains, NY | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012913380) |
+| 🏢 **AbbVie** | Oncology Account Executive - White Plains, NY | White Plains, NY | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012913380) |
 | 🏢 **Affirm** | People Knowledge Experience Manager | Remote US | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7712659003) |
 | 🏢 **Thermo Fisher Scientific** | Field Service Engineer (Electron Microscopy)(REMOTE) | Kansas + 5 more | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Kansas-USA/Field-Service-Engineer--Electron-Microscopy-_R-01334329) |
 | 🏢 **Wellmark, Inc.** | Pharmacy Performance Manager | Cedar Rapids, IA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000124021149) |
@@ -321,7 +321,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **IDEXX** | Project Manager - Veterinary Software - Customer Experience | Virtual United St... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Project-Manager---Veterinary-Software---Customer-Experience_J-050476-1) |
 | 🏢 **Disney** | Basic X-Ray Machine Operator - Medical Assistant (BXMO - MA) | Lake Buena Vista,... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Basic-X-Ray-Machine-Operator---Medical-Assistant--BXMO---MA-_10149718) |
 | 🏢 **Exact Sciences** | Supervisor, Clinical Laboratory - Weekend PM | Madison, WI | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Supervisor--Clinical-Laboratory---Weekend-PM_R26-13145) |
-| 🏢 **Oracle** | Nurse Informatics Executive | United States | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329901) |
+| 🏢 **Oracle** | Nurse Informatics Executive | United States | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329901) |
 | 🏢 **Oscar Health** | Associate, Care Navigation Programs | Tempe, Arizona, U... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7813046?gh_jid=7813046) |
 | 🏢 **Ro** | Ro Pharmacy Interview Day! Friday, May 8th | Boynton Beach, FL | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/d2cad67b-9a86-46ed-940e-77b57ac1229f/apply) |
 | 🏢 **Guidepoint** | Scientific Research Partner (Therapeutics) | New York, New Yor... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8482165002) |
@@ -354,7 +354,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Affirm** | Strategic Partnerships Manager | Remote US | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7647628003) |
 | 🏢 **Truveta** | Partner Research & Success Manager | Seattle, WA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5777538004) |
 | 🏢 **Formlabs** | Marketing Manager, Dental | Somerville, MA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7701319/apply/?gh_jid=7701319) |
-| 🏢 **Oracle** | Research Consultant- Oncology | United States | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/331114) |
+| 🏢 **Oracle** | Research Consultant- Oncology | United States | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/331114) |
 | 🏢 **RTX** | Ergonomist | Tucson, AZ | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Ergonomist_01839612) |
 
 <p align="center">Apply for more jobs at</p>
@@ -419,6 +419,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: May 1, 2026
+**Last Updated**: May 2, 2026
 
 </div>
