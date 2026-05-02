@@ -23,7 +23,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -54,7 +54,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -85,7 +85,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -116,7 +116,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -146,7 +146,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -176,7 +176,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -206,7 +206,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -236,7 +236,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -266,7 +266,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -296,11 +296,43 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-02T04:34:48.976Z"
+  },
+  {
+    "job_id": "workday-walmart-R-2497399",
+    "job_title": "(USA) Pharmacy Tech Certified Sam's",
+    "employer_name": "Walmart",
+    "job_city": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MO-COLUMBIA-08163-SAMS-CLUB/XMLNAME--USA--Pharmacy-Tech-Certified-Sam-s_R-2497399",
+    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "080ef0cc1650641442eafb19e2b20b53eab6b3ad1bfeda2f101b186ebe7fa60f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-02T00:22:27.996Z"
   },
   {
     "job_id": "workday-walmart-R-2495831",
@@ -328,7 +360,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -360,7 +392,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -392,39 +424,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-02T00:22:27.996Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2497399",
-    "job_title": "(USA) Pharmacy Tech Certified Sam's",
-    "employer_name": "Walmart",
-    "job_city": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MO-COLUMBIA-08163-SAMS-CLUB/XMLNAME--USA--Pharmacy-Tech-Certified-Sam-s_R-2497399",
-    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "080ef0cc1650641442eafb19e2b20b53eab6b3ad1bfeda2f101b186ebe7fa60f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -454,7 +454,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -484,7 +484,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -514,7 +514,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -544,7 +544,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -574,7 +574,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -604,7 +604,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -634,7 +634,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -664,7 +664,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -694,7 +694,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -724,7 +724,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -754,7 +754,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -784,7 +784,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -814,7 +814,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -844,7 +844,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -875,7 +875,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -905,7 +905,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -935,7 +935,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -965,7 +965,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -995,7 +995,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1026,7 +1026,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -1077,7 +1077,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -1128,7 +1128,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -1179,7 +1179,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -1229,7 +1229,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -1259,7 +1259,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -1290,7 +1290,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -1320,7 +1320,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1350,7 +1350,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1380,7 +1380,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1412,7 +1412,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1442,7 +1442,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1473,7 +1473,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1503,7 +1503,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1533,7 +1533,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1563,7 +1563,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1593,7 +1593,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1625,7 +1625,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1655,7 +1655,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1685,7 +1685,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1715,7 +1715,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1745,7 +1745,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1777,7 +1777,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1807,7 +1807,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1837,7 +1837,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1867,7 +1867,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -1901,7 +1901,7 @@
         "faang",
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "apple",
@@ -1940,7 +1940,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -1971,7 +1971,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2002,7 +2002,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2033,7 +2033,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2064,7 +2064,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2096,7 +2096,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2127,7 +2127,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2158,7 +2158,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2189,7 +2189,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2220,7 +2220,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2251,7 +2251,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2282,7 +2282,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2313,7 +2313,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2345,7 +2345,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2377,7 +2377,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2408,7 +2408,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2439,7 +2439,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2470,7 +2470,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2502,7 +2502,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2533,7 +2533,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2564,7 +2564,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2595,7 +2595,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2626,7 +2626,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2658,7 +2658,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -2689,7 +2689,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -2720,7 +2720,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2751,7 +2751,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2782,7 +2782,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2813,7 +2813,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2844,7 +2844,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -2874,7 +2874,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -2904,7 +2904,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -2935,7 +2935,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -2967,7 +2967,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -2998,7 +2998,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -3028,7 +3028,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3058,7 +3058,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3088,7 +3088,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3118,7 +3118,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3148,7 +3148,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3178,7 +3178,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3208,7 +3208,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3238,7 +3238,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3268,7 +3268,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3298,7 +3298,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3328,7 +3328,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3358,7 +3358,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3388,7 +3388,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3418,7 +3418,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3448,7 +3448,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3478,7 +3478,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3508,7 +3508,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3538,7 +3538,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3568,7 +3568,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3598,7 +3598,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3628,41 +3628,11 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-30T07:47:33.640Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01347202",
-    "job_title": "Field Applications Scientist, Proteomics (Remote - MD/DC)",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "District of Columbia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "District of Columbia + 5 more",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/Field-Applications-Scientist--Proteomics--Remote---MD-DC-_R-01347202",
-    "job_posted_at_datetime_utc": "2026-04-30T07:47:17.555Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bfe4d27bd0bff791fd49d2de138e05b3d6917663511d015a74a9bae9d7e73be4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:47:17.555Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01349605",
@@ -3688,7 +3658,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3719,7 +3689,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3759,7 +3729,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3789,7 +3759,37 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:47:17.555Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01347202",
+    "job_title": "Field Applications Scientist, Proteomics (Remote - MD/DC)",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "District of Columbia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "District of Columbia + 5 more",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/Field-Applications-Scientist--Proteomics--Remote---MD-DC-_R-01347202",
+    "job_posted_at_datetime_utc": "2026-04-30T07:47:17.555Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bfe4d27bd0bff791fd49d2de138e05b3d6917663511d015a74a9bae9d7e73be4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3820,7 +3820,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3850,7 +3850,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3880,7 +3880,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3910,7 +3910,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3940,7 +3940,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -3970,7 +3970,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4000,7 +4000,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4030,7 +4030,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4060,7 +4060,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4090,7 +4090,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4120,7 +4120,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4150,7 +4150,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4180,7 +4180,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4210,7 +4210,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4240,7 +4240,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4270,7 +4270,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4300,11 +4300,41 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-30T07:44:58.961Z"
+  },
+  {
+    "job_id": "workday-cigna-26004418",
+    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
+    "employer_name": "Cigna",
+    "job_city": "Clinic Arlington County Clarendon Blvd",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
+    "job_posted_at_datetime_utc": "2026-04-30T07:44:21.390Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:44:21.390Z"
   },
   {
     "job_id": "workday-cigna-26004429",
@@ -4330,7 +4360,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4360,7 +4390,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4390,37 +4420,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:44:21.390Z"
-  },
-  {
-    "job_id": "workday-cigna-26004418",
-    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
-    "employer_name": "Cigna",
-    "job_city": "Clinic Arlington County Clarendon Blvd",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
-    "job_posted_at_datetime_utc": "2026-04-30T07:44:21.390Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4450,7 +4450,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4480,7 +4480,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4510,7 +4510,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4540,7 +4540,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4570,7 +4570,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4600,7 +4600,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4631,7 +4631,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4675,7 +4675,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4705,7 +4705,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4735,7 +4735,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -4765,7 +4765,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -4796,7 +4796,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4828,7 +4828,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4858,7 +4858,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4888,7 +4888,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4918,7 +4918,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4948,7 +4948,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -4979,7 +4979,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "ashby",
@@ -5011,7 +5011,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5042,7 +5042,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -5072,7 +5072,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5102,7 +5102,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5132,7 +5132,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5162,11 +5162,41 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-29T07:11:44.597Z"
+  },
+  {
+    "job_id": "workday-abbott-31149131",
+    "job_title": "Plant Occupational Health Nurse",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Tipp City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Ohio - Tipp City",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Tipp-City/Plant-Occupational-Health-Nurse_31149131-2",
+    "job_posted_at_datetime_utc": "2026-04-29T07:11:17.345Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "95ec9e1cd957eeec6b076ae7d9619405674bd04222a0c60e0ac4be545afd46ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:11:17.345Z"
   },
   {
     "job_id": "workday-abbott-31149034",
@@ -5192,7 +5222,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5222,7 +5252,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5252,37 +5282,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:11:17.345Z"
-  },
-  {
-    "job_id": "workday-abbott-31149131",
-    "job_title": "Plant Occupational Health Nurse",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Tipp City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Tipp City",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Tipp-City/Plant-Occupational-Health-Nurse_31149131-2",
-    "job_posted_at_datetime_utc": "2026-04-29T07:11:17.345Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "95ec9e1cd957eeec6b076ae7d9619405674bd04222a0c60e0ac4be545afd46ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5312,7 +5312,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5342,7 +5342,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5372,7 +5372,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5402,7 +5402,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5432,7 +5432,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5462,7 +5462,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5492,7 +5492,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5522,7 +5522,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5552,7 +5552,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5582,7 +5582,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5612,7 +5612,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5642,7 +5642,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5672,7 +5672,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5702,7 +5702,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5732,7 +5732,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5762,7 +5762,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5792,7 +5792,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5822,7 +5822,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5852,7 +5852,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5882,7 +5882,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5912,7 +5912,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5942,7 +5942,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -5972,7 +5972,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6002,7 +6002,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6032,7 +6032,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6062,7 +6062,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6093,7 +6093,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6124,7 +6124,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6154,7 +6154,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6184,7 +6184,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6214,7 +6214,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6244,7 +6244,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6274,7 +6274,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6304,7 +6304,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6335,7 +6335,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6365,7 +6365,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6395,7 +6395,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6425,7 +6425,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6455,7 +6455,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6485,7 +6485,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6515,7 +6515,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6545,7 +6545,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6575,7 +6575,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6605,7 +6605,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6635,7 +6635,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -6666,7 +6666,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -6704,7 +6704,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6734,7 +6734,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -6781,7 +6781,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6813,7 +6813,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6843,7 +6843,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6875,7 +6875,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "ashby",
@@ -6907,7 +6907,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6939,7 +6939,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -6969,7 +6969,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -7000,7 +7000,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -7030,7 +7030,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7061,7 +7061,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -7091,7 +7091,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7121,7 +7121,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7151,7 +7151,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7181,7 +7181,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7211,7 +7211,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7241,7 +7241,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7271,7 +7271,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7301,7 +7301,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7331,7 +7331,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7361,311 +7361,11 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-28T07:03:08.772Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178846",
-    "job_title": "Rare Disease Business Manager-LSD- Michigan",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Michigan - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Michigan---Virtual/Rare-Disease-Business-Manager-LSD--Michigan_R0178846-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "340393eea0936fadf80c7bbdee063acf5a7b9aab92035c8c09d2f0bdf00cbaf8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179324",
-    "job_title": "Bilingual Plasma Center Nurse (RN)",
-    "employer_name": "Takeda",
-    "job_city": "NY - New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - NY - New York",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---New-York/Bilingual-Plasma-Center-Nurse--RN-_R0179324-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a8ad3de27c701296b8f04923c51d65699142c20a3deba3a870e0e333879ed236",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179321",
-    "job_title": "Center Supervisor",
-    "employer_name": "Takeda",
-    "job_city": "AL - Birmingham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - AL - Birmingham",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AL---Birmingham/Center-Supervisor_R0179321-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a0a3e6a43e535b6fd8cc8782fc556d1a929a72f4f26b331bca1117cf2eedebea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179309",
-    "job_title": "Medical Support Specialist RN",
-    "employer_name": "Takeda",
-    "job_city": "IN - Fort Wayne - Getz Rd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IN - Fort Wayne - Getz Rd",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Getz-Rd/Medical-Support-Specialist-RN_R0179309-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ed63603c1ef7a455c20cd39add6c4f4a6706b46fea23f00267190f758809970",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0171054",
-    "job_title": "Rare Disease Business Manager - Lancaster, PA",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Pennsylvania - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Pennsylvania---Virtual/Rare-Disease-Business-Manager---Lancaster--PA_R0171054-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abb35ad5d57d7bab8b9e37fac276075b60f897d2b7283bc96a5428e878b4ac6f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179307",
-    "job_title": "Registered Nurse -RN",
-    "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - Ambassador Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MO - Kansas City - Ambassador Dr",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/Registered-Nurse--RN_R0179307-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4229b500adc27f1100e8a8fd357b206a205aeca0decbb9c1031dd503b30c1d51",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179304",
-    "job_title": "EMT-P – Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - Ambassador Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MO - Kansas City - Ambassador Dr",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/EMT-P---Day-One-Benefits_R0179304-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bd3e6199494d058d423b166224f09242a757e7cb9419148407d2acdfba7ed4f0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179302",
-    "job_title": "LPN – Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - Ambassador Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MO - Kansas City - Ambassador Dr",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/LPN---Day-One-Benefits_R0179302-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "20a8c21c1d6ffc6fbf4032bb036582e7d76e962f329dd5586bd3f6be480700d5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179295",
-    "job_title": "Entry Level Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "WI - Greenfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Greenfield",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Entry-Level-Phlebotomist_R0179295-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4dc849c43f1d7b32308db713b9bb01376bc80d731f0019efb2853144a28a8ae6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179292",
-    "job_title": "Paramedic/EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "TX - Fort Worth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Fort Worth",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Paramedic-EMT-P_R0179292-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "78171c8a2641de04b57fdf91ea38255a625d2ad61e3d9e82e001a0fb01ac0c57",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
   },
   {
     "job_id": "workday-takeda-R0179290",
@@ -7691,7 +7391,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7721,7 +7421,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7751,7 +7451,307 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178846",
+    "job_title": "Rare Disease Business Manager-LSD- Michigan",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Michigan - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Michigan---Virtual/Rare-Disease-Business-Manager-LSD--Michigan_R0178846-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "340393eea0936fadf80c7bbdee063acf5a7b9aab92035c8c09d2f0bdf00cbaf8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179324",
+    "job_title": "Bilingual Plasma Center Nurse (RN)",
+    "employer_name": "Takeda",
+    "job_city": "NY - New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - NY - New York",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---New-York/Bilingual-Plasma-Center-Nurse--RN-_R0179324-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a8ad3de27c701296b8f04923c51d65699142c20a3deba3a870e0e333879ed236",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179321",
+    "job_title": "Center Supervisor",
+    "employer_name": "Takeda",
+    "job_city": "AL - Birmingham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - AL - Birmingham",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AL---Birmingham/Center-Supervisor_R0179321-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a0a3e6a43e535b6fd8cc8782fc556d1a929a72f4f26b331bca1117cf2eedebea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179309",
+    "job_title": "Medical Support Specialist RN",
+    "employer_name": "Takeda",
+    "job_city": "IN - Fort Wayne - Getz Rd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IN - Fort Wayne - Getz Rd",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Getz-Rd/Medical-Support-Specialist-RN_R0179309-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7ed63603c1ef7a455c20cd39add6c4f4a6706b46fea23f00267190f758809970",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0171054",
+    "job_title": "Rare Disease Business Manager - Lancaster, PA",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Pennsylvania - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Pennsylvania---Virtual/Rare-Disease-Business-Manager---Lancaster--PA_R0171054-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abb35ad5d57d7bab8b9e37fac276075b60f897d2b7283bc96a5428e878b4ac6f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179307",
+    "job_title": "Registered Nurse -RN",
+    "employer_name": "Takeda",
+    "job_city": "MO - Kansas City - Ambassador Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MO - Kansas City - Ambassador Dr",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/Registered-Nurse--RN_R0179307-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4229b500adc27f1100e8a8fd357b206a205aeca0decbb9c1031dd503b30c1d51",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179304",
+    "job_title": "EMT-P – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "MO - Kansas City - Ambassador Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MO - Kansas City - Ambassador Dr",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/EMT-P---Day-One-Benefits_R0179304-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bd3e6199494d058d423b166224f09242a757e7cb9419148407d2acdfba7ed4f0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179302",
+    "job_title": "LPN – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "MO - Kansas City - Ambassador Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MO - Kansas City - Ambassador Dr",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---Ambassador-Dr/LPN---Day-One-Benefits_R0179302-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "20a8c21c1d6ffc6fbf4032bb036582e7d76e962f329dd5586bd3f6be480700d5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179295",
+    "job_title": "Entry Level Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "WI - Greenfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Greenfield",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Entry-Level-Phlebotomist_R0179295-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4dc849c43f1d7b32308db713b9bb01376bc80d731f0019efb2853144a28a8ae6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179292",
+    "job_title": "Paramedic/EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "TX - Fort Worth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Fort Worth",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Paramedic-EMT-P_R0179292-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "78171c8a2641de04b57fdf91ea38255a625d2ad61e3d9e82e001a0fb01ac0c57",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7781,7 +7781,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7811,7 +7811,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7841,7 +7841,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7872,7 +7872,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7903,7 +7903,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7933,7 +7933,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7963,7 +7963,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -7993,7 +7993,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8023,7 +8023,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8053,7 +8053,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8085,7 +8085,7 @@
       "special": [
         "faang"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8115,7 +8115,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8145,7 +8145,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8175,7 +8175,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8205,7 +8205,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8235,41 +8235,11 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-28T07:01:06.491Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38564",
-    "job_title": "Payer Enrollment Specialist",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Birmingham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - AL, Birmingham",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_38564",
-    "job_posted_at_datetime_utc": "2026-04-28T07:00:39.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:00:39.224Z"
   },
   {
     "job_id": "workday-guidehouse-38969",
@@ -8295,7 +8265,37 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:00:39.224Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38564",
+    "job_title": "Payer Enrollment Specialist",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Birmingham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - AL, Birmingham",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Payer-Enrollment-Specialist_38564",
+    "job_posted_at_datetime_utc": "2026-04-28T07:00:39.224Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c9f53c7fc017d90d8f4e791faae09ade428d0e4984cc19bc62c156c8cff00923",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8325,7 +8325,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8355,7 +8355,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8385,7 +8385,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8415,7 +8415,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8445,7 +8445,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8475,7 +8475,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8505,7 +8505,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8535,7 +8535,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8565,7 +8565,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8595,7 +8595,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8625,7 +8625,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8655,7 +8655,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8685,7 +8685,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8717,7 +8717,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8760,7 +8760,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8790,7 +8790,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8820,7 +8820,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -8852,7 +8852,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8884,7 +8884,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8914,7 +8914,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "oracle",
@@ -8946,7 +8946,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -8980,7 +8980,7 @@
         "faang",
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "apple",
@@ -9020,7 +9020,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9050,7 +9050,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -9080,7 +9080,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -9110,7 +9110,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -9140,7 +9140,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -9170,7 +9170,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -9202,7 +9202,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9234,7 +9234,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9266,7 +9266,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9296,7 +9296,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9327,7 +9327,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
@@ -9359,7 +9359,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9389,7 +9389,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9421,7 +9421,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9451,7 +9451,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9483,7 +9483,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9513,7 +9513,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9543,7 +9543,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9573,7 +9573,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9603,7 +9603,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9633,7 +9633,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9663,7 +9663,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9693,7 +9693,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9723,7 +9723,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9753,7 +9753,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9783,7 +9783,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9813,7 +9813,307 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31137792",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Albany, NY",
+    "employer_name": "Abbott",
+    "job_city": "New York - Poughkeepsie",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - New York - Poughkeepsie",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Poughkeepsie/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-York--NY_31137792",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1b9c581c5605db7455af414dbc1d1c7a4ca07a88710893ad548dfaa3803b19e1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31113914",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO; Denver, CO",
+    "employer_name": "Abbott",
+    "job_city": "Colorado - Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Colorado - Colorado Springs",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3c0c9e72ae6b6dee2b5feb128d51c79427f386cd30d3587ad96c0f0a1c4ce0c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31147362",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bremen, GA",
+    "employer_name": "Abbott",
+    "job_city": "Georgia - Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Georgia - Atlanta",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Bremen--GA_31147362",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a4fb29705451e1806bf403ea765110f864afda57b53921ff5bdaea03d1b10c9e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31146064",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
+    "employer_name": "Abbott",
+    "job_city": "North Dakota - Fargo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - North Dakota - Fargo",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "148b21a1d82d1390046653de10ed0386e81a0e0750e9eae03039f231edee02ed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31147623",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bristol, VA; Charlottesville, VA",
+    "employer_name": "Abbott",
+    "job_city": "Virginia - Roanoke",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Virginia - Roanoke",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4515e72e35eaba30eb45a8fb613a7ed28daf283e468013836893300d97b23d16",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31138237",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - North Carolina - Greenville",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31142458",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bridgewater, NJ; Willingboro, NJ",
+    "employer_name": "Abbott",
+    "job_city": "New Jersey - Paterson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - New Jersey - Paterson",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Paterson/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Paterson--NJ_31142458",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b0d48f8ec27688c38ed975db53268053a08056d2bb5c822ff3e7dee4249775b7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31146063",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockland, MI",
+    "employer_name": "Abbott",
+    "job_city": "Michigan - Traverse City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Michigan - Traverse City",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Traverse-City/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockland--MI_31146063",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "12dc4495d057715b1e66ac39b50f5741317cc75f0b5842bf7c7c05bdbdb9bb9c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31136218",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Butte, MT",
+    "employer_name": "Abbott",
+    "job_city": "Montana - Missoula",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Montana - Missoula",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Montana---Missoula/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Butte--MT_31136218",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2f8268adf8113c288a9442b44256deff956f3213c9fd89cc492f9884c0583d0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31134926",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Conway, NH",
+    "employer_name": "Abbott",
+    "job_city": "New Hampshire - Portsmouth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - New Hampshire - Portsmouth",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Hampshire---Portsmouth/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Conway--NH_31134926",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d9e38b1388fd0545a78221fcfe22d61c58e66b2fd64d4922e7b11a90cd1536f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9843,7 +10143,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9873,7 +10173,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9903,7 +10203,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9933,7 +10233,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9963,7 +10263,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -9994,7 +10294,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10024,7 +10324,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10054,307 +10354,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31137792",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Albany, NY",
-    "employer_name": "Abbott",
-    "job_city": "New York - Poughkeepsie",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - New York - Poughkeepsie",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-York---Poughkeepsie/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-York--NY_31137792",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1b9c581c5605db7455af414dbc1d1c7a4ca07a88710893ad548dfaa3803b19e1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31113914",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO; Denver, CO",
-    "employer_name": "Abbott",
-    "job_city": "Colorado - Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Colorado - Colorado Springs",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3c0c9e72ae6b6dee2b5feb128d51c79427f386cd30d3587ad96c0f0a1c4ce0c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31147362",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bremen, GA",
-    "employer_name": "Abbott",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Georgia - Atlanta",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Bremen--GA_31147362",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a4fb29705451e1806bf403ea765110f864afda57b53921ff5bdaea03d1b10c9e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31146064",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
-    "employer_name": "Abbott",
-    "job_city": "North Dakota - Fargo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - North Dakota - Fargo",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "148b21a1d82d1390046653de10ed0386e81a0e0750e9eae03039f231edee02ed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31147623",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bristol, VA; Charlottesville, VA",
-    "employer_name": "Abbott",
-    "job_city": "Virginia - Roanoke",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Virginia - Roanoke",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4515e72e35eaba30eb45a8fb613a7ed28daf283e468013836893300d97b23d16",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31138237",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
-    "employer_name": "Abbott",
-    "job_city": "North Carolina - Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - North Carolina - Greenville",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31142458",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bridgewater, NJ; Willingboro, NJ",
-    "employer_name": "Abbott",
-    "job_city": "New Jersey - Paterson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - New Jersey - Paterson",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Paterson/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Paterson--NJ_31142458",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b0d48f8ec27688c38ed975db53268053a08056d2bb5c822ff3e7dee4249775b7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31146063",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockland, MI",
-    "employer_name": "Abbott",
-    "job_city": "Michigan - Traverse City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Michigan - Traverse City",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Traverse-City/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockland--MI_31146063",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "12dc4495d057715b1e66ac39b50f5741317cc75f0b5842bf7c7c05bdbdb9bb9c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31136218",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Butte, MT",
-    "employer_name": "Abbott",
-    "job_city": "Montana - Missoula",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Montana - Missoula",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Montana---Missoula/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Butte--MT_31136218",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2f8268adf8113c288a9442b44256deff956f3213c9fd89cc492f9884c0583d0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31134926",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Conway, NH",
-    "employer_name": "Abbott",
-    "job_city": "New Hampshire - Portsmouth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - New Hampshire - Portsmouth",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Hampshire---Portsmouth/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Conway--NH_31134926",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d9e38b1388fd0545a78221fcfe22d61c58e66b2fd64d4922e7b11a90cd1536f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10384,7 +10384,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10414,7 +10414,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10444,7 +10444,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10474,7 +10474,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10504,7 +10504,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10534,7 +10534,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10564,7 +10564,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10594,7 +10594,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10624,7 +10624,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10654,7 +10654,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10684,7 +10684,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10714,7 +10714,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10744,7 +10744,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10774,7 +10774,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10804,7 +10804,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10834,7 +10834,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10864,7 +10864,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10894,7 +10894,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10925,7 +10925,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -10974,7 +10974,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11004,7 +11004,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11034,7 +11034,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11064,7 +11064,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11094,7 +11094,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11124,37 +11124,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:01:56.502Z"
-  },
-  {
-    "job_id": "workday-medtronic-R63211",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Orlando/Miami)",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Orlando-Miami-_R63211-2",
-    "job_posted_at_datetime_utc": "2026-04-27T07:01:56.502Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abf680a0380a34f5c0657bd9d1023d0a55784597cfe891e804a841a14229e255",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11184,7 +11154,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11214,7 +11184,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11245,7 +11215,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11276,7 +11246,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11306,7 +11276,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11336,7 +11306,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11366,7 +11336,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11396,7 +11366,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11426,7 +11396,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11456,7 +11426,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11487,7 +11457,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11518,7 +11488,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11549,7 +11519,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11579,7 +11549,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11609,7 +11579,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11639,7 +11609,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11669,7 +11639,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11699,7 +11669,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11729,7 +11699,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -11761,7 +11731,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "ashby",
@@ -11793,7 +11763,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "ashby",
@@ -11824,7 +11794,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "ashby",
@@ -11855,7 +11825,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "ashby",
@@ -11886,7 +11856,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "ashby",
@@ -11916,7 +11886,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -11947,7 +11917,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -11978,7 +11948,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12017,7 +11987,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "ashby",
@@ -12047,7 +12017,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12077,7 +12047,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12108,7 +12078,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12139,7 +12109,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12169,7 +12139,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12199,7 +12169,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12229,7 +12199,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12259,7 +12229,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12289,7 +12259,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12319,7 +12289,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12349,7 +12319,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12379,7 +12349,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -12410,7 +12380,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12441,7 +12411,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12472,7 +12442,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12503,7 +12473,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12534,7 +12504,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12565,7 +12535,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12596,7 +12566,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12627,7 +12597,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12658,7 +12628,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12689,7 +12659,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12720,7 +12690,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12751,7 +12721,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12782,7 +12752,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12813,11 +12783,161 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-04-27T02:58:13.886Z"
+  },
+  {
+    "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
+    "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
+    "employer_name": "Ro",
+    "job_city": "Romeoville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Romeoville, IL",
+    "job_apply_link": "https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8ba5f376eb0aff17049ca4fbfa92a711c45d640ba4824c232c014e2c8aeb55c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-c739f69c-ed8a-4089-9183-ac94b2b06f90",
+    "job_title": "Compounding Pharmacy Technician - Boynton Beach, FL (Temp)",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boynton Beach, FL",
+    "job_apply_link": "https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe99e915bbf2d449b8280eeee7318dd2d5dae6df96941af55cdcf8df9a92a385",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-966f81e6-c82e-4060-8721-3ba58a9cebc6",
+    "job_title": "Fulfillment Pharmacist - Boynton Beach, FL",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boynton Beach, FL",
+    "job_apply_link": "https://jobs.lever.co/ro/966f81e6-c82e-4060-8721-3ba58a9cebc6/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b47c702e0b81b954fc9e533b675ce9b7fc8b2831f769bed521d5f318c395a7f0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-185af8b6-587d-45d5-99b2-0d0af1b3d252",
+    "job_title": "Fulfillment Pharmacist - Romeoville, IL",
+    "employer_name": "Ro",
+    "job_city": "Romeoville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Romeoville, IL",
+    "job_apply_link": "https://jobs.lever.co/ro/185af8b6-587d-45d5-99b2-0d0af1b3d252/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf59b5cdb6cabeab78826cc29d6b14caf7dfdd073db53fa2166cb320247538b2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
+  },
+  {
+    "job_id": "lever-ro-eca13175-3838-4a88-a138-d44231ca6fef",
+    "job_title": "Fulfillment Pharmacy Technician - Boynton Beach, FL (Temp)",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boynton Beach, FL",
+    "job_apply_link": "https://jobs.lever.co/ro/eca13175-3838-4a88-a138-d44231ca6fef/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "46464ef66576eac9173c216a4d5035906d206e7f64816be408f4ef06484db159",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:13.553Z"
   },
   {
     "job_id": "lever-ro-56cf6679-2618-4be9-acc4-f53afdee3b5b",
@@ -12843,7 +12963,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12874,7 +12994,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -12905,157 +13025,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
-    "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
-    "employer_name": "Ro",
-    "job_city": "Romeoville",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Romeoville, IL",
-    "job_apply_link": "https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8ba5f376eb0aff17049ca4fbfa92a711c45d640ba4824c232c014e2c8aeb55c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-c739f69c-ed8a-4089-9183-ac94b2b06f90",
-    "job_title": "Compounding Pharmacy Technician - Boynton Beach, FL (Temp)",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boynton Beach, FL",
-    "job_apply_link": "https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe99e915bbf2d449b8280eeee7318dd2d5dae6df96941af55cdcf8df9a92a385",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-966f81e6-c82e-4060-8721-3ba58a9cebc6",
-    "job_title": "Fulfillment Pharmacist - Boynton Beach, FL",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boynton Beach, FL",
-    "job_apply_link": "https://jobs.lever.co/ro/966f81e6-c82e-4060-8721-3ba58a9cebc6/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b47c702e0b81b954fc9e533b675ce9b7fc8b2831f769bed521d5f318c395a7f0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-185af8b6-587d-45d5-99b2-0d0af1b3d252",
-    "job_title": "Fulfillment Pharmacist - Romeoville, IL",
-    "employer_name": "Ro",
-    "job_city": "Romeoville",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Romeoville, IL",
-    "job_apply_link": "https://jobs.lever.co/ro/185af8b6-587d-45d5-99b2-0d0af1b3d252/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf59b5cdb6cabeab78826cc29d6b14caf7dfdd073db53fa2166cb320247538b2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:13.553Z"
-  },
-  {
-    "job_id": "lever-ro-eca13175-3838-4a88-a138-d44231ca6fef",
-    "job_title": "Fulfillment Pharmacy Technician - Boynton Beach, FL (Temp)",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boynton Beach, FL",
-    "job_apply_link": "https://jobs.lever.co/ro/eca13175-3838-4a88-a138-d44231ca6fef/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:13.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "46464ef66576eac9173c216a4d5035906d206e7f64816be408f4ef06484db159",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13085,7 +13055,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13115,7 +13085,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13145,7 +13115,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -13175,7 +13145,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -13206,7 +13176,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "ashby",
@@ -13236,7 +13206,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -13267,7 +13237,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -13309,7 +13279,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -13339,7 +13309,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -13370,7 +13340,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13401,7 +13371,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13431,7 +13401,7 @@
       ],
       "experience": "entry_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -13461,7 +13431,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -13491,7 +13461,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -13521,7 +13491,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -13551,7 +13521,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -13581,11 +13551,42 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-27T01:04:43.168Z"
+  },
+  {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 2
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
   },
   {
     "job_id": "lever-includedhealth-199c81db-f48d-4d33-bf48-afbd8dde21e3",
@@ -13612,7 +13613,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13643,7 +13644,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13674,7 +13675,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13705,38 +13706,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13767,7 +13737,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13798,7 +13768,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13829,7 +13799,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13860,7 +13830,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13891,7 +13861,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13922,7 +13892,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13953,7 +13923,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "lever",
@@ -13983,7 +13953,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -14013,7 +13983,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -14044,7 +14014,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -14075,7 +14045,7 @@
       ],
       "experience": "senior_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -14107,7 +14077,7 @@
       "special": [
         "fortune500"
       ],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "workday",
@@ -14137,7 +14107,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -14167,7 +14137,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -14197,7 +14167,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -14227,7 +14197,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -14257,7 +14227,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -14288,7 +14258,7 @@
       ],
       "experience": "mid_level",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
@@ -14318,7 +14288,7 @@
       ],
       "experience": "unknown",
       "special": [],
-      "tag_engine_version": 1
+      "tag_engine_version": 2
     },
     "_source": "aggregator",
     "_original_source": "oracle",
