@@ -30,6 +30,38 @@
     "job_posted_at": "2026-05-02T04:34:48.976Z"
   },
   {
+    "job_id": "workday-walmart-R-2497141",
+    "job_title": "Part-Time Pharmacy Tech Certified Sam's",
+    "employer_name": "Walmart",
+    "job_city": "(USA) PA YORK 08161 SAM'S CLUB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "(USA) PA YORK 08161 SAM'S CLUB",
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-PA-YORK-08161-SAMS-CLUB/Part-Time-Pharmacy-Tech-Certified-Sam-s_R-2497141",
+    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d2b36c7662d9ffa3f9222621bf3e742a040474a6378df6334baf5b807d353c95",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-02T00:22:27.996Z"
+  },
+  {
     "job_id": "workday-walmart-R-2497076",
     "job_title": "Pharmacist Manager - Sam's Pharmacy",
     "employer_name": "Walmart",
@@ -107,38 +139,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "575937aa1cb57413e690e485c2011f1d0f49303722995a683f1e337f19db86d3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-02T00:22:27.996Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2497141",
-    "job_title": "Part-Time Pharmacy Tech Certified Sam's",
-    "employer_name": "Walmart",
-    "job_city": "(USA) PA YORK 08161 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) PA YORK 08161 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-PA-YORK-08161-SAMS-CLUB/Part-Time-Pharmacy-Tech-Certified-Sam-s_R-2497141",
-    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2b36c7662d9ffa3f9222621bf3e742a040474a6378df6334baf5b807d353c95",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4986,6 +4986,66 @@
     "job_posted_at": "2026-04-29T07:11:17.345Z"
   },
   {
+    "job_id": "workday-takeda-R0179355",
+    "job_title": "Medical Support Specialist",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - AZ - Mesa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Support-Specialist_R0179355-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a87a752f6580e89a0f7b86a54db6d7a02063049062c0aa02285716a1f807401f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179405",
+    "job_title": "Part Time Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Largo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - FL - Largo",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
     "job_id": "workday-takeda-R0178551",
     "job_title": "Specialty Business Manager, IBD - Houston, TX",
     "employer_name": "Takeda",
@@ -5659,66 +5719,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3eba634da1495d0deab08451c8470426d1e4b0965b77df57f30241402104d29c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179355",
-    "job_title": "Medical Support Specialist",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Mesa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - AZ - Mesa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Support-Specialist_R0179355-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a87a752f6580e89a0f7b86a54db6d7a02063049062c0aa02285716a1f807401f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179405",
-    "job_title": "Part Time Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Largo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - FL - Largo",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7065,6 +7065,36 @@
     "job_posted_at": "2026-04-28T07:03:08.772Z"
   },
   {
+    "job_id": "workday-takeda-R0179324",
+    "job_title": "Bilingual Plasma Center Nurse (RN)",
+    "employer_name": "Takeda",
+    "job_city": "NY - New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - NY - New York",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---New-York/Bilingual-Plasma-Center-Nurse--RN-_R0179324-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a8ad3de27c701296b8f04923c51d65699142c20a3deba3a870e0e333879ed236",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
     "job_id": "workday-takeda-R0179321",
     "job_title": "Center Supervisor",
     "employer_name": "Takeda",
@@ -7425,19 +7455,19 @@
     "job_posted_at": "2026-04-28T07:03:08.771Z"
   },
   {
-    "job_id": "workday-takeda-R0179324",
-    "job_title": "Bilingual Plasma Center Nurse (RN)",
-    "employer_name": "Takeda",
-    "job_city": "NY - New York",
+    "job_id": "workday-thermo-fisher-scientific-R-01348744",
+    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "San Diego",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - NY - New York",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---New-York/Bilingual-Plasma-Center-Nurse--RN-_R0179324-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_location": "San Diego, California, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:55.631Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a8ad3de27c701296b8f04923c51d65699142c20a3deba3a870e0e333879ed236",
+    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7446,13 +7476,13 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 1
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
+    "job_posted_at": "2026-04-28T07:02:55.631Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01350148",
@@ -7507,36 +7537,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:55.631Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01348744",
-    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Diego, California, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:55.631Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 1
     },
@@ -7637,36 +7637,6 @@
     "job_posted_at": "2026-04-28T07:02:44.220Z"
   },
   {
-    "job_id": "workday-medtronic-R65318",
-    "job_title": "Vascular Clinical Specialist - Los Angeles, CA",
-    "employer_name": "Medtronic",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Los Angeles, California, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Vascular-Clinical-Specialist--_R65318-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:01:56.502Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8aee7a654b88edd604d430f7675d6c2019856bd7f4d1c9b10af80b28640ebea2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:01:56.502Z"
-  },
-  {
     "job_id": "workday-medtronic-R65369",
     "job_title": "Clinical Specialist, Pain Interventions - Orlando, FL",
     "employer_name": "Medtronic",
@@ -7740,6 +7710,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "eb7cb9e58afc331803dbd777338fdf0dab227e848473365df89f07bfa486bd02",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:01:56.502Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65318",
+    "job_title": "Vascular Clinical Specialist - Los Angeles, CA",
+    "employer_name": "Medtronic",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Los Angeles, California, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Vascular-Clinical-Specialist--_R65318-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:01:56.502Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8aee7a654b88edd604d430f7675d6c2019856bd7f4d1c9b10af80b28640ebea2",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9487,6 +9487,276 @@
     "job_posted_at": "2026-04-27T07:11:17.347Z"
   },
   {
+    "job_id": "workday-abbott-31113914",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO; Denver, CO",
+    "employer_name": "Abbott",
+    "job_city": "Colorado - Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Colorado - Colorado Springs",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3c0c9e72ae6b6dee2b5feb128d51c79427f386cd30d3587ad96c0f0a1c4ce0c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31147362",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bremen, GA",
+    "employer_name": "Abbott",
+    "job_city": "Georgia - Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Georgia - Atlanta",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Bremen--GA_31147362",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a4fb29705451e1806bf403ea765110f864afda57b53921ff5bdaea03d1b10c9e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31146064",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
+    "employer_name": "Abbott",
+    "job_city": "North Dakota - Fargo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - North Dakota - Fargo",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "148b21a1d82d1390046653de10ed0386e81a0e0750e9eae03039f231edee02ed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31147623",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bristol, VA; Charlottesville, VA",
+    "employer_name": "Abbott",
+    "job_city": "Virginia - Roanoke",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Virginia - Roanoke",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4515e72e35eaba30eb45a8fb613a7ed28daf283e468013836893300d97b23d16",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31138237",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - North Carolina - Greenville",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31142458",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bridgewater, NJ; Willingboro, NJ",
+    "employer_name": "Abbott",
+    "job_city": "New Jersey - Paterson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - New Jersey - Paterson",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Paterson/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Paterson--NJ_31142458",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b0d48f8ec27688c38ed975db53268053a08056d2bb5c822ff3e7dee4249775b7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31146063",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockland, MI",
+    "employer_name": "Abbott",
+    "job_city": "Michigan - Traverse City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Michigan - Traverse City",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Traverse-City/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockland--MI_31146063",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "12dc4495d057715b1e66ac39b50f5741317cc75f0b5842bf7c7c05bdbdb9bb9c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31136218",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Butte, MT",
+    "employer_name": "Abbott",
+    "job_city": "Montana - Missoula",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Montana - Missoula",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Montana---Missoula/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Butte--MT_31136218",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2f8268adf8113c288a9442b44256deff956f3213c9fd89cc492f9884c0583d0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
+    "job_id": "workday-abbott-31134926",
+    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Conway, NH",
+    "employer_name": "Abbott",
+    "job_city": "New Hampshire - Portsmouth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - New Hampshire - Portsmouth",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Hampshire---Portsmouth/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Conway--NH_31134926",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d9e38b1388fd0545a78221fcfe22d61c58e66b2fd64d4922e7b11a90cd1536f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
+  },
+  {
     "job_id": "workday-abbott-31131392",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Petersburg, WV; Williamson, WV",
     "employer_name": "Abbott",
@@ -9741,276 +10011,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1b9c581c5605db7455af414dbc1d1c7a4ca07a88710893ad548dfaa3803b19e1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31113914",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO; Denver, CO",
-    "employer_name": "Abbott",
-    "job_city": "Colorado - Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Colorado - Colorado Springs",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3c0c9e72ae6b6dee2b5feb128d51c79427f386cd30d3587ad96c0f0a1c4ce0c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31147362",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bremen, GA",
-    "employer_name": "Abbott",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Georgia - Atlanta",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Bremen--GA_31147362",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a4fb29705451e1806bf403ea765110f864afda57b53921ff5bdaea03d1b10c9e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31146064",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Fairmount, ND; Minot, ND",
-    "employer_name": "Abbott",
-    "job_city": "North Dakota - Fargo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - North Dakota - Fargo",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Dakota---Fargo/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Fairmount--ND_31146064",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "148b21a1d82d1390046653de10ed0386e81a0e0750e9eae03039f231edee02ed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31147623",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bristol, VA; Charlottesville, VA",
-    "employer_name": "Abbott",
-    "job_city": "Virginia - Roanoke",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Virginia - Roanoke",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4515e72e35eaba30eb45a8fb613a7ed28daf283e468013836893300d97b23d16",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31138237",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Waynesville, NC; Monroe, NC",
-    "employer_name": "Abbott",
-    "job_city": "North Carolina - Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - North Carolina - Greenville",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---New-Bern--NC_31138237",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d973570345cc9693185506cf889bf09d5a9d8441f101b3a659b8debbaa3c17f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31142458",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Bridgewater, NJ; Willingboro, NJ",
-    "employer_name": "Abbott",
-    "job_city": "New Jersey - Paterson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - New Jersey - Paterson",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Paterson/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Paterson--NJ_31142458",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b0d48f8ec27688c38ed975db53268053a08056d2bb5c822ff3e7dee4249775b7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31146063",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Rockland, MI",
-    "employer_name": "Abbott",
-    "job_city": "Michigan - Traverse City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Michigan - Traverse City",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Traverse-City/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Rockland--MI_31146063",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "12dc4495d057715b1e66ac39b50f5741317cc75f0b5842bf7c7c05bdbdb9bb9c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31136218",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Butte, MT",
-    "employer_name": "Abbott",
-    "job_city": "Montana - Missoula",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Montana - Missoula",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Montana---Missoula/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Butte--MT_31136218",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2f8268adf8113c288a9442b44256deff956f3213c9fd89cc492f9884c0583d0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31134926",
-    "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Conway, NH",
-    "employer_name": "Abbott",
-    "job_city": "New Hampshire - Portsmouth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - New Hampshire - Portsmouth",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Hampshire---Portsmouth/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Conway--NH_31134926",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d9e38b1388fd0545a78221fcfe22d61c58e66b2fd64d4922e7b11a90cd1536f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11100,6 +11100,66 @@
     "job_posted_at": "2026-04-27T07:01:06.492Z"
   },
   {
+    "job_id": "workday-guidehouse-35052",
+    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
+    "employer_name": "Guidehouse",
+    "job_city": "US IL Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US IL Chicago + 1 more",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_35052",
+    "job_posted_at_datetime_utc": "2026-04-27T07:00:39.224Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:00:39.224Z"
+  },
+  {
+    "job_id": "workday-guidehouse-36911",
+    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
+    "employer_name": "Guidehouse",
+    "job_city": "US IL Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US IL Chicago + 1 more",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_36911",
+    "job_posted_at_datetime_utc": "2026-04-27T07:00:39.224Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:00:39.224Z"
+  },
+  {
     "job_id": "workday-guidehouse-38932",
     "job_title": "Patient Coordinator",
     "employer_name": "Guidehouse",
@@ -11215,66 +11275,6 @@
         "remote"
       ],
       "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:00:39.224Z"
-  },
-  {
-    "job_id": "workday-guidehouse-35052",
-    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
-    "employer_name": "Guidehouse",
-    "job_city": "US IL Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US IL Chicago + 1 more",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_35052",
-    "job_posted_at_datetime_utc": "2026-04-27T07:00:39.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:00:39.224Z"
-  },
-  {
-    "job_id": "workday-guidehouse-36911",
-    "job_title": "Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimization",
-    "employer_name": "Guidehouse",
-    "job_city": "US IL Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US IL Chicago + 1 more",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Healthcare-Analytics---Payor-Provider-Finance-Data-and-AI--Managed-Care-Contracting---Optimization_36911",
-    "job_posted_at_datetime_utc": "2026-04-27T07:00:39.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": [],
       "tag_engine_version": 1
     },
@@ -11691,36 +11691,6 @@
     "job_posted_at": "2026-04-27T02:58:17.210Z"
   },
   {
-    "job_id": "greenhouse-personalisinc-7689649003",
-    "job_title": "Sample Accessioner 1 (Temp)",
-    "employer_name": "Personalis",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fremont, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7689649003",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.690Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef2921dec187c0486bac988529ca4e88fee9e31f2af56f88a2215859a814c1f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:16.690Z"
-  },
-  {
     "job_id": "greenhouse-personalisinc-6680748003",
     "job_title": "Client Experience Associate (Temp - 6 Months)",
     "employer_name": "Personalis",
@@ -11865,6 +11835,36 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:16.690Z"
+  },
+  {
+    "job_id": "greenhouse-personalisinc-7689649003",
+    "job_title": "Sample Accessioner 1 (Temp)",
+    "employer_name": "Personalis",
+    "job_city": "Fremont",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fremont, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7689649003",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.690Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ef2921dec187c0486bac988529ca4e88fee9e31f2af56f88a2215859a814c1f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": [],
       "tag_engine_version": 1
     },
@@ -13255,37 +13255,6 @@
     "job_posted_at": "2026-04-27T01:04:43.168Z"
   },
   {
-    "job_id": "lever-includedhealth-c199c441-a47c-4dbd-bfae-139a17e782b6",
-    "job_title": "Pediatric Behavioral Health Nurse Care Manager",
-    "employer_name": "Included Health",
-    "job_city": "Arizona",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Arizona",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/c199c441-a47c-4dbd-bfae-139a17e782b6/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
     "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
     "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
     "employer_name": "Included Health",
@@ -13392,6 +13361,37 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8a01f69ac8d7ebcbc0805893eed0c07a18f031482c3afeffdb862ffef46a5bf8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
+    "job_id": "lever-includedhealth-c199c441-a47c-4dbd-bfae-139a17e782b6",
+    "job_title": "Pediatric Behavioral Health Nurse Care Manager",
+    "employer_name": "Included Health",
+    "job_city": "Arizona",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Arizona",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/c199c441-a47c-4dbd-bfae-139a17e782b6/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
     "tags": {
       "employment": "entry_level",
       "domains": [
