@@ -30,70 +30,6 @@
     "job_posted_at": "2026-05-02T04:34:48.976Z"
   },
   {
-    "job_id": "workday-walmart-R-2497399",
-    "job_title": "(USA) Pharmacy Tech Certified Sam's",
-    "employer_name": "Walmart",
-    "job_city": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MO-COLUMBIA-08163-SAMS-CLUB/XMLNAME--USA--Pharmacy-Tech-Certified-Sam-s_R-2497399",
-    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "080ef0cc1650641442eafb19e2b20b53eab6b3ad1bfeda2f101b186ebe7fa60f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-02T00:22:27.996Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2495831",
-    "job_title": "(USA) Pharmacist Manager - Sam's",
-    "employer_name": "Walmart",
-    "job_city": "(USA) OK TULSA 06342 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) OK TULSA 06342 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OK-TULSA-06342-SAMS-CLUB/XMLNAME--USA--Pharmacist-Manager---Sam-s_R-2495831-1",
-    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "575937aa1cb57413e690e485c2011f1d0f49303722995a683f1e337f19db86d3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-02T00:22:27.996Z"
-  },
-  {
     "job_id": "workday-walmart-R-2497141",
     "job_title": "Part-Time Pharmacy Tech Certified Sam's",
     "employer_name": "Walmart",
@@ -139,6 +75,70 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2089dd24587c9f8a5263ece40ef654e5eb92b953bca5141eb9b2e7fbd7a0e4c1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-02T00:22:27.996Z"
+  },
+  {
+    "job_id": "workday-walmart-R-2497399",
+    "job_title": "(USA) Pharmacy Tech Certified Sam's",
+    "employer_name": "Walmart",
+    "job_city": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MO-COLUMBIA-08163-SAMS-CLUB/XMLNAME--USA--Pharmacy-Tech-Certified-Sam-s_R-2497399",
+    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "080ef0cc1650641442eafb19e2b20b53eab6b3ad1bfeda2f101b186ebe7fa60f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-02T00:22:27.996Z"
+  },
+  {
+    "job_id": "workday-walmart-R-2495831",
+    "job_title": "(USA) Pharmacist Manager - Sam's",
+    "employer_name": "Walmart",
+    "job_city": "(USA) OK TULSA 06342 SAM'S CLUB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "(USA) OK TULSA 06342 SAM'S CLUB",
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OK-TULSA-06342-SAMS-CLUB/XMLNAME--USA--Pharmacist-Manager---Sam-s_R-2495831-1",
+    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "575937aa1cb57413e690e485c2011f1d0f49303722995a683f1e337f19db86d3",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4004,66 +4004,6 @@
     "job_posted_at": "2026-04-30T07:44:58.961Z"
   },
   {
-    "job_id": "workday-cigna-26004741",
-    "job_title": "Pharmacy Technician - Accredo - Norcross, GA",
-    "employer_name": "Cigna",
-    "job_city": "Norcross",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Norcross, GA + 1 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Norcross-GA/Pharmacy-Technician---Accredo---Norcross--GA_26004741",
-    "job_posted_at_datetime_utc": "2026-04-30T07:44:21.390Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:44:21.390Z"
-  },
-  {
-    "job_id": "workday-cigna-26004418",
-    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
-    "employer_name": "Cigna",
-    "job_city": "Clinic Arlington County Clarendon Blvd",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
-    "job_posted_at_datetime_utc": "2026-04-30T07:44:21.390Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:44:21.390Z"
-  },
-  {
     "job_id": "workday-cigna-26004429",
     "job_title": "Home Infusion Nurse, Per Diem – Accredo - Springfield, IL",
     "employer_name": "Cigna",
@@ -4107,6 +4047,66 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2ceae4aab90b82c5443a3b82681998abce8847c482400c8035c39df4e5d33189",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:44:21.390Z"
+  },
+  {
+    "job_id": "workday-cigna-26004741",
+    "job_title": "Pharmacy Technician - Accredo - Norcross, GA",
+    "employer_name": "Cigna",
+    "job_city": "Norcross",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Norcross, GA + 1 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Norcross-GA/Pharmacy-Technician---Accredo---Norcross--GA_26004741",
+    "job_posted_at_datetime_utc": "2026-04-30T07:44:21.390Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:44:21.390Z"
+  },
+  {
+    "job_id": "workday-cigna-26004418",
+    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
+    "employer_name": "Cigna",
+    "job_city": "Clinic Arlington County Clarendon Blvd",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
+    "job_posted_at_datetime_utc": "2026-04-30T07:44:21.390Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4866,6 +4866,36 @@
     "job_posted_at": "2026-04-29T07:11:44.597Z"
   },
   {
+    "job_id": "workday-abbott-31149132",
+    "job_title": "Clinical Associate",
+    "employer_name": "Abbott",
+    "job_city": "California - San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - California - San Francisco",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Francisco/Clinical-Associate_31149132-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:11:17.345Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "79258ecc158730b550915d7c8255e5b32bcae14f3354bcd80cc0ae1baf10cda9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:11:17.345Z"
+  },
+  {
     "job_id": "workday-abbott-31147606",
     "job_title": "Clinical Specialist, Vessel Closure - Phoenix/Tucson, AZ",
     "employer_name": "Abbott",
@@ -4939,36 +4969,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:11:17.345Z"
-  },
-  {
-    "job_id": "workday-abbott-31149132",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "California - San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - California - San Francisco",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Francisco/Clinical-Associate_31149132-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:11:17.345Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "79258ecc158730b550915d7c8255e5b32bcae14f3354bcd80cc0ae1baf10cda9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6855,36 +6855,6 @@
     "job_posted_at": "2026-04-28T07:11:41.597Z"
   },
   {
-    "job_id": "workday-abbott-31147603",
-    "job_title": "Clinical Specialist, MCS - Nashville",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Tennessee - Nashville",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:11:17.346Z"
-  },
-  {
     "job_id": "workday-abbott-31148866",
     "job_title": "Clinical Specialist",
     "employer_name": "Abbott",
@@ -6958,6 +6928,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3939e8e756781dde548b32fcbdaa1431b11da8df1582bd738c2f8b6601756d53",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:11:17.346Z"
+  },
+  {
+    "job_id": "workday-abbott-31147603",
+    "job_title": "Clinical Specialist, MCS - Nashville",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Tennessee - Nashville",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9487,97 +9487,6 @@
     "job_posted_at": "2026-04-27T07:11:17.347Z"
   },
   {
-    "job_id": "workday-abbott-31148766",
-    "job_title": "Clinical Specialist, CRM (Kearney, NE)",
-    "employer_name": "Abbott",
-    "job_city": "Nebraska - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "United States - Nebraska - Remote",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Remote/Clinical-Specialist--CRM--Kearney--NE-_31148766-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cde241bd89fefec125f6651e84b8a4fdf62a7690cb8d763fc20fee1dfcbe73fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31148535",
-    "job_title": "Associate Clinical Specialist, CRM - Washington DC",
-    "employer_name": "Abbott",
-    "job_city": "Washington DC - Washington DC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Washington DC - Washington DC",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington-DC---Washington-DC/Associate-Clinical-Specialist--CRM---Washington-DC_31148535-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "20d43f2842bc1e295f332c74c6f780b23d4bec24b8ee8df7558c12c7159cb3d5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
-    "job_id": "workday-abbott-31148758",
-    "job_title": "Executive Clinical Specialist, Vessel Closure - Knoxville, TN",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Knoxville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Tennessee - Knoxville",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Executive-Clinical-Specialist--Vessel-Closure---Knoxville--TN_31148758-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b6d69b4189eb1ee7d4eb602cb2780d5741500c3910ecac0ec21cb250cfa27c66",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:11:17.347Z"
-  },
-  {
     "job_id": "workday-abbott-31137792",
     "job_title": "Registered Nurse - Patient Educator (PRN) Immediate Openings - Albany, NY",
     "employer_name": "Abbott",
@@ -10028,26 +9937,27 @@
     "job_posted_at": "2026-04-27T07:11:17.347Z"
   },
   {
-    "job_id": "workday-takeda-R0177695",
-    "job_title": "Licensed Practical Nurse (LPN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
-    "employer_name": "Takeda",
-    "job_city": "TX - Georgetown",
+    "job_id": "workday-abbott-31148766",
+    "job_title": "Clinical Specialist, CRM (Kearney, NE)",
+    "employer_name": "Abbott",
+    "job_city": "Nebraska - Remote",
     "job_state": "",
     "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Georgetown",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Licensed-Practical-Nurse--LPN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177695-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_is_remote": true,
+    "job_location": "United States - Nebraska - Remote",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nebraska---Remote/Clinical-Specialist--CRM--Kearney--NE-_31148766-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "05292f85f8c7a08e6d395da41ede5f420fb4ccbd749d4baea8ff7bc7ee1ebf7a",
+    "fingerprint": "cde241bd89fefec125f6651e84b8a4fdf62a7690cb8d763fc20fee1dfcbe73fd",
     "tags": {
       "employment": "entry_level",
       "domains": [
         "healthcare"
       ],
       "locations": [
-        "us"
+        "us",
+        "remote"
       ],
       "experience": "unknown",
       "special": [],
@@ -10055,22 +9965,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
   },
   {
-    "job_id": "workday-takeda-R0177697",
-    "job_title": "Registered Nurse (RN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
-    "employer_name": "Takeda",
-    "job_city": "TX - Georgetown",
+    "job_id": "workday-abbott-31148535",
+    "job_title": "Associate Clinical Specialist, CRM - Washington DC",
+    "employer_name": "Abbott",
+    "job_city": "Washington DC - Washington DC",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - TX - Georgetown",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Registered-Nurse--RN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177697-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_location": "United States - Washington DC - Washington DC",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Washington-DC---Washington-DC/Associate-Clinical-Specialist--CRM---Washington-DC_31148535-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "02b94966e09459e6213ab7abe00ae9f184ad15673d4359207dee6295f5fbad8a",
+    "fingerprint": "20d43f2842bc1e295f332c74c6f780b23d4bec24b8ee8df7558c12c7159cb3d5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10085,22 +9995,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
   },
   {
-    "job_id": "workday-takeda-R0177696",
-    "job_title": "EMT-P, Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
-    "employer_name": "Takeda",
-    "job_city": "TX - Georgetown",
+    "job_id": "workday-abbott-31148758",
+    "job_title": "Executive Clinical Specialist, Vessel Closure - Knoxville, TN",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Knoxville",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - TX - Georgetown",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/EMT-P--Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177696-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_location": "United States - Tennessee - Knoxville",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Knoxville/Executive-Clinical-Specialist--Vessel-Closure---Knoxville--TN_31148758-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:11:17.347Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a262bcf999e8c626b0fb3251069d9b7518fee644648153a62c264d032bbcf192",
+    "fingerprint": "b6d69b4189eb1ee7d4eb602cb2780d5741500c3910ecac0ec21cb250cfa27c66",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10115,97 +10025,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177318",
-    "job_title": "Head, Global Clinical Science & Medical Affairs for Marketed Products",
-    "employer_name": "Takeda",
-    "job_city": "MA - Cambridge - Kendall Square - 500",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MA - Cambridge - Kendall Square - 500",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge---Kendall-Square---500/Head--Global-Clinical-Science---Medical-Affairs-for-Marketed-Products_R0177318-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5b5ef9798acf6add99b1db5f32081ec542445597205374b928c5d6d26339201",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179242",
-    "job_title": "Medical Support Specialist – RN (Immediate Benefits!)   Fond du Lac",
-    "employer_name": "Takeda",
-    "job_city": "WI - Fond du Lac",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Fond du Lac",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---RN--Immediate-Benefits-----Fond-du-Lac_R0179242-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d072eb57391e6c306aa0e100c8113dadc8c25a559263f0874f8da996c67b1d0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179241",
-    "job_title": "Medical Support Specialist – EMT (Immediate Benefits!)   Fond du Lac",
-    "employer_name": "Takeda",
-    "job_city": "WI - Fond du Lac",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Fond du Lac",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---EMT--Immediate-Benefits-----Fond-du-Lac_R0179241-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e687443d4972d505974318283bb4913e74dde665d9b93b9733debdae4204862f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
+    "job_posted_at": "2026-04-27T07:11:17.347Z"
   },
   {
     "job_id": "workday-takeda-R0179239",
@@ -10551,6 +10371,186 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e24909f5b2c091e9676cabac53772c1c66a87322780c32e2611aa22ad5ac5640",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177695",
+    "job_title": "Licensed Practical Nurse (LPN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
+    "employer_name": "Takeda",
+    "job_city": "TX - Georgetown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Georgetown",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Licensed-Practical-Nurse--LPN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177695-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05292f85f8c7a08e6d395da41ede5f420fb4ccbd749d4baea8ff7bc7ee1ebf7a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177697",
+    "job_title": "Registered Nurse (RN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
+    "employer_name": "Takeda",
+    "job_city": "TX - Georgetown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Georgetown",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Registered-Nurse--RN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177697-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02b94966e09459e6213ab7abe00ae9f184ad15673d4359207dee6295f5fbad8a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177696",
+    "job_title": "EMT-P, Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
+    "employer_name": "Takeda",
+    "job_city": "TX - Georgetown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Georgetown",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/EMT-P--Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177696-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a262bcf999e8c626b0fb3251069d9b7518fee644648153a62c264d032bbcf192",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177318",
+    "job_title": "Head, Global Clinical Science & Medical Affairs for Marketed Products",
+    "employer_name": "Takeda",
+    "job_city": "MA - Cambridge - Kendall Square - 500",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MA - Cambridge - Kendall Square - 500",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge---Kendall-Square---500/Head--Global-Clinical-Science---Medical-Affairs-for-Marketed-Products_R0177318-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5b5ef9798acf6add99b1db5f32081ec542445597205374b928c5d6d26339201",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179242",
+    "job_title": "Medical Support Specialist – RN (Immediate Benefits!)   Fond du Lac",
+    "employer_name": "Takeda",
+    "job_city": "WI - Fond du Lac",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Fond du Lac",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---RN--Immediate-Benefits-----Fond-du-Lac_R0179242-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d072eb57391e6c306aa0e100c8113dadc8c25a559263f0874f8da996c67b1d0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179241",
+    "job_title": "Medical Support Specialist – EMT (Immediate Benefits!)   Fond du Lac",
+    "employer_name": "Takeda",
+    "job_city": "WI - Fond du Lac",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Fond du Lac",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---EMT--Immediate-Benefits-----Fond-du-Lac_R0179241-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e687443d4972d505974318283bb4913e74dde665d9b93b9733debdae4204862f",
     "tags": {
       "employment": "entry_level",
       "domains": [
