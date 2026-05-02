@@ -120,70 +120,6 @@
     "job_posted_at": "2026-05-02T04:34:48.976Z"
   },
   {
-    "job_id": "workday-walmart-R-2497399",
-    "job_title": "(USA) Pharmacy Tech Certified Sam's",
-    "employer_name": "Walmart",
-    "job_city": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MO-COLUMBIA-08163-SAMS-CLUB/XMLNAME--USA--Pharmacy-Tech-Certified-Sam-s_R-2497399",
-    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "080ef0cc1650641442eafb19e2b20b53eab6b3ad1bfeda2f101b186ebe7fa60f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-02T00:22:27.996Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2495831",
-    "job_title": "(USA) Pharmacist Manager - Sam's",
-    "employer_name": "Walmart",
-    "job_city": "(USA) OK TULSA 06342 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) OK TULSA 06342 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OK-TULSA-06342-SAMS-CLUB/XMLNAME--USA--Pharmacist-Manager---Sam-s_R-2495831-1",
-    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "575937aa1cb57413e690e485c2011f1d0f49303722995a683f1e337f19db86d3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-02T00:22:27.996Z"
-  },
-  {
     "job_id": "workday-walmart-R-2497141",
     "job_title": "Part-Time Pharmacy Tech Certified Sam's",
     "employer_name": "Walmart",
@@ -229,6 +165,70 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2089dd24587c9f8a5263ece40ef654e5eb92b953bca5141eb9b2e7fbd7a0e4c1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-02T00:22:27.996Z"
+  },
+  {
+    "job_id": "workday-walmart-R-2497399",
+    "job_title": "(USA) Pharmacy Tech Certified Sam's",
+    "employer_name": "Walmart",
+    "job_city": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MO-COLUMBIA-08163-SAMS-CLUB/XMLNAME--USA--Pharmacy-Tech-Certified-Sam-s_R-2497399",
+    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "080ef0cc1650641442eafb19e2b20b53eab6b3ad1bfeda2f101b186ebe7fa60f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "fortune500"
+      ],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-02T00:22:27.996Z"
+  },
+  {
+    "job_id": "workday-walmart-R-2495831",
+    "job_title": "(USA) Pharmacist Manager - Sam's",
+    "employer_name": "Walmart",
+    "job_city": "(USA) OK TULSA 06342 SAM'S CLUB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "(USA) OK TULSA 06342 SAM'S CLUB",
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OK-TULSA-06342-SAMS-CLUB/XMLNAME--USA--Pharmacist-Manager---Sam-s_R-2495831-1",
+    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "575937aa1cb57413e690e485c2011f1d0f49303722995a683f1e337f19db86d3",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -608,19 +608,19 @@
     "job_posted_at": "2026-05-02T00:20:36.265Z"
   },
   {
-    "job_id": "workday-leidos-R-00182324",
-    "job_title": "Military Family Life School Counselor - MCB, Hawaii",
+    "job_id": "workday-leidos-R-00182346",
+    "job_title": "Military Family Life Counselor - Schofield Barracks, HI",
     "employer_name": "Leidos",
-    "job_city": "Marine Corps Base Kaneohe Bay",
+    "job_city": "Honolulu",
     "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Marine Corps Base Kaneohe Bay, HI",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Marine-Corps-Base-Kaneohe-Bay-HI/Military-Family-Life-School-Counselor---MCB--Hawaii_R-00182324",
+    "job_location": "Honolulu, HI",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Military-Family-Life-Counselor---Schofield-Barracks--HI_R-00182346",
     "job_posted_at_datetime_utc": "2026-05-02T00:20:03.930Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d3ead766437935dc0ac542de185338ebf9f35c59ea043021d3fa29382aa6239d",
+    "fingerprint": "364defeb2e3668719f799f9ea020ec442111dea51723ed01f7961f2149bb56d3",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -638,19 +638,19 @@
     "job_posted_at": "2026-05-02T00:20:03.930Z"
   },
   {
-    "job_id": "workday-leidos-R-00182346",
-    "job_title": "Military Family Life Counselor - Schofield Barracks, HI",
+    "job_id": "workday-leidos-R-00182324",
+    "job_title": "Military Family Life School Counselor - MCB, Hawaii",
     "employer_name": "Leidos",
-    "job_city": "Honolulu",
+    "job_city": "Marine Corps Base Kaneohe Bay",
     "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Honolulu, HI",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Military-Family-Life-Counselor---Schofield-Barracks--HI_R-00182346",
+    "job_location": "Marine Corps Base Kaneohe Bay, HI",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Marine-Corps-Base-Kaneohe-Bay-HI/Military-Family-Life-School-Counselor---MCB--Hawaii_R-00182324",
     "job_posted_at_datetime_utc": "2026-05-02T00:20:03.930Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "364defeb2e3668719f799f9ea020ec442111dea51723ed01f7961f2149bb56d3",
+    "fingerprint": "d3ead766437935dc0ac542de185338ebf9f35c59ea043021d3fa29382aa6239d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2822,96 +2822,6 @@
     "job_posted_at": "2026-04-30T15:01:36.164Z"
   },
   {
-    "job_id": "workday-takeda-R0179421",
-    "job_title": "Paramedic/EMT-P- Day 1 Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "TX - Abilene",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Abilene",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Paramedic-EMT-P--Day-1-Benefits-_R0179421-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50ba5d7119fa7dda3d4f3a934e26200d339c9f6debaed16cfe66be2ebed28f25",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:47:33.640Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179420",
-    "job_title": "Plasma Center Nurse- LPN- Day 1 Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "TX - Abilene",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Abilene",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--LPN--Day-1-Benefits-_R0179420-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a539bfb1b1f78f88bdedb6b8ad58356a88fe00677c23a54fe5b9896051392ac7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:47:33.640Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179419",
-    "job_title": "Plasma Center Nurse- RN- Day 1 Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "TX - Abilene",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Abilene",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--RN--Day-1-Benefits-_R0179419-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e5b1e6b620bf60418da0a68c5554fa80af20bee6d69a57d511fd63c6a640c1e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:47:33.640Z"
-  },
-  {
     "job_id": "workday-takeda-R0175138",
     "job_title": "EMT – I – No Overnight Shifts",
     "employer_name": "Takeda",
@@ -3405,6 +3315,96 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "577f9450d61a0b61a2d4e5e38050f0f294d6e563f0c1551086dc07c842426c6b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:47:33.640Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179421",
+    "job_title": "Paramedic/EMT-P- Day 1 Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "TX - Abilene",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Abilene",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Paramedic-EMT-P--Day-1-Benefits-_R0179421-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50ba5d7119fa7dda3d4f3a934e26200d339c9f6debaed16cfe66be2ebed28f25",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:47:33.640Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179420",
+    "job_title": "Plasma Center Nurse- LPN- Day 1 Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "TX - Abilene",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Abilene",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--LPN--Day-1-Benefits-_R0179420-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a539bfb1b1f78f88bdedb6b8ad58356a88fe00677c23a54fe5b9896051392ac7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:47:33.640Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179419",
+    "job_title": "Plasma Center Nurse- RN- Day 1 Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "TX - Abilene",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Abilene",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--RN--Day-1-Benefits-_R0179419-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:47:33.640Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9e5b1e6b620bf60418da0a68c5554fa80af20bee6d69a57d511fd63c6a640c1e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6945,6 +6945,36 @@
     "job_posted_at": "2026-04-28T07:11:41.597Z"
   },
   {
+    "job_id": "workday-abbott-31148530",
+    "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - North Carolina - Charlotte",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Charlotte/Associate-Clinical-Specialist--CRM---Charlotte--NC_31148530-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:11:17.346Z"
+  },
+  {
     "job_id": "workday-abbott-31149022",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -7018,36 +7048,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:11:17.346Z"
-  },
-  {
-    "job_id": "workday-abbott-31148530",
-    "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
-    "employer_name": "Abbott",
-    "job_city": "North Carolina - Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - North Carolina - Charlotte",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Charlotte/Associate-Clinical-Specialist--CRM---Charlotte--NC_31148530-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:11:17.346Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7153,6 +7153,156 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-28T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179292",
+    "job_title": "Paramedic/EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "TX - Fort Worth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Fort Worth",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Paramedic-EMT-P_R0179292-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "78171c8a2641de04b57fdf91ea38255a625d2ad61e3d9e82e001a0fb01ac0c57",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179290",
+    "job_title": "Plasma Center Nurse- RN",
+    "employer_name": "Takeda",
+    "job_city": "TX - Fort Worth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Fort Worth",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Plasma-Center-Nurse--RN_R0179290-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8154956d41a0e4ebd62a8d08ac143017f3a8fcaff30996ed56d96df84bf5558d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179289",
+    "job_title": "Plasma Center Nurse- LPN",
+    "employer_name": "Takeda",
+    "job_city": "TX - Fort Worth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Fort Worth",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Plasma-Center-Nurse--LPN_R0179289-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "79b9c6a40662d5de1d49033d474696d0ec4bbaa299b7e7623661029dda586f4a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176875",
+    "job_title": "Plasma Center Manager",
+    "employer_name": "Takeda",
+    "job_city": "MA - Worcester",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MA - Worcester",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Worcester/Plasma-Center-Manager_R0176875-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bbbce83f9c5ee8faadfd1825c70f1cfcc9202e8b1b3709028a2db8387fc9e941",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178846",
+    "job_title": "Rare Disease Business Manager-LSD- Michigan",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Michigan - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Michigan---Virtual/Rare-Disease-Business-Manager-LSD--Michigan_R0178846-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "340393eea0936fadf80c7bbdee063acf5a7b9aab92035c8c09d2f0bdf00cbaf8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
   },
   {
     "job_id": "workday-takeda-R0179324",
@@ -7378,156 +7528,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4dc849c43f1d7b32308db713b9bb01376bc80d731f0019efb2853144a28a8ae6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179292",
-    "job_title": "Paramedic/EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "TX - Fort Worth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Fort Worth",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Paramedic-EMT-P_R0179292-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "78171c8a2641de04b57fdf91ea38255a625d2ad61e3d9e82e001a0fb01ac0c57",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179290",
-    "job_title": "Plasma Center Nurse- RN",
-    "employer_name": "Takeda",
-    "job_city": "TX - Fort Worth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Fort Worth",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Plasma-Center-Nurse--RN_R0179290-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8154956d41a0e4ebd62a8d08ac143017f3a8fcaff30996ed56d96df84bf5558d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179289",
-    "job_title": "Plasma Center Nurse- LPN",
-    "employer_name": "Takeda",
-    "job_city": "TX - Fort Worth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Fort Worth",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Plasma-Center-Nurse--LPN_R0179289-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "79b9c6a40662d5de1d49033d474696d0ec4bbaa299b7e7623661029dda586f4a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176875",
-    "job_title": "Plasma Center Manager",
-    "employer_name": "Takeda",
-    "job_city": "MA - Worcester",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MA - Worcester",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Worcester/Plasma-Center-Manager_R0176875-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bbbce83f9c5ee8faadfd1825c70f1cfcc9202e8b1b3709028a2db8387fc9e941",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178846",
-    "job_title": "Rare Disease Business Manager-LSD- Michigan",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Michigan - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Michigan---Virtual/Rare-Disease-Business-Manager-LSD--Michigan_R0178846-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "340393eea0936fadf80c7bbdee063acf5a7b9aab92035c8c09d2f0bdf00cbaf8",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11190,6 +11190,36 @@
     "job_posted_at": "2026-04-27T07:01:06.492Z"
   },
   {
+    "job_id": "workday-guidehouse-38932",
+    "job_title": "Patient Coordinator",
+    "employer_name": "Guidehouse",
+    "job_city": "US MD Bethesda",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US MD Bethesda + 1 more",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Patient-Coordinator_38932",
+    "job_posted_at_datetime_utc": "2026-04-27T07:00:39.224Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9abd8382b74bb03d7eaaa95850314c8600152e43a198e4f73a77770b2e561c53",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:00:39.224Z"
+  },
+  {
     "job_id": "workday-guidehouse-38252",
     "job_title": "Part-Time Oncology Data Specialist - Certified (remote)",
     "employer_name": "Guidehouse",
@@ -11326,36 +11356,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "22c16f59976741f9fa6f110d8cbec866e0275009a771e05dcac09d6782e0bce4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:00:39.224Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38932",
-    "job_title": "Patient Coordinator",
-    "employer_name": "Guidehouse",
-    "job_city": "US MD Bethesda",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US MD Bethesda + 1 more",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Patient-Coordinator_38932",
-    "job_posted_at_datetime_utc": "2026-04-27T07:00:39.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9abd8382b74bb03d7eaaa95850314c8600152e43a198e4f73a77770b2e561c53",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -13345,37 +13345,6 @@
     "job_posted_at": "2026-04-27T01:04:43.168Z"
   },
   {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 1
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
     "job_id": "lever-includedhealth-199c81db-f48d-4d33-bf48-afbd8dde21e3",
     "job_title": "Pediatric Behavioral Health Nurse Care Manager",
     "employer_name": "Included Health",
@@ -13482,6 +13451,37 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 1
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
     "tags": {
       "employment": "entry_level",
       "domains": [
