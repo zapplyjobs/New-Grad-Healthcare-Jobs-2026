@@ -121,9 +121,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **AbbVie** | Oncology Nurse Educator - New England | Boston, MA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012905719) |
-| 🏢 **AbbVie** | Oncology Nurse Educator - New England | Hartford, CT | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012905433) |
-| 🏢 **AbbVie** | Oncology Nurse Educator - New England | Providence, RI | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012905779) |
+| 🏢 **AbbVie** | Oncology Nurse Educator - New England | Boston, MA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012905719) |
+| 🏢 **AbbVie** | Oncology Nurse Educator - New England | Hartford, CT | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012905433) |
+| 🏢 **AbbVie** | Oncology Nurse Educator - New England | Providence, RI | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012905779) |
 | 🏢 **Included Health** | Pediatric Nurse Care Manager | Colorado | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/50ada7b5-5f18-4545-a4f6-35fddf54ce6f/apply) |
 | 🏢 **Included Health** | Pediatric Nurse Care Manager | Washington | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/e27e1833-f242-4c0e-a8b4-1cc36d489abf/apply) |
 | 🏢 **Included Health** | Pediatric Nurse Care Manager | Arizona | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/e4019948-5276-400a-845b-f9b86d091221/apply) |
@@ -209,9 +209,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Takeda** | Medical Screener, Phlebotomist | AZ | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Screener--Phlebotomist_R0179523-1) |
+| 🏢 **Medtronic** | Clinical Specialist, CRM - Rochester, NY | Rochester, New Yo... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Rochester-New-York-United-States-of-America/Clinical-Specialist--CRM---Buffalo-Rochester--NY_R59617-1) |
 | 🏢 **Medtronic** | Clinical Specialist, Neurovascular - Mobile, AL | 3 Locations | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mobile-Alabama-United-States-of-America/Clinical-Specialist--Neurovascular---New-Orleans--LA_R65711-2) |
 | 🏢 **Medtronic** | Prin. Clinical Specialist - SVI - Houston | Houston, Texas, U... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Prin-Clinical-Specialist---SVI---Houston_R65669-1) |
-| 🏢 **Medtronic** | CRM Clinical Specialist - Hartford, CT | Hartford, Connect... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1) |
 | 🏢 **AbbVie** | Oncology Specialist - Seattle, WA | Seattle, WA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012921432) |
 | 🏢 **AbbVie** | Oncology Specialist - New York | Albany, NY | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012916842) |
 | 🏢 **AbbVie** | Oncology Specialist - New York | Syracuse, NY | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012916936) |
@@ -349,7 +349,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Personalis** | Client Experience Specialist | Fremont, CA | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7652731003) |
 | 🏢 **Personalis** | Clinical Lab Associate 1 | Fremont, CA | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645093003) |
 | 🏢 **Neuralink** | Field Clinical Engineer | Fremont, Californ... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7684347003?gh_jid=7684347003) |
-| 🏢 **Ro** | Compounding Pharmacy Technician -  Romeoville, IL | Romeoville, IL | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply) |
+| 🏢 **Ro** | Part-Time, Virtual Physician | New York, NY or R... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply) |
 | 🏢 **Guidepoint** | Client Service Healthcare Associate | New York, New Yor... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8453033002) |
 | 🏢 **Guidepoint** | Client Success - Healthcare Corporate Specialist (NYC) | New York, New Yor... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8342632002) |
 | 🏢 **Candid Health** | Medical Biller | Remote (USA) | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/6c2029b2-ea83-4cdd-95e7-a5e3c45234ac/application) |
