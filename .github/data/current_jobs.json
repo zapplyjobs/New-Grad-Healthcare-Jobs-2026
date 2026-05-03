@@ -1333,66 +1333,6 @@
     "job_posted_at": "2026-05-01T07:04:56.978Z"
   },
   {
-    "job_id": "workday-medtronic-R65669",
-    "job_title": "Prin. Clinical Specialist - SVI - Houston",
-    "employer_name": "Medtronic",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston, Texas, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Prin-Clinical-Specialist---SVI---Houston_R65669-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8baae0ba24992e16d3aa2f2ffc00342776c9868a0af849b591b135fd4ec3b536",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:04:47.437Z"
-  },
-  {
-    "job_id": "workday-medtronic-R62598",
-    "job_title": "CRM Clinical Specialist - Hartford, CT",
-    "employer_name": "Medtronic",
-    "job_city": "Hartford",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hartford, Connecticut, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8454a17c7be9134dff173087dc1404cee6c3637f3e452725d415b395260b278",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:04:47.437Z"
-  },
-  {
     "job_id": "workday-medtronic-R59617",
     "job_title": "Clinical Specialist, CRM - Rochester, NY",
     "employer_name": "Medtronic",
@@ -1445,6 +1385,66 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:04:47.437Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65669",
+    "job_title": "Prin. Clinical Specialist - SVI - Houston",
+    "employer_name": "Medtronic",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston, Texas, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Prin-Clinical-Specialist---SVI---Houston_R65669-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8baae0ba24992e16d3aa2f2ffc00342776c9868a0af849b591b135fd4ec3b536",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:04:47.437Z"
+  },
+  {
+    "job_id": "workday-medtronic-R62598",
+    "job_title": "CRM Clinical Specialist - Hartford, CT",
+    "employer_name": "Medtronic",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hartford, Connecticut, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8454a17c7be9134dff173087dc1404cee6c3637f3e452725d415b395260b278",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -4097,66 +4097,6 @@
     "job_posted_at": "2026-04-30T07:04:06.554Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-051648",
-    "job_title": "Associate Area Manager or Area Manager - Arlington, VA to Washington, DC - Johnson & Johnson MedTech, Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Washington-District-of-Columbia-United-States-of-America/Associate-Area-or-Area-Manager---Washington--DC-Arlington--VA---Johnson---Johnson-MedTech--Heart-Recovery_R-051648-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dc5439c3268201f595a58dcf547b21f572f040c9d064515f842af2f5f000a61f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:59.332Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-046622",
-    "job_title": "Associate Area Manager or Area Manager - Norfolk or Newport News, VA –  Johnson & Johnson MedTech, Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Norfolk",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Norfolk, Virginia, United States",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Norfolk-Virginia-United-States/Associate-Area-Manager-or-Area-Manager---Norfolk-or-Newport-News--VA----Johnson---Johnson-MedTech--Heart-Recovery_R-046622-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "313e34c7a979f0f87a3dd604947ffcf723baf6e0438710b4d5b7a0dae0cbee75",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:59.332Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-072617",
     "job_title": "Clinical Trials Assistant- Shockwave (Reducer)",
     "employer_name": "Johnson & Johnson",
@@ -4209,6 +4149,66 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:59.332Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-051648",
+    "job_title": "Associate Area Manager or Area Manager - Arlington, VA to Washington, DC - Johnson & Johnson MedTech, Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Washington-District-of-Columbia-United-States-of-America/Associate-Area-or-Area-Manager---Washington--DC-Arlington--VA---Johnson---Johnson-MedTech--Heart-Recovery_R-051648-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dc5439c3268201f595a58dcf547b21f572f040c9d064515f842af2f5f000a61f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:59.332Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-046622",
+    "job_title": "Associate Area Manager or Area Manager - Norfolk or Newport News, VA –  Johnson & Johnson MedTech, Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Norfolk",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Norfolk, Virginia, United States",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Norfolk-Virginia-United-States/Associate-Area-Manager-or-Area-Manager---Norfolk-or-Newport-News--VA----Johnson---Johnson-MedTech--Heart-Recovery_R-046622-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "313e34c7a979f0f87a3dd604947ffcf723baf6e0438710b4d5b7a0dae0cbee75",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -5139,156 +5139,6 @@
     "job_posted_at": "2026-04-29T07:12:08.795Z"
   },
   {
-    "job_id": "workday-takeda-R0178551",
-    "job_title": "Specialty Business Manager, IBD - Houston, TX",
-    "employer_name": "Takeda",
-    "job_city": "TX - Houston - FM",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Houston - FM",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---FM/Specialty-Business-Manager--IBD---Houston--TX_R0178551",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d8992f0fa73b47b918c49dda6ea325ab363434183b606eb7f3203e7b2d553b6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178557",
-    "job_title": "Specialty Business Manager, IBD - Fort Worth, TX",
-    "employer_name": "Takeda",
-    "job_city": "TX - Fort Worth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Fort Worth",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Specialty-Business-Manager--IBD---Fort-Worth--TX_R0178557",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "de46fbf364a8a29e95046b16d3a858fa2c5017bf6321ba7335a445ac1bccc082",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178558",
-    "job_title": "Specialty Business Manager, IBD - Dallas South, TX",
-    "employer_name": "Takeda",
-    "job_city": "TX - Dallas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Dallas",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Dallas/Specialty-Business-Manager--IBD---Dallas-South--TX_R0178558",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e8e3a6d1f7ede9a4b16a570833dcaf975ca9f44c2ea6e78273d2a18672899038",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178547",
-    "job_title": "Specialty Business Manager, IBD - Austin, TX",
-    "employer_name": "Takeda",
-    "job_city": "TX - Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Austin",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Specialty-Business-Manager--IBD---Austin--TX_R0178547",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "217cbc69881af637dead7e1727eba27048862e1c55312b5b7c7b732233f5f533",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178305",
-    "job_title": "Specialty Business Manager, IBD - Springfield, IL",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Illinois - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/Specialty-Business-Manager--IBD---Springfield--IL_R0178305-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "48129f19d280679bae33920cdb88bf0b997668a6ddc806ae35da23ecc9a87a51",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
     "job_id": "workday-takeda-R0175147",
     "job_title": "Technical Analyst",
     "employer_name": "Takeda",
@@ -5889,6 +5739,156 @@
     "job_posted_at": "2026-04-29T07:03:08.771Z"
   },
   {
+    "job_id": "workday-takeda-R0178551",
+    "job_title": "Specialty Business Manager, IBD - Houston, TX",
+    "employer_name": "Takeda",
+    "job_city": "TX - Houston - FM",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Houston - FM",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---FM/Specialty-Business-Manager--IBD---Houston--TX_R0178551",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d8992f0fa73b47b918c49dda6ea325ab363434183b606eb7f3203e7b2d553b6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178557",
+    "job_title": "Specialty Business Manager, IBD - Fort Worth, TX",
+    "employer_name": "Takeda",
+    "job_city": "TX - Fort Worth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Fort Worth",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Specialty-Business-Manager--IBD---Fort-Worth--TX_R0178557",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "de46fbf364a8a29e95046b16d3a858fa2c5017bf6321ba7335a445ac1bccc082",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178558",
+    "job_title": "Specialty Business Manager, IBD - Dallas South, TX",
+    "employer_name": "Takeda",
+    "job_city": "TX - Dallas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Dallas",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Dallas/Specialty-Business-Manager--IBD---Dallas-South--TX_R0178558",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e8e3a6d1f7ede9a4b16a570833dcaf975ca9f44c2ea6e78273d2a18672899038",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178547",
+    "job_title": "Specialty Business Manager, IBD - Austin, TX",
+    "employer_name": "Takeda",
+    "job_city": "TX - Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Austin",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Austin/Specialty-Business-Manager--IBD---Austin--TX_R0178547",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "217cbc69881af637dead7e1727eba27048862e1c55312b5b7c7b732233f5f533",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178305",
+    "job_title": "Specialty Business Manager, IBD - Springfield, IL",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Illinois - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Illinois---Virtual/Specialty-Business-Manager--IBD---Springfield--IL_R0178305-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "48129f19d280679bae33920cdb88bf0b997668a6ddc806ae35da23ecc9a87a51",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
     "job_id": "workday-cigna-26005166",
     "job_title": "Home Infusion Nurse - Evernorth - Orlando, FL",
     "employer_name": "Cigna",
@@ -6071,66 +6071,6 @@
     "job_posted_at": "2026-04-29T07:02:39.256Z"
   },
   {
-    "job_id": "workday-abbott-31149034",
-    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
-    "employer_name": "Abbott",
-    "job_city": "Texas - Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Texas - Houston",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:15.111Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:02:15.111Z"
-  },
-  {
-    "job_id": "workday-abbott-31149132",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "California - San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - California - San Francisco",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Francisco/Clinical-Associate_31149132-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:15.111Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "79258ecc158730b550915d7c8255e5b32bcae14f3354bcd80cc0ae1baf10cda9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:02:15.111Z"
-  },
-  {
     "job_id": "workday-abbott-31147606",
     "job_title": "Clinical Specialist, Vessel Closure - Phoenix/Tucson, AZ",
     "employer_name": "Abbott",
@@ -6174,6 +6114,66 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "95ec9e1cd957eeec6b076ae7d9619405674bd04222a0c60e0ac4be545afd46ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:02:15.111Z"
+  },
+  {
+    "job_id": "workday-abbott-31149034",
+    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
+    "employer_name": "Abbott",
+    "job_city": "Texas - Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Texas - Houston",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:02:15.111Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:02:15.111Z"
+  },
+  {
+    "job_id": "workday-abbott-31149132",
+    "job_title": "Clinical Associate",
+    "employer_name": "Abbott",
+    "job_city": "California - San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - California - San Francisco",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Francisco/Clinical-Associate_31149132-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:02:15.111Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "79258ecc158730b550915d7c8255e5b32bcae14f3354bcd80cc0ae1baf10cda9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7638,36 +7638,6 @@
     "job_posted_at": "2026-04-28T07:03:08.771Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01348744",
-    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Diego, California, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:55.631Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:55.631Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01350148",
     "job_title": "QC Scientist I",
     "employer_name": "Thermo Fisher Scientific",
@@ -7720,6 +7690,36 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:55.631Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01348744",
+    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Diego, California, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:55.631Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -7880,6 +7880,36 @@
     "job_posted_at": "2026-04-28T07:02:37.007Z"
   },
   {
+    "job_id": "workday-abbott-31148530",
+    "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - North Carolina - Charlotte",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Charlotte/Associate-Clinical-Specialist--CRM---Charlotte--NC_31148530-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:15.112Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:15.112Z"
+  },
+  {
     "job_id": "workday-abbott-31149022",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -7953,36 +7983,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:15.112Z"
-  },
-  {
-    "job_id": "workday-abbott-31148530",
-    "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
-    "employer_name": "Abbott",
-    "job_city": "North Carolina - Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - North Carolina - Charlotte",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Charlotte/Associate-Clinical-Specialist--CRM---Charlotte--NC_31148530-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:15.112Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -13618,37 +13618,6 @@
     "job_posted_at": "2026-04-27T01:04:43.168Z"
   },
   {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:37.377Z"
-  },
-  {
     "job_id": "lever-includedhealth-199c81db-f48d-4d33-bf48-afbd8dde21e3",
     "job_title": "Pediatric Behavioral Health Nurse Care Manager",
     "employer_name": "Included Health",
@@ -13755,6 +13724,37 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T01:04:37.377Z"
+  },
+  {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:37.377Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
     "tags": {
       "employment": "entry_level",
       "domains": [
