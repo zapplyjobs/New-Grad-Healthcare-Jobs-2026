@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-330-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-49-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-332-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-50-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -197,7 +197,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | Entry Level Medical Screener | IN | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Fort-Wayne---Getz-Rd/Entry-Level-Medical-Screener_R0179379-1) |
 | 🏢 **Abbott** | Clinical Specialist, Vessel Closure - Phoenix/Tucson, AZ | United States Ari... | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist--Vessel-Closure---Phoenix--AZ_31147606-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Washington, DC) | Washington, Distr... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Devices--Washington--DC-_580988-1) |
-| 🏢 **Abbott** | Associate Clinical Specialist, CRM - Charlotte, NC | North Carolina | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Charlotte/Associate-Clinical-Specialist--CRM---Charlotte--NC_31148530-1) |
+| 🏢 **Abbott** | Clinical Specialist, MCS - Nashville | Tennessee | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1) |
 | 🏢 **Johnson & Johnson** | Hematology Medical Affairs Fellow | Horsham, Pennsylv... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Horsham-Pennsylvania-United-States-of-America/Hematology-Medical-Affairs-Fellow_R-069622-1) |
 | 🏢 **Apple** | Clinical Specialist, Health | New York City | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200660347/clinical-specialist-health) |
 
@@ -245,12 +245,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Walmart** | Pharmacist Manager - Sam's Pharmacy | Roswell, NM | 34m | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Roswell-NM/Pharmacist-Manager---Sam-s-Pharmacy_R-2499265) |
-| 🏢 **Takeda** | EMT – (AEMT or EMT-I) | OK | 49m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/EMT----AEMT-or-EMT-I-_R0179558-1) |
+| 🏢 **EliseAI** | Product Operations Analyst   Healthcare | New York City | 28m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/eliseai/de036859-bf94-461a-bada-8c95d582ef0c/application) |
+| 🏢 **EliseAI** | Associate Solutions Engineer   Healthcare | New York City | 36m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/eliseai/68e1e7e0-0089-4cd5-9603-24bae85891a9/application) |
+| 🏢 **Walmart** | Pharmacist Manager - Sam's Pharmacy | Roswell, NM | 48m | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Roswell-NM/Pharmacist-Manager---Sam-s-Pharmacy_R-2499265) |
+| 🏢 **Takeda** | EMT – (AEMT or EMT-I) | OK | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/EMT----AEMT-or-EMT-I-_R0179558-1) |
 | 🏢 **Takeda** | Head, Global Oncology Strategic Market Research & Advanced Analytics Innovation | Boston, MA | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831) |
 | 🏢 **Abbott** | Stockroom Clerk - 3rd Shift - Altavista Plant | Virginia | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Stockroom-Clerk---3rd-Shift---Altavista-Plant_31146598-1) |
-| 🏢 **Takeda** | Hematology Key Account Manager (Washington, Oregon, Alaska) | Virtual | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Washington---Virtual/Hematology-Key-Account-Manager--Washington--Oregon--Alaska-_R0178848-1) |
-| 🏢 **Cigna** | Pharmacy Technician Associate Representative - CarepathRx - US Remote | Georgia Work at H... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Georgia-Work-at-Home/Pharmacy-Technician-Associate-Representative---CarepathRx---US-Remote_26001892) |
+| 🏢 **Takeda** | Hematology Key Account Manager (Washington, Oregon, Alaska) | Virtual | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Washington---Virtual/Hematology-Key-Account-Manager--Washington--Oregon--Alaska-_R0178848-1) |
+| 🏢 **Cigna** | Pharmacy Technician Associate Representative - CarepathRx - US Remote | Georgia Work at H... | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Georgia-Work-at-Home/Pharmacy-Technician-Associate-Representative---CarepathRx---US-Remote_26001892) |
 | 🏢 **KBR** | Special Operations Strength and Conditioning Specialist (JEB, Little Creek, VA) | Virginia Beach, V... | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Virginia-Beach-Virginia/Special-Operations-Strength-and-Conditioning-Specialist--JEB--Little-Creek--VA-_R2123085) |
 | 🏢 **KBR** | Special Operations Case Manager / Nurse Case Manager (Hampton Roads, VA) | Hampton, Virginia | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hampton-Virginia/Special-Operations-Case-Manager---Nurse-Case-Manager--Hampton-Roads--VA-_R2123084) |
 | 🏢 **Walmart** | Pharmacy Tech Certified Sam's | Freehold, NJ | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Freehold-NJ/Pharmacy-Tech-Certified-Sam-s_R-2498805) |
@@ -273,8 +275,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Globus Medical** | Corporate Pilot | Audubon, PA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Corporate-Pilot_JR105264) |
 | 🏢 **IDEXX** | In-Clinic Clinical Pathologist | Virtual New Jersey | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-New-Jersey/In-Clinic-Clinical-Pathologist_J-052907) |
 | 🏢 **Exact Sciences** | Specimen Processor | Phoenix, AZ | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Specimen-Processor_R26-12957) |
-| 🏢 **Cigna** | Home Infusion Nurse, 32 hours - Accredo - Bismarck, ND | Bismarck, ND | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bismarck-ND/Home-Infusion-Nurse--32-hours---Accredo---Bismarck--ND_25016795) |
 | 🏢 **Cigna** | Pharmacy Technician Associate Representative,  Inbound phones – Work from Home, OH, IN & FL - Accredo Specialty Pharmacy | United States Wor... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Pharmacy-Technician-Associate-Representative---Inbound-phones---Work-from-Home--OH--IN---FL---Accredo-Specialty-Pharmacy_26005408) |
+| 🏢 **Cigna** | Home Infusion Nurse, 32 hours - Accredo - Bismarck, ND | Bismarck, ND | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bismarck-ND/Home-Infusion-Nurse--32-hours---Accredo---Bismarck--ND_25016795) |
 | 🏢 **AbbVie** | Finance Manager, Oncology - Demand Planning | Mettawa, IL | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012924595) |
 | 🏢 **AbbVie** | Hematology Clinical Account Specialist - Jacksonville, FL | Jacksonville, FL | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012921848) |
 | 🏢 **AbbVie** | Oncology Account Executive - White Plains, NY | White Plains, NY | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012913380) |
@@ -360,7 +362,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 330 current opportunities from 49 companies**
+**🎯 332 current opportunities from 50 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
