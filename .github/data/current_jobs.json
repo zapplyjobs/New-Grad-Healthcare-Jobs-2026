@@ -1093,36 +1093,6 @@
     "job_posted_at": "2026-05-01T07:05:50.705Z"
   },
   {
-    "job_id": "workday-takeda-R0179278",
-    "job_title": "Rare Disease Business Manager - PI/CIDP (Des Moines)",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "IA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Iowa - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Iowa---Virtual/Rare-Disease-Business-Manager---PI-CIDP_R0179278",
-    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "80ca9a92117c7ff5d8f189b759e23e2219f0e1ac49a5ced867b29e7239618846",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:05:50.704Z"
-  },
-  {
     "job_id": "workday-takeda-R0179525",
     "job_title": "Medical Screener, Phlebotomist - Morning Shift",
     "employer_name": "Takeda",
@@ -1376,6 +1346,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4770494c51c24d63e0412af20693fd20fd4e568a0a5f3797843a8f6b6544acb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:05:50.704Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179278",
+    "job_title": "Rare Disease Business Manager - PI/CIDP (Des Moines)",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "IA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Iowa - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Iowa---Virtual/Rare-Disease-Business-Manager---PI-CIDP_R0179278",
+    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "80ca9a92117c7ff5d8f189b759e23e2219f0e1ac49a5ced867b29e7239618846",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1784,36 +1784,6 @@
     "job_posted_at": "2026-05-01T07:03:41.043Z"
   },
   {
-    "job_id": "workday-globus-medical-JR105264",
-    "job_title": "Corporate Pilot",
-    "employer_name": "Globus Medical",
-    "job_city": "Audubon",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Audubon, PA",
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Corporate-Pilot_JR105264",
-    "job_posted_at_datetime_utc": "2026-05-01T07:03:33.547Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3829dc1f9c5932cea56693f5dcc062e6150924580b0aff239e3ef55b1c9b8311",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:03:33.547Z"
-  },
-  {
     "job_id": "workday-globus-medical-JR105618",
     "job_title": "Inventory Planner",
     "employer_name": "Globus Medical",
@@ -1836,6 +1806,36 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:03:33.547Z"
+  },
+  {
+    "job_id": "workday-globus-medical-JR105264",
+    "job_title": "Corporate Pilot",
+    "employer_name": "Globus Medical",
+    "job_city": "Audubon",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Audubon, PA",
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Corporate-Pilot_JR105264",
+    "job_posted_at_datetime_utc": "2026-05-01T07:03:33.547Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3829dc1f9c5932cea56693f5dcc062e6150924580b0aff239e3ef55b1c9b8311",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -1964,19 +1964,19 @@
     "job_posted_at": "2026-05-01T07:03:07.648Z"
   },
   {
-    "job_id": "workday-cigna-25016795",
-    "job_title": "Home Infusion Nurse, 32 hours - Accredo - Bismarck, ND",
+    "job_id": "workday-cigna-26005408",
+    "job_title": "Pharmacy Technician Associate Representative,  Inbound phones – Work from Home, OH, IN & FL - Accredo Specialty Pharmacy",
     "employer_name": "Cigna",
-    "job_city": "Bismarck",
-    "job_state": "ND",
+    "job_city": "United States Work at Home",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Bismarck, ND",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bismarck-ND/Home-Infusion-Nurse--32-hours---Accredo---Bismarck--ND_25016795",
+    "job_location": "United States Work at Home",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Pharmacy-Technician-Associate-Representative---Inbound-phones---Work-from-Home--OH--IN---FL---Accredo-Specialty-Pharmacy_26005408",
     "job_posted_at_datetime_utc": "2026-05-01T07:03:01.667Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "50ccb36154ec1047722be24db2a1411663a17352f0fd74891e82db2d30f12e83",
+    "fingerprint": "c459dd70e5b121cc1f2a58c8e1a84984132114d60a92b35a2baa9e5a8f6793e0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1994,19 +1994,19 @@
     "job_posted_at": "2026-05-01T07:03:01.667Z"
   },
   {
-    "job_id": "workday-cigna-26005408",
-    "job_title": "Pharmacy Technician Associate Representative,  Inbound phones – Work from Home, OH, IN & FL - Accredo Specialty Pharmacy",
+    "job_id": "workday-cigna-25016795",
+    "job_title": "Home Infusion Nurse, 32 hours - Accredo - Bismarck, ND",
     "employer_name": "Cigna",
-    "job_city": "United States Work at Home",
-    "job_state": "",
+    "job_city": "Bismarck",
+    "job_state": "ND",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "United States Work at Home",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Pharmacy-Technician-Associate-Representative---Inbound-phones---Work-from-Home--OH--IN---FL---Accredo-Specialty-Pharmacy_26005408",
+    "job_location": "Bismarck, ND",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bismarck-ND/Home-Infusion-Nurse--32-hours---Accredo---Bismarck--ND_25016795",
     "job_posted_at_datetime_utc": "2026-05-01T07:03:01.667Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c459dd70e5b121cc1f2a58c8e1a84984132114d60a92b35a2baa9e5a8f6793e0",
+    "fingerprint": "50ccb36154ec1047722be24db2a1411663a17352f0fd74891e82db2d30f12e83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4217,6 +4217,36 @@
     "job_posted_at": "2026-04-30T07:04:06.554Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-072617",
+    "job_title": "Clinical Trials Assistant- Shockwave (Reducer)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "New Brighton",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New Brighton, Minnesota, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brighton-Minnesota-United-States-of-America/Clinical-Trials-Assistant--Shockwave--Reducer-_R-072617-2",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f78cdc37ee7addb3d58f6f563d0cb663853150255b9da3ec35a7de701cf6a0a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:59.332Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-069424",
     "job_title": "Preclinical Scientist, Surgical - MedTech Surgery",
     "employer_name": "Johnson & Johnson",
@@ -4299,36 +4329,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:59.332Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-072617",
-    "job_title": "Clinical Trials Assistant- Shockwave (Reducer)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "New Brighton",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New Brighton, Minnesota, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brighton-Minnesota-United-States-of-America/Clinical-Trials-Assistant--Shockwave--Reducer-_R-072617-2",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f78cdc37ee7addb3d58f6f563d0cb663853150255b9da3ec35a7de701cf6a0a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
@@ -5259,6 +5259,126 @@
     "job_posted_at": "2026-04-29T07:12:08.795Z"
   },
   {
+    "job_id": "workday-takeda-R0179356",
+    "job_title": "RN – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "MO - Kansas City - 82nd Ter",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MO - Kansas City - 82nd Ter",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/RN---Day-One-Benefits_R0179356-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2284c9dab11caf872a02714d251fb7ab8a4740637dfa106b227e517e1091457d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179351",
+    "job_title": "RN - $1,500 Sign on Bonus",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - KS - Lenexa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/RN---Day-One-Benefits_R0179351-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3eba634da1495d0deab08451c8470426d1e4b0965b77df57f30241402104d29c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179355",
+    "job_title": "Medical Support Specialist",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - AZ - Mesa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Support-Specialist_R0179355-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a87a752f6580e89a0f7b86a54db6d7a02063049062c0aa02285716a1f807401f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179405",
+    "job_title": "Part Time Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Largo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - FL - Largo",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
     "job_id": "workday-takeda-R0178551",
     "job_title": "Specialty Business Manager, IBD - Houston, TX",
     "employer_name": "Takeda",
@@ -5889,126 +6009,6 @@
     "job_posted_at": "2026-04-29T07:03:08.771Z"
   },
   {
-    "job_id": "workday-takeda-R0179356",
-    "job_title": "RN – Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - 82nd Ter",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MO - Kansas City - 82nd Ter",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/RN---Day-One-Benefits_R0179356-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2284c9dab11caf872a02714d251fb7ab8a4740637dfa106b227e517e1091457d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179351",
-    "job_title": "RN - $1,500 Sign on Bonus",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - KS - Lenexa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/RN---Day-One-Benefits_R0179351-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3eba634da1495d0deab08451c8470426d1e4b0965b77df57f30241402104d29c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179355",
-    "job_title": "Medical Support Specialist",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Mesa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - AZ - Mesa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Support-Specialist_R0179355-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a87a752f6580e89a0f7b86a54db6d7a02063049062c0aa02285716a1f807401f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179405",
-    "job_title": "Part Time Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Largo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - FL - Largo",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
     "job_id": "workday-cigna-26005166",
     "job_title": "Home Infusion Nurse - Evernorth - Orlando, FL",
     "employer_name": "Cigna",
@@ -6191,6 +6191,36 @@
     "job_posted_at": "2026-04-29T07:02:39.256Z"
   },
   {
+    "job_id": "workday-abbott-31149034",
+    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
+    "employer_name": "Abbott",
+    "job_city": "Texas - Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Texas - Houston",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:02:11.079Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:02:11.079Z"
+  },
+  {
     "job_id": "workday-abbott-31149132",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -6264,36 +6294,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "95ec9e1cd957eeec6b076ae7d9619405674bd04222a0c60e0ac4be545afd46ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:02:11.079Z"
-  },
-  {
-    "job_id": "workday-abbott-31149034",
-    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
-    "employer_name": "Abbott",
-    "job_city": "Texas - Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Texas - Houston",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:11.079Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7758,36 +7758,6 @@
     "job_posted_at": "2026-04-28T07:03:08.771Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01348744",
-    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Diego, California, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:55.631Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:55.631Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01350148",
     "job_title": "QC Scientist I",
     "employer_name": "Thermo Fisher Scientific",
@@ -7840,6 +7810,36 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:55.631Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01348744",
+    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Diego, California, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:55.631Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
