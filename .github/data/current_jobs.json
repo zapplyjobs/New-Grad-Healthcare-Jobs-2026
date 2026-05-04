@@ -120,37 +120,6 @@
     "job_posted_at": "2026-05-04T00:20:20.473Z"
   },
   {
-    "job_id": "lever-includedhealth-371dcf5d-4923-418a-b575-37021e3d3ad6",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Georgia",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Georgia",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/371dcf5d-4923-418a-b575-37021e3d3ad6/apply",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:54.953Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d69d7904aa8ec472e89b4cf1eb8b9c880a347f1a253381a1b949ab6ee1f5dcf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-05-02T13:30:54.953Z"
-  },
-  {
     "job_id": "lever-includedhealth-6e522bd8-5dad-4be2-87fe-d775c6ea8c46",
     "job_title": "Psychiatrist",
     "employer_name": "Included Health",
@@ -195,6 +164,37 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "30a5c9e978db285b39794782c157c03636031a479e33180f52bbea3aa2d29191",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-02T13:30:54.953Z"
+  },
+  {
+    "job_id": "lever-includedhealth-371dcf5d-4923-418a-b575-37021e3d3ad6",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Georgia",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Georgia",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/371dcf5d-4923-418a-b575-37021e3d3ad6/apply",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:54.953Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d69d7904aa8ec472e89b4cf1eb8b9c880a347f1a253381a1b949ab6ee1f5dcf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1453,6 +1453,36 @@
     "job_posted_at": "2026-05-01T07:04:56.978Z"
   },
   {
+    "job_id": "workday-medtronic-R62598",
+    "job_title": "CRM Clinical Specialist - Hartford, CT",
+    "employer_name": "Medtronic",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hartford, Connecticut, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8454a17c7be9134dff173087dc1404cee6c3637f3e452725d415b395260b278",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:04:47.437Z"
+  },
+  {
     "job_id": "workday-medtronic-R59617",
     "job_title": "Clinical Specialist, CRM - Rochester, NY",
     "employer_name": "Medtronic",
@@ -1505,36 +1535,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:04:47.437Z"
-  },
-  {
-    "job_id": "workday-medtronic-R62598",
-    "job_title": "CRM Clinical Specialist - Hartford, CT",
-    "employer_name": "Medtronic",
-    "job_city": "Hartford",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hartford, Connecticut, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8454a17c7be9134dff173087dc1404cee6c3637f3e452725d415b395260b278",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -3185,6 +3185,126 @@
     "job_posted_at": "2026-04-30T15:01:36.164Z"
   },
   {
+    "job_id": "workday-takeda-R0176991",
+    "job_title": "Sr Mgr, Medical Content SME",
+    "employer_name": "Takeda",
+    "job_city": "Lexington",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Lexington, MA",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Lexington-MA/Sr-Mgr--Medical-Content-SME-_R0176991-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "577f9450d61a0b61a2d4e5e38050f0f294d6e563f0c1551086dc07c842426c6b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179421",
+    "job_title": "Paramedic/EMT-P- Day 1 Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "TX - Abilene",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Abilene",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Paramedic-EMT-P--Day-1-Benefits-_R0179421-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50ba5d7119fa7dda3d4f3a934e26200d339c9f6debaed16cfe66be2ebed28f25",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179420",
+    "job_title": "Plasma Center Nurse- LPN- Day 1 Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "TX - Abilene",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Abilene",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--LPN--Day-1-Benefits-_R0179420-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a539bfb1b1f78f88bdedb6b8ad58356a88fe00677c23a54fe5b9896051392ac7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179419",
+    "job_title": "Plasma Center Nurse- RN- Day 1 Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "TX - Abilene",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Abilene",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--RN--Day-1-Benefits-_R0179419-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9e5b1e6b620bf60418da0a68c5554fa80af20bee6d69a57d511fd63c6a640c1e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
     "job_id": "workday-takeda-R0175138",
     "job_title": "EMT – I – No Overnight Shifts",
     "employer_name": "Takeda",
@@ -3665,126 +3785,6 @@
     "job_posted_at": "2026-04-30T07:05:50.705Z"
   },
   {
-    "job_id": "workday-takeda-R0176991",
-    "job_title": "Sr Mgr, Medical Content SME",
-    "employer_name": "Takeda",
-    "job_city": "Lexington",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Lexington, MA",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Lexington-MA/Sr-Mgr--Medical-Content-SME-_R0176991-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "577f9450d61a0b61a2d4e5e38050f0f294d6e563f0c1551086dc07c842426c6b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179421",
-    "job_title": "Paramedic/EMT-P- Day 1 Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "TX - Abilene",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Abilene",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Paramedic-EMT-P--Day-1-Benefits-_R0179421-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50ba5d7119fa7dda3d4f3a934e26200d339c9f6debaed16cfe66be2ebed28f25",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179420",
-    "job_title": "Plasma Center Nurse- LPN- Day 1 Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "TX - Abilene",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Abilene",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--LPN--Day-1-Benefits-_R0179420-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a539bfb1b1f78f88bdedb6b8ad58356a88fe00677c23a54fe5b9896051392ac7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179419",
-    "job_title": "Plasma Center Nurse- RN- Day 1 Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "TX - Abilene",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Abilene",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--RN--Day-1-Benefits-_R0179419-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e5b1e6b620bf60418da0a68c5554fa80af20bee6d69a57d511fd63c6a640c1e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01349605",
     "job_title": "Clinical Research Coordinator",
     "employer_name": "Thermo Fisher Scientific",
@@ -4217,66 +4217,6 @@
     "job_posted_at": "2026-04-30T07:04:06.554Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-072617",
-    "job_title": "Clinical Trials Assistant- Shockwave (Reducer)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "New Brighton",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New Brighton, Minnesota, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brighton-Minnesota-United-States-of-America/Clinical-Trials-Assistant--Shockwave--Reducer-_R-072617-2",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f78cdc37ee7addb3d58f6f563d0cb663853150255b9da3ec35a7de701cf6a0a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:59.332Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-069424",
-    "job_title": "Preclinical Scientist, Surgical - MedTech Surgery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Cincinnati",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cincinnati, Ohio, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Preclinical-Scientist--Surgical---MedTech-Surgery_R-069424-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cb1af64bcebca8c6588fe56d07f4a1c63a6e95ac4f108d36d452d20a803963ba",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:59.332Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-051648",
     "job_title": "Associate Area Manager or Area Manager - Arlington, VA to Washington, DC - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -4329,6 +4269,66 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:59.332Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-072617",
+    "job_title": "Clinical Trials Assistant- Shockwave (Reducer)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "New Brighton",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New Brighton, Minnesota, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brighton-Minnesota-United-States-of-America/Clinical-Trials-Assistant--Shockwave--Reducer-_R-072617-2",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f78cdc37ee7addb3d58f6f563d0cb663853150255b9da3ec35a7de701cf6a0a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:59.332Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-069424",
+    "job_title": "Preclinical Scientist, Surgical - MedTech Surgery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cincinnati, Ohio, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Preclinical-Scientist--Surgical---MedTech-Surgery_R-069424-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cb1af64bcebca8c6588fe56d07f4a1c63a6e95ac4f108d36d452d20a803963ba",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
@@ -5259,126 +5259,6 @@
     "job_posted_at": "2026-04-29T07:12:08.795Z"
   },
   {
-    "job_id": "workday-takeda-R0179356",
-    "job_title": "RN – Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "MO - Kansas City - 82nd Ter",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MO - Kansas City - 82nd Ter",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/RN---Day-One-Benefits_R0179356-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2284c9dab11caf872a02714d251fb7ab8a4740637dfa106b227e517e1091457d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179351",
-    "job_title": "RN - $1,500 Sign on Bonus",
-    "employer_name": "Takeda",
-    "job_city": "KS - Lenexa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - KS - Lenexa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/RN---Day-One-Benefits_R0179351-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3eba634da1495d0deab08451c8470426d1e4b0965b77df57f30241402104d29c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179355",
-    "job_title": "Medical Support Specialist",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Mesa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - AZ - Mesa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Support-Specialist_R0179355-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a87a752f6580e89a0f7b86a54db6d7a02063049062c0aa02285716a1f807401f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179405",
-    "job_title": "Part Time Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Largo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - FL - Largo",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
     "job_id": "workday-takeda-R0178551",
     "job_title": "Specialty Business Manager, IBD - Houston, TX",
     "employer_name": "Takeda",
@@ -5992,6 +5872,126 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "accbe8d926a60234e5518dcd57c9c44fdd4b299bdfb49b106d4f114f585421dd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179356",
+    "job_title": "RN – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "MO - Kansas City - 82nd Ter",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MO - Kansas City - 82nd Ter",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Kansas-City---82nd-Ter/RN---Day-One-Benefits_R0179356-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2284c9dab11caf872a02714d251fb7ab8a4740637dfa106b227e517e1091457d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179351",
+    "job_title": "RN - $1,500 Sign on Bonus",
+    "employer_name": "Takeda",
+    "job_city": "KS - Lenexa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - KS - Lenexa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/RN---Day-One-Benefits_R0179351-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3eba634da1495d0deab08451c8470426d1e4b0965b77df57f30241402104d29c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179355",
+    "job_title": "Medical Support Specialist",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - AZ - Mesa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Support-Specialist_R0179355-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a87a752f6580e89a0f7b86a54db6d7a02063049062c0aa02285716a1f807401f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179405",
+    "job_title": "Part Time Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Largo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - FL - Largo",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7848,37 +7848,6 @@
     "job_posted_at": "2026-04-28T07:02:55.631Z"
   },
   {
-    "job_id": "workday-philips-579348",
-    "job_title": "Cardiology Clinical Product Manager- Pediatric Sonographer",
-    "employer_name": "Philips",
-    "job_city": "Cambridge (US)",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cambridge (US), Massachusetts, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Cardiology-Clinical-Product-Manager--Pediatric-Sonographer_579348-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:44.221Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d681651e8d37d401e208e48a24e2644ce6b79fc06ee4dfe6db17f8bde1ae1e20",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:44.221Z"
-  },
-  {
     "job_id": "workday-philips-580988",
     "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Washington, DC)",
     "employer_name": "Philips",
@@ -7897,6 +7866,37 @@
       "domains": [
         "healthcare",
         "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:44.221Z"
+  },
+  {
+    "job_id": "workday-philips-579348",
+    "job_title": "Cardiology Clinical Product Manager- Pediatric Sonographer",
+    "employer_name": "Philips",
+    "job_city": "Cambridge (US)",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cambridge (US), Massachusetts, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Cardiology-Clinical-Product-Manager--Pediatric-Sonographer_579348-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:44.221Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d681651e8d37d401e208e48a24e2644ce6b79fc06ee4dfe6db17f8bde1ae1e20",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "product"
       ],
       "locations": [
         "us"
