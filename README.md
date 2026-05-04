@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-437-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-56-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-439-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-58-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -152,6 +152,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 🏢 **HPE (University)** | Hardware Lab Technician | Sunnyvale, Califo... | 10m | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Lab-Technician_1206345-2) |
+| 🏢 **HPE** | Hardware Lab Technician | Sunnyvale, Califo... | 10m | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Hardware-Lab-Technician_1206345) |
 | 🏢 **Micron** | Analytical Chemistry Laboratory Technician | Manassas, VA -  F... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Analytical-Chemistry-Laboratory-Technician_JR90826) |
 | 🏢 **Chan Zuckerberg Biohub** | Research Associate, Synthetic Biology | New York, NY (Ons... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7776738) |
 | 🏢 **IDEXX** | Veterinary Laboratory Technician | Jericho, NY | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Jericho-NY/Veterinary-Laboratory-Technician_J-052910) |
@@ -405,7 +407,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 437 current opportunities from 56 companies**
+**🎯 439 current opportunities from 58 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
