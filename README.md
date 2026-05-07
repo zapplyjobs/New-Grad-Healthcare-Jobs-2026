@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-207-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-202-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-36-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -104,9 +104,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Medtronic** | Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Northeast) | 4 Locations | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Northeast-_R61783-1) |
-| 🏢 **AbbVie** | Oncology Nurse Educator - New England | Boston, MA | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012905719) |
-| 🏢 **AbbVie** | Oncology Nurse Educator - New England | Hartford, CT | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012905433) |
-| 🏢 **AbbVie** | Oncology Nurse Educator - New England | Providence, RI | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012905779) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -222,7 +219,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Johnson & Johnson** | Field Reimbursement Manager, Sarasota, FL (Oncology) | 5 Locations | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Sarasota-Florida-United-States/Field-Reimbursement-Manager--Sarasota--FL--Oncology-_R-070040-1) |
 | 🏢 **Ro** | Compounding Pharmacy Technician - Boynton Beach, FL | Boynton Beach, FL | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/4b815c8f-f429-4430-98e1-4b91164627c7/apply) |
 | 🏢 **IDEXX** | Medical Laboratory Technologist - 1st Shift | Westminster, CO | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westminster-CO/Medical-Laboratory-Technologist---1st-Shift_J-052782) |
-| 🏢 **Walmart** | Pharmacist Manager - Sam's Pharmacy | Denver, CO | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Pharmacist-Manager---Sam-s-Pharmacy_R-2499945) |
+| 🏢 **Walmart** | Pharmacist Manager - Sam's Pharmacy | Denver, CO | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Pharmacist-Manager---Sam-s-Pharmacy_R-2499945) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Consultant/Clinical Consultant - Winston Salem, NC - Johnson & Johnson MedTech – Heart Recovery | Winston Salem, No... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Winston-Salem-North-Carolina-United-States/Associate-Clinical-Consultant-Clinical-Consultant---Winston-Salem--NC---Johnson---Johnson-MedTech---Heart-Recovery_R-073393-1) |
 | 🏢 **Walmart** | Pharmacy Tech Certified Sam's | (USA) GA SAVANNAH... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-GA-SAVANNAH-08202-SAMS-CLUB/Pharmacy-Tech-Certified-Sam-s_R-2499379) |
 | 🏢 **EliseAI** | Product Operations Analyst   Healthcare | New York City | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/eliseai/de036859-bf94-461a-bada-8c95d582ef0c/application) |
@@ -306,7 +303,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 207 current opportunities from 36 companies**
+**🎯 202 current opportunities from 36 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
