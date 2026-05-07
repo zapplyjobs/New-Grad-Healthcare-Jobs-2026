@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-215-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-214-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-37-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -71,7 +71,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | Registered Nurse - RN | GA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Douglasville/Registered-Nurse---RN_R0179696) |
 | 🏢 **Takeda** | Plasma Center Nurse - LPN | GA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Douglasville/Plasma-Center-Nurse---LPN_R0179694-1) |
 | 🏢 **Takeda** | Plasma Center Nurse- RN | MT | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Plasma-Center-Nurse--RN_R0179671-1) |
-| 🏢 **Cigna** | Premium Personal Advocate – Evernorth Health Services – Remote | United States Wor... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Premium-Personal-Advocate---Evernorth-Health-Services---Remote_26005168-1) |
+| 🏢 **Cigna** | Premium Personal Advocate – Evernorth Health Services – Remote | United States Wor... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Premium-Personal-Advocate---Evernorth-Health-Services---Remote_26005168-1) |
 | 🏢 **Exact Sciences** | Regional Oncology Specialist - Central California | CA Fresno + 1 more | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Fresno/Regional-Oncology-Specialist---Central-California_R26-13040) |
 | 🏢 **Cigna** | Patient Care Coordinator- Evernorth- Remote | United States Wor... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Patient-Care-Coordinator--Evernorth--Remote_26002038) |
 | 🏢 **Cigna** | Onsite RN Health Coach- Fayetteville, GA | Fayetteville, GA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Fayetteville-GA/Onsite-RN-Health-Coach--Fayetteville--GA_26005331) |
@@ -122,7 +122,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **IDEXX** | Laboratory Technician - 1st Shift Per Diem | Glen Burnie, MD | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Glen-Burnie-MD/Laboratory-Technician---1st-Shift-Per-Diem_J-052869) |
 | 🏢 **Apple** | Sensing Hardware Mechanical Lab Technician | San Diego | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661146/sensing-hardware-mechanical-lab-technician) |
 | 🏢 **Freeform** | Materials Lab Technician  (Trainee) | Los Angeles, CA (... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7725222003) |
-| 🏢 **Arrow Electronics** | QA Engineer – Lab Technician, Software, Hardware & Device Testing | Framingham, MA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://arrow.wd1.myworkdayjobs.com/AC/job/US-MA-Framingham-Massachusetts-Bose/QA-Engineer---Lab-Technician--Software--Hardware---Device-Testing_R243424) |
+| 🏢 **Arrow Electronics** | QA Engineer – Lab Technician, Software, Hardware & Device Testing | Framingham, MA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://arrow.wd1.myworkdayjobs.com/AC/job/US-MA-Framingham-Massachusetts-Bose/QA-Engineer---Lab-Technician--Software--Hardware---Device-Testing_R243424) |
 | 🏢 **Thermo Fisher Scientific** | Supervisor - Sample Management- 2nd Shift | Covington, Kentuc... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covington-Kentucky---USA/Supervisor---Sample-Management_R-01345262) |
 | 🏢 **Thermo Fisher Scientific** | Associate Scientist – ELISA | Rockville, Maryla... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01351960) |
 | 🏢 **Abbott** | Assistant Microbiologist ($3k Sign-On Bonus; $23/hr; 6:30p to 7:00a; Rotating Weekends) | Ohio | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Tipp-City/Assistant-Microbiologist---3k-Sign-On-Bonus---23-hr--6-30p-to-7-00a--Rotating-Weekends-_31149323-1) |
@@ -310,7 +310,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 215 current opportunities from 37 companies**
+**🎯 214 current opportunities from 37 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
