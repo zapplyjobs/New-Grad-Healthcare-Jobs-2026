@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-268-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-267-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-39-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -133,7 +133,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **IDEXX** | Microbiology Laboratory Technician - 1st Shift | Columbia, MO | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Microbiology-Laboratory-Technician---1st-Shift_J-052996) |
+| 🏢 **IDEXX** | Microbiology Laboratory Technician - 1st Shift | Columbia, MO | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Microbiology-Laboratory-Technician---1st-Shift_J-052996) |
 | 🏢 **IDEXX** | Laboratory Technician - 1st Shift Per Diem | Glen Burnie, MD | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Glen-Burnie-MD/Laboratory-Technician---1st-Shift-Per-Diem_J-052869) |
 | 🏢 **Apple** | Sensing Hardware Mechanical Lab Technician | San Diego | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661146/sensing-hardware-mechanical-lab-technician) |
 | 🏢 **Freeform** | Materials Lab Technician  (Trainee) | Los Angeles, CA (... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7725222003) |
@@ -153,8 +153,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | Chemistry Lab Technician (Onsite) | Rockford, IL | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Chemistry-Lab-Technician--Onsite-_01838460) |
 | 🏢 **Apple** | System Test Lab Technician | Sunnyvale | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200660860/system-test-lab-technician) |
 | 🏢 **AbbVie** | Associate Scientist I/II, Formulation & Process Development | San Diego, CA | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012927506) |
-| 🏢 **AbbVie** | Associate Scientist II, Histology | North Chicago, IL | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012926115) |
-| 🏢 **AbbVie** | Laboratory Technician IV - Microbiology | Waco, TX | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012924206) |
+| 🏢 **AbbVie** | Associate Scientist II, Histology | North Chicago, IL | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012926115) |
+| 🏢 **AbbVie** | Laboratory Technician IV - Microbiology | Waco, TX | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012924206) |
 | 🏢 **Neuralink** | Clinical Scientist | Austin, Texas, Un... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7676313003?gh_jid=7676313003) |
 | 🏢 **Johnson & Johnson** | Preclinical Scientist, Surgical - MedTech Surgery | Cincinnati, Ohio,... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Preclinical-Scientist--Surgical---MedTech-Surgery_R-069424-1) |
 | 🏢 **Thermo Fisher Scientific** | Field Applications Scientist, Proteomics (Remote - MD/DC) | District of Colum... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/Field-Applications-Scientist--Proteomics--Remote---MD-DC-_R-01347202) |
@@ -180,7 +180,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (Dallas, Ft. Worth TX) | Dallas Texas Unit... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Dallas-Texas-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--Dallas--Ft-Worth-TX-_582474-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (San Francisco CA) | 2 Locations | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Francisco-Bay-Area-California-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--San-Francisco-CA-_579374-1) |
 | 🏢 **Medtronic** | Clinical Specialist - Cardiac Rhythm Management (CRM) | New York, New Yor... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-York-New-York-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management--CRM-_R63536-1) |
-| 🏢 **AbbVie** | Oncology Specialist - Seattle, WA | Seattle, WA | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012921432) |
+| 🏢 **AbbVie** | Oncology Specialist - Seattle, WA | Seattle, WA | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012921432) |
 | 🏢 **AbbVie** | Oncology Specialist - New York | Albany, NY | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012916842) |
 | 🏢 **AbbVie** | Oncology Specialist - New York | Syracuse, NY | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012916936) |
 | 🏢 **Johnson & Johnson** | Associate Area Manager or Area Manager - Arlington, VA to Washington, DC - Johnson & Johnson MedTech, Heart Recovery | 2 Locations | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Washington-District-of-Columbia-United-States-of-America/Associate-Area-or-Area-Manager---Washington--DC-Arlington--VA---Johnson---Johnson-MedTech--Heart-Recovery_R-051648-1) |
@@ -231,7 +231,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Veolia Environnement SA** | Laboratory Supervisor | Port Arthur, TX | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124986069) |
 | 🏢 **Wellmark, Inc.** | Clinical Pharmacy Analyst (Pharmacoeconomics/HEOR) | Des Moines, IA | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000124971255) |
-| 🏢 **Takeda** | Plasma Center Technician | MD | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Baltimore---East/Plasma-Center-Technician_R0179693-1) |
+| 🏢 **Takeda** | Plasma Center Technician | MD | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Baltimore---East/Plasma-Center-Technician_R0179693-1) |
 | 🏢 **Takeda** | Plasma Center Technician | MD | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Baltimore---East/Plasma-Center-Technician_R0179692-1) |
 | 🏢 **IDEXX** | Medical Laboratory Technologist - 3rd Shift | Portland, OR | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Portland-OR/Medical-Laboratory-Technologist---3rd-Shift_J-052995) |
 | 🏢 **Intuitive** | Physician – Corporate Strategy | Sunnyvale, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000124758819) |
@@ -272,8 +272,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northrop Grumman** | Firefighter 1 (EMT-B Certified) | California | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Firefighter-1--EMT-B-Certified-_R10231634) |
 | 🏢 **Exact Sciences** | Specimen Processor | Phoenix, AZ | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Specimen-Processor_R26-12957) |
 | 🏢 **Cigna** | Pharmacy Technician Associate Representative,  Inbound phones – Work from Home, OH, IN & FL - Accredo Specialty Pharmacy | United States Wor... | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Pharmacy-Technician-Associate-Representative---Inbound-phones---Work-from-Home--OH--IN---FL---Accredo-Specialty-Pharmacy_26005408) |
-| 🏢 **AbbVie** | Finance Manager, Oncology - Demand Planning | Mettawa, IL | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012924595) |
-| 🏢 **AbbVie** | Hematology Clinical Account Specialist - Jacksonville, FL | Jacksonville, FL | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012921848) |
+| 🏢 **AbbVie** | Finance Manager, Oncology - Demand Planning | Mettawa, IL | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012924595) |
+| 🏢 **AbbVie** | Hematology Clinical Account Specialist - Jacksonville, FL | Jacksonville, FL | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012921848) |
 | 🏢 **AbbVie** | Oncology Account Executive - White Plains, NY | White Plains, NY | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012913380) |
 | 🏢 **Affirm** | People Knowledge Experience Manager | Remote US | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7712659003) |
 | 🏢 **Wellmark, Inc.** | Pharmacy Performance Manager | Cedar Rapids, IA | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000124021149) |
@@ -338,7 +338,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 268 current opportunities from 39 companies**
+**🎯 267 current opportunities from 39 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
