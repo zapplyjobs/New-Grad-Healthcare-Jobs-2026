@@ -1,5 +1,36 @@
 [
   {
+    "job_id": "sr-AbbVie-3743990013047556",
+    "job_title": "Clinical Research Associate I",
+    "employer_name": "AbbVie",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Chicago, IL",
+    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990013047556",
+    "job_posted_at_datetime_utc": "2026-05-08T18:45:13.301Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "e68f248615e92ece3b4c02770da028bde93e4523ebc9a03d83bc006cf64211ec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-08T18:45:13.301Z"
+  },
+  {
     "job_id": "sr-AbbVie-3743990013046056",
     "job_title": "Lab Technician IV - Cell Culture",
     "employer_name": "AbbVie",
@@ -4666,36 +4697,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-05-01T21:27:24.000Z"
-  },
-  {
-    "job_id": "sr-EVERSANA1-744000124171380",
-    "job_title": "Pharmacy Technician",
-    "employer_name": "EVERSANA",
-    "job_city": "Chesterfield",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chesterfield, MO",
-    "job_apply_link": "https://jobs.smartrecruiters.com/EVERSANA1/744000124171380",
-    "job_posted_at_datetime_utc": "2026-05-01T18:51:53.312Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "8e0e628bd6ce331244a11686cb3845ffddde8032f1b62f37700ae52e9d88048d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T18:51:53.312Z"
   }
 ]
