@@ -188,8 +188,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Wellmark, Inc.** | Associate Product Owner - Network Performance (Open to hiring at the Product Owner level) | Des Moines, IA | 26m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125376109) |
-| 🏢 **Personalis** | Sample Accessioner 1 | Fremont, CA | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7727988003) |
+| 🏢 **Wellmark, Inc.** | Associate Product Owner - Network Performance (Open to hiring at the Product Owner level) | Des Moines, IA | 40m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125376109) |
+| 🏢 **Personalis** | Sample Accessioner 1 | Fremont, CA | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7727988003) |
 | 🏢 **Wellmark, Inc.** | Provider Network Strategy & Contracting Consultant | Des Moines, IA | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125212479) |
 | 🏢 **Veolia Environnement SA** | Laboratory Supervisor | Port Arthur, TX | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124986069) |
 | 🏢 **Wellmark, Inc.** | Clinical Pharmacy Analyst (Pharmacoeconomics/HEOR) | Des Moines, IA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000124971255) |
