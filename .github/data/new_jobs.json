@@ -5736,6 +5736,36 @@
     "job_posted_at": "2026-05-06T20:07:46.550Z"
   },
   {
+    "job_id": "workday-kbr-R2120885",
+    "job_title": "Special Operations Clinical Psychologist (Fort Bragg, NC)",
+    "employer_name": "KBR",
+    "job_city": "Fort Liberty",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fort Liberty, North Carolina",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Clinical-Psychologist--Fort-Bragg--NC-_R2120885",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:30.228Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51c492be67157665504b8b2d36eaa57439e4a723db531170c11f86b1738a5d81",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:07:30.228Z"
+  },
+  {
     "job_id": "workday-kbr-R2123239",
     "job_title": "Special Operations Case Manager / Nurse Case Manager (Hampton Roads,VA)",
     "employer_name": "KBR",
@@ -5818,36 +5848,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:07:30.228Z"
-  },
-  {
-    "job_id": "workday-kbr-R2120885",
-    "job_title": "Special Operations Clinical Psychologist (Fort Bragg, NC)",
-    "employer_name": "KBR",
-    "job_city": "Fort Liberty",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fort Liberty, North Carolina",
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Clinical-Psychologist--Fort-Bragg--NC-_R2120885",
-    "job_posted_at_datetime_utc": "2026-05-06T20:07:30.228Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51c492be67157665504b8b2d36eaa57439e4a723db531170c11f86b1738a5d81",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
