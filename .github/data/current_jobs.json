@@ -1824,66 +1824,6 @@
     "job_posted_at": "2026-05-08T20:06:23.846Z"
   },
   {
-    "job_id": "workday-exact-sciences-R26-13191",
-    "job_title": "Supervisor, Histology - Monday-Friday, 12pm-8:30pm",
-    "employer_name": "Exact Sciences",
-    "job_city": "CA - Redwood City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - CA - Redwood City",
-    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Supervisor--Histology---Monday-Friday--12pm-8-30pm_R26-13191",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:23.846Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "59299991226e28199c6e193040a808112173b4bb1a3dba8a016f67d7a5f10d24",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:06:23.846Z"
-  },
-  {
-    "job_id": "workday-exact-sciences-R26-12550",
-    "job_title": "Clinical Laboratory Scientist I - Saturday -Monday 6:00pm-6:30am",
-    "employer_name": "Exact Sciences",
-    "job_city": "WI - Madison",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - WI - Madison",
-    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Clinical-Laboratory-Scientist-I---Saturday--Monday-6-00pm-6-30am_R26-12550-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:23.846Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f174395d0c7e2ed4dc4854adeec793366c404d2fb43bc00bdec1ff13cb00fb5a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:06:23.846Z"
-  },
-  {
     "job_id": "workday-cigna-26002532",
     "job_title": "Pharmacy Technician Associate Representative - CarepathRx",
     "employer_name": "Cigna",
@@ -2369,6 +2309,66 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-05-07T19:52:33.869Z"
+  },
+  {
+    "job_id": "workday-exact-sciences-R26-13191",
+    "job_title": "Supervisor, Histology - Monday-Friday, 12pm-8:30pm",
+    "employer_name": "Exact Sciences",
+    "job_city": "CA - Redwood City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - CA - Redwood City",
+    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Supervisor--Histology---Monday-Friday--12pm-8-30pm_R26-13191",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:51.270Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "59299991226e28199c6e193040a808112173b4bb1a3dba8a016f67d7a5f10d24",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T08:01:51.270Z"
+  },
+  {
+    "job_id": "workday-exact-sciences-R26-12550",
+    "job_title": "Clinical Laboratory Scientist I - Saturday -Monday 6:00pm-6:30am",
+    "employer_name": "Exact Sciences",
+    "job_city": "WI - Madison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - WI - Madison",
+    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Clinical-Laboratory-Scientist-I---Saturday--Monday-6-00pm-6-30am_R26-12550-1",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:51.270Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f174395d0c7e2ed4dc4854adeec793366c404d2fb43bc00bdec1ff13cb00fb5a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T08:01:51.270Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01351243",
@@ -4380,36 +4380,6 @@
     "job_posted_at": "2026-05-06T20:06:52.338Z"
   },
   {
-    "job_id": "workday-entegris-REQ-11548",
-    "job_title": "Research Associate",
-    "employer_name": "Entegris",
-    "job_city": "Aurora",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Aurora, IL",
-    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Research-Associate_REQ-11548",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:37.345Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2b80e50cd23cfc5d37308fb52c6b945c5ec5c4c55ef66e07d870d1e20e2e0310",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:06:37.345Z"
-  },
-  {
     "job_id": "workday-abbott-31142676",
     "job_title": "Technical Call Center Medical Technologist",
     "employer_name": "Abbott",
@@ -4560,6 +4530,36 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-05-06T18:50:53.440Z"
+  },
+  {
+    "job_id": "workday-entegris-REQ-11548",
+    "job_title": "Research Associate",
+    "employer_name": "Entegris",
+    "job_city": "Aurora",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Aurora, IL",
+    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Research-Associate_REQ-11548",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:58.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b80e50cd23cfc5d37308fb52c6b945c5ec5c4c55ef66e07d870d1e20e2e0310",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T08:01:58.048Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01350806",
@@ -7073,36 +7073,6 @@
     "job_posted_at": "2026-05-05T20:05:25.555Z"
   },
   {
-    "job_id": "workday-exact-sciences-R26-13202",
-    "job_title": "Histology Assistant I",
-    "employer_name": "Exact Sciences",
-    "job_city": "AZ - Phoenix",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - AZ - Phoenix",
-    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histology-Assistant-I_R26-13202",
-    "job_posted_at_datetime_utc": "2026-05-05T19:47:12.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1de3febb5db3fcedfeec5cd27145c567f88cabafd5904d580fb4032cb60a15a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T19:47:12.570Z"
-  },
-  {
     "job_id": "workday-guidehouse-39026",
     "job_title": "Hospital Admissions Rep - Evening Shift, Full Time Onsite",
     "employer_name": "Guidehouse",
@@ -7398,36 +7368,6 @@
     "job_posted_at": "2026-05-05T13:50:09.096Z"
   },
   {
-    "job_id": "workday-exact-sciences-R26-13040",
-    "job_title": "Regional Oncology Specialist - Central California",
-    "employer_name": "Exact Sciences",
-    "job_city": "US CA Fresno",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US CA Fresno + 1 more",
-    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Fresno/Regional-Oncology-Specialist---Central-California_R26-13040",
-    "job_posted_at_datetime_utc": "2026-05-05T12:47:51.583Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "016c2a4b8bd513f95c8bf1d1b7f73f57328aa35062ae07eda2309f1390eeb109",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T12:47:51.583Z"
-  },
-  {
     "job_id": "workday-idexx-J-052782",
     "job_title": "Medical Laboratory Technologist - 1st Shift",
     "employer_name": "IDEXX",
@@ -7456,6 +7396,66 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-05T11:33:18.354Z"
+  },
+  {
+    "job_id": "workday-exact-sciences-R26-13202",
+    "job_title": "Histology Assistant I",
+    "employer_name": "Exact Sciences",
+    "job_city": "AZ - Phoenix",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - AZ - Phoenix",
+    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histology-Assistant-I_R26-13202",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:51.270Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1de3febb5db3fcedfeec5cd27145c567f88cabafd5904d580fb4032cb60a15a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:01:51.270Z"
+  },
+  {
+    "job_id": "workday-exact-sciences-R26-13040",
+    "job_title": "Regional Oncology Specialist - Central California",
+    "employer_name": "Exact Sciences",
+    "job_city": "US CA Fresno",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US CA Fresno + 1 more",
+    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Fresno/Regional-Oncology-Specialist---Central-California_R26-13040",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:51.270Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "016c2a4b8bd513f95c8bf1d1b7f73f57328aa35062ae07eda2309f1390eeb109",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:01:51.270Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01351960",
