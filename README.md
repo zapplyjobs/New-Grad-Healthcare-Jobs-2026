@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-323-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-33-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-326-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -68,7 +68,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cigna** | Remote Inpatient Telepharmacist, Third Shift - Evernorth | United States Wor... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Remote-Telepharmacist--Third-Shift---Evernorth_26005806) |
+| 🏢 **Cigna** | Remote Inpatient Telepharmacist, Third Shift - Evernorth | United States Wor... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Remote-Telepharmacist--Third-Shift---Evernorth_26005806) |
 | 🏢 **Cigna** | Patient Services Representative - Evernorth | Pittsburgh, PA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Pittsburgh-PA/Patient-Services-Representative---Evernorth_26002095) |
 | 🏢 **Takeda** | Plasma Center Nurse LPN, or EMT-P. | FL | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville/Plasma-Center-Nurse-LPN--or-EMT-P_R0179834-1) |
 | 🏢 **Takeda** | Medical Support Specialist- RN | VA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Roanoke/Medical-Support-Specialist--RN_R0179833-1) |
@@ -89,6 +89,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 🏢 **Ro** | Virtual Nurse Practitioner (1099 Contractor) | New York, NY or R... | 14m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/4effc32e-b652-495c-817a-64bb19b72d6f/apply) |
 | 🏢 **Guidehouse** | Nurse Practitioner | MD, Baltimore | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Nurse-Practitioner_39216) |
 
 <p align="center">Apply for more jobs at</p>
@@ -227,6 +228,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 🏢 **Ro** | Virtual Physician (1099 Contractor) | New York, NY or R... | 14m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/f8207a30-991c-43b4-a356-409357323ebf/apply) |
+| 🏢 **Arc Institute** | Postdoctoral Researcher, Gilbert Lab | Palo Alto, CA | 14m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5654593004) |
 | 🏢 **Walmart** | Full-Time Pharmacy Tech Certified Sam's | (USA) MD ANNAPOLI... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MD-ANNAPOLIS-06357-SAMS-CLUB/Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2504959) |
 | 🏢 **Abbott** | Clinical Associate | Florida | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tallahassee/Clinical-Associate_31131455-1) |
 | 🏢 **Guidehouse** | Supervisor, Patient Access, Swing Shift | CA, Los Angeles | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Los-Angeles/Supervisor--Patient-Access--Swing-Shift_39265) |
@@ -324,7 +327,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 323 current opportunities from 33 companies**
+**🎯 326 current opportunities from 34 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
