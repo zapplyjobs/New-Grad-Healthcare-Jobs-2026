@@ -121,7 +121,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Merck & Co.** | Companion Animal Pharmacovigilance Veterinarian | New Jersey | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Pharmacovigilance-Veterinarian_R393333) |
 | 🏢 **Johnson & Johnson** | Medical Science Liaison - Schizophrenia (AZ, NV, CO & UT) | Arizona Any City ... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Medical-Science-Liaison---Schizophrenia--AZ--NV--CO---UT-_R-073630) |
 | 🏢 **Thermo Fisher Scientific** | Clinical Research Nurse- Per Diem Day | Las Vegas, Nevada... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse--Per-Diem-Day_R-01351694) |
-| 🏢 **AbbVie** | MSL, Plastics and Regenerative Medicine (South Central) | Houston, TX | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012966047) |
+| 🏢 **AbbVie** | MSL, Plastics and Regenerative Medicine (South Central) | Houston, TX | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012966047) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
