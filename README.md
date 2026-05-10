@@ -115,7 +115,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **AbbVie** | Clinical Research Associate I | Chicago, IL | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013048096) |
+| 🏢 **AbbVie** | Clinical Research Associate I | Chicago, IL | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013048096) |
 | 🏢 **Merck & Co.** | Companion Animal Pharmacovigilance Veterinarian | New Jersey | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Pharmacovigilance-Veterinarian_R393333) |
 | 🏢 **Johnson & Johnson** | Medical Science Liaison - Schizophrenia (AZ, NV, CO & UT) | Arizona Any City ... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Medical-Science-Liaison---Schizophrenia--AZ--NV--CO---UT-_R-073630) |
 | 🏢 **Thermo Fisher Scientific** | Clinical Research Nurse- Per Diem Day | Las Vegas, Nevada... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse--Per-Diem-Day_R-01351694) |
