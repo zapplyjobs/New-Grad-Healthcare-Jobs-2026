@@ -1975,6 +1975,37 @@
     "job_posted_at": "2026-05-08T19:05:48.926Z"
   },
   {
+    "job_id": "greenhouse-oscar-7909087",
+    "job_title": "Physician Reviewer - Utilization Management",
+    "employer_name": "Oscar Health",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote (New York)",
+    "job_apply_link": "http://www.hioscar.com/careers/7909087?gh_jid=7909087",
+    "job_posted_at_datetime_utc": "2026-05-08T18:14:23.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aae748521fc04b7f4202be4cf6816f1da2a2711318e3540ad7e04993fd3d6b7b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-08T18:14:23.000Z"
+  },
+  {
     "job_id": "sr-AbbVie-3743990013046056",
     "job_title": "Lab Technician IV - Cell Culture",
     "employer_name": "AbbVie",
@@ -6979,6 +7010,37 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-05T18:34:04.214Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7872606",
+    "job_title": "Prior Authorization Pharmacy Technician",
+    "employer_name": "Oscar Health",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote (Arizona)",
+    "job_apply_link": "http://www.hioscar.com/careers/7872606?gh_jid=7872606",
+    "job_posted_at_datetime_utc": "2026-05-05T18:01:58.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "093f2f750132738bcf1572bb0958dd53b00c86874d8ac16a9d3dddd52ddb1dd4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-05T18:01:58.000Z"
   },
   {
     "job_id": "workday-cigna-26005168",
