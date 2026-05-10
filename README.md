@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-336-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-323-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-33-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -111,18 +111,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🩺 <strong>Specialized Care</strong></h3></summary>
-
-| Company | Role | Location | Posted | **Apply** |
-|---------|------|----------|--------|----------|
-| 🏢 **Medtronic** | Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Northeast) | 4 Locations | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Northeast-_R61783-1) |
-
-<p align="center">Apply for more jobs at</p>
-<p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
-
-</details>
-
-<details>
 <summary><h3>🔬 <strong>Clinical Research & Trials</strong></h3></summary>
 
 | Company | Role | Location | Posted | **Apply** |
@@ -131,7 +119,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Merck & Co.** | Companion Animal Pharmacovigilance Veterinarian | New Jersey | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Pharmacovigilance-Veterinarian_R393333) |
 | 🏢 **Johnson & Johnson** | Medical Science Liaison - Schizophrenia (AZ, NV, CO & UT) | Arizona Any City ... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Medical-Science-Liaison---Schizophrenia--AZ--NV--CO---UT-_R-073630) |
 | 🏢 **Thermo Fisher Scientific** | Clinical Research Nurse- Per Diem Day | Las Vegas, Nevada... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse--Per-Diem-Day_R-01351694) |
-| 🏢 **Thermo Fisher Scientific** | Experienced CRA 1; Southeast Location | Remote, North Car... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Experienced-CRA-1--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344265-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -189,7 +176,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Medtronic** | Clinical Specialist CRM - Sarasota | Sarasota, Florida... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Sarasota-Florida-United-States-of-America/Clinical-Specialist-CRM---Sarasota_R66450-1) |
 | 🏢 **IDEXX** | Medical Affairs Specialist - Parasitology | Virtual United St... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Medical-Affairs-Specialist---Parasitology_J-052876) |
 | 🏢 **Thermo Fisher Scientific** | Project Manager - FSP - Medical Affairs & Evidence Generation | Remote, North Car... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Project-Manager---FSP---Medical-Affairs---Evidence-Generation_R-01346273) |
-| 🏢 **Merck & Co.** | Companion Animal Territory Representative - Johnson City/Kingsport, TN | REMOTE | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---REMOTE---REMOTE/Companion-Animal-Territory-Representative---Johnson-City-Kingsport--TN_R392706-1) |
 | 🏢 **Globus Medical** | Cranial Clinical Specialist Representative | Massachusetts | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Massachusetts/Cranial-Clinical-Specialist-Representative_JR106316-1) |
 | 🏢 **Globus Medical** | Cranial Clinical Specialist Representative | Texas | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Texas/Cranial-Clinical-Specialist-Representative_JR106338) |
 | 🏢 **Globus Medical** | Clinical Specialist Reppresentative | Texas | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Texas/Clinical-Specialist-Reppresentative_JR106318) |
@@ -257,9 +243,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Abbott** | Clinical Associate | 2 Locations | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Pennsylvania---Reading/Clinical-Associate_31149726-2) |
 | 🏢 **Oscar Health** | Physician Reviewer - Utilization Management | Remote (New York) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7909087?gh_jid=7909087) |
 | 🏢 **Wellmark, Inc.** | Associate Product Owner - Network Performance (Open to hiring at the Product Owner level) | Des Moines, IA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125376109) |
-| 🏢 **Johnson & Johnson** | Investigator - Lenti | Raritan, New Jers... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Investigator---Lenti_R-067790-1) |
 | 🏢 **Johnson & Johnson** | Executive Oncology Area Business Specialist (Denver, CO) - Johnson & Johnson Innovative Medicine | Denver, Colorado,... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Denver-Colorado-United-States/Executive-Oncology-Area-Business-Specialist--Denver--CO----Johnson---Johnson-Innovative-Medicine_R-070276-1) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Consultant (Oklahoma City Metro) - Johnson & Johnson MedTech, Heart Recovery | Oklahoma City, Ok... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Oklahoma-City-Oklahoma-United-States/Associate-Clinical-Consultant--Oklahoma-City-Metro----Johnson---Johnson-MedTech--Heart-Recovery_R-073563-1) |
+| 🏢 **Johnson & Johnson** | Study Responsible Physician- Neuroscience (Pediatric Studies) | 2 Locations | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1) |
 | 🏢 **Thermo Fisher Scientific** | Sales Specialist - Proteomics - Boston | Remote, Massachus... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Sales-Specialist---Proteomics---Boston_R-01351254) |
 | 🏢 **Personalis** | Sample Accessioner 1 | Fremont, CA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7727988003) |
 | 🏢 **Wellmark, Inc.** | Provider Network Strategy & Contracting Consultant | Des Moines, IA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125212479) |
@@ -267,7 +253,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Exact Sciences** | Supervisor, Histology - Monday-Friday, 12pm-8:30pm | Redwood City, CA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Supervisor--Histology---Monday-Friday--12pm-8-30pm_R26-13191) |
 | 🏢 **Thermo Fisher Scientific** | Laboratory Supervisor (GMP) | Middleton, Wiscon... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Laboratory-Supervisor--GMP-_R-01351243) |
 | 🏢 **Merck & Co.** | Companion Animal Professional Services Veterinarian (Tri-State) | New Jersey Rahway... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Professional-Services-Veterinarian--Tri-State-_R393567) |
-| 🏢 **Merck & Co.** | Associate Specialist, Process and Instrumentation Engineer | Nebraska | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Nebraska---Elkhorn/Associate-Specialist--Process-and-Instrumentation-Engineer_R390248) |
 | 🏢 **KBR** | Special Operations Strength and Conditioning Specialist, 1st SFG (JBLM, WA) | McChord, Washington | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Joint-Base-Lewis-McChord-Washington/Special-Operations-Strength-and-Conditioning-Specialist--1st-SFG--JBLM--WA-_R2123314) |
 | 🏢 **Globus Medical** | Associate Interventional Specialist (Baton Rouge, LA) | Louisiana | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Louisiana/Associate-Interventional-Specialist--Baton-Rouge--LA-_JR106677) |
 | 🏢 **Globus Medical** | Associate Interventional Specialist (Kansas City, MO) | Missouri | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Missouri/Associate-Interventional-Specialist--Kansas-City--MO-_JR106678) |
@@ -278,13 +263,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Guidehouse** | Cardiovascular Catheter Development Engineer | MD, Bethesda | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Cardiovascular-Catheter-Development-Engineer_39214) |
 | 🏢 **IDEXX** | Manager, Enterprise Customer Success - Veterinary Software | Virtual Maine + 2... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-Maine/Manager--Enterprise-Customer-Success---Veterinary-Software_J-053006-1) |
 | 🏢 **Thermo Fisher Scientific** | Medical Information Nurse I | Morrisville, Nort... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Medical-Information-Nurse-I_R-01350806-1) |
-| 🏢 **KBR** | Donor Specialist (Dallas/Fort Worth/McKinney) | Dallas Texas + 4 ... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Dallas-Texas/Donor-Specialist--Dallas-Fort-Worth-McKinney-_R2120818) |
 | 🏢 **KBR** | Special Operations Case Manager / Nurse Case Manager (Hampton Roads,VA) | Hampton, Virginia | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hampton-Virginia/Special-Operations-Case-Manager---Nurse-Case-Manager--Hampton-Roads-VA-_R2123239) |
 | 🏢 **Intuitive** | Physician – Corporate Strategy | Sunnyvale, CA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000124758819) |
 | 🏢 **Ro** | Compounding Pharmacy Technician - Boynton Beach, FL | Boynton Beach, FL | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/4b815c8f-f429-4430-98e1-4b91164627c7/apply) |
 | 🏢 **Guidehouse** | Patient Account Representative - Self Pay | TX, San Antonio | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Account-Representative---Self-Pay_39058) |
 | 🏢 **Exact Sciences** | Histology Assistant I | Phoenix, AZ | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histology-Assistant-I_R26-13202) |
-| 🏢 **Medtronic** | Field Inventory Analyst - Indianapolis, IN | Indianapolis, Ind... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Indianapolis-Indiana-United-States-of-America/Field-Inventory-Analyst---Indianapolis--IN_R63266-1) |
+| 🏢 **KBR** | Special Operations Strength and Conditioning Specialist (JEB, Little Creek, VA) | Virginia Beach, V... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Virginia-Beach-Virginia/Special-Operations-Strength-and-Conditioning-Specialist--JEB--Little-Creek--VA-_R2123085) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -340,7 +324,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 336 current opportunities from 33 companies**
+**🎯 323 current opportunities from 33 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
