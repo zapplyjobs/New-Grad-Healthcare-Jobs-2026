@@ -1717,6 +1717,37 @@
     "job_posted_at": "2026-05-11T01:19:34.361Z"
   },
   {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:24.596Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-11T01:19:24.596Z"
+  },
+  {
     "job_id": "lever-includedhealth-199c81db-f48d-4d33-bf48-afbd8dde21e3",
     "job_title": "Pediatric Behavioral Health Nurse Care Manager",
     "employer_name": "Included Health",
@@ -1823,37 +1854,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-05-11T01:19:24.596Z"
-  },
-  {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:24.596Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2055,96 +2055,6 @@
     "job_posted_at": "2026-05-11T00:48:37.658Z"
   },
   {
-    "job_id": "greenhouse-oscar-7648597",
-    "job_title": "Manager, Strategic Value & Investment Analysis",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7648597?gh_jid=7648597",
-    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc0128969408111f330df24a25572a89663abe5b01cd9658e4afbdd871aedeec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T00:48:30.461Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7778427",
-    "job_title": "Manager, Strategic Value & Investment Analysis",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "http://www.hioscar.com/careers/7778427?gh_jid=7778427",
-    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc0128969408111f330df24a25572a89663abe5b01cd9658e4afbdd871aedeec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T00:48:30.461Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7648599",
-    "job_title": "Manager, Strategic Value & Investment Analysis",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7648599?gh_jid=7648599",
-    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f886d45434d417a272e0e5744d14d321e4fc3431c672a4dbbf81df8bc1db588",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T00:48:30.461Z"
-  },
-  {
     "job_id": "greenhouse-oscar-7559065",
     "job_title": "UM Program Operations Manager",
     "employer_name": "Oscar Health",
@@ -2218,6 +2128,96 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a57e20c6edd0f45b400d9c4e217d4ebfbac940ac3de47d607348ef23e8a2085f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:30.461Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7648597",
+    "job_title": "Manager, Strategic Value & Investment Analysis",
+    "employer_name": "Oscar Health",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7648597?gh_jid=7648597",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc0128969408111f330df24a25572a89663abe5b01cd9658e4afbdd871aedeec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:30.461Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7778427",
+    "job_title": "Manager, Strategic Value & Investment Analysis",
+    "employer_name": "Oscar Health",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, NY",
+    "job_apply_link": "http://www.hioscar.com/careers/7778427?gh_jid=7778427",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc0128969408111f330df24a25572a89663abe5b01cd9658e4afbdd871aedeec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:30.461Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7648599",
+    "job_title": "Manager, Strategic Value & Investment Analysis",
+    "employer_name": "Oscar Health",
+    "job_city": "Tempe",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7648599?gh_jid=7648599",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f886d45434d417a272e0e5744d14d321e4fc3431c672a4dbbf81df8bc1db588",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12078,157 +12078,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-04T07:32:15.367Z"
-  },
-  {
-    "job_id": "workday-philips-582474",
-    "job_title": "Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (Dallas, Ft. Worth TX)",
-    "employer_name": "Philips",
-    "job_city": "Dallas Texas United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas Texas United States + 1 more",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Dallas-Texas-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--Dallas--Ft-Worth-TX-_582474-1",
-    "job_posted_at_datetime_utc": "2026-05-04T07:17:53.778Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "385b070150b01a76e029e266a90e2074b68a6b922cecd581e63b587d283366fa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T07:17:53.778Z"
-  },
-  {
-    "job_id": "workday-philips-579374",
-    "job_title": "Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (San Francisco CA)",
-    "employer_name": "Philips",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Francisco-Bay-Area-California-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--San-Francisco-CA-_579374-1",
-    "job_posted_at_datetime_utc": "2026-05-04T07:17:53.778Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7cd9f4b9c20691438a6dbee3e2c3200e0c292448ed37e8a65fd6de4b754a87c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T07:17:53.778Z"
-  },
-  {
-    "job_id": "workday-cigna-26005331",
-    "job_title": "Onsite RN Health Coach- Fayetteville, GA",
-    "employer_name": "Cigna",
-    "job_city": "Fayetteville",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fayetteville, GA",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Fayetteville-GA/Onsite-RN-Health-Coach--Fayetteville--GA_26005331",
-    "job_posted_at_datetime_utc": "2026-05-04T07:17:04.311Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "80d27d20c604d9d3eef2bd909c0e0f9d9d34c87c087492a90a2b96831c53e9db",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T07:17:04.311Z"
-  },
-  {
-    "job_id": "workday-cigna-26001892",
-    "job_title": "Pharmacy Technician Associate Representative - CarepathRx - US Remote",
-    "employer_name": "Cigna",
-    "job_city": "Georgia Work at Home",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Georgia Work at Home + 1 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Georgia-Work-at-Home/Pharmacy-Technician-Associate-Representative---CarepathRx---US-Remote_26001892",
-    "job_posted_at_datetime_utc": "2026-05-04T07:17:04.311Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dbd05afeb7b1bddd7d604b3aa4aae1ce7174a18286017fbbbd1a262eb4dfe11f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T07:17:04.311Z"
-  },
-  {
-    "job_id": "workday-cigna-26001961",
-    "job_title": "Patient Care Coordinator, Specialty Pharmacy- Evernorth",
-    "employer_name": "Cigna",
-    "job_city": "United States Work at Home",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States Work at Home",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Patient-Care-Coordinator--Specialty-Pharmacy--Evernorth_26001961",
-    "job_posted_at_datetime_utc": "2026-05-04T07:17:04.311Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fc5c16daa1c3f7f906c215eaaa2c0b975a9394d8c7234a5fd3c51b6ac50f7d16",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T07:17:04.311Z"
   }
 ]
