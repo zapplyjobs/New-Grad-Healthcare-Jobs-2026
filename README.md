@@ -89,7 +89,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Ro** | Virtual Nurse Practitioner (1099 Contractor) | New York, NY or R... | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/4effc32e-b652-495c-817a-64bb19b72d6f/apply) |
+| 🏢 **Ro** | Virtual Nurse Practitioner (1099 Contractor) | New York, NY or R... | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/4effc32e-b652-495c-817a-64bb19b72d6f/apply) |
 | 🏢 **Guidehouse** | Nurse Practitioner | MD, Baltimore | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Nurse-Practitioner_39216) |
 | 🏢 **Intuitive** | Manager, NPI Sourcing | Sunnyvale, CA | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000124509429) |
 
@@ -133,10 +133,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Olsson** | Construction Materials Testing - Lab Technician | Olathe, KS | 56m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5131482008) |
-| 🏢 **Olsson** | Construction Materials Testing - Lab Technician | Oklahoma City, OK | 56m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5168759008) |
-| 🏢 **Olsson** | Construction Materials Testing - Lab Technician | La Vista, NE | 56m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5179372008) |
-| 🏢 **Figure AI** | Lab Technician | San Jose, CA | 57m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4647901006) |
+| 🏢 **Olsson** | Construction Materials Testing - Lab Technician | Olathe, KS | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5131482008) |
+| 🏢 **Olsson** | Construction Materials Testing - Lab Technician | Oklahoma City, OK | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5168759008) |
+| 🏢 **Olsson** | Construction Materials Testing - Lab Technician | La Vista, NE | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5179372008) |
+| 🏢 **Figure AI** | Lab Technician | San Jose, CA | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4647901006) |
 | 🏢 **IDEXX** | Medical Laboratory Technician | Red Bank, NJ | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Red-Bank-NJ/Medical-Laboratory-Technician_J-052375) |
 | 🏢 **Exact Sciences** | Clinical Laboratory Scientist I, Extraction Lab | Marshfield, WI | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Marshfield/Clinical-Laboratory-Scientist-I--Extraction-Lab_R26-13226) |
 | 🏢 **Elanco** | Associate Scientist Analytische Entwicklung STD (Synthetic Technical Development) (m/w/d) | Monheim, DE | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/DE---Monheim/Associate-Scientist-Analytische-Entwicklung-STD--Synthetic-Technical-Development---m-w-d-_R0025771) |
@@ -218,9 +218,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Included Health** | Behavioral Health / Substance Use Nurse Care Manager, Adult | Washington | 57m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply) |
-| 🏢 **Included Health** | Pediatric Behavioral Health Nurse Care Manager | Utah | 57m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/199c81db-f48d-4d33-bf48-afbd8dde21e3/apply) |
-| 🏢 **Included Health** | Pediatric Behavioral Health Nurse Care Manager | Washington | 57m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/a9a3eada-f44c-49b7-b445-30ae159ecc2b/apply) |
+| 🏢 **Included Health** | Behavioral Health / Substance Use Nurse Care Manager, Adult | Washington | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply) |
+| 🏢 **Included Health** | Pediatric Behavioral Health Nurse Care Manager | Utah | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/199c81db-f48d-4d33-bf48-afbd8dde21e3/apply) |
+| 🏢 **Included Health** | Pediatric Behavioral Health Nurse Care Manager | Washington | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/a9a3eada-f44c-49b7-b445-30ae159ecc2b/apply) |
 | 🏢 **KBR** | Physical Therapist (Eielson AFB, AK) | Fairbanks, Alaska | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fairbanks-Alaska/Physical-Therapist--Eielson-AFB--AK-_R2123385) |
 | 🏢 **KBR** | Special Operations Physical Therapist (3rd SFG (A), Ft. Bragg, NC) | Fayetteville Nort... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Physical-Therapist--3rd-SFG--A---Ft-Bragg--NC-_R2123316) |
 | 🏢 **Leidos** | Military Family Life Counselor - (Adult) | Oceanside, CA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Oceanside-CA/Military-Family-Life-Counselor----Adult-_R-00182792-1) |
@@ -238,17 +238,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Oscar Health** | Nurse Supervisor, UM Clinical Quality | Remote (Arizona) | 56m | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7736952?gh_jid=7736952) |
-| 🏢 **Ro** | Clinical Data & Operations Manager, Scientific Affairs | New York, NY or R... | 57m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/260d5299-25df-4799-8385-b2f170cc66f0/apply) |
-| 🏢 **Chan Zuckerberg Biohub** | Computational Biologist, Immune Perturbation | Chicago, IL (Onsite) | 57m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7286341) |
-| 🏢 **Affirm** | Strategic Partnerships Manager | Remote US | 57m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7647628003) |
-| 🏢 **Affirm** | Capital Markets Manager | Remote US | 57m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7543849003) |
+| 🏢 **Oscar Health** | Nurse Supervisor, UM Clinical Quality | Remote (Arizona) | 1h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7736952?gh_jid=7736952) |
+| 🏢 **Ro** | Clinical Data & Operations Manager, Scientific Affairs | New York, NY or R... | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/260d5299-25df-4799-8385-b2f170cc66f0/apply) |
+| 🏢 **Chan Zuckerberg Biohub** | Computational Biologist, Immune Perturbation | Chicago, IL (Onsite) | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7286341) |
+| 🏢 **Affirm** | Strategic Partnerships Manager | Remote US | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7647628003) |
+| 🏢 **Affirm** | Capital Markets Manager | Remote US | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7543849003) |
 | 🏢 **Truveta** | Partner Research & Success Manager | Seattle, WA | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5777538004) |
-| 🏢 **Oscar Health** | UM Program Operations Manager | New York, New Yor... | 1h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7559065?gh_jid=7559065) |
-| 🏢 **Oscar Health** | UM Program Operations Manager | New York, NY | 1h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7778406?gh_jid=7778406) |
+| 🏢 **Oscar Health** | Manager, Strategic Value & Investment Analysis | New York, New Yor... | 1h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7648597?gh_jid=7648597) |
+| 🏢 **Oscar Health** | Manager, Strategic Value & Investment Analysis | New York, NY | 1h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7778427?gh_jid=7778427) |
 | 🏢 **Formlabs** | Marketing Manager, Dental | Somerville, MA | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7701319/apply/?gh_jid=7701319) |
-| 🏢 **Ro** | Virtual Physician (1099 Contractor) | New York, NY or R... | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/f8207a30-991c-43b4-a356-409357323ebf/apply) |
-| 🏢 **Arc Institute** | Postdoctoral Researcher, Gilbert Lab | Palo Alto, CA | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5654593004) |
+| 🏢 **Ro** | Virtual Physician (1099 Contractor) | New York, NY or R... | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/f8207a30-991c-43b4-a356-409357323ebf/apply) |
+| 🏢 **Arc Institute** | Postdoctoral Researcher, Gilbert Lab | Palo Alto, CA | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5654593004) |
 | 🏢 **Walmart** | Full-Time Pharmacy Tech Certified Sam's | (USA) MD ANNAPOLI... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MD-ANNAPOLIS-06357-SAMS-CLUB/Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2504959) |
 | 🏢 **Abbott** | Clinical Associate | Florida | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tallahassee/Clinical-Associate_31131455-1) |
 | 🏢 **Guidehouse** | Supervisor, Patient Access, Swing Shift | CA, Los Angeles | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Los-Angeles/Supervisor--Patient-Access--Swing-Shift_39265) |
