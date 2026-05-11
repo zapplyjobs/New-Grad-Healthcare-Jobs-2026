@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-559-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-560-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-53-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -68,7 +68,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Registered Nurse (RN) – BSN Required | MD | 23m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Salisbury/Registered-Nurse--RN----BSN-Required_R0180013-1) |
+| 🏢 **Cigna** | Nurse Case Management Manager - Evernorth  Health Services - Remote | United States Wor... | 22m | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Nurse-Case-Management-Manager---Evernorth--Health-Services---Remote_26003174) |
+| 🏢 **Takeda** | Registered Nurse (RN) – BSN Required | MD | 38m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Salisbury/Registered-Nurse--RN----BSN-Required_R0180013-1) |
 | 🏢 **Takeda** | Registered Nurse | PA | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/Registered-Nurse_R0180010-1) |
 | 🏢 **Takeda** | Registered Nurse RN | TX | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Registered-Nurse-RN_R0180005-1) |
 | 🏢 **Merck & Co.** | Specialist, Global Employee Health- Registered Nurse (Wilson, NC) | North Carolina | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---North-Carolina---Wilson/Specialist--Global-Employee-Health--Registered-Nurse--Wilson--NC-_R397315) |
@@ -77,9 +78,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cigna** | Remote Inpatient Telepharmacist, Third Shift - Evernorth | United States Wor... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Remote-Telepharmacist--Third-Shift---Evernorth_26005806) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO | Colorado | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914) |
 | 🏢 **Cigna** | Patient Services Representative - Evernorth | Pittsburgh, PA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Pittsburgh-PA/Patient-Services-Representative---Evernorth_26002095) |
-| 🏢 **Cigna** | Medical Records Representative- Evernorth- Oakdale, PA | Oakdale, PA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Oakdale-PA/Medical-Records-Representative--Evernorth--Oakdale--PA_26003710) |
 | 🏢 **Thermo Fisher Scientific** | (Sr) Project Manager - Internal Medicine Team - Remote based in the US | Remote, North Car... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/XMLNAME--Sr--Project-Manager---Internal-Medicine-Team---Remote-based-in-the-US_R-01352066) |
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Watkins, MN | Minnesota | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Cloud/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Watkins--MN_31149689) |
+| 🏢 **Abbott** | Calibration Technician (Day Shift 6:30a - 7:00p, Alternating Weekends) | Ohio | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Tipp-City/Calibration-Technician--Day-Shift-6-30a---7-00p--Alternating-Weekends-_31149573-1) |
 | 🏢 **Exact Sciences** | Regional Oncology Specialist - Central California | CA Fresno + 1 more | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Fresno/Regional-Oncology-Specialist---Central-California_R26-13040) |
 
 <p align="center">Apply for more jobs at</p>
@@ -106,8 +106,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Licensed Vocational Nurse LVN | TX | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Licensed-Vocational-Nurse-LVN_R0180007-1) |
 | 🏢 **Takeda** | Licensed Practical Nurse | PA | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/Licensed-Practical-Nurse_R0180008-1) |
+| 🏢 **Takeda** | Licensed Vocational Nurse LVN | TX | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Licensed-Vocational-Nurse-LVN_R0180007-1) |
 | 🏢 **Takeda** | Licensed Practical Nurse | IL | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Licensed-Practical-Nurse---Day-One-Benefits_R0176347-1) |
 
 <p align="center">Apply for more jobs at</p>
@@ -124,8 +124,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Personalis** | Clinical Research Associate 2 | Fremont, CA | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7637528003) |
 | 🏢 **AbbVie** | Clinical Research Associate I | Chicago, IL | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013048096) |
 | 🏢 **Merck & Co.** | Companion Animal Pharmacovigilance Veterinarian | New Jersey | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Pharmacovigilance-Veterinarian_R393333) |
-| 🏢 **Johnson & Johnson** | Clinical Research Manager | Irvine, Californi... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Clinical-Research-Manager_R-072698-1) |
 | 🏢 **Johnson & Johnson** | Medical Science Liaison - Schizophrenia (AZ, NV, CO & UT) | Arizona Any City ... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Medical-Science-Liaison---Schizophrenia--AZ--NV--CO---UT-_R-073630) |
+| 🏢 **Johnson & Johnson** | Clinical Research Manager | Irvine, Californi... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Clinical-Research-Manager_R-072698-1) |
 | 🏢 **Thermo Fisher Scientific** | Clinical Research Nurse- Per Diem Day | Las Vegas, Nevada... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse--Per-Diem-Day_R-01351694) |
 | 🏢 **Thermo Fisher Scientific** | Clinical Research Manager | Austin, Texas, USA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Clinical-Research-Manager_R-01351635) |
 | 🏢 **Medtronic** | Clinical Research Monitor (CRA) | Minneapolis, Minn... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Clinical-Research-Monitor-CRA-_R65429-1) |
@@ -153,7 +153,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Olsson** | Construction Materials Testing Lab Technician | Grand Island, NE | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5155431008) |
 | 🏢 **Astera Labs** | Hardware Lab Technician | San Jose, Califor... | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4674410005) |
 | 🏢 **Arc Institute** | Research Associate I, Arce Lab | Palo Alto, CA | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5823236004) |
-| 🏢 **Olsson** | Construction Materials Testing - Lab Technician | La Vista, NE | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5179372008) |
+| 🏢 **Olsson** | Construction Materials Testing - Lab Technician | Oklahoma City, OK | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5168759008) |
 | 🏢 **Olsson** | Construction Materials Testing - Lab Technician | Olathe, KS | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5131482008) |
 | 🏢 **Figure AI** | Lab Technician | San Jose, CA | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4647901006) |
 | 🏢 **IDEXX** | Medical Laboratory Technician | Red Bank, NJ | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Red-Bank-NJ/Medical-Laboratory-Technician_J-052375) |
@@ -164,7 +164,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **AbbVie** | Associate Scientist I - II, Biologics Drug Product Development | Irvine, CA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013045996) |
 | 🏢 **Merck & Co.** | Scientist, Analytical R&D  Microbiologist (Onsite) | New Jersey | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Scientist--Analytical-R-D--Microbiologist--Onsite-_R395744-1) |
 | 🏢 **Merck & Co.** | Associate Scientist, Preclinical Dev. | New Jersey | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Scientist--Preclinical-Dev_R395851-1) |
-| 🏢 **Thermo Fisher Scientific** | FSP - Assoc Scientist - Sample Management | South San Francis... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/South-San-Francisco-California-USA/FSP---Assoc-Scientist---Sample-Management_R-01352731) |
+| 🏢 **Thermo Fisher Scientific** | Associate Scientist – ELISA | Rockville, Maryla... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01352360) |
 | 🏢 **AbbVie** | Scientist I, Biologics Drug Product Development | Irvine, CA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013026351) |
 | 🏢 **Intel** | Analytical Chemistry Lab Technician | US, Oregon, Hills... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Analytical-Chemistry-Lab-Technician_JR0283204) |
 | 🏢 **Exact Sciences** | Clinical Laboratory Scientist I - Saturday -Monday 6:00pm-6:30am | Madison, WI | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Clinical-Laboratory-Scientist-I---Saturday--Monday-6-00pm-6-30am_R26-12550-1) |
@@ -187,9 +187,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Philips** | Sales Support, Clinical Specialist VeriSight ICE (Intracardiac Echo) - Chicago IL | Chicago, Illinois... | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chicago-Illinois-United-States/Sales-Support--Clinical-Specialist-VeriSight-ICE--Intracardiac-Echo----Chicago-IL_579888) |
-| 🏢 **Takeda** | Medical Screener | TN | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Cordova/Medical-Screener_R0179966) |
-| 🏢 **Takeda** | Medical Screener/Phlebotomist | WA | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WA---Tukwila/Medical-Screener-Phlebotomist---Paid-Training-_R0175738-1) |
-| 🏢 **Takeda** | Medical Screener | NC | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Greensboro/Part-Time-Medical-Screener---Immediate-Benefits---Open-Availability-Required_R0175470-1) |
+| 🏢 **Takeda** | Medical Screener | DE | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---DE---Newark/Medical-Screener_R0179991-1) |
+| 🏢 **Takeda** | Medical Screener | IL | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Bolingbrook/Medical-Screener---Paid-Training_R0176264-1) |
+| 🏢 **Takeda** | Medical Screener/Phlebotomist | CO | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Medical-Screener-Phlebotomist---Paid-Training-_R0176144-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Jackson, MS) | Jackson, Mississi... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Jackson-Mississippi-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Therapy-Devices--Jackson--MS-_582740-1) |
 | 🏢 **Medtronic** | Clinical Specialist Cardiac Rhythm Management - Cookeville, TN | Nashville, Tennes... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nashville-Tennessee-United-States-of-America/Clinical-Specialist-Cardiac-Rhythm-Management---Cookeville--TN_R66458-1) |
 | 🏢 **Exact Sciences** | Regional Oncology Specialist - West Virginia | WV Charleston + 3... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WV---Charleston/Regional-Oncology-Specialist---West-Virginia_R26-12494) |
@@ -258,19 +258,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Ro** | Ro Pharmacy Interview Day! Friday, May 8th | Boynton Beach, FL | 26m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/d2cad67b-9a86-46ed-940e-77b57ac1229f/apply) |
-| 🏢 **Walmart** | (USA) Certified Pharmacy Technician, Central Fill, Health And Wellness Central Operations - Health And Wellness | Plainfield, IN | 41m | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Plainfield-IN/XMLNAME--USA--Certified-Pharmacy-Technician--Central-Fill--Health-And-Wellness-Central-Operations---Health-And-Wellness_R-2506722) |
-| 🏢 **Walmart** | Pharmacy Tech Certified Sam's - Part Time | Oxford, AL | 41m | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Oxford-AL/Pharmacy-Tech-Certified-Sam-s---Part-Time_R-2506504) |
+| 🏢 **Ro** | Ro Pharmacy Interview Day! Friday, May 8th | Boynton Beach, FL | 42m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/d2cad67b-9a86-46ed-940e-77b57ac1229f/apply) |
+| 🏢 **Walmart** | (USA) Certified Pharmacy Technician, Central Fill, Health And Wellness Central Operations - Health And Wellness | Plainfield, IN | 56m | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Plainfield-IN/XMLNAME--USA--Certified-Pharmacy-Technician--Central-Fill--Health-And-Wellness-Central-Operations---Health-And-Wellness_R-2506722) |
+| 🏢 **Walmart** | Pharmacy Tech Certified Sam's - Part Time | Oxford, AL | 56m | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Oxford-AL/Pharmacy-Tech-Certified-Sam-s---Part-Time_R-2506504) |
 | 🏢 **Takeda** | EMT-P – Plasma Center | PA | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/EMT-P---Plasma-Center_R0180009-1) |
-| 🏢 **Takeda** | On Site Paramedic | TX | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/On-Site-Paramedic_R0180006-1) |
 | 🏢 **Takeda** | Entry Level Phlebotomist | MD | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Towson/Entry-Level-Phlebotomist_R0180003-1) |
-| 🏢 **Walmart** | Pharmacy Tech Sam's, PT | (USA) TX WICHITA ... | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-WICHITA-FALLS-08224-SAMS-CLUB/Pharmacy-Tech-Sam-s--PT_R-2507015) |
-| 🏢 **Thermo Fisher Scientific** | Research Lab Tech | Austin, Texas, USA | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Research-Lab-Tech_R-01349757) |
+| 🏢 **Takeda** | On Site Paramedic | TX | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/On-Site-Paramedic_R0180006-1) |
+| 🏢 **Walmart** | Pharmacy Tech Sam's, PT | (USA) TX WICHITA ... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-WICHITA-FALLS-08224-SAMS-CLUB/Pharmacy-Tech-Sam-s--PT_R-2507015) |
+| 🏢 **Thermo Fisher Scientific** | Research Lab Tech | Austin, Texas, USA | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Research-Lab-Tech_R-01349757) |
 | 🏢 **Thermo Fisher Scientific** | Manager, PPI Business System (Lebanon, TN) | Lebanon Tennessee... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lebanon-Tennessee-USA/Manager--PPI-Business-System_R-01340070-1) |
 | 🏢 **Philips** | Clinical Application Specialist - Radiology Informatics & Enterprise Imaging | Home Based, Unite... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Clinical-Application-Specialist---Radiology-Informatics---Enterprise-Imaging_582571) |
-| 🏢 **Johnson & Johnson** | Associate Clinical Consultant/Clinical Consultant - (Baltimore, MD) - Johnson & Johnson MedTech – Heart Recovery | Baltimore, Maryla... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Baltimore-Maryland-United-States/Associate-Clinical-Consultant-Clinical-Consultant----Baltimore--MD----Johnson---Johnson-MedTech---Heart-Recovery_R-071434-1) |
 | 🏢 **Johnson & Johnson** | Pharmacy Technician Ops Supervisor | Pittsburgh, Penns... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Pittsburgh-Pennsylvania-United-States-of-America/Pharmacy-Technician-Ops-Supervisor_R-075631-1) |
 | 🏢 **Johnson & Johnson** | Clinical Pharmacist | Pittsburgh, Penns... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Pittsburgh-Pennsylvania-United-States-of-America/Clinical-Pharmacist_R-074670-2) |
+| 🏢 **Johnson & Johnson** | Associate Clinical Consultant/Clinical Consultant - (Baltimore, MD) - Johnson & Johnson MedTech – Heart Recovery | Baltimore, Maryla... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Baltimore-Maryland-United-States/Associate-Clinical-Consultant-Clinical-Consultant----Baltimore--MD----Johnson---Johnson-MedTech---Heart-Recovery_R-071434-1) |
 | 🏢 **Guidehouse** | Patient Account Representative I | AL, Birmingham | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Representative-I_37276) |
 | 🏢 **Guidehouse** | Supervisor - Patient Accounts | AL, Birmingham | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Supervisor---Patient-Accounts_37274) |
 | 🏢 **IDEXX** | Veterinary Software Trainer | Virtual Texas | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-Texas/Veterinary-Software-Trainer_J-052190) |
@@ -316,9 +316,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Merck & Co.** | Animal Technician - Level 2 | Pennsylvania | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Animal-Technician---Level-2_R384637-2) |
 | 🏢 **Merck & Co.** | Techical Project Manager | San Jose | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Techical-Project-Manager_R393155) |
 | 🏢 **Thermo Fisher Scientific** | Research Assistant | Phoenix, Arizona,... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Phoenix-Arizona-USA/Research-Assistant_R-01351280) |
-| 🏢 **Medtronic** | Area Sales Manager, ENT - Santa Rosa/San Rafael/Napa, CA (North CA) | 2 Locations | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Santa-Rosa-California-United-States-of-America/Area-Sales-Manager--ENT---Santa-Rosa-San-Rafael-Napa--CA--North-CA-_R66544-1) |
 | 🏢 **Medtronic** | Area Sales Manager I, ENT - Philadelphia | Philadelphia, Pen... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Area-Sales-Manager-I--ENT---Philadelphia_R66530-1) |
 | 🏢 **Medtronic** | Area Sales Manager, ENT - Minneapolis, MN | Minneapolis, Minn... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Area-Sales-Manager--ENT---Minneapolis--MN_R66517-1) |
+| 🏢 **Medtronic** | Area Sales Manager, ENT - Southeast Charleston, SC | Charleston, South... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charleston-South-Carolina-United-States-of-America/Area-Sales-Manager--ENT---Southeast-Charleston--SC_R66532) |
 | 🏢 **AbbVie** | Manager, Aesthetics Clinical Development | Irvine, CA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013032819) |
 | 🏢 **Wellmark, Inc.** | Provider Network Strategy & Contracting Consultant | Des Moines, IA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125212479) |
 | 🏢 **IDEXX** | Histology Technician – 1st Shift | West Sacramento, CA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/Histology-Technician---1st-Shift_J-051512) |
@@ -391,7 +391,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 559 current opportunities from 53 companies**
+**🎯 560 current opportunities from 53 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
