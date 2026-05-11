@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-332-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-34-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-340-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-36-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -231,6 +231,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 🏢 **Truveta** | Partner Research & Success Manager | Seattle, WA | 12m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5777538004) |
+| 🏢 **Oscar Health** | Manager, Strategic Value & Investment Analysis | New York, New Yor... | 12m | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7648597?gh_jid=7648597) |
+| 🏢 **Oscar Health** | Manager, Strategic Value & Investment Analysis | New York, NY | 12m | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7778427?gh_jid=7778427) |
+| 🏢 **Oscar Health** | Manager, Strategic Value & Investment Analysis | Tempe, Arizona, U... | 12m | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7648599?gh_jid=7648599) |
+| 🏢 **Formlabs** | Marketing Manager, Dental | Somerville, MA | 13m | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7701319/apply/?gh_jid=7701319) |
 | 🏢 **Ro** | Virtual Physician (1099 Contractor) | New York, NY or R... | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/f8207a30-991c-43b4-a356-409357323ebf/apply) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, Gilbert Lab | Palo Alto, CA | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5654593004) |
 | 🏢 **Walmart** | Full-Time Pharmacy Tech Certified Sam's | (USA) MD ANNAPOLI... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MD-ANNAPOLIS-06357-SAMS-CLUB/Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2504959) |
@@ -247,7 +252,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cigna** | Pharmacy Technician Representative - Accredo | Kent, WA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Kent-WA/Pharmacy-Technician-Representative---Accredo_26001976) |
 | 🏢 **Abbott** | Clinical Associate | Michigan | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Detroit/Clinical-Associate_31149967) |
 | 🏢 **Abbott** | Clinical Associate | 2 Locations | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Pennsylvania---Reading/Clinical-Associate_31149726-2) |
-| 🏢 **Oscar Health** | Physician Reviewer - Utilization Management | Remote (New York) | 2d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7909087?gh_jid=7909087) |
 | 🏢 **Wellmark, Inc.** | Associate Product Owner - Network Performance (Open to hiring at the Product Owner level) | Des Moines, IA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125376109) |
 | 🏢 **Johnson & Johnson** | Executive Oncology Area Business Specialist (Denver, CO) - Johnson & Johnson Innovative Medicine | Denver, Colorado,... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Denver-Colorado-United-States/Executive-Oncology-Area-Business-Specialist--Denver--CO----Johnson---Johnson-Innovative-Medicine_R-070276-1) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Consultant (Oklahoma City Metro) - Johnson & Johnson MedTech, Heart Recovery | Oklahoma City, Ok... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Oklahoma-City-Oklahoma-United-States/Associate-Clinical-Consultant--Oklahoma-City-Metro----Johnson---Johnson-MedTech--Heart-Recovery_R-073563-1) |
@@ -333,7 +337,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 332 current opportunities from 34 companies**
+**🎯 340 current opportunities from 36 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
