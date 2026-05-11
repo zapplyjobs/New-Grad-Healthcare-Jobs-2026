@@ -270,8 +270,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Chan Zuckerberg Biohub** | Computational Biologist, Immune Perturbation | Chicago, IL (Onsite) | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7286341) |
 | 🏢 **Affirm** | Strategic Partnerships Manager | Remote US | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7647628003) |
 | 🏢 **Affirm** | Capital Markets Manager | Remote US | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7543849003) |
-| 🏢 **Truveta** | Partner Research & Success Manager | Seattle, WA | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5777538004) |
-| 🏢 **Formlabs** | Marketing Manager, Dental | Somerville, MA | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7701319/apply/?gh_jid=7701319) |
+| 🏢 **Truveta** | Partner Research & Success Manager | Seattle, WA | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5777538004) |
+| 🏢 **Formlabs** | Marketing Manager, Dental | Somerville, MA | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7701319/apply/?gh_jid=7701319) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, Gilbert Lab | Palo Alto, CA | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5654593004) |
 | 🏢 **Walmart** | Full-Time Pharmacy Tech Certified Sam's | (USA) MD ANNAPOLI... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MD-ANNAPOLIS-06357-SAMS-CLUB/Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2504959) |
 | 🏢 **Abbott** | Clinical Associate | Florida | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tallahassee/Clinical-Associate_31131455-1) |
