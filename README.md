@@ -244,7 +244,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Oscar Health** | Physician - Virtual Health Assessment (Bilingual - Spanish) | Remote (Georgia) | 9m | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7490795?gh_jid=7490795) |
+| 🏢 **Oscar Health** | Physician - Virtual Health Assessment (Bilingual - Spanish) | Remote (Georgia) | 24m | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7490795?gh_jid=7490795) |
 | 🏢 **Wellmark, Inc.** | Provider Engagement Consultant | Des Moines, IA | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125844990) |
 | 🏢 **Hinge Health** | Health Economist | San Francisco- | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/2c5c58a9-5176-4ca7-b6bc-a832a375ea2f/application) |
 | 🏢 **Dandy** | Dental Field Trainer - Nashville | Remote | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/dandy/b3e9f989-e008-4da0-ab95-d1d929dadf52/application) |
