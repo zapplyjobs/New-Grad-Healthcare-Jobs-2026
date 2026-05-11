@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-370-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-369-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-49-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -139,7 +139,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Olsson** | Construction Materials Testing Lab Technician | Grand Island, NE | 12h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5155431008) |
 | 🏢 **Astera Labs** | Hardware Lab Technician | San Jose, Califor... | 12h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4674410005) |
 | 🏢 **Arc Institute** | Research Associate I, Arce Lab | Palo Alto, CA | 12h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5823236004) |
-| 🏢 **Olsson** | Construction Materials Testing - Lab Technician | Olathe, KS | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5131482008) |
+| 🏢 **Olsson** | Construction Materials Testing - Lab Technician | La Vista, NE | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5179372008) |
 | 🏢 **Olsson** | Construction Materials Testing - Lab Technician | Oklahoma City, OK | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5168759008) |
 | 🏢 **Figure AI** | Lab Technician | San Jose, CA | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4647901006) |
 | 🏢 **IDEXX** | Medical Laboratory Technician | Red Bank, NJ | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Red-Bank-NJ/Medical-Laboratory-Technician_J-052375) |
@@ -367,7 +367,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 370 current opportunities from 49 companies**
+**🎯 369 current opportunities from 49 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
