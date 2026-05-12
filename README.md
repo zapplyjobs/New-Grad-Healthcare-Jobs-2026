@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-464-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-462-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-57-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -71,7 +71,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cigna** | Nurse Case Management Manager - Evernorth  Health Services - Remote | United States Wor... | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Nurse-Case-Management-Manager---Evernorth--Health-Services---Remote_26003174) |
 | 🏢 **Takeda** | Registered Nurse (RN) – BSN Required | MD | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Salisbury/Registered-Nurse--RN----BSN-Required_R0180013-1) |
 | 🏢 **Takeda** | Registered Nurse | PA | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/Registered-Nurse_R0180010-1) |
-| 🏢 **Takeda** | Registered Nurse RN | TX | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Registered-Nurse-RN_R0180005-1) |
+| 🏢 **Takeda** | Registered Nurse RN | TX | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Registered-Nurse-RN_R0180005-1) |
 | 🏢 **Merck & Co.** | Specialist, Global Employee Health- Registered Nurse (Wilson, NC) | North Carolina | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---North-Carolina---Wilson/Specialist--Global-Employee-Health--Registered-Nurse--Wilson--NC-_R397315) |
 | 🏢 **Johnson & Johnson** | Field Clinical Specialist - Shockwave Medical (Northern Virginia) | 4 Locations | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Fairfax-Virginia-United-States/Field-Clinical-Specialist---Shockwave-Medical--Northern-Virginia-_R-068431-1) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bristol, VA; Charlottesville, VA | Virginia | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623) |
@@ -94,7 +94,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Oscar Health** | Bilingual NP/PA - Virtual Urgent Care (Part-time) | Remote (Texas) | 1h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7647459?gh_jid=7647459) |
 | 🏢 **Intuitive** | Manager, NPI Sourcing - Instrument and Accessories | Sunnyvale, CA | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126116615) |
-| 🏢 **Intuitive** | Manager, NPI Procurement - Systems | Sunnyvale, CA | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126104139) |
+| 🏢 **Intuitive** | Manager, NPI Procurement - Systems | Sunnyvale, CA | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126104139) |
 | 🏢 **Guidehouse** | Research Advanced Practice Provider (PA or NP) | MD, Bethesda | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Research-Advanced-Practice-Provider--PA-or-NP-_39226) |
 | 🏢 **Ro** | Virtual Nurse Practitioner (1099 Contractor) | New York, NY or R... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/4effc32e-b652-495c-817a-64bb19b72d6f/apply) |
 | 🏢 **Guidehouse** | Nurse Practitioner | MD, Baltimore | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Nurse-Practitioner_39216) |
@@ -109,8 +109,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Licensed Vocational Nurse LVN | TX | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Licensed-Vocational-Nurse-LVN_R0180007-1) |
-| 🏢 **Takeda** | Licensed Practical Nurse | PA | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/Licensed-Practical-Nurse_R0180008-1) |
+| 🏢 **Takeda** | Licensed Vocational Nurse LVN | TX | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Licensed-Vocational-Nurse-LVN_R0180007-1) |
+| 🏢 **Takeda** | Licensed Practical Nurse | PA | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/Licensed-Practical-Nurse_R0180008-1) |
 | 🏢 **Takeda** | Licensed Practical Nurse | IL | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Licensed-Practical-Nurse---Day-One-Benefits_R0176347-1) |
 
 <p align="center">Apply for more jobs at</p>
@@ -258,8 +258,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Arc Institute** | Postdoctoral Researcher, Biological Design, Hsu Lab | Palo Alto, CA | 16m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
-| 🏢 **Arc Institute** | Postdoctoral Researcher, ML for Biology, Hsu Lab | Palo Alto, CA | 20m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
+| 🏢 **Arc Institute** | Postdoctoral Researcher, Biological Design, Hsu Lab | Palo Alto, CA | 31m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
+| 🏢 **Arc Institute** | Postdoctoral Researcher, ML for Biology, Hsu Lab | Palo Alto, CA | 36m | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
 | 🏢 **AbbVie** | Oncology Account Executive - Peoria, IL | Peoria, IL | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013092816) |
 | 🏢 **Ro** | Fulfillment Pharmacy Technician - Torrance, CA | Los Angeles, CA | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/87940f65-c0de-41f7-bd7c-ab2d6aaaba23/apply) |
 | 🏢 **Wellmark, Inc.** | Provider Network Strategy & Contracting Consultant | Des Moines, IA | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126109660) |
@@ -270,17 +270,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **University of Texas at Austin** | Postdoctoral Fellow | Austin, TX | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow---DD_R_00039400) |
 | 🏢 **PennState University** | Postdoctoral Scholar | State College, PA | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1) |
 | 🏢 **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
-| 🏢 **Pennsylvania State University** | Postdoctoral Scholar - Postdoctoral Scholar - LIGO | State College, PA | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1) |
-| 🏢 **Pennsylvania State University** | Postdoctoral Scholar | State College, PA | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000076040-1) |
+| 🏢 **Pennsylvania State University** | Postdoctoral Scholar - Postdoctoral Scholar - LIGO | State College, PA | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1) |
+| 🏢 **Pennsylvania State University** | Postdoctoral Scholar | State College, PA | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000076040-1) |
 | 🏢 **Oracle** | Physician Informatics Executive | United States | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329894) |
 | 🏢 **IDEXX** | Clinical Pathology Manager | Virtual United St... | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Clinical-Pathology-Manager_J-052991) |
 | 🏢 **Ro** | Ro Pharmacy Interview Day! Friday, May 8th | Boynton Beach, FL | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/d2cad67b-9a86-46ed-940e-77b57ac1229f/apply) |
-| 🏢 **Walmart** | (USA) Optician Single License | Little Rock, AR | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Little-Rock-AR/XMLNAME--USA--Optician-Single-License_R-2506469) |
-| 🏢 **Walmart** | (USA) Certified Pharmacy Technician, Central Fill, Health And Wellness Central Operations - Health And Wellness | Plainfield, IN | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Plainfield-IN/XMLNAME--USA--Certified-Pharmacy-Technician--Central-Fill--Health-And-Wellness-Central-Operations---Health-And-Wellness_R-2506722) |
-| 🏢 **Walmart** | Pharmacy Manager | (USA) OK SAPULPA ... | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OK-SAPULPA-00073-WM-SUPERCENTER/Pharmacy-Manager_R-2506340) |
+| 🏢 **Walmart** | (USA) Optician Single License | Little Rock, AR | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Little-Rock-AR/XMLNAME--USA--Optician-Single-License_R-2506469) |
+| 🏢 **Walmart** | (USA) Certified Pharmacy Technician, Central Fill, Health And Wellness Central Operations - Health And Wellness | Plainfield, IN | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Plainfield-IN/XMLNAME--USA--Certified-Pharmacy-Technician--Central-Fill--Health-And-Wellness-Central-Operations---Health-And-Wellness_R-2506722) |
+| 🏢 **Walmart** | Pharmacy Manager | (USA) OK SAPULPA ... | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OK-SAPULPA-00073-WM-SUPERCENTER/Pharmacy-Manager_R-2506340) |
 | 🏢 **Takeda** | EMT-P – Plasma Center | PA | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/EMT-P---Plasma-Center_R0180009-1) |
-| 🏢 **Takeda** | On Site Paramedic | TX | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/On-Site-Paramedic_R0180006-1) |
-| 🏢 **Takeda** | Entry Level Phlebotomist | MD | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Towson/Entry-Level-Phlebotomist_R0180003-1) |
+| 🏢 **Takeda** | On Site Paramedic | TX | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/On-Site-Paramedic_R0180006-1) |
+| 🏢 **Takeda** | Entry Level Phlebotomist | MD | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Towson/Entry-Level-Phlebotomist_R0180003-1) |
 | 🏢 **Philips** | Clinical Application Specialist - Radiology Informatics & Enterprise Imaging | Home Based, Unite... | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Clinical-Application-Specialist---Radiology-Informatics---Enterprise-Imaging_582571) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Consultant/Clinical Consultant - (Baltimore, MD) - Johnson & Johnson MedTech – Heart Recovery | Baltimore, Maryla... | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Baltimore-Maryland-United-States/Associate-Clinical-Consultant-Clinical-Consultant----Baltimore--MD----Johnson---Johnson-MedTech---Heart-Recovery_R-071434-1) |
 | 🏢 **Johnson & Johnson** | Pharmacy Technician Ops Supervisor | Pittsburgh, Penns... | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Pittsburgh-Pennsylvania-United-States-of-America/Pharmacy-Technician-Ops-Supervisor_R-075631-1) |
@@ -302,8 +302,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Personalis** | Client Experience Associate (Temp - 6 Months) | Fremont, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/6680748003) |
 | 🏢 **Personalis** | Client Experience Specialist | Fremont, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7652731003) |
 | 🏢 **Personalis** | Clinical Lab Associate 1 | Fremont, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645093003) |
-| 🏢 **Oscar Health** | Bilingual (Spanish) Physician Assistant - Virtual Health Assessment (1099) | Remote (Georgia) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7543645?gh_jid=7543645) |
 | 🏢 **Oscar Health** | Physician Assistant (Bilingual - Spanish) - Virtual Urgent Care | Remote (Texas) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7647439?gh_jid=7647439) |
+| 🏢 **Oscar Health** | Physician Assistant - Virtual Health Assessment (1099) | Remote (Georgia) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7723943?gh_jid=7723943) |
 | 🏢 **Ro** | Fulfillment Pharmacy Technician - Boynton Beach, FL | Boynton Beach, FL | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/b77adac9-786e-4233-9f06-ea85d9ce7eba/apply) |
 | 🏢 **Included Health** | Psychiatrist | Florida | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply) |
 | 🏢 **Neuralink** | Field Clinical Engineer | Fremont, Californ... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7684347003?gh_jid=7684347003) |
@@ -395,7 +395,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 464 current opportunities from 57 companies**
+**🎯 462 current opportunities from 57 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
