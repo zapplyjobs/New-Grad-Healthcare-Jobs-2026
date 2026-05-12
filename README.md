@@ -135,7 +135,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Chan Zuckerberg Biohub** | Research Associate, NGS Assay Development, Virtual Immune System | Chicago, IL (Onsite) | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7835072) |
+| 🏢 **Chan Zuckerberg Biohub** | Research Associate, NGS Assay Development, Virtual Immune System | Chicago, IL (Onsite) | 6h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7835072) |
 | 🏢 **PennState University** | Research Associate | State College, PA | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Associate-w--Dr-Dodge_REQ_0000067912-1) |
 | 🏢 **Nokia** | Photonics Lab Technician | United States | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
 | 🏢 **IDEXX** | Genetics Laboratory Technician | Columbia, MO | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Genetics-Laboratory-Technician_J-053105-1) |
@@ -183,7 +183,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Abbott** | Clinical Specialist, Vessel Closure - Denver, CO | Colorado | 12h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Denver/Clinical-Specialist--Vessel-Closure---Denver--CO_31149992-1) |
+| 🏢 **Abbott** | Clinical Specialist, Vessel Closure - Denver, CO | Colorado | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Denver/Clinical-Specialist--Vessel-Closure---Denver--CO_31149992-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist VeriSight ICE (Intracardiac Echo) - Chicago IL | Chicago, Illinois... | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chicago-Illinois-United-States/Sales-Support--Clinical-Specialist-VeriSight-ICE--Intracardiac-Echo----Chicago-IL_579888) |
 | 🏢 **Takeda** | Medical Screener | IL | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Bolingbrook/Medical-Screener---Paid-Training_R0176264-1) |
 | 🏢 **Takeda** | Medical Screener/Phlebotomist | CO | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Medical-Screener-Phlebotomist---Paid-Training-_R0176144-1) |
@@ -281,8 +281,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Personalis** | Clinical Lab Associate 1 | Fremont, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645093003) |
 | 🏢 **Oscar Health** | Bilingual (Spanish) Physician Assistant - Virtual Health Assessment (1099) | Remote (Georgia) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7543645?gh_jid=7543645) |
 | 🏢 **Oscar Health** | Physician Assistant (Bilingual - Spanish) - Virtual Urgent Care | Remote (Texas) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7647439?gh_jid=7647439) |
-| 🏢 **Ro** | Part-Time, Virtual Physician | New York, NY or R... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply) |
 | 🏢 **Ro** | Fulfillment Pharmacy Technician - Boynton Beach, FL | Boynton Beach, FL | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/b77adac9-786e-4233-9f06-ea85d9ce7eba/apply) |
+| 🏢 **Ro** | Fulfillment Pharmacy Technician - Boynton Beach, FL (Temp) | Boynton Beach, FL | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/eca13175-3838-4a88-a138-d44231ca6fef/apply) |
 | 🏢 **Included Health** | Psychiatrist | Florida | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply) |
 | 🏢 **Neuralink** | Field Clinical Engineer | Fremont, Californ... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7684347003?gh_jid=7684347003) |
 | 🏢 **Candid Health** | Medical Biller | Remote (USA) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/6c2029b2-ea83-4cdd-95e7-a5e3c45234ac/application) |
@@ -313,7 +313,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Globus Medical** | Associate Interventional Specialist (Kansas City, MO) | Missouri | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Missouri/Associate-Interventional-Specialist--Kansas-City--MO-_JR106678) |
 | 🏢 **Caterpillar** | Nurse (Weekend, 1st Shift) | Mapleton, Illinois | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mapleton-Illinois/Nurse--Weekend--1st-Shift-_R0000368517) |
 | 🏢 **Veolia Environnement SA** | Laboratory Supervisor | Port Arthur, TX | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124986069) |
-| 🏢 **AbbVie** | Future Opportunities – Join Our Talent Pipeline for North Carolina | Durham, NC | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012994591) |
+| 🏢 **AbbVie** | Future Opportunities – Join Our Talent Pipeline for North Carolina | Durham, NC | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012994591) |
 | 🏢 **KBR** | Special Operations Case Manager / Nurse Case Manager (Hampton Roads,VA) | Hampton, Virginia | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hampton-Virginia/Special-Operations-Case-Manager---Nurse-Case-Manager--Hampton-Roads-VA-_R2123239) |
 | 🏢 **Intuitive** | Physician – Corporate Strategy | Sunnyvale, CA | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000124758819) |
 
