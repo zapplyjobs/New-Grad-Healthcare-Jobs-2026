@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-561-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-560-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-56-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -68,9 +68,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Nurse - LPN | IN | 52m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Nurse---LPN_R0180195) |
+| 🏢 **Takeda** | Plasma Center Nurse - LPN | IN | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Nurse---LPN_R0180195) |
 | 🏢 **Takeda** | Plasma Center Nurse - RN | IN | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Nurse---RN_R0180192) |
-| 🏢 **Takeda** | Plasma Center Nurse - RN | MI | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Warren/Plasma-Center-Nurse---RN_R0180185-1) |
+| 🏢 **Takeda** | Plasma Center Nurse - RN | MI | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Warren/Plasma-Center-Nurse---RN_R0180185-1) |
 | 🏢 **Cigna** | Sales Effectiveness & Insights Advisor - Evernorth Health Services (Remote) | United States Wor... | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Sales-Effectiveness---Insights-Advisor---Evernorth-Health-Services--Remote-_26004575) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bristol, VA; Charlottesville, VA | Virginia | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623) |
 | 🏢 **Merck & Co.** | Specialist, Global Employee Health- Registered Nurse (Wilson, NC) | North Carolina | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---North-Carolina---Wilson/Specialist--Global-Employee-Health--Registered-Nurse--Wilson--NC-_R397315) |
@@ -92,8 +92,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Oscar Health** | NP/PA - Virtual Health Assessment (Bilingual - Spanish) | Remote (Texas) | 40m | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7490793?gh_jid=7490793) |
-| 🏢 **Oscar Health** | Nurse Practitioner - Virtual Health Assessment | Remote (Texas) | 40m | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7843225?gh_jid=7843225) |
+| 🏢 **Oscar Health** | NP/PA - Virtual Health Assessment (Bilingual - Spanish) | Remote (Texas) | 55m | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7490793?gh_jid=7490793) |
+| 🏢 **Oscar Health** | Nurse Practitioner - Virtual Health Assessment | Remote (Texas) | 55m | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7843225?gh_jid=7843225) |
 | 🏢 **Cigna** | Part Time Nurse Practitioner- Kissimmee, FL | City of Kissimmee | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---City-of-Kissimmee---100-North-Alaska-Ave---Kissimmee-FL/Part-Time-Nurse-Practitioner--Kissimmee--FL_26005876) |
 | 🏢 **Oscar Health** | Bilingual NP/PA - Virtual Urgent Care (Part-time) | Remote (Texas) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7647459?gh_jid=7647459) |
 | 🏢 **Intuitive** | Manager, NPI Sourcing - Instrument and Accessories | Sunnyvale, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126116615) |
@@ -112,7 +112,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Takeda** | Licensed Practical Nurse / EMT-Paramedic | IA | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/Licensed-Practical-Nurse---EMT-Paramedic_R0180162-1) |
-| 🏢 **Takeda** | LPN / EMT-P | IA | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/LPN---EMT-P_R0180159-1) |
+| 🏢 **Takeda** | LPN / EMT-P | IA | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---Davenport/LPN---EMT-P_R0180159-1) |
 | 🏢 **Takeda** | Licensed Practical Nurse | GA | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Kennesaw/Licensed-Practical-Nurse---Sign-On-Bonus-Eligible_R0177726-1) |
 
 <p align="center">Apply for more jobs at</p>
@@ -149,7 +149,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **iRhythm** | Cardiac Technician Deerfield, IL | Deerfield, IL | 38m | [<img src="images/apply.png" width="120" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Deerfield-IL/Cardiac-Technician_JR994) |
+| 🏢 **iRhythm** | Cardiac Technician Deerfield, IL | Deerfield, IL | 52m | [<img src="images/apply.png" width="120" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Deerfield-IL/Cardiac-Technician_JR994) |
 | 🏢 **Leidos** | Laboratory Technician | Wharton, NJ | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Wharton-NJ/Laboratory-Technician_R-00183225) |
 | 🏢 **AbbVie** | Scientist I - Early Analytical Development, Synthetic Molecules | North Chicago, IL | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013114496) |
 | 🏢 **Takeda** | QC Analytical Scientist I | CA | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Thousand-Oaks---Rancho-Conejo/QC-Analytical-Scientist-I_R0179802) |
@@ -158,9 +158,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **IDEXX** | Veterinary Lab Technician | Brookfield, WI | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Brookfield-WI/Veterinary-Lab-Technician_J-052873) |
 | 🏢 **Exact Sciences** | Histotechnologist I | Phoenix, AZ | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histotechnologist-I_R26-12760) |
 | 🏢 **Boeing** | Experienced Test & Evaluation Lab Technician  (Metrology & Calibration) | Berkeley, MO | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Test---Evaluation-Lab-Technician---Metrology---Calibration-_JR2026501709-1) |
-| 🏢 **SpaceX** | PCB Materials Lab Technician (Starlink) | Bastrop, TX | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8505212002?gh_jid=8505212002) |
+| 🏢 **SpaceX** | PCB Materials Lab Technician (Starlink) | Bastrop, TX | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8505212002?gh_jid=8505212002) |
 | 🏢 **Intrinsic Robotics** | Robotics and Automation Technician (Lab Technician) | Mountain View, Ca... | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5972972004?gh_jid=5972972004) |
-| 🏢 **Personalis** | Clinical Lab Scientist 1 (3rd Shift) | Fremont, CA | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645077003) |
+| 🏢 **Personalis** | Clinical Lab Scientist 1 (3rd Shift) | Fremont, CA | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645077003) |
 | 🏢 **Chan Zuckerberg Biohub** | Research Associate, NGS Assay Development, Virtual Immune System | Chicago, IL (Onsite) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7835072) |
 | 🏢 **PennState University** | Research Associate | State College, PA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Associate-w--Dr-Dodge_REQ_0000067912-1) |
 | 🏢 **Nokia** | Photonics Lab Technician | United States | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
@@ -204,7 +204,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Medtronic** | Vascular Clinical Specialist - Baltimore | Baltimore, Maryla... | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Baltimore-Maryland-United-States-of-America/Vascular-Clinical-Specialist---Baltimore_R66856-1) |
 | 🏢 **Takeda** | Medical Screener | NC | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Greensboro/Medical-Screener_R0180164) |
 | 🏢 **Moog** | Clinical Specialist | Salt Lake City, UT | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Clinical-Specialist_R-26-17397) |
-| 🏢 **Medtronic** | Cardiac Rhythm Management Associate Clinical Specialist- Atlanta, GA | Atlanta, Georgia,... | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Atlanta-Georgia-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist--Atlanta--GA_R66533-1) |
+| 🏢 **Medtronic** | Cardiac Rhythm Management Associate Clinical Specialist- Atlanta, GA | Atlanta, Georgia,... | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Atlanta-Georgia-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist--Atlanta--GA_R66533-1) |
 | 🏢 **Takeda** | Medical Screener | GA | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Kennesaw/Medical-Screener---Weekends-PM_R0177733-1) |
 | 🏢 **Takeda** | Medical Screener | TN | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Cordova/Medical-Screener_R0180107) |
 | 🏢 **Johnson & Johnson** | Associate Area Manager or Area Manager (Orlando, FL) - Johnson & Johnson MedTech, Heart Recovery | Orlando, Florida,... | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Orlando-Florida-United-States-of-America/Associate-Area-Manager-or-Area-Manager--Orlando--FL----Johnson---Johnson-MedTech--Heart-Recovery_R-071466-1) |
@@ -273,14 +273,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Entry Level Phlebotomist | OH | 35m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Findlay/Entry-Level-Phlebotomist_R0180196-1) |
-| 🏢 **Oscar Health** | Physician - Virtual Urgent Care | New York, New Yor... | 52m | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7908845?gh_jid=7908845) |
+| 🏢 **Takeda** | Entry Level Phlebotomist | OH | 50m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OH---Findlay/Entry-Level-Phlebotomist_R0180196-1) |
+| 🏢 **Oscar Health** | Physician - Virtual Urgent Care | New York, New Yor... | 1h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7908845?gh_jid=7908845) |
 | 🏢 **Takeda** | Plasma Center Paramedic – EMT-P | IN | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IN---Elkhart/Plasma-Center-Paramedic---EMT-P_R0180194-1) |
 | 🏢 **AbbVie** | Field Reimbursement Manager, Immunology Gastroenterology | Minneapolis, MN | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013116346) |
 | 🏢 **Johnson & Johnson** | Field Reimbursement Manager - Immunology Rheumatology - Fresno, CA | 5 Locations | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Fresno-California-United-States/Field-Reimbursement-Manager---Immunology-Rheumatology---Fresno--CA_R-075622-1) |
 | 🏢 **Takeda** | Plasma Center Paramedic - EMT-P | MI | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Warren/Plasma-Center-Paramedic---EMT-P_R0180181-1) |
 | 🏢 **Cigna** | Pharmacy Technician Representative - Express Scripts | St. Louis, MO | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Pharmacy-Technician-Representative---Express-Scripts_26002385) |
-| 🏢 **Dandy** | Dental Field Trainer - Chicago | Remote | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/dandy/3317f36a-57d4-4022-84d1-72287db9b0d6/application) |
+| 🏢 **Dandy** | Dental Field Trainer - Chicago | Remote | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/dandy/3317f36a-57d4-4022-84d1-72287db9b0d6/application) |
 | 🏢 **Johnson Controls** | Client Services Coordinator | Georgia | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Roswell-Georgia-United-States-of-America/Client-Services-Coordinator_WD30269167) |
 | 🏢 **Philips** | Clinical Application Specialist- MR (National-Travel) | Home Based, Unite... | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Clinical-Application-Specialist--MR--National-Travel-_582938-1) |
 | 🏢 **Oscar Health** | Market Manager | Illinois, United ... | 3h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7863373?gh_jid=7863373) |
@@ -297,10 +297,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Globus Medical** | Therapy Support Specialist | Collegeville | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Pennsylvania---Collegeville/Therapy-Support-Specialist_JR106165) |
 | 🏢 **Globus Medical** | Associate Interventional Specialist - Austin, TX | Texas | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Texas/Associate-Interventional-Specialist---Austin--TX_JR106661) |
 | 🏢 **Cigna** | Home Infusion Nurse, 32 hours - Accredo - Ocala, FL | Daytona, FL + 2 more | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Daytona-FL/Home-Infusion-Nurse--32-hours---Accredo---Ocala--FL_26005349) |
-| 🏢 **Truveta** | ML Postdoc Researcher - Healthcare AI Innovation | Seattle, WA | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5978375004) |
-| 🏢 **Oscar Health** | Associate, UM Regulatory Operations | Tempe, AZ | 16h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7839468?gh_jid=7839468) |
-| 🏢 **Arc Institute** | Postdoctoral Researcher, Biological Design, Hsu Lab | Palo Alto, CA | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
-| 🏢 **Arc Institute** | Postdoctoral Researcher, ML for Biology, Hsu Lab | Palo Alto, CA | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
+| 🏢 **Truveta** | ML Postdoc Researcher - Healthcare AI Innovation | Seattle, WA | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5978375004) |
+| 🏢 **Oscar Health** | Associate, UM Regulatory Operations | Tempe, AZ | 17h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7839468?gh_jid=7839468) |
+| 🏢 **Arc Institute** | Postdoctoral Researcher, Biological Design, Hsu Lab | Palo Alto, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
+| 🏢 **Arc Institute** | Postdoctoral Researcher, ML for Biology, Hsu Lab | Palo Alto, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
 | 🏢 **AbbVie** | Oncology Account Executive - Peoria, IL | Peoria, IL | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013092816) |
 | 🏢 **AbbVie** | Field Reimbursement Manager, Immunology Dermatology | Chicago, IL | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013092466) |
 | 🏢 **Ro** | Fulfillment Pharmacy Technician - Torrance, CA | Los Angeles, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/87940f65-c0de-41f7-bd7c-ab2d6aaaba23/apply) |
@@ -418,7 +418,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 561 current opportunities from 56 companies**
+**🎯 560 current opportunities from 56 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
