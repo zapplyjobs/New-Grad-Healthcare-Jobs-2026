@@ -142,9 +142,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **SpaceX** | PCB Materials Lab Technician (Starlink) | Bastrop, TX | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8505212002?gh_jid=8505212002) |
+| 🏢 **SpaceX** | PCB Materials Lab Technician (Starlink) | Bastrop, TX | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8505212002?gh_jid=8505212002) |
 | 🏢 **Intrinsic Robotics** | Robotics and Automation Technician (Lab Technician) | Mountain View, Ca... | 18h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5972972004?gh_jid=5972972004) |
-| 🏢 **Personalis** | Clinical Lab Scientist 1 (3rd Shift) | Fremont, CA | 18h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645077003) |
+| 🏢 **Personalis** | Clinical Lab Scientist 1 (3rd Shift) | Fremont, CA | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645077003) |
 | 🏢 **Chan Zuckerberg Biohub** | Research Associate, NGS Assay Development, Virtual Immune System | Chicago, IL (Onsite) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7835072) |
 | 🏢 **PennState University** | Research Associate | State College, PA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Associate-w--Dr-Dodge_REQ_0000067912-1) |
 | 🏢 **Nokia** | Photonics Lab Technician | United States | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
@@ -251,12 +251,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Truveta** | ML Postdoc Researcher - Healthcare AI Innovation | Seattle, WA | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5978375004) |
-| 🏢 **Oscar Health** | Associate, UM Regulatory Operations | Tempe, AZ | 14h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7839468?gh_jid=7839468) |
+| 🏢 **Truveta** | ML Postdoc Researcher - Healthcare AI Innovation | Seattle, WA | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5978375004) |
+| 🏢 **Oscar Health** | Associate, UM Regulatory Operations | Tempe, AZ | 15h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7839468?gh_jid=7839468) |
 | 🏢 **Oscar Health** | Utilization Review Nurse | Remote (Arizona) | 18h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7809286?gh_jid=7809286) |
 | 🏢 **Oscar Health** | Medical Assistant I - Part time (Bilingual - Spanish) | Remote (Texas) | 20h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7766439?gh_jid=7766439) |
-| 🏢 **Arc Institute** | Postdoctoral Researcher, Biological Design, Hsu Lab | Palo Alto, CA | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
-| 🏢 **Arc Institute** | Postdoctoral Researcher, ML for Biology, Hsu Lab | Palo Alto, CA | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
+| 🏢 **Arc Institute** | Postdoctoral Researcher, Biological Design, Hsu Lab | Palo Alto, CA | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
+| 🏢 **Arc Institute** | Postdoctoral Researcher, ML for Biology, Hsu Lab | Palo Alto, CA | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
 | 🏢 **AbbVie** | Oncology Account Executive - Peoria, IL | Peoria, IL | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013092816) |
 | 🏢 **AbbVie** | Field Reimbursement Manager, Immunology Dermatology | Chicago, IL | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013092466) |
 | 🏢 **Ro** | Fulfillment Pharmacy Technician - Torrance, CA | Los Angeles, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/87940f65-c0de-41f7-bd7c-ab2d6aaaba23/apply) |
@@ -290,7 +290,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cigna** | Pharmacy Technician (PACE) - Accredo - Remote, TN, IN, FL & PA | Nashville, TN + 6... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Nashville-TN/Pharmacy-Technician--PACE----Accredo---Remote--TN--IN--FL---PA_26005155) |
 | 🏢 **Abbott** | Clinical Associate | Massachusetts | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Boston/Clinical-Associate_31149730-1) |
 | 🏢 **Abbott** | Clinical Account Representative, CardioMEMS - Arizona | Arizona | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Tucson/Clinical-Account-Representative--CardioMEMS---Arizona_31149999-1) |
-| 🏢 **AbbVie** | Specialist, Lab Services | North Chicago, IL | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013069171) |
+| 🏢 **AbbVie** | Specialist, Lab Services | North Chicago, IL | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013069171) |
 | 🏢 **Hinge Health** | Health Economist | San Francisco- | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/2c5c58a9-5176-4ca7-b6bc-a832a375ea2f/application) |
 | 🏢 **Dandy** | Dental Field Trainer - Nashville | Remote | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/dandy/b3e9f989-e008-4da0-ab95-d1d929dadf52/application) |
 | 🏢 **Dandy** | Dental Field Trainer - West Coast | Remote | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/dandy/48dac57e-d572-4a6b-a91a-b471b26dd0fc/application) |
