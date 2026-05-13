@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-384-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-383-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-52-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -93,7 +93,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Oscar Health** | Bilingual NP/PA - Virtual Urgent Care (Part-time) | Remote (Texas) | 18h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7647459?gh_jid=7647459) |
-| 🏢 **Intuitive** | Manager, NPI Sourcing - Instrument and Accessories | Sunnyvale, CA | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126116615) |
+| 🏢 **Intuitive** | Manager, NPI Sourcing - Instrument and Accessories | Sunnyvale, CA | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126116615) |
 | 🏢 **Intuitive** | Manager, NPI Procurement - Systems | Sunnyvale, CA | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126104139) |
 | 🏢 **Guidehouse** | Research Advanced Practice Provider (PA or NP) | MD, Bethesda | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Research-Advanced-Practice-Provider--PA-or-NP-_39226) |
 | 🏢 **Ro** | Virtual Nurse Practitioner (1099 Contractor) | New York, NY or R... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/4effc32e-b652-495c-817a-64bb19b72d6f/apply) |
@@ -253,7 +253,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Truveta** | ML Postdoc Researcher - Healthcare AI Innovation | Seattle, WA | 10h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5978375004) |
 | 🏢 **Oscar Health** | Associate, UM Regulatory Operations | Tempe, AZ | 10h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7839468?gh_jid=7839468) |
-| 🏢 **Oscar Health** | Utilization Review Nurse | Remote (Arizona) | 13h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7809286?gh_jid=7809286) |
+| 🏢 **Oscar Health** | Utilization Review Nurse | Remote (Arizona) | 14h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7809286?gh_jid=7809286) |
 | 🏢 **Oscar Health** | Medical Assistant I - Part time (Bilingual - Spanish) | Remote (Texas) | 15h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7766439?gh_jid=7766439) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, Biological Design, Hsu Lab | Palo Alto, CA | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, ML for Biology, Hsu Lab | Palo Alto, CA | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
@@ -388,7 +388,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 384 current opportunities from 52 companies**
+**🎯 383 current opportunities from 52 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
