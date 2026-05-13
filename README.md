@@ -93,7 +93,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Oscar Health** | Bilingual NP/PA - Virtual Urgent Care (Part-time) | Remote (Texas) | 6h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7647459?gh_jid=7647459) |
-| 🏢 **Intuitive** | Manager, NPI Sourcing - Instrument and Accessories | Sunnyvale, CA | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126116615) |
+| 🏢 **Intuitive** | Manager, NPI Sourcing - Instrument and Accessories | Sunnyvale, CA | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126116615) |
 | 🏢 **Intuitive** | Manager, NPI Procurement - Systems | Sunnyvale, CA | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126104139) |
 | 🏢 **Guidehouse** | Research Advanced Practice Provider (PA or NP) | MD, Bethesda | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Research-Advanced-Practice-Provider--PA-or-NP-_39226) |
 | 🏢 **Ro** | Virtual Nurse Practitioner (1099 Contractor) | New York, NY or R... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/4effc32e-b652-495c-817a-64bb19b72d6f/apply) |
@@ -145,7 +145,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Intrinsic Robotics** | Robotics and Automation Technician (Lab Technician) | Mountain View, Ca... | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5972972004?gh_jid=5972972004) |
 | 🏢 **Personalis** | Clinical Lab Scientist 1 (3rd Shift) | Fremont, CA | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645077003) |
-| 🏢 **Chan Zuckerberg Biohub** | Research Associate, NGS Assay Development, Virtual Immune System | Chicago, IL (Onsite) | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7835072) |
+| 🏢 **Chan Zuckerberg Biohub** | Research Associate, NGS Assay Development, Virtual Immune System | Chicago, IL (Onsite) | 18h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7835072) |
 | 🏢 **PennState University** | Research Associate | State College, PA | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Associate-w--Dr-Dodge_REQ_0000067912-1) |
 | 🏢 **Nokia** | Photonics Lab Technician | United States | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
 | 🏢 **IDEXX** | Genetics Laboratory Technician | Columbia, MO | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Genetics-Laboratory-Technician_J-053105-1) |
@@ -257,7 +257,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Oscar Health** | Utilization Review Nurse | Remote (Arizona) | 1h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7809286?gh_jid=7809286) |
+| 🏢 **Oscar Health** | Utilization Review Nurse | Remote (Arizona) | 2h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7809286?gh_jid=7809286) |
 | 🏢 **Oscar Health** | Medical Assistant I - Part time (Bilingual - Spanish) | Remote (Texas) | 3h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7766439?gh_jid=7766439) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, Biological Design, Hsu Lab | Palo Alto, CA | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, ML for Biology, Hsu Lab | Palo Alto, CA | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
@@ -303,7 +303,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Personalis** | Client Experience Associate (Temp - 6 Months) | Fremont, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/6680748003) |
 | 🏢 **Personalis** | Client Experience Specialist | Fremont, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7652731003) |
 | 🏢 **Personalis** | Clinical Lab Associate 1 | Fremont, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645093003) |
-| 🏢 **Ro** | Part-Time, Virtual Physician | New York, NY or R... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply) |
+| 🏢 **Ro** | Fulfillment Pharmacy Technician - Boynton Beach, FL | Boynton Beach, FL | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/b77adac9-786e-4233-9f06-ea85d9ce7eba/apply) |
 | 🏢 **Included Health** | Psychiatrist | Florida | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply) |
 | 🏢 **Neuralink** | Field Clinical Engineer | Fremont, Californ... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7684347003?gh_jid=7684347003) |
 | 🏢 **Candid Health** | Medical Biller | Remote (USA) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/6c2029b2-ea83-4cdd-95e7-a5e3c45234ac/application) |
