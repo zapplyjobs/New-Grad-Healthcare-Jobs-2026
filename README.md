@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-528-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-516-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-56-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -68,9 +68,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Nurse - EMT-P | TX | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---Buffalo/Plasma-Center-Nurse---EMT-P_R0180280-1) |
-| 🏢 **Takeda** | Plasma Center Nurse - LPN | TX | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---Buffalo/Plasma-Center-Nurse---LPN_R0180282-1) |
-| 🏢 **Takeda** | Plasma Center Nurse - RN | MI | 18h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Detroit/Plasma-Center-Nurse---RN_R0180257-1) |
+| 🏢 **Takeda** | Plasma Center Nurse - EMT-P | TX | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---Buffalo/Plasma-Center-Nurse---EMT-P_R0180280-1) |
+| 🏢 **Takeda** | Plasma Center Nurse - LPN | TX | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---Buffalo/Plasma-Center-Nurse---LPN_R0180282-1) |
+| 🏢 **Takeda** | Plasma Center Nurse - RN | MI | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Detroit/Plasma-Center-Nurse---RN_R0180257-1) |
 | 🏢 **Johnson & Johnson** | Clinical Account Specialist (New York, NY / Long Island, NY / Northern NJ) - Johnson and Johnson MedTech, Electrophysiology | 2 Locations | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Clinical-Account-Specialist--New-York--NY---Long-Island--NY---Northern-NJ----Johnson-and-Johnson-MedTech--Electrophysiology_R-062763-1) |
 | 🏢 **IDEXX** | Laboratory Technician (Overnight Shift) | Greensboro, NC | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Greensboro-NC/Laboratory-Technician--Day-Shift-_J-051947) |
 | 🏢 **Cigna** | Sales Effectiveness & Insights Advisor - Evernorth Health Services (Remote) | United States Wor... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Sales-Effectiveness---Insights-Advisor---Evernorth-Health-Services--Remote-_26004575) |
@@ -92,7 +92,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Unposted - Phlebotomist - Quick Advancement Opportunities | LA | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Baton-Rouge/Unposted---Phlebotomist---Quick-Advancement-Opportunities_R0180283) |
+| 🏢 **Takeda** | Unposted - Phlebotomist - Quick Advancement Opportunities | LA | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Baton-Rouge/Unposted---Phlebotomist---Quick-Advancement-Opportunities_R0180283) |
 | 🏢 **Oscar Health** | NP/PA - Virtual Health Assessment (Bilingual - Spanish) | Remote (Texas) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7490793?gh_jid=7490793) |
 | 🏢 **Oscar Health** | Nurse Practitioner - Virtual Health Assessment | Remote (Texas) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7843225?gh_jid=7843225) |
 | 🏢 **Cigna** | Part Time Nurse Practitioner- Kissimmee, FL | City of Kissimmee | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---City-of-Kissimmee---100-North-Alaska-Ave---Kissimmee-FL/Part-Time-Nurse-Practitioner--Kissimmee--FL_26005876) |
@@ -130,11 +130,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Johnson & Johnson** | Clinical Research Manager | Irvine, Californi... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Clinical-Research-Manager_R-070776-1) |
 | 🏢 **Guidehouse** | Patient Account Representative - Clinical Trials | AL, Birmingham | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Representative---Clinical-Trials_36383) |
 | 🏢 **Johnson & Johnson** | Associate Site Manager, Clinical Trial Support | Texas | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Texas-Any-City/Associate-Site-Manager--Clinical-Trial-Support_R-075118-1) |
-| 🏢 **Medtronic** | Clinical Research Specialist - Remote | State of Colorado... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Colorado-United-States-of-America/Clinical-Research-Specialist---Remote_R65323-1) |
-| 🏢 **Biogen** | Associate Pharmacovigilance Scientist | Cambridge, MA + 1... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Associate-Pharmacovigilance-Scientist_REQ22965) |
+| 🏢 **Medtronic** | Clinical Research Specialist - Remote | State of Colorado... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Colorado-United-States-of-America/Clinical-Research-Specialist---Remote_R65323-1) |
+| 🏢 **Biogen** | Associate Pharmacovigilance Scientist | Cambridge, MA + 1... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Associate-Pharmacovigilance-Scientist_REQ22965) |
 | 🏢 **Personalis** | Clinical Research Associate 2 | Fremont, CA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7637528003) |
 | 🏢 **AbbVie** | Clinical Research Associate I | Chicago, IL | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013048096) |
-| 🏢 **Johnson & Johnson** | Medical Science Liaison - Schizophrenia (AZ, NV, CO & UT) | Arizona Any City ... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Medical-Science-Liaison---Schizophrenia--AZ--NV--CO---UT-_R-073630) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -146,7 +145,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Neuralink** | Clinical Scientist | Austin, Texas, Un... | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7676313003?gh_jid=7676313003) |
+| 🏢 **Neuralink** | Clinical Scientist | Austin, Texas, Un... | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7676313003?gh_jid=7676313003) |
 | 🏢 **Merck & Co.** | Associate Scientist, Environmental & Process Safety Engineering | New Jersey | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Scientist--Environmental---Process-Safety-Engineering_R389795) |
 | 🏢 **IDEXX** | Medical Laboratory Technician Parasitology Part Time 3rd Shift | North Grafton, MA | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/North-Grafton-MA/Medical-Laboratory-Technician-Parasitology-PART-TIME-3RD-SHIFT_J-052747) |
 | 🏢 **ByteDance** | Research Scientist in Large Language Model - LLM | San Jose, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7623536303630469381/detail) |
@@ -158,7 +157,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SpaceX** | PCB Materials Lab Technician (Starlink) | Bastrop, TX | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8505212002?gh_jid=8505212002) |
 | 🏢 **Intrinsic Robotics** | Robotics and Automation Technician (Lab Technician) | Mountain View, Ca... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5972972004?gh_jid=5972972004) |
 | 🏢 **Personalis** | Clinical Lab Scientist 1 (3rd Shift) | Fremont, CA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645077003) |
-| 🏢 **IDEXX** | Veterinary Lab Technician | Brookfield, WI | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Brookfield-WI/Veterinary-Lab-Technician_J-052873) |
+| 🏢 **IDEXX** | Veterinary Lab Technician | Brookfield, WI | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Brookfield-WI/Veterinary-Lab-Technician_J-052873) |
 | 🏢 **Takeda** | QC Analytical Scientist I | CA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Thousand-Oaks---Rancho-Conejo/QC-Analytical-Scientist-I_R0179802) |
 | 🏢 **Johnson & Johnson** | Preclinical Scientist, Surgical - MedTech Surgery | Cincinnati, Ohio,... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Preclinical-Scientist--Surgical---MedTech-Surgery_R-069424-1) |
 | 🏢 **Thermo Fisher Scientific** | Lab Assistant - Mon-Fri 2nd Shift | Middleton, Wiscon... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Lab-Assistant---Mon-Fri-2nd-Shift_R-01350125) |
@@ -169,7 +168,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **PennState University** | Research Associate | State College, PA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Associate-w--Dr-Dodge_REQ_0000067912-1) |
 | 🏢 **Nokia** | Photonics Lab Technician | United States | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
 | 🏢 **Merck & Co.** | Scientist, Stat. Programming - Early Phase Oncology (Hybrid) | New Jersey Rahway... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Scientist--Stat-Programming---Early-Phase-Oncology--Hybrid-_R384275-1) |
-| 🏢 **IDEXX** | Genetics Laboratory Technician | Columbia, MO | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Genetics-Laboratory-Technician_J-053105-1) |
+| 🏢 **IDEXX** | Genetics Laboratory Technician | Columbia, MO | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Genetics-Laboratory-Technician_J-053105-1) |
 | 🏢 **Analog Devices** | Lab Technician, Test Development Engineering | US, IL, Home | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-IL-Home-Office/Lab-Technician--Test-Development-Engineering_R262216) |
 | 🏢 **Philips** | Clinical Development Scientist | 3 Locations | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Clinical-Development-Scientist_581549) |
 | 🏢 **Thermo Fisher Scientific** | Lab Scientist, Applications [Proteomics] | San Jose, Califor... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Jose-California-USA/Lab-Scientist--Applications--Proteomics-_R-01351268) |
@@ -210,7 +209,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Philips** | Sales Support, Clinical Specialist VeriSight ICE (Intracardiac Echo) - Chicago IL | Chicago, Illinois... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chicago-Illinois-United-States/Sales-Support--Clinical-Specialist-VeriSight-ICE--Intracardiac-Echo----Chicago-IL_579888) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Jackson, MS) | Jackson, Mississi... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Jackson-Mississippi-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Therapy-Devices--Jackson--MS-_582740-1) |
 | 🏢 **EVERSANA** | Medical Information Specialist | Overland Park, KS | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000125383879) |
-| 🏢 **Biogen** | Manager, Field Medical Operations | Cambridge, MA | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Manager--Field-Medical-Operations_REQ23262) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -248,7 +246,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Included Health** | Mental Health Therapist | Tennessee | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/29af260c-cc9b-4fe9-b358-6135fd5909be/apply) |
 | 🏢 **Included Health** | Mental Health Therapist | Ohio | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/387371b0-98f7-4b7f-a274-bef090372ae2/apply) |
 | 🏢 **Included Health** | Mental Health Therapist | New York, NY | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/4592a33b-3545-4615-8625-94c0645c582a/apply) |
-| 🏢 **KBR** | Physical Therapist (Eielson AFB, AK) | Fairbanks Alaska ... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fairbanks-Alaska/Physical-Therapist--Eielson-AFB--AK-_R2123385) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -260,8 +257,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Johnson & Johnson** | Field Reimbursement Manager, Oncology - Wisconsin | 2 Locations | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Eau-Claire-Wisconsin-United-States/Field-Reimbursement-Manager--Oncology---Wisconsin_R-068094) |
-| 🏢 **Oscar Health** | Manager, Strategy & Operations | New York, New Yor... | 15h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7915120?gh_jid=7915120) |
+| 🏢 **Johnson & Johnson** | Field Reimbursement Manager, Oncology - Wisconsin | 2 Locations | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Eau-Claire-Wisconsin-United-States/Field-Reimbursement-Manager--Oncology---Wisconsin_R-068094) |
+| 🏢 **Oscar Health** | Manager, Strategy & Operations | New York, New Yor... | 16h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7915120?gh_jid=7915120) |
 | 🏢 **Philips** | Sales Support, Clinical Consultant - OB Solutions (East Zone) | 12 Locations | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-York-New-York-United-States/Sales-Support--Clinical-Consultant---OB-Solutions--East-Zone-_583324-1) |
 | 🏢 **Takeda** | Rare Disease Business Manager - PI - West Palm Beach FL | FL | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Virtual/Rare-Disease-Business-Manager---PI---West-Palm-Beach-FL_R0179572-1) |
 | 🏢 **Globus Medical** | Associate Interventional Specialist (Fort Worth, TX) | Texas | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Texas/Associate-Interventional-Specialist--Fort-Worth--TX-_JR106748) |
@@ -269,13 +266,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | Field Access Manager | Virtual | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Pennsylvania---Virtual/Field-Access-Manager_R0178768) |
 | 🏢 **AbbVie** | Geopolitical Analyst, Business Risk Intelligence | North Chicago, IL | 18h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013132626) |
 | 🏢 **AbbVie** | Manager, Business Analytics | North Chicago, IL | 18h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013132366) |
-| 🏢 **Medtronic** | Prin Physician & Society Liaison | 2 Locations | 18h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Prin-Physician---Society-Liaison_R65008-2) |
+| 🏢 **Medtronic** | Prin Physician & Society Liaison | 2 Locations | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Prin-Physician---Society-Liaison_R65008-2) |
 | 🏢 **AbbVie** | Business Development Manager (Facial Aesthetics) | Bentonville, AR | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013131286) |
 | 🏢 **Guidehouse** | Patient Account Representative | SD, Mitchell | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---SD-Mitchell/Patient-Account-Representative_39393) |
 | 🏢 **Guidehouse** | Patient Account Representative | SD, Mitchell | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---SD-Mitchell/Patient-Account-Representative_39392) |
 | 🏢 **Magna** | Occupational Nurse | Piedmont, South C... | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Piedmont-South-Carolina-US/Occupational-Nurse_R00242943) |
-| 🏢 **Wellmark, Inc.** | Provider Engagement Consultant | Des Moines, IA | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126525590) |
-| 🏢 **Pennsylvania State University** | Postdoctoral Scholar in Geophysics | State College, PA | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoc-Scholar-in-Geophysics-focused-on-Rock-Rheology-and-Machine-Learning_REQ_0000078024-1) |
+| 🏢 **Wellmark, Inc.** | Provider Engagement Consultant | Des Moines, IA | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126525590) |
+| 🏢 **Pennsylvania State University** | Postdoctoral Scholar in Geophysics | State College, PA | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoc-Scholar-in-Geophysics-focused-on-Rock-Rheology-and-Machine-Learning_REQ_0000078024-1) |
 | 🏢 **Johnson & Johnson** | Ultrasound Clinical Account Specialist – Cardiac Sonographer (Cincinnati, OH) - Johnson and Johnson MedTech - Electrophysiology | Cincinnati, Ohio,... | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Ultrasound-Clinical-Account-Specialist---Cardiac-Sonographer--Cincinnati--OH----Johnson-and-Johnson-MedTech---Electrophysiology_R-061401) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Account Specialist - Houston, TX - Johnson & Johnson MedTech - Electrophysiology | Houston, Texas, U... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Houston-Texas-United-States-of-America/Associate-Clinical-Account-Specialist---Houston--TX---Johnson---Johnson-MedTech---Electrophysiology_R-058924-1) |
 | 🏢 **LLNL** | Design Optimization Engineer - Postdoctoral Researcher | Livermore, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013125026) |
@@ -318,7 +315,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Walmart** | Pharmacy Manager | (USA) OK SAPULPA ... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OK-SAPULPA-00073-WM-SUPERCENTER/Pharmacy-Manager_R-2506340) |
 | 🏢 **Abbott** | Clinical Associate | Massachusetts | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Boston/Clinical-Associate_31149730-1) |
 | 🏢 **Abbott** | Training Manager | Costa Rica San Jo... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Costa-Rica---San-Jose/Training-Manager_31149253) |
-| 🏢 **IDEXX** | Veterinary Software Trainer | Virtual Texas | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-Texas/Veterinary-Software-Trainer_J-052190) |
+| 🏢 **IDEXX** | Veterinary Software Trainer | Virtual Texas | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-Texas/Veterinary-Software-Trainer_J-052190) |
 | 🏢 **Philips** | Clinical Application Specialist - Radiology Informatics & Enterprise Imaging | Home Based, Unite... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Clinical-Application-Specialist---Radiology-Informatics---Enterprise-Imaging_582571) |
 | 🏢 **Hinge Health** | Health Economist | San Francisco- | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/2c5c58a9-5176-4ca7-b6bc-a832a375ea2f/application) |
 | 🏢 **Dandy** | Dental Field Trainer - Nashville | Remote | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/dandy/b3e9f989-e008-4da0-ab95-d1d929dadf52/application) |
@@ -345,8 +342,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Chan Zuckerberg Biohub** | Postdoctoral Fellow - Immune Cell Dynamics - Optogenetics | New York, NY (Ons... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7779105) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, Gilbert Lab | Palo Alto, CA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5654593004) |
 | 🏢 **Merck & Co.** | Animal Technician - Level 2 | Pennsylvania | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Animal-Technician---Level-2_R384637-2) |
-| 🏢 **Globus Medical** | Associate Neurophysiologist (Philadelphia, PA) | Pennsylvania | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Pennsylvania/Neurophysiologist--Philadelphia--PA-_JR105945) |
-| 🏢 **IDEXX** | Laboratory Supervisor 3rd Shift | Dallas, TX | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Laboratory-Supervisor-3rd-Shift_J-052827) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -402,7 +397,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 528 current opportunities from 56 companies**
+**🎯 516 current opportunities from 56 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
