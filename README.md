@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-631-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-632-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-49-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -68,11 +68,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Cigna** | Strategy & Analytics Advisor, C&CE - ... | United States Wor... | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Strategy---Analytics-Advisor---Evernorth---Remote_26003149) |
+| **Cigna** | Strategy & Analytics Advisor, C&CE - ... | United States Wor... | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Strategy---Analytics-Advisor---Evernorth---Remote_26003149) |
 | **Abbott** | Registered Nurse - Patient Educator (... | Ohio | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Cincinnati/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Cincinnati--OH_31150663) |
-| **Takeda** | Plasma Center Nurse- RN | TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--RN--Day-1-Benefits-_R0179419-1) |
-| **Takeda** | Plasma Center Nurse - LPN | TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--LPN--Day-1-Benefits-_R0179420-1) |
 | **Takeda** | RN - (Registered Nurse) | KS | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---KS---Lenexa/RN---Day-One-Benefits_R0179351-1) |
+| **Takeda** | Medical Support Specialist RN - Bilin... | CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Stockton/Medical-Support-Specialist-RN---Bilingual_R0180353) |
+| **Takeda** | Plasma Center Nurse RN, LPN, or EMT-P | FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Plasma-Center-Nurse-RN--LPN--or-EMT-P_R0180281-1) |
 | **Cigna** | RN Health Coach - Evernorth - Orlando FL | Orlando, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Orlando-FL/RN-Health-Coach---Evernorth---Orlando-FL_26006072) |
 | **Cigna** | Proposal Support Advisor - Hybrid - E... | St. Louis, MO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Proposal-Support-Advisor---Hybrid---Evernorth_26002526-1) |
 | **Guidehouse** | Medical Coder Inpatient Remote | Remote | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Medical-Coder-Inpatient-Remote_37081) |
@@ -103,7 +103,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Emerson Electric** | Engineering Lab Technician | St. Louis, MO | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26002075) |
 | **Nokia** | Photonics Lab Technician | United States | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
-| **Thermo Fisher Scientific** | Clinical Trial Coordinator I - FSP | Remote, North Car... | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Clinical-Trial-Coordinator-I---FSP_R-01353252) |
+| **Thermo Fisher Scientific** | Clinical Trial Coordinator I - FSP | Remote, North Car... | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Clinical-Trial-Coordinator-I---FSP_R-01353252) |
 | **IDEXX** | Laboratory Technician - 3rd Shift | Greensboro, NC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Greensboro-NC/Laboratory-Technician---3rd-Shift_J-052918) |
 | **Guidehouse** | Patient Account Representative - Clin... | AL, Birmingham | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Representative---Clinical-Trials_36383) |
 | **Thermo Fisher Scientific** | Clinical Trial Coordinator I - FSP | Remote, North Car... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Clinical-Trial-Coordinator-I---FSP_R-01351967) |
@@ -205,6 +205,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Pennsylvania State University** | Postdoctoral Scholar - Postdoctoral S... | State College, PA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1) |
 | **PennState University** | Postdoctoral Scholar | State College, PA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1) |
 | **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
+| **Wellmark, Inc.** | Medical Policy & Coding Support Coord... | Cedar Rapids, IA | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126865364) |
+| **Wellmark, Inc.** | Medical Policy & Coding Support Coord... | Sioux Falls, SD | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126865409) |
+| **Wellmark, Inc.** | Medical Policy & Coding Support Coord... | Des Moines, IA | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126865359) |
 | **Walmart** | (USA) Pharmacy Tech Sam's - Full Time | Appleton, WI | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Appleton-WI/XMLNAME--USA--Pharmacy-Tech-Sam-s---Full-Time_R-2511951) |
 | **Walmart** | Pharmacy Manager ($10,000 Sign-on Bonus) | (USA) PA CLARION ... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-PA-CLARION-02540-WM-SUPERCENTER/Pharmacy-Manager_R-2495538-2) |
 | **Walmart** | Pharmacy Manager | (USA) TX HORIZON ... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-HORIZON-CITY-03136-WM-SUPERCENTER/Pharmacy-Manager_R-2511435) |
@@ -215,7 +218,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cigna** | DME TECHNICIAN | FL, Longwood (AHRE) | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/FL-Longwood-AHRE-556-Florida-Central-Pkwy/DME-TECHNICIAN_26005466) |
 | **Cigna** | Regional Clinical Executive - Southea... | United States Wor... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Regional-Clinical-Executive---Southeast-Market_26006037) |
 | **Cigna** | Collections Specialist | Oakdale, PA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Oakdale-PA/Collections-Specialist_26004961) |
-| **Guidehouse** | Diagnostic Imaging Scheduler | Remote | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Diagnostic-Imaging-Scheduler_39468) |
 | **Johnson & Johnson** | Advanced Surgical Consultant - Oklaho... | Oklahoma City, Ok... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Oklahoma-City-Oklahoma-United-States/Advanced-Surgical-Consultant---Oklahoma-City-Metro---Johnson---Johnson-MedTech---Heart-Recovery_R-071858-1) |
 | **Disney** | Animal Nutrition Assistant (Seasonal) | Lake Buena Vista,... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Animal-Nutrition-Assistant--Seasonal-_10151191) |
 | **AbbVie** | District Manager, Rheumatology - Bost... | Boston, MA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013168406) |
@@ -231,11 +233,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Globus Medical** | Neurophysiologist (Tampa, FL) | Florida | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Florida/Neurophysiologist--Tampa--FL-_JR106576-1) |
 | **Globus Medical** | Neurophysiologist (Charleston, WV) | West Virginia | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/West-Virginia/Neurophysiologist--Charleston--WV-_JR106635-1) |
 | **LLNL** | Experimental Dynamic Materials - Post... | Livermore, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013145636) |
-| **Oscar Health** | Associate, Member and Provider Optimi... | Atlanta, Georgia,... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7927607?gh_jid=7927607) |
-| **Oscar Health** | Associate, Member and Provider Optimi... | Dallas, Texas, Un... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7927606?gh_jid=7927606) |
-| **Oscar Health** | Associate, Member and Provider Optimi... | Tempe, Arizona, U... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7927605?gh_jid=7927605) |
+| **Oscar Health** | Associate, Member and Provider Optimi... | Atlanta, Georgia,... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7927607?gh_jid=7927607) |
+| **Oscar Health** | Associate, Member and Provider Optimi... | Dallas, Texas, Un... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7927606?gh_jid=7927606) |
+| **Oscar Health** | Associate, Member and Provider Optimi... | Tempe, Arizona, U... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7927605?gh_jid=7927605) |
 | **Guidehouse** | Patient Account Representative | SD, Mitchell | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---SD-Mitchell/Patient-Account-Representative_39393) |
 | **Guidehouse** | Patient Account Representative | SD, Mitchell | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---SD-Mitchell/Patient-Account-Representative_39392) |
+| **Guidehouse** | Clinical Documentation Improvement (C... | CA, Escondido | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Escondido/Clinical-Documentation-Improvement--CDI--Specialist---Onsite_36620) |
 | **Johnson & Johnson** | Associate Clinical Consultant/ Clinic... | New York, New Yor... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Associate-Clinical-Consultant--Clinical-Consultant---Long-Island--NY---Johnson---Johnson-MedTech---Heart-Recovery_R-073263-1) |
 | **Johnson & Johnson** | Field Reimbursement Manager, Oncology... | 2 Locations | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Eau-Claire-Wisconsin-United-States/Field-Reimbursement-Manager--Oncology---Wisconsin_R-068094) |
 | **Merck & Co.** | Clinical Liaison, Oncology - Remote | New Jersey Rahway... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Clinical-Liaison--Oncology---Remote_R397441-1) |
@@ -244,7 +247,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **EVERSANA** | Pharmacy Technician | Chesterfield, MO | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000126579399) |
 | **Philips** | Sales Support, Clinical Consultant - ... | 12 Locations | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-York-New-York-United-States/Sales-Support--Clinical-Consultant---OB-Solutions--East-Zone-_583324-1) |
 | **Intuitive** | Pre-clinical Lab Coordinator | Sunnyvale, CA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126566181) |
-| **Wellmark, Inc.** | Provider Engagement Consultant | Des Moines, IA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126525590) |
 | **National Interstate Insurance** | Managed Care Specialist | Lakeland, FL + 1 ... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Lakeland-FL-USA/Managed-Care-Specialist_R8696-2) |
 | **Magna** | Occupational Nurse | Piedmont, South C... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Piedmont-South-Carolina-US/Occupational-Nurse_R00242943) |
 | **Medtronic** | Prin Physician & Society Liaison | 2 Locations | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Prin-Physician---Society-Liaison_R65008-2) |
@@ -257,8 +259,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oracle** | Physician Executive, EHR Strategy & C... | United States | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326484) |
 | **Arc Institute** | Postdoctoral Researcher, Biological D... | Palo Alto, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
 | **Arc Institute** | Postdoctoral Researcher, ML for Biolo... | Palo Alto, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
-| **Wellmark, Inc.** | Provider Network Strategy & Contracti... | Des Moines, IA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126109660) |
-| **Wellmark, Inc.** | Associate Product Owner - Network Per... | Des Moines, IA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126111439) |
 | **GDIT** | Bilingual Spanish/English Social Work... | USA TX Home | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-Home-Office-TXHOME/Bilingual-Spanish-English-Social-Worker---Houston--TX_RQ219757-2) |
 | **GDIT** | Certified Athletic Trainer | FL Hurlburt Field... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field/Certified-Athletic-Trainer_RQ219840-1) |
 
@@ -316,7 +316,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 631 current opportunities from 49 companies**
+**🎯 632 current opportunities from 49 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
