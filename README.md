@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1383-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1382-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-61-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -246,10 +246,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **IDEXX** | Histology Technician – 2nd Shift | West Sacramento, CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/Histology-Technician---2nd-Shift_J-053124) |
 | **AbbVie** | Hematology Clinical Account Specialis... | Milwaukee, WI | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013187926) |
 | **AbbVie** | Hematology Clinical Account Specialis... | Green Bay, WI | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013187886) |
-| **AbbVie** | Hematology Clinical Account Specialis... | Madison, WI | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013187246) |
+| **AbbVie** | Hematology Clinical Account Specialis... | Madison, WI | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013187246) |
 | **athenahealth** | Medical Coding Outcomes Manager | Belfast, ME + 9 more | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://athenahealth.wd1.myworkdayjobs.com/External/job/Belfast-ME/Medical-Coding-Outcomes-Manager_R15054-1) |
 | **Chan Zuckerberg Biohub** | Postdoctoral Fellow, Single-Cell Meth... | New York, NY (Ons... | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7922556) |
-| **Oscar Health** | Manager, Member Experience Strategy | New York, New Yor... | 8h | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7938958?gh_jid=7938958) |
+| **Oscar Health** | Manager, Member Experience Strategy | New York, New Yor... | 9h | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7938958?gh_jid=7938958) |
 | **Atlantic Health System** | Certified Medical Assistant I,CMA, Fu... | South Orange, NJ,... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22395) |
 | **Atlantic Health System** | Patient Transporter - PT (11:00am-7:0... | Pompton Plains, N... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27387) |
 | **Atlantic Health System** | Certified Medical Assistant I, Full T... | Morristown, NJ, U... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28957) |
@@ -358,7 +358,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1383 current opportunities from 61 companies**
+**🎯 1382 current opportunities from 61 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
