@@ -27,7 +27,7 @@ async function main() {
 
     // Fetch healthcare jobs from aggregator
     const consumer = createAggregatorConsumer({
-      filters: { domains: ['healthcare'], employment: 'entry_level', locations: ['us'] },
+      filters: { domains: ['healthcare'], locations: ['us'] },
       verbose: true
     });
 
