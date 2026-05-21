@@ -158,7 +158,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eurofins** | Laboratory Technician l (Weekends) | Columbia, MO | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127527249) |
 | **Eurofins** | Laboratory Technician ll | Columbia, MO | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127525809) |
 | **Eurofins** | Laboratory Technician l (Part Time) Temp | Columbia, MO | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127521200) |
-| **AbbVie** | Associate, Scientist II | North Chicago, IL | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013242116) |
+| **AbbVie** | Associate, Scientist II | North Chicago, IL | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013242116) |
 | **AbbVie** | Associate Scientist, Data II | North Chicago, IL | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013237577) |
 | **AbbVie** | Scientist I - Early Analytical Develo... | North Chicago, IL | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013236766) |
 | **Amazon.com Services LLC** | Applied Scientist III, Whole Body Con... | N.reading, MA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10425425/applied-scientist-iii-whole-body-control) |
