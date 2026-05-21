@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1917-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1909-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-83-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -98,9 +98,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Philips** | Sales Support, Clinical Applications ... | San Bernardino, C... | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Bernardino-California-United-States/Sales-Support--Clinical-Solution-Consultant---CV-Ultrasound--San-Bernardino--Central-Valley--CA-_579807-1) |
 | **Guidehouse** | Research Advanced Practice Provider (... | MD, Bethesda | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Research-Advanced-Practice-Provider--PA-or-NP-_39226) |
 | **IDEXX** | Laboratory Technician - Overnight | Glen Burnie, MD | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Glen-Burnie-MD/Laboratory-Technician---Overnight_J-053152) |
-| **Atlantic Health System** | Nursing Assistant, Per Diem, Variable... | Newton, NJ, Unite... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28381) |
-| **Atlantic Health System** | Registered Nurse - Full Time, Nights ... | Morristown, NJ, U... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28609) |
-| **Atlantic Health System** | Registered Nurse - Per Diem Nights - ... | Morristown, NJ, U... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28624) |
+| **Atlantic Health System** | Nursing Assistant, Per Diem, Variable... | Newton, NJ, Unite... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28381) |
+| **Atlantic Health System** | Registered Nurse - Full Time, Nights ... | Morristown, NJ, U... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28609) |
+| **Atlantic Health System** | Registered Nurse - Per Diem Nights - ... | Morristown, NJ, U... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28624) |
 | **NVIDIA** | Quantum Research Scientist Intern - F... | US, CA, Remote | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) |
 | **Included Health** | Virtual Primary Care Nurse Practitioner | North Carolina | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/cb38694a-968b-4079-9044-c2f687cd2abe/apply) |
 | **Included Health** | Virtual Primary Care Nurse Practitioner | Texas | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/111fc5f8-9d49-46df-bbc8-a642eaae7dfc/apply) |
@@ -162,10 +162,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Carnegie Mellon University** | Postdoctoral Research Associate - Col... | Pittsburgh, PA | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Research-Associate---College-of-Engineering---Materials-Science-and-Engineering_2024591) |
 | **Johnson & Johnson** | Medical Science Liaison - Hematology/... | Portland, Oregon,... | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Portland-Oregon-United-States/Medical-Science-Liaison---Hematology-Oncology--Oregon-Idaho-_R-076776-1) |
 | **Johnson & Johnson** | Medical Science Liaison - GU Oncology... | Minneapolis, Minn... | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Minneapolis-Minnesota-United-States-of-America/Medical-Science-Liaison---GU-Oncology----MN-SD-ND-_R-068856-1) |
-| **Amazon.com Services LLC** | Applied Scientist II, Amazon - Vertic... | Palo Alto, CA | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10426772/applied-scientist-ii-amazon-vertical-ads) |
-| **Atlantic Health System** | Clinical Research Associate, Full Tim... | Morristown, NJ, U... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29084) |
+| **Amazon.com Services LLC** | Applied Scientist II, Amazon - Vertic... | Palo Alto, CA | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10426772/applied-scientist-ii-amazon-vertical-ads) |
+| **Atlantic Health System** | Clinical Research Associate, Full Tim... | Morristown, NJ, U... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29084) |
 | **Eurofins** | Laboratory Technician l (Weekends) | Columbia, MO | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127527249) |
-| **Eurofins** | Laboratory Technician ll | Columbia, MO | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127525809) |
+| **Eurofins** | Laboratory Technician ll | Columbia, MO | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127525809) |
 | **Eurofins** | Laboratory Technician l (Part Time) Temp | Columbia, MO | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127521200) |
 | **AbbVie** | Associate, Scientist II | North Chicago, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013242116) |
 | **AbbVie** | Associate Scientist, Data II | North Chicago, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013237577) |
@@ -227,10 +227,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Globus Medical** | Associate Spine Specialist (Baltimore... | Maryland | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Associate-Spine-Specialist--Baltimore--MD-_JR106815) |
 | **Globus Medical** | Spine Specialist (Baltimore, MD) | Maryland | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Spine-Specialist--Baltimore--MD-_JR106817) |
 | **Globus Medical** | Cranial Clinical Specialist Represent... | Massachusetts | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Massachusetts/Cranial-Clinical-Specialist-Representative_JR106316-1) |
-| **Johnson & Johnson** | Clinical Specialist- Monarch- Central | Dayton, Ohio, Uni... | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dayton-Ohio-United-States/Clinical-Specialist--Monarch--West_R-075594-1) |
-| **Atlantic Health System** | Patient Access Representative I- Per ... | Hackettstown, NJ,... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24805) |
-| **Atlantic Health System** | Patient Access Representative I, Full... | Morristown, NJ, U... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26455) |
-| **Atlantic Health System** | Patient Access Representative, Full T... | Morristown, NJ, U... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28711) |
+| **Johnson & Johnson** | Clinical Specialist- Monarch- Central | Dayton, Ohio, Uni... | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dayton-Ohio-United-States/Clinical-Specialist--Monarch--West_R-075594-1) |
+| **Atlantic Health System** | Patient Access Representative I- Per ... | Hackettstown, NJ,... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24805) |
+| **Atlantic Health System** | Patient Access Representative I, Full... | Morristown, NJ, U... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26455) |
+| **Atlantic Health System** | Patient Access Representative, Full T... | Morristown, NJ, U... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28711) |
 | **Oracle** | Implementation Consultant – Revenue C... | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334397) |
 | **KBR** | Physical Therapist (Eielson AFB, AK) | Fairbanks Alaska ... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fairbanks-Alaska/Physical-Therapist--Eielson-AFB--AK-_R2123385) |
 | **KBR** | Special Operations Licensed Clinical ... | Clovis, New Mexico | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Clovis-New-Mexico/Special-Operations-Licensed-Clinical-Social-Worker--27-SOW-Cannon-AFB--NM--Sign-on-Bonus-Eligible_R2123943) |
@@ -297,10 +297,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Iterative Health** | Business Development Associate - Card... | Cambridge, Massac... | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4682181006) |
 | **Eurofins** | Dossier Specialist | Spring House, PA | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127673036) |
 | **AbbVie** | Coordinator I, Patient Care (M-F 10:3... | North Chicago, IL | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013247572) |
-| **Eurofins** | Data Entry Biologist | West Point, PA | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127664549) |
-| **Atlantic Health System** | Secretary/Technician - Part time, Day... | United States | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29035) |
-| **Atlantic Health System** | Vascular Surgeon - Atlantic Health | Morristown, NJ, U... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29323) |
-| **Atlantic Health System** | Mammography Technologist Per Diem Ove... | Summit, NJ, Unite... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29406) |
+| **Eurofins** | Data Entry Biologist | West Point, PA | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127664549) |
+| **Atlantic Health System** | Secretary/Technician - Part time, Day... | United States | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29035) |
+| **Atlantic Health System** | Vascular Surgeon - Atlantic Health | Morristown, NJ, U... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29323) |
+| **Atlantic Health System** | Mammography Technologist Per Diem Ove... | Summit, NJ, Unite... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29406) |
 | **Oracle** | Nurse Informatics Executive | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329899) |
 | **Eurofins** | Specimen Management Associate | Lancaster, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127317658) |
 | **Chan Zuckerberg Biohub** | Computational Biologist | Chicago, IL (Onsite) | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7922812) |
@@ -336,7 +336,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Industrial Hygiene / HAZMAT Project M... | New York, NY, Uni... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87195) |
 | **LLNL** | Experimental Dynamic Materials - Post... | Livermore, CA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013145636) |
 | **Coca-Cola** | Lab Analyst | Apopka, FL | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---FL---Apopka/Lab-Analyst_R-140887) |
-| **LLNL** | Laser Postdoctoral Researcher - Advan... | Livermore, CA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013144232) |
 | **Biogen** | Co-op, Cell Culture Development | Research Triangle... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Co-op--Cell-Culture-Development_REQ22462) |
 
 <p align="center">Apply for more jobs at</p>
@@ -393,7 +392,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1917 current opportunities from 83 companies**
+**🎯 1909 current opportunities from 83 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
