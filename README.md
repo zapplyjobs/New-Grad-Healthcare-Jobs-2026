@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1750-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1749-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-79-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -226,7 +226,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Globus Medical** | Associate Spine Specialist (Baltimore... | Maryland | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Associate-Spine-Specialist--Baltimore--MD-_JR106815) |
 | **Globus Medical** | Spine Specialist (Baltimore, MD) | Maryland | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Spine-Specialist--Baltimore--MD-_JR106817) |
 | **Globus Medical** | Cranial Clinical Specialist Represent... | Massachusetts | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Massachusetts/Cranial-Clinical-Specialist-Representative_JR106316-1) |
-| **Johnson & Johnson** | Clinical Specialist- Monarch- Central | Dayton, Ohio, Uni... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dayton-Ohio-United-States/Clinical-Specialist--Monarch--West_R-075594-1) |
+| **Johnson & Johnson** | Clinical Specialist- Monarch- Central | Dayton, Ohio, Uni... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dayton-Ohio-United-States/Clinical-Specialist--Monarch--West_R-075594-1) |
 | **Atlantic Health System** | Patient Access Representative I- Per ... | Hackettstown, NJ,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24805) |
 | **Atlantic Health System** | Patient Access Representative I, Full... | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26455) |
 | **Atlantic Health System** | Patient Access Representative, Full T... | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28711) |
@@ -387,7 +387,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1750 current opportunities from 79 companies**
+**🎯 1749 current opportunities from 79 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
