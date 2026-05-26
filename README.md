@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1930-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-78-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1923-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-77-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -110,8 +110,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NVIDIA** | Quantum Error Correction Research Sci... | US, CA, Remote | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) |
 | **Cardinal Health** | PRN Hospital Pharmacist | Wausau, WI | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/WI--Wausau-Pam-Rehab-Hosp-of-Wausau/PRN-Hospital-Pharmacist_20181003-1) |
 | **Cardinal Health** | PRN Infusion Nurse | Lake City, FL | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/FL-Lake-City-CCNF---MO/PRN-Infusion-Nurse_20180469-1) |
-| **Included Health** | Virtual Primary Care Nurse Practitioner | North Carolina | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/cb38694a-968b-4079-9044-c2f687cd2abe/apply) |
-| **Included Health** | Virtual Primary Care Nurse Practitioner | Texas | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/111fc5f8-9d49-46df-bbc8-a642eaae7dfc/apply) |
+| **Included Health** | Virtual Primary Care Nurse Practitioner | North Carolina | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/cb38694a-968b-4079-9044-c2f687cd2abe/apply) |
+| **Included Health** | Virtual Primary Care Nurse Practitioner | Texas | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/111fc5f8-9d49-46df-bbc8-a642eaae7dfc/apply) |
 | **AbbVie** | Allergan Practice Consultant (APC), N... | Falls Church, VA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013226166) |
 | **AbbVie** | Allergan Practice Consultant (APC), N... | Reston, VA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013225788) |
 | **Guidehouse** | Clinical Denials and Appeals RN | Remote | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-and-Appeals-RN_38582) |
@@ -343,7 +343,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oscar Health** | Total Quality Management Specialist (... | Georgia, United S... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7944225?gh_jid=7944225) |
 | **Johnson Controls** | Client Services Coordinator | Ohio | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/West-Chester-Ohio-United-States-of-America/Client-Services-Coordinator_WD30269762) |
 | **Experian** | Hospital Contract Definition Analyst,... | United States, UN... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000127257599) |
-| **Guidepoint** | Client Service Healthcare Associate | Boston, Massachus... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8550737002) |
 | **Biogen** | Co-op, Cell Culture Development | Research Triangle... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Co-op--Cell-Culture-Development_REQ22462) |
 
 <p align="center">Apply for more jobs at</p>
@@ -400,7 +399,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1930 current opportunities from 78 companies**
+**🎯 1923 current opportunities from 77 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
