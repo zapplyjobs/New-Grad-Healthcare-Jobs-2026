@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1874-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1867-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-76-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -105,7 +105,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Atlantic Health System** | Registered Nurse, Ambulatory, Full Ti... | Summit, NJ, Unite... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28142) |
 | **Atlantic Health System** | Filled- Registered Nurse- Per-Diem, D... | Sparta, NJ, Unite... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28255) |
 | **LLNL** | Nurse Practitioner / Physician Assistant | Livermore, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013265726) |
-| **Johnson & Johnson** | Preclinical Research Intern - (Irvine... | Irvine, Californi... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Preclinical-Research-Intern----Irvine--CA--Johnson-and-Johnson-MedTech--Electrophysiology_R-077329) |
+| **Johnson & Johnson** | Preclinical Research Intern - (Irvine... | Irvine, Californi... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Preclinical-Research-Intern----Irvine--CA--Johnson-and-Johnson-MedTech--Electrophysiology_R-077329) |
 | **IDEXX** | Laboratory Technician - Overnight | Glen Burnie, MD | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Glen-Burnie-MD/Laboratory-Technician---Overnight_J-053152) |
 | **NVIDIA** | Quantum Error Correction Research Sci... | US, CA, Remote | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) |
 | **Cardinal Health** | PRN Hospital Pharmacist | Wausau, WI | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/WI--Wausau-Pam-Rehab-Hosp-of-Wausau/PRN-Hospital-Pharmacist_20181003-1) |
@@ -170,7 +170,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Gilead Sciences** | Clinical Trials Manager | California | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Clinical-Trials-Manager_R0052427) |
 | **Axon** | AI Scientist I | Seattle, Washingt... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7746492003) |
 | **Merck & Co.** | Associate Scientist, Preclinical Dev. | New Jersey | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Scientist--Preclinical-Dev_R395851-1) |
-| **Johnson & Johnson** | Oncology Clinical Educator, Solid Tum... | 3 Locations | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Horsham-Pennsylvania-United-States-of-America/Oncology-Clinical-Educator--Solid-Tumors--Upstate-NY---CT-_R-060863-1) |
+| **Johnson & Johnson** | Oncology Clinical Educator, Solid Tum... | 3 Locations | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Horsham-Pennsylvania-United-States-of-America/Oncology-Clinical-Educator--Solid-Tumors--Upstate-NY---CT-_R-060863-1) |
 | **Gilead Sciences** | Clinical Trials Manager | Remote | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States--Remote/Clinical-Trials-Manager_R0052522-2) |
 | **IDEXX** | Laboratory Technician – Verification ... | Westbrook, ME | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Laboratory-Technician---Verification---Validation_J-052586) |
 | **Johnson & Johnson** | Medical Science Liaison - Hematology/... | Portland, Oregon,... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Portland-Oregon-United-States/Medical-Science-Liaison---Hematology-Oncology--Oregon-Idaho-_R-076776-1) |
@@ -230,8 +230,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Takeda** | Entry Level Medical Screener | OK | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Broken-Arrow/Entry-Level-Medical-Screener_R0180700-1) |
 | **Atlantic Health System** | Registered Respiratory Therapist –Pre... | Morristown, NJ, U... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29424) |
 | **Atlantic Health System** | Registered Respiratory Therapist –Pre... | Morristown, NJ, U... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29426) |
-| **CVS Health** | Behavioral Health Specialist Fellow (... | Providence, RI | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Providence/Behavioral-Health-Specialist-Fellow--MSW---LSW---Bilingual-Spanish-Required-_R0923389-1) |
-| **CVS Health** | MinuteClinic Mental Health Therapist | Work from home, PA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Mental-Health-Therapist_R0897443) |
+| **CVS Health** | Behavioral Health Specialist Fellow (... | Providence, RI | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Providence/Behavioral-Health-Specialist-Fellow--MSW---LSW---Bilingual-Spanish-Required-_R0923389-1) |
+| **CVS Health** | MinuteClinic Mental Health Therapist | Work from home, PA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Mental-Health-Therapist_R0897443) |
 | **Johnson & Johnson** | Clinical Specialist- Monarch- Central | Dayton, Ohio, Uni... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dayton-Ohio-United-States/Clinical-Specialist--Monarch--West_R-075594-1) |
 | **Leidos** | Military Family Life Counselor - (Adult) | Monterey, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Monterey-CA/Military-Family-Life-Counselor----Adult-_R-00183791) |
 | **Guidehouse** | Patient Account Representative - Medi... | AL, Birmingham | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Representative---Medical-Billing-and-Claims_39717) |
@@ -295,7 +295,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cigna** | Pharmacy Technician Representative - ... | Memphis, TN | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Memphis-TN/Pharmacy-Technician-Representative---Accredo-Specialty-Pharmacy---Memphis--TN_26004547) |
 | **Cardinal Health** | Pharmacy Manager | PAM Hlth Rehab Ho... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/SC-Aiken--PAM-Hlth-Rehab-Hosp-of-Aiken/Pharmacy-Manager_20181254-1) |
 | **Cardinal Health** | Pharmacy Technician | Richmond, VA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/VA-Richmond-Nucl-Pharm-04/Pharmacy-Technician_20180288-1) |
-| **EVERSANA** | Field Reimbursement Manager - East | Orlando, FL | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000127956329) |
+| **EVERSANA** | Field Reimbursement Manager - East | Orlando, FL | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000127956329) |
 | **AbbVie** | Allergan Practice Consultant, Allerga... | San Francisco, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013272416) |
 | **Thermo Fisher Scientific** | Investigator Services Assistant - 1st... | Covington, Kentuc... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covington-Kentucky---USA/Investigator-Services-Assistant_R-01347423) |
 | **Thermo Fisher Scientific** | Global Project Manager - Home Trial S... | Remote, North Car... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Global-Project-Manager---Home-Trial-Services_R-01349539) |
@@ -314,7 +314,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oracle** | Physician Executive, EHR Strategy & C... | United States | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334617) |
 | **LLNL** | Atmospheric Sciences - Postdoctoral R... | Livermore, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013263506) |
 | **AbbVie** | District Manager, Psychiatry - St. Lo... | St. Louis, MO | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013261516) |
-| **EVERSANA** | Copy Supervisor (oncology or high sci... | Chicago, IL | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000127733939) |
+| **EVERSANA** | Copy Supervisor (oncology or high sci... | Chicago, IL | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000127733939) |
 | **Gilead Sciences** | Associate II, Scientific Communications | California | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Associate-II--Scientific-Communications_R0052416-1) |
 | **Carnegie Mellon University** | Postdoctoral Fellow – Dietrich College | Pittsburgh, PA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Fellow---Dietrich-College_2024606) |
 | **Iterative Health** | Business Development Associate - Gast... | Cambridge, Massac... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4682192006) |
@@ -397,7 +397,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1874 current opportunities from 76 companies**
+**🎯 1867 current opportunities from 76 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
