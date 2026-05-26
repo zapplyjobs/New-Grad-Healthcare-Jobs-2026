@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1936-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1934-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-75-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -154,12 +154,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cardinal Health** | Lab Technician (Nights) | Omaha PET, NE | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/NE-Omaha-PET/Lab-Technician--Nights-_20181334) |
 | **Emerson Electric** | Engineering Lab Technician | St. Louis, MO | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26002075) |
 | **Nokia** | Photonics Lab Technician | United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
-| **Eurofins** | In Vivo Associate Scientist | Boston, MA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128570214) |
+| **Eurofins** | In Vivo Associate Scientist | Boston, MA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128570214) |
 | **AbbVie** | Clinical Research Associate I - Arkan... | Little Rock, AR | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013299066) |
 | **Eurofins** | Laboratory Technician I - Organic Pre... | Tustin, CA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128556759) |
 | **Eurofins** | Laboratory Technician | East Windsor, NJ | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128532875) |
 | **AbbVie** | Associate Scientist II ADC/AOC Conjug... | Worcester, MA | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013296116) |
-| **AbbVie** | Scientist l - Peptide Synthesis | Madison, WI | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013295326) |
+| **AbbVie** | Scientist l - Peptide Synthesis | Madison, WI | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013295326) |
 | **Vertex Pharmaceuticals** | Analytical Development Research Scien... | Boston, MA | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Analytical-Development-Research-Scientist--Cell-and-Gene-Therapy-Proteomics_REQ-28770) |
 | **Vertex Pharmaceuticals** | Medical Science Liaison Pain | Field Based | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Illinois---Field-Based/Senior-Medical-Science-Liaison-Pain_REQ-28039) |
 | **Vertex Pharmaceuticals** | Modeling & Simulations Scientist II -... | Boston, MA | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Modeling---Simulations-Scientist-II---PKPD-Programming_REQ-28838) |
@@ -403,7 +403,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1936 current opportunities from 75 companies**
+**🎯 1934 current opportunities from 75 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
