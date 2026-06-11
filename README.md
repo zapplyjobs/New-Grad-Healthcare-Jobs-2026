@@ -18,8 +18,8 @@
 <div align="center">
 
 ![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1772-brightgreen?style=flat&logo=briefcase)
-![Top: Healthcare & Clinical](https://img.shields.io/badge/Healthcare_&_Clinical-924-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-85-blue?style=flat&logo=building)
+![General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-924-purple?style=flat&logo=tag)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -280,7 +280,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>⚕️ <strong>Healthcare & Clinical</strong></h3></summary>
+<summary><h3>⚕️ <strong>General Healthcare & Clinical</strong></h3></summary>
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
