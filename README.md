@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1571-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-806-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-84-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1570-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-805-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-83-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -68,16 +68,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Southern-California---San-Diego-and-Anaheim-_REQ-29092) |
-| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Central-California---Los-Angeles---San-Bernardino-_REQ-29091) |
-| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Northern-California---San-Francisco--San-Jose--Sacramento-_REQ-29090) |
-| **Nokia** | IP R&D Lab Technologist Co-op/Intern | United States | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806) |
+| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Southern-California---San-Diego-and-Anaheim-_REQ-29092) |
+| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Central-California---Los-Angeles---San-Bernardino-_REQ-29091) |
+| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Northern-California---San-Francisco--San-Jose--Sacramento-_REQ-29090) |
+| **Nokia** | IP R&D Lab Technologist Co-op/Intern | United States | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806) |
 | **Fresenius Medical Care** | Registered Nurse - RN - Dialysis | Honolulu, HI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Honolulu-HI/Registered-Nurse---RN---Dialysis_R0257782-1) |
 | **Fresenius Medical Care** | Registered Nurse - RN - Dialysis | Waianae, HI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Waianae-HI/Registered-Nurse---RN---Dialysis_R0257977) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Noblesville, IN | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Noblesville-IN/Outpatient-Registered-Nurse---RN_R0242613) |
-| **CVS Health** | Pharmacy Intern | Washington, DC | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/DC---Washington/Pharmacy-Intern_R0952852) |
-| **CVS Health** | Pharmacy Intern | Washington, DC | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/DC---Washington/Pharmacy-Intern_R0952848) |
-| **CVS Health** | Pharmacy Intern | Washington, DC | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/DC---Washington/Pharmacy-Intern_R0952845-1) |
+| **CVS Health** | Foreign Pharmacy Grad - International... | Grass Valley, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA-Grass-Valley/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0953138) |
+| **CVS Health** | Telehealth Registered Nurse | Work from home, TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Telehealth-Registered-Nurse_R0908897-1) |
+| **CVS Health** | Pharmacy Intern | Anaheim, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Anaheim/Pharmacy-Intern_R0945083) |
 | **Cardinal Health** | Hospital Pharmacist PRN | Muncie AMG Specia... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IN-Muncie-AMG-Specialty-Hosp/Hospital-Pharmacist-PRN_20182700-1) |
 | **Cigna** | Data Measurement & Reporting Advisor ... | United States Wor... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Data-Measurement---Reporting-Advisor---Evernorth---Remote_26006449) |
 | **Cigna** | Registered Nurse - Health Center - Ev... | Mohawk | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Mohawk---196-S-Industrial-Blvd---Calhoun-GA/Registered-Nurse---Health-Center---Evernorth---Calhoun-GA_26006732) |
@@ -147,7 +147,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Vertex Pharmaceuticals** | Comparative Medicine Research Associate | Boston, MA | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Comparative-Medicine-Research-Associate_REQ-29154) |
+| **Vertex Pharmaceuticals** | Comparative Medicine Research Associate | Boston, MA | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Comparative-Medicine-Research-Associate_REQ-29154) |
 | **LabCorp** | Lab assistant | Tampa FL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Tampa-FL/Lab-assistant_2620867) |
 | **Baxter International** | Formulation Technician (6:30 PM - 6:3... | Marion, North Car... | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://baxter.wd1.myworkdayjobs.com/baxter/job/Marion-North-Carolina/Formulation-Technician--6-30-PM---6-30-AM-_JR-204181-1) |
 | **Abbott** | Production Lab Technician | California | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Production-Lab-Technician_31153376-2) |
@@ -223,6 +223,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Gilead Sciences** | Postdoctoral Scientist – Fibrosis, Li... | California | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Postdoctoral-Scientist---Fibrosis--Liver-Disease_R0053081-1) |
 | **AstraZeneca** | Associate Scientist, Process Development | CA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Santa-Monica---CA/Associate-Scientist--Process-Development_R-254431) |
 | **Amazon.com Services LLC** | Applied Scientist II, Perception | N.reading, MA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10448481/applied-scientist-ii-perception) |
+| **Amazon.com Services LLC** | Applied Scientist I, Prime Video - Pl... | Seattle, WA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10449229/applied-scientist-i-prime-video-playback-intelligence) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -284,14 +285,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Vertex Pharmaceuticals** | Medical Writing Manager (Hybrid) | Boston, MA | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Medical-Writing-Manager--Hybrid-_REQ-27296) |
-| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Capitol---WV--VA--MD-_REQ-29108) |
-| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Midwest---ND--SD--WI--MN-_REQ-29099) |
-| **University of Texas at Austin** | Postdoctoral Scholar | Austin, TX | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034) |
-| **TikTok** | Program Manager, Risk and Response-In... | San Jose, California | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7623483127448717621) |
-| **CVS Health** | Pharmacy Technician | Philadelphia, PA | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Pharmacy-Technician_R0951748) |
-| **CVS Health** | Pharmacy Manager | Flagstaff, AZ | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Flagstaff/Pharmacy-Manager_R0942517) |
-| **CVS Health** | Pharmacy Manager | Sudbury, MA | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Sudbury/Pharmacy-Manager_R0942518) |
+| **Vertex Pharmaceuticals** | Pain Territory Business Manager, Sout... | Field Based | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Pain-Territory-Business-Manager--Atlantic-City--NJ_REQ-29000) |
+| **Vertex Pharmaceuticals** | Medical Writing Manager (Hybrid) | Boston, MA | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Medical-Writing-Manager--Hybrid-_REQ-27296) |
+| **Vertex Pharmaceuticals** | Manager GMP Quality Operations | Boston, MA | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Manager-GMP-Quality-Operations_REQ-29360) |
+| **CVS Health** | Pharmacy Technician | Philadelphia, PA | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Pharmacy-Technician_R0951748) |
+| **CVS Health** | Pharmacy Manager | Flagstaff, AZ | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Flagstaff/Pharmacy-Manager_R0942517) |
+| **CVS Health** | Pharmacy Manager | Sudbury, MA | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Sudbury/Pharmacy-Manager_R0942518) |
+| **University of Texas at Austin** | Postdoctoral Scholar | Austin, TX | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034) |
+| **TikTok** | Program Manager, Risk and Response-In... | San Jose, California | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7623483127448717621) |
 | **LabCorp** | Specialty Development Executive, CT a... | Remote | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/USA---Remote---Connecticut/Specialty-Development-Executive--NY-and-CT_2619181) |
 | **Wash U** | Medical Assistant II - Neurology | Washington Univer... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Medical-Assistant-II---Neurology_JR95221) |
 | **Boys Town** | On-Call Youth Care Worker | Oviedo, FL | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Oviedo-FL/Youth-Care-Worker_REQ-2026-8590-1) |
@@ -342,7 +343,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Atlantic Health System** | Certified Medical Assistant I, Full T... | South Orange, NJ,... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29987) |
 | **AbbVie** | Supervisor, Line I (M-F) 2:30pm to 11... | North Chicago, IL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013694336) |
 | **Veeva Systems** | Global Program Manager - Commercial L... | New York City | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/fb5a1fb6-5f31-4b19-8edd-247ccb8d4861/apply) |
-| **EVERSANA** | Manager, State Licensing | Chicago, IL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000132930436) |
 | **Eurofins** | Process Sciences Lab Support Technici... | Rensselaer, NY | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000132925743) |
 | **AbbVie** | Grill Cook - (M-F 5:30am - 2pm) | Mettawa, IL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013685346) |
 | **VSP Vision** | Stock Clerk | Rancho Cordova, CA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Rancho-Cordova-CA/Stock-Clerk_R-9617-1) |
@@ -384,6 +384,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bristol Myers Squibb** | Patient Access Support Services, Ente... | Field United Stat... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Field---United-States---US/Patient-Access-Support-Services--Enterprise-Access---Reimbursement-Manager---New-Haven--CT-Northeast-Region_R1603593-3) |
 | **Centene** | Quality Performance Clinical Pharmacist | Houston | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Houston---1311-W-Sam-Houston-Pkwy-N-10148/Quality-Performance-Clinical-Pharmacist_1642153) |
 | **IDEXX** | Customer Support Consultant – Lab Lia... | Dallas, TX | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Customer-Support-Consultant---Lab-Liaison_J-053512) |
+| **Insulet Corporation** | Clinical Omnipod Discover Specialist ... | South Carolina + ... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---South-Carolina/Clinical-Omnipod-Discover-Specialist--Field-Based-_REQ-2026-16963) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -439,7 +440,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1571 current opportunities from 84 companies**
+**🎯 1570 current opportunities from 83 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
